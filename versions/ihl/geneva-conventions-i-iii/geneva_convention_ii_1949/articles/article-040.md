@@ -1,0 +1,14 @@
+# Article 40
+
+- **Instrument**: Geneva Conventions I–III (1949)
+- **Stage**: Geneva Convention (II) — Wounded, Sick and Shipwrecked at Sea (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 85 (GC II)`
+- **Akoma Ntoso eId**: `art_40`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+Subject to the provisions of the second paragraph, medical aircraft of Parties to the conflict may fly over the territory of neutral Powers, land thereon in case of necessity, or use it as a port of call. They shall give neutral Powers prior notice of their passage over the said territory, and obey every summons to alight, on land or water. They will be immune from attack only when flying on routes, at heights and at times specifically agreed upon between the Parties to the conflict and the neutral Power concerned.
+The neutral Powers may, however, place conditions or restrictions on the passage or landing of medical aircraft on their territory. Such possible conditions or restrictions shall be applied equally to all Parties to the conflict.
+Unless otherwise agreed between the neutral Powers and the Parties to the conflict, the wounded, sick or shipwrecked who are disembarked with the consent of the local authorities on neutral territory by medical aircraft shall be detained by the neutral Power, where so required by international law, in such a manner that they cannot again take part in operations of war. The cost of their accommodation and internment shall be borne by the Power on which they depend.
+CHAPTER VI
+THE DISTINCTIVE EMBLEM
