@@ -1,7 +1,7 @@
 # Recital (1)
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I–IV (1949) (`1949-08-12`)
-- **Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-(1) The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, have adopted the Four Geneva Conventions for the Protection of War Victims.
+(1) The High Contracting Parties, proclaiming their earnest wish to see peace prevail among peoples, believing it necessary nevertheless to reaffirm and develop the provisions protecting the victims of armed conflicts and to supplement measures intended to reinforce their application, have adopted Protocol Additional I and Protocol Additional II of 8 June 1977 to the Geneva Conventions of 12 August 1949.

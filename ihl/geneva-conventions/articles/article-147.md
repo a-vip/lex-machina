@@ -1,8 +1,11 @@
-# Article 147 — Grave Breaches (Fourth Geneva Convention Article 147 / GC I Art. 50 / GC II Art. 51 / GC III Art. 130)
+# Article 147 — Grave Breaches (GC IV Art. 147 & AP I Art. 85)
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I–IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Grave breaches to which the preceding Article relates shall be those involving any of the following acts, if committed against persons or property protected by the present Convention: wilful killing, torture or inhuman treatment, including biological experiments, wilfully causing great suffering or serious injury to body or health, unlawful deportation or transfer or unlawful confinement of a protected person, compelling a protected person to serve in the forces of a hostile Power, or wilfully depriving a protected person of the rights of fair and regular trial prescribed in the present Convention, taking of hostages and extensive destruction and appropriation of property, not justified by military necessity and carried out unlawfully and wantonly.
+1. The provisions of the Conventions relating to the repression of breaches and grave breaches, supplemented by this Section, shall apply to the repression of breaches and grave breaches of this Protocol.
+3. In addition to the grave breaches defined in Article 11, the following acts shall be regarded as grave breaches of this Protocol, when committed wilfully, in violation of the relevant provisions of this Protocol, and causing death or serious injury to body or health:
+(a) making the civilian population or individual civilians the object of attack;
+(b) launching an indiscriminate attack affecting the civilian population or civilian objects in the knowledge that such attack will cause excessive loss of life, injury to civilians or damage to civilian objects, as defined in Article 57, paragraph 2 (a)(iii).

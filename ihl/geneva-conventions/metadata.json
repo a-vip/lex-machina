@@ -6,21 +6,21 @@
   "short_title": "Geneva Conventions & Additional Protocols",
   "type": "treaty",
   "celex": "IHL_GC_1949_AP_1977",
-  "document_symbol": "75 UNTS 31-417",
-  "stage": "geneva_conventions_1949",
-  "stage_label": "Geneva Conventions I–IV (1949)",
-  "published_date": "1949-08-12",
+  "document_symbol": "1125 UNTS 3 / 1125 UNTS 609",
+  "stage": "additional_protocols_1977",
+  "stage_label": "Additional Protocols I and II (1977)",
+  "published_date": "1977-06-08",
   "in_force_date": "1950-10-21",
   "status": "in_force",
   "institutional_author": {
-    "name": "Diplomatic Conference of Geneva",
+    "name": "Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH)",
     "email": "ihl@icrc.org"
   },
-  "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-1949additional-protocols-and-their-commentaries",
-  "summary": "Adoption of the Four Geneva Conventions of 12 August 1949 for the Protection of War Victims, including Common Article 1 (obligation to respect and ensure respect), Common Article 2 (application in international armed conflicts), Common Article 3 (non-international armed conflicts), and Grave Breaches regime.",
+  "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+  "summary": "Adoption of Protocol Additional I (specifically Part III, Section I — Methods and Means of Warfare, including Article 35 Basic Rules, Article 36 New Weapons Reviews, and Articles 48, 51, 57 on Distinction, Proportionality, and Precautions in Attack) and Protocol Additional II relating to Non-International Armed Conflicts.",
   "counts": {
     "recitals": 1,
-    "articles": 4,
+    "articles": 9,
     "annexes": 0
   }
 }
