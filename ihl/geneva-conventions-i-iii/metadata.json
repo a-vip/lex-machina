@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "ihl-geneva-conventions-i-iii",
+  "path": "ihl/geneva-conventions-i-iii",
+  "jurisdiction": "ihl",
+  "domain": "ihl",
+  "title": "Geneva Conventions I, II, and III of 12 August 1949 (Wounded, Shipwrecked & Prisoners of War)",
+  "short_title": "Geneva Conventions I–III (1949)",
+  "type": "treaty",
+  "celex": "IHL_GC_I_II_III_1949",
+  "eli": null,
+  "document_symbol": "75 UNTS 135 (GC III)",
+  "stage": "geneva_convention_iii_1949",
+  "stage_label": "Geneva Convention (III) — Treatment of Prisoners of War",
+  "published_date": "1949-08-12",
+  "in_force_date": "1950-10-21",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Diplomatic Conference of Geneva",
+    "email": "ihl@icrc.org"
+  },
+  "source_url": "https://avalon.law.yale.edu/20th_century/geneva03.asp",
+  "summary": "Full verbatim 143-article text of the Third Geneva Convention governing Prisoner of War status, humane treatment, interrogation limits, and grave breaches.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "2f9bf0e8ee76e0452d5d78bc57ea6c42476ff5345e0cf3444e58fe7b1c950acb",
+    "final_url": "https://avalon.law.yale.edu/20th_century/geneva03.asp",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 170591,
+    "fetched_utc": "2026-11-23T14:31:32Z",
+    "sha256_normalized_full_text": "43eee20bf21a56a5f5f90cb7ed52a1f18fc6144bab823e0d0226d2c82995e51d"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 143,
+    "annexes": 0
+  }
+}

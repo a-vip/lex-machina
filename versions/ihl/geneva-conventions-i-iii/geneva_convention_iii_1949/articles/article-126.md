@@ -1,0 +1,13 @@
+# Article 126
+
+- **Instrument**: Geneva Conventions I–III (1949)
+- **Stage**: Geneva Convention (III) — Treatment of Prisoners of War (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 135 (GC III)`
+- **Akoma Ntoso eId**: `art_126`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+Representatives or delegates of the Protecting Powers shall have permission to go to all places where prisoners of war may be, particularly to places of internment, imprisonment and labour, and shall have access to all premises occupied by prisoners of war; they shall also be allowed to go to the places of departure, passage and arrival of prisoners who are being transferred. They shall be able to interview the prisoners, and in particular the prisoners' representatives, without witnesses, either personally or through an interpreter.
+Representatives and delegates of the Protecting Powers shall have full liberty to select the places they wish to visit. The duration and frequency of these visits shall not be restricted. Visits may not be prohibited except for reasons of imperative military necessity, and then only as an exceptional and temporary measure.
+The Detaining Power and the Power on which the said prisoners of war depend may agree, if necessary, that compatriots of these prisoners of war be permitted to participate in the visits.
+The delegates of the International Committee of the Red Cross shall enjoy the same prerogatives. The appointment of such delegates shall be submitted to the approval of the Power detaining the prisoners of war to be visited.

@@ -1,0 +1,14 @@
+# Article 88
+
+- **Instrument**: Geneva Conventions I–III (1949)
+- **Stage**: Geneva Convention (III) — Treatment of Prisoners of War (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 135 (GC III)`
+- **Akoma Ntoso eId**: `art_88`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+Officers, non-commissioned officers and men who are prisoners of war undergoing a disciplinary or judicial punishment, shall not be subjected to more severe treatment than that applied in respect of the same punishment to members of the armed forces of the Detaining Power of equivalent rank.
+A woman prisoner of war shall not be awarded or sentenced to a punishment more severe, or treated whilst undergoing punishment more severely, than a woman member of the armed forces of the Detaining Power dealt with for a similar offence.
+In no case may a woman prisoner of war be awarded or sentenced to a punishment more severe, or treated whilst undergoing punishment more severely, than a male member of the armed forces of the Detaining Power dealt with for a similar offence.
+Prisoners of war who have served disciplinary or judicial sentences may not be treated differently from other prisoners of war.
+II. Disciplinary Sanctions
