@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "ihl-additional-protocol-ii",
+  "path": "ihl/additional-protocol-ii",
+  "jurisdiction": "ihl",
+  "domain": "ihl",
+  "title": "Protocol Additional to the Geneva Conventions of 12 August 1949 — Non-International Armed Conflicts (Additional Protocol II, 1977)",
+  "short_title": "Additional Protocol II (1977)",
+  "type": "treaty",
+  "celex": "IHL_AP_II_1977",
+  "eli": null,
+  "document_symbol": "1125 UNTS 609 (AP II)",
+  "stage": "additional_protocol_ii_1977",
+  "stage_label": "Additional Protocol II (1977) — NIAC Protection of Victims",
+  "published_date": "1977-06-08",
+  "in_force_date": "1978-12-07",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH)",
+    "email": "ihl@icrc.org"
+  },
+  "source_url": "https://hrlibrary.umn.edu/instree/y6pagc.htm",
+  "summary": "Full verbatim 28-article text of Additional Protocol II establishing fundamental guarantees and civilian protection in non-international armed conflicts.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "768dc9e5f8dcdd0eb86ad0e41c2ab5dc95c20104c2fd5e5c32d9b060971e64d2",
+    "final_url": "https://hrlibrary.umn.edu/instree/y6pagc.htm",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 26822,
+    "fetched_utc": "2026-11-23T14:31:32Z",
+    "sha256_normalized_full_text": "6953cb6a26129300285eb2ff8dd3f297d7a8f68fc53cebbb0e6300ace2d4fc18"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 28,
+    "annexes": 0
+  }
+}
