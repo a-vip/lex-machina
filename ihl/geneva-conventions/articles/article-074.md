@@ -1,11 +1,16 @@
-# Article 74
+# Article 74 — Reunion of dispersed families
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_74`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Representatives of the Protecting Power shall have the right to attend the trial of any protected person, unless the hearing has, as an exceptional measure, to be held in camera in the interests of the security of the Occupying Power, which shall then notify the Protecting Power. A notification in respect of the date and place of trial shall be sent to the Protecting Power
-Any judgement involving a sentence of death, or imprisonment for two years or more, shall be communicated, with the relevant grounds, as rapidly as possible to the Protecting Power. The notification shall contain a reference to the notification made under Article 71 and, in the case of sentences of imprisonment, the name of the place where the sentence is to be served. A record of judgements other than those referred to above shall be kept by the court and shall be open to inspection by representatives of the Protecting Power. Any period allowed for appeal in the case of sentences involving the death penalty, or imprisonment of two years or more, shall not run until notification of judgement has been received by the Protecting Power.
+The High Contracting Parties and the Parties to the conflict
+shall facilitate in every possible way the reunion of families
+dispersed as a result of armed conflicts and shall encourage in
+particular the work of the humanitarian organizations engaged
+in this task in accordance with the provisions of the Conventions
+and of this Protocol and in conformity with their respective security
+regulations.

@@ -1,16 +1,54 @@
-# Article 11
+# Article 11 — Protection of persons
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_11`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The High Contracting Parties may at any time agree to entrust to an international organization which offers all guarantees of impartiality and efficacy the duties incumbent on the Protecting Powers by virtue of the present Convention
-When persons protected by the present Convention do not benefit or cease to benefit, no matter for what reason, by the activities of a Protecting Power or of an organization provided for in the first paragraph above, the Detaining Power shall request a neutral State, or such an organization, to undertake the functions performed under the present Convention by a Protecting Power designated by the Parties to a conflict.
-If protection cannot be arranged accordingly, the Detaining Power shall request or shall accept, subject to the provisions of this Article, the offer of the services of a humanitarian organization, such as the International Committee of the Red Cross, to assume the humanitarian functions performed by Protecting Powers under the present Convention.
-Any neutral Power or any organization invited by the Power concerned or offering itself for these purposes, shall be required to act with a sense of responsibility towards the Party to the conflict on which persons protected by the present Convention depend, and shall be required to furnish sufficient assurances that it is in a position to undertake the appropriate functions and to discharge them impartially.
-No derogation from the preceding provisions shall be made by special agreements between Powers one of which is restricted, even temporarily, in its freedom to negotiate with the other Power or its allies by reason of military events, more particularly where the whole, or a substantial part, of the territory of the said Power is occupied.
-Whenever in the present Convention mention is made of a Protecting Power, such mention applies to substitute organizations in the sense of the present Article.
-The provisions of this Article shall extend and be adapted to cases of nationals of a neutral State who are in occupied territory or who find themselves in the territory of a belligerent State in which the State of which they are nationals has not normal diplomatic representation.
+1. The physical or mental health and integrity of persons who
+are in the power of the adverse Party or who are interned, detained
+or otherwise deprived of liberty as a result of a situation referred
+to in Article I shall not
+be endangered by any unjustified act or omission. Accordingly,
+it is prohibited to subject the persons described in this Article
+to any medical procedure which is not indicated by the state of
+health of the person concerned and which is not consistent with
+generally accepted medical standards which would be applied under
+similar medical circumstances to persons who are nationals of
+the Party conducting the procedure and who are in no way deprived
+of liberty.
+2. It is, in particular, prohibited to carry out on such persons,
+even with their consent:
+(a) Physical mutilations;
+(b) Medical or scientific experiments;
+(c) Removal of tissue or organs for transplantation,
+except where these acts are justified in conformity with the
+conditions provided for in paragraph 1.
+3. Exceptions to the prohibition in paragraph 2 (c) may be
+made only in the case of donations of blood for transfusion or
+of skin for grafting, provided that they are given voluntarily
+and without any coercion or inducement, and then only for therapeutic
+purposes, under conditions consistent with generally accepted
+medical standards and controls designed for the benefit of both
+the donor and the recipient.
+4. Any wilful act or omission which seriously endangers the
+physical or mental health or integrity of any person who is in
+the power of a Party other than the one on which he depends and
+which either violates any of the prohibitions in paragraphs 1
+and 2 or fails to comply with the requirements of paragraph 3
+shall be a grave breach of this Protocol.
+5. The persons described in paragraph I have the right to refuse
+any surgical operation. In case of refusal, medical personnel
+shall endeavour to obtain a written statement to that effect,
+signed or acknowledged by the patient.
+6. Each Party to the conflict shall keep a medical record for
+every donation of blood for transfusion or skin for grafting by
+persons referred to in paragraph 1, if that donation is made under
+the responsibility of that Party. In addition, each Party to the
+conflict shall endeavour to keep a record of all medical procedures
+undertaken with respect to any person who is interned, detained
+or otherwise deprived of liberty as a result of a situation referred
+to in Article 1. These records shall be available at all times
+for inspection by the Protecting Power.

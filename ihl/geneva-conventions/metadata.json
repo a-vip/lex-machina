@@ -9,31 +9,31 @@
   "type": "treaty",
   "celex": "IHL_GC_1949_AP_1977",
   "eli": null,
-  "document_symbol": "75 UNTS 31-417",
-  "stage": "geneva_conventions_1949",
-  "stage_label": "Geneva Conventions I-IV (1949)",
-  "published_date": "1949-08-12",
+  "document_symbol": "1125 UNTS 3 / 1125 UNTS 609",
+  "stage": "additional_protocols_1977",
+  "stage_label": "Additional Protocols I and II (1977)",
+  "published_date": "1977-06-08",
   "in_force_date": "1950-10-21",
   "status": "in_force",
   "institutional_author": {
-    "name": "Diplomatic Conference of Geneva",
+    "name": "Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH)",
     "email": "ihl@icrc.org"
   },
-  "source_url": "https://avalon.law.yale.edu/20th_century/geneva07.asp",
-  "summary": "Four Geneva Conventions of 12 August 1949 establishing Common Articles 1-3 and the Grave Breaches regime.",
+  "source_url": "https://hrlibrary.umn.edu/instree/y5pagc.htm",
+  "summary": "Additional Protocol I (Part III Sec. I Arts. 35-36 Methods/Means & New Weapons Reviews; Part IV Arts. 48, 51, 57 Distinction, Proportionality, Precautions) and Additional Protocol II.",
   "provenance": {
     "provenance_mode": "full_primary_html",
-    "sha256_raw": "1634ac0ca9f639f2d575dbf06a815e89c5d4affda56aafb35b6f33b3db8b9ace",
-    "final_url": "https://avalon.law.yale.edu/20th_century/geneva07.asp",
+    "sha256_raw": "bb4997f684c677ba9e0aa65c8f04b9bad42e02f4dd6863c34d9e66112931930d",
+    "final_url": "https://hrlibrary.umn.edu/instree/y5pagc.htm",
     "http_status": 200,
     "http_etag": null,
-    "bytes_fetched": 143236,
-    "fetched_utc": "2026-11-23T14:31:31Z",
-    "sha256_normalized_full_text": "5a2d2e9c58c8ead51cc705ff6b3d6fac87b837a945db59f0ad715e89638cab2e"
+    "bytes_fetched": 165228,
+    "fetched_utc": "2026-11-23T14:31:32Z",
+    "sha256_normalized_full_text": "391baa7b6d259f8d8426bcad9858a28ff971e40e710ee589c65db7e1c0393e2f"
   },
   "counts": {
     "recitals": 0,
-    "articles": 158,
+    "articles": 102,
     "annexes": 0
   }
 }

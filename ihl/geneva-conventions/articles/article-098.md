@@ -1,14 +1,52 @@
-# Article 98
+# Article 98 — Revision of Annex l
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_98`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-All internees shall receive regular allowances, sufficient to enable them to purchase goods and articles, such as tobacco, toilet requisites, etc. Such allowances may take the form of credits or purchase coupons
-Furthermore, internees may receive allowances from the Power to which they owe allegiance, the Protecting Powers, the organizations which may assist them, or their families, as well as the income on their property in accordance with the law of the Detaining Power. The amount of allowances granted by the Power to which they o~e allegiance shall be the same for each category of internees (infirm, sick, pregnant women, etc.) but may not be allocated by that Power or distributed by the Detaining Power on the basis of discriminations between internees which are prohibited by Article 27 of the present Convention.
-The Detaining Power shall open a regular account for every internee, to which shall be credited the allowances named in the present Article, the wages earned and the remittances received, together with such sums taken from him as may be available under the legislation in force in the territory in which he is interned. Internees shall be granted all facilities consistent with the legislation in force in such territory to make remittances to their families and to other dependants. They may draw from their accounts the amounts necessary for their personal expenses, within the limits fixed by the Detaining Power. They shall at all times be afforded reasonable facilities for consulting and obtaining copies of their accounts. A statement of accounts shall be furnished to the Protecting Power, on request, and shall accompany the internee in case of transfer.
-CHAPTER VII
-Administration and Discipline
+1. Not later than four years after the entry into force of
+this Protocol and thereafter at intervals of not less than four
+years, the International Committee of the Red Cross shall consult
+the High Contracting Parties concerning Annex I to this Protocol
+and, if it considers it necessary, may propose a meeting of technical
+experts to review Annex I and to propose such amendments to it
+as may appear to be desirable. Unless, within six months of the
+communication of a proposal for such a meeting to the High Contracting
+Parties, one third of them object, the International Committee
+of the Red Cross shall convene the meeting, inviting also observers
+of appropriate international organizations. Such a meeting shall
+also be convened by the International Committee of the Red Cross
+at any time at the request of one third of the High Contracting
+Parties.
+2. The depositary shall convene a conference of the High Contracting
+Parties and the Parties to the Conventions to consider amendments
+proposed by the meeting of technical experts if, after that meeting,
+the International Committee of the Red Cross or one third of the
+High Contracting Parties so request.
+3. Amendments to Annex I may be adopted at such a conference
+by a two-thirds majority of the High Contracting Parties present
+and voting.
+4. The depositary shall communicate any amendment so adopted
+to the High Contracting Parties and to the Parties to the Conventions.
+The amendment shall be considered to have been accepted at the
+end of a period
+of one year after it has been so communicated, unless within
+that period a declaration of non-acceptance of the amendment has
+been communicated to the depositary by not less than one third
+of the High Contracting Parties.
+5. An amendment considered to have been accepted in accordance
+with paragraph 4 shall enter into force three months after its
+acceptance for all High Contracting Parties other than those which
+have made a declaration of non-acceptance in accordance with that
+paragraph. Any Party making such a declaration may at any time
+withdraw it and the amendment shall then enter into force for
+that Party three months thereafter.
+6. The depositary shall notify the High Contracting Parties
+and the Parties to the Conventions of the entry into force of
+any amendment, of the Parties bound thereby, of the date of its
+entry into force in relation to each Party, of declarations of
+non-acceptance made in accordance with paragraph 4, and of withdrawals
+of such declarations.

@@ -1,12 +1,27 @@
-# Article 87
+# Article 87 — Duty of commanders
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_87`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Canteens shall be installed in every place of internment, except where other suitable facilities are available. Their purpose shall be to enable internees to make purchases, at prices not higher than local market prices, of foodstuffs and articles of everyday use, including soap and tobacco, such as would increase their personal well-being and comfort
-Profits made by canteens shall be credited to a welfare fund to be set up for each place of internment, and administered for the benefit of the internees attached to such place of internment. The Internee Committee provided for in Article 102 shall have the right to check the management of the canteen and of the said fund.
-When a place of internment is closed down, the balance of the welfare fund shall be transferred to the welfare fund of a place of internment for internees of the same nationality, or, if such a place does not exist, to a central welfare fund which shall be administered for the benefit of all internees remaining in the custody of the Detaining Power. In case of a general release, the said profits shall be kept by the Detaining Power, subject to any agreement to the contrary between the Powers concerned.
+1. The High Contracting Parties and the Parties to the conflict
+shall require military commanders, with respect to members of
+the armed forces under their command and other persons under their
+control, to prevent and, where necessary, to suppress and to report
+to competent authorities breaches of the Conventions and of this
+Protocol.
+2. In order to prevent and suppress breaches, High Contracting
+Parties and Parties to the conflict shall require that, commensurate
+with their level of responsibility, commanders ensure that members
+of the armed forces under their command are aware of their obligations
+under the Conventions and this Protocol.
+3. The High Contracting Parties and Parties to the conflict
+shall require any commander who is aware that subordinates or
+other persons under his control are going to commit or have committed
+a breach of the Conventions or of this Protocol, to initiate such
+steps as are necessary to prevent such violations of the Conventions
+or this Protocol, and, where appropriate, to initiate disciplinary
+or penal action against violators thereof.

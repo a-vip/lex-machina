@@ -1,10 +1,16 @@
-# Article 10
+# Article 10 — Protection and care
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_10`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The provisions of the present Convention constitute no obstacle to the humanitarian activities which the International Committee of the Red Cross or any other impartial humanitarian organization may, subject to the consent of the Parties to the conflict concerned, undertake for the protection of civilian persons and for their relief
+1. All the wounded, sick and shipwrecked, to whichever Party
+they belong, shall be respected and protected.
+2. In all circumstances they shall be treated humanely and
+shall receive, to the fullest extent practicable and with the
+least possible delay, the medical care and attention required
+by their condition. There shall be no distinction among them founded
+on any grounds other than medical ones.

@@ -1,12 +1,19 @@
-# Article 25
+# Article 25 — Medical aircraft in areas not controlled by
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_25`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-All persons in the territory of a Party to the conflict, or in a territory occupied by it, shall be enabled to give news of a strictly personal nature to members of their families, wherever they may be, and to receive news from them. This correspondence shall be forwarded speedily and without undue delay
-If, as a result of circumstances, it becomes difficult or impossible to exchange family correspondence by the ordinary post, the Parties to the conflict concerned shall apply to a neutral intermediary, such as the Central Agency provided for in Article 140, and shall decide in consultation with it how to ensure the fulfilment of their obligations under the best possible conditions, in particular with the cooperation of the National Red Cross (Red Crescent, Red Lion and Sun) Societies.
-If the Parties to the conflict deem it necessary to restrict family correspondence, such restrictions shall be confined to the compulsory use of standard forms containing twenty-five freely chosen words, and to the limitation of the number of these forms despatched to one each month.
+an adverse Party
+In and over land areas physically controlled by friendly forces,
+or in and over sea areas not physically controlled by an adverse
+Party, the respect and protection of medical aircraft of a Party
+to the conflict is not dependent on any agreement with an adverse
+Party. For greater safety, however, a Party to the conflict operating
+its medical aircraft in these areas may notify the adverse Party,
+as provided in Article 29, in particular when such aircraft are
+making flights bringing them within range of surface-to-air weapons
+systems of the adverse Party.

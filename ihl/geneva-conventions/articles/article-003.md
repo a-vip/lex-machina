@@ -1,19 +1,22 @@
-# Article 3
+# Article 3 — Beginning and end of application
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_3`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-In the case of armed conflict not of an international character occurring in the territory of one of the High Contracting Parties, each Party to the conflict shall be bound to apply, as a minimum, the following provisions
-(1) Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria. To this end the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:
-(a) violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
-(b) taking of hostages;
-(c) outrages upon personal dignity, in particular humiliating and degrading treatment;
-(d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court, affording all the judicial guarantees which are recognized as indispensable by civilized peoples.
-(2) The wounded and sick shall be collected and cared for.
-An impartial humanitarian body, such as the International Committee of the Red Cross, may offer its services to the Parties to the conflict.
-The Parties to the conflict should further endeavour to bring into force, by means of special agreements, all or part of the other provisions of the present Convention.
-The application of the preceding provisions shall not affect the legal status of the Parties to the conflict.
+Without prejudice to the provisions which are applicable at
+all times:
+(a) The Conventions and this Protocol shall apply from the
+beginning of any situation referred to in Article 1 of this Protocol;
+(b) The application of the Conventions and of this Protocol
+shall cease, in the territory of Parties to the conflict, on the
+general close of military operations and, in the case of occupied
+territories, on the termination of the occupation, except, in
+either circumstance, for those persons whose final release, repatriation
+or re-establishment takes place thereafter. These persons shall
+continue to benefit from the relevant provisions of the Conventions
+and of this Protocol until their final release, repatriation or
+re-establishment.

@@ -1,11 +1,27 @@
-# Article 43
+# Article 43 — Armed forces
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_43`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Any protected person who has been interned or placed in assigned residence shall be entitled to have such action reconsidered as soon as possible by an appropriate court or administrative board designated by the Detaining Power for that purpose. If the internment or placing in assigned residence is maintained, the court or administrative board shall periodically, and at least twice yearly, give consideration to his or her case, with a view to the favourable amendment of the initial decision, if circumstances permit
-Unless the protected persons concerned object, the Detaining Power shall, as rapidly as possible, give the Protecting Power the names of any protected persons who have been interned or subjected to assigned residence, or who have been released from internment or assigned residence. The decisions of the courts or boards mentioned in the first paragraph of the present Article shall also, subject to the same conditions, be notified as rapidly as possible to the Protecting Power.
+1. The armed forces of a Party to a conflict consist of all
+organized
+armed forces, groups and units which are under a command responsible
+to
+that Party for the conduct of its subordinates, even if that
+Party is represented by a government or
+an authority not recognized by an adverse Party.
+Such armed forces shall be subject to an internal disciplinary
+system which,
+inter alia, shall enforce compliance with the rules of international
+law applicable in armed conflict.
+2. Members of the armed forces of a Party to a conflict (other
+than medical personnel and chaplains covered by Article 33 of
+the Third Convention) are combatants, that is to say, they have
+the right to participate directly in hostilities.
+3. Whenever a Party to a conflict incorporates a paramilitary
+or armed law enforcement agency into its armed forces it shall
+so notify the other Parties to the conflict.

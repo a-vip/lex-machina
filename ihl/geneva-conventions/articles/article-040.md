@@ -1,13 +1,12 @@
-# Article 40
+# Article 40 — Quarter
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_40`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Protected persons may be compelled to work only to the same extent as nationals of the Party to the conflict in whose territory they are
-If protected persons are of enemy nationality, they may only be compelled to do work which is normally necessary to ensure the feeding, sheltering, clothing, transport and health of human beings and which is not directly related to the conduct of military operations.
-In the cases mentioned in the two preceding paragraphs, protected persons compelled to work shall have the benefit of the same working conditions and of the same safeguards as national workers in particular as regards wages, hours of labour, clothing and equipment, previous training and compensation for occupational accidents and diseases.
-If the above provisions are infringed, protected persons shall be allowed to exercise their right of complaint in accordance with Article 30.
+It is prohibited to order that there shall be no survivors,
+to threaten an adversary therewith or to conduct hostilities on
+this basis.

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "ihl-geneva-conventions",
+  "path": "ihl/geneva-conventions",
+  "jurisdiction": "ihl",
+  "domain": "ihl",
+  "title": "Geneva Conventions of 12 August 1949 and Additional Protocols I & II of 8 June 1977",
+  "short_title": "Geneva Conventions & Additional Protocols",
+  "type": "treaty",
+  "celex": "IHL_GC_1949_AP_1977",
+  "eli": null,
+  "document_symbol": "1125 UNTS 3 / 1125 UNTS 609",
+  "stage": "additional_protocols_1977",
+  "stage_label": "Additional Protocols I and II (1977)",
+  "published_date": "1977-06-08",
+  "in_force_date": "1950-10-21",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH)",
+    "email": "ihl@icrc.org"
+  },
+  "source_url": "https://hrlibrary.umn.edu/instree/y5pagc.htm",
+  "summary": "Additional Protocol I (Part III Sec. I Arts. 35-36 Methods/Means & New Weapons Reviews; Part IV Arts. 48, 51, 57 Distinction, Proportionality, Precautions) and Additional Protocol II.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "bb4997f684c677ba9e0aa65c8f04b9bad42e02f4dd6863c34d9e66112931930d",
+    "final_url": "https://hrlibrary.umn.edu/instree/y5pagc.htm",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 165228,
+    "fetched_utc": "2026-11-23T14:31:32Z",
+    "sha256_normalized_full_text": "391baa7b6d259f8d8426bcad9858a28ff971e40e710ee589c65db7e1c0393e2f"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 102,
+    "annexes": 0
+  }
+}

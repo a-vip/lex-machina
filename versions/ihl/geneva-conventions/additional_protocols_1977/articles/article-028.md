@@ -1,0 +1,31 @@
+# Article 28 — Restrictions on operations of medical aircraft
+
+- **Instrument**: Geneva Conventions & Additional Protocols
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
+- **Akoma Ntoso eId**: `art_28`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
+
+1. The Parties to the conflict are prohibited from using their
+medical aircraft to attempt to acquire any military advantage
+over an adverse Party. The presence of medical aircraft shall
+not be used in an attempt to render military objectives immune
+from attack.
+2. Medical aircraft shall not be used to collect or transmit
+intelligence data and shall not carry any equipment intended for
+such purposes. They are prohibited from carrying any persons or
+cargo not included within the definition in Article 8, subparagraph
+(t). The carrying on board of the personal effects of the occupants
+or of equipment intended solely to facilitate navigation, communication
+or identification shall not be considered as prohibited.
+3. Medical aircraft shall not carry any armament except small
+arms and ammunition taken from the wounded, sick and shipwrecked
+on board and not yet handed to the proper service, and such light
+individual weapons as may be necessary to enable the medical personnel
+on board to defend themselves and the wounded, sick and shipwrecked
+in their charge.
+4. While carrying out the flights referred to in Articles 26
+and 27, medical aircraft shall not, except by prior agreement
+with the adverse Party, be used to search for the wounded, sick
+and shipwrecked

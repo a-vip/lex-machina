@@ -1,14 +1,13 @@
-# Article 89
+# Article 89 — Co-operation
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_89`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Daily food rations for internees shall be sufficient in quantity, quality and variety to keep internees in a good state of health and prevent the development of nutritional deficiencies. Account shall also be taken of the customary diet of the internees
-Internees shall also be given the means by which they can prepare for themselves any additional food in their possession.
-Sufficient drinking water shall be supplied to internees. The use of tobacco shall be permitted.
-Internees who work shall receive additional rations in proportion to the kind of labour which they perform.
-Expectant and nursing mothers and children under fifteen years of age, shall be given additional food, in proportion to their physiological needs.
+In situations of serious violations of the Conventions or of
+this Protocol, the High Contracting Parties undertake to act,
+jointly or individually, in co-operation with the United Nations
+and in conformity with the United Nations Charter.

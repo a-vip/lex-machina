@@ -1,13 +1,41 @@
-# Article 45 — Protected persons shall not be transferred to a Power which is not a party to the Convention
+# Article 45 — Protection of persons who have taken part in
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_45`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-This provision shall in no way constitute an obstacle to the repatriation of protected persons, or to their return to their country of residence after the cessation of hostilities.
-Protected persons may be transferred by the Detaining Power only to a Power which is a party to the present Convention and after the Detaining Power has satisfied itself of the willingness and ability of such transferee Power to apply the present Convention. If protected persons are transferred under such circumstances, responsibility for the application of the present Convention rests on the Power accepting them, while they are in its custody. Nevertheless, if that Power fails to carry out the provisions of the present Convention in any important respect, the Power by which the protected persons were transferred shall, upon being so notified by the Protecting Power, take effective measures to correct the situation or shall request the return of the protected persons. Such request must be complied with.
-In no circumstances shall a protected person be transferred to a country where he or she may have reason to fear persecution for his or her political opinions or religious beliefs.
-The provisions of this Article do not constitute an obstacle to the extradition, in pursuance of extradition treaties concluded before the outbreak of hostilities, of protected persons accused of offences against ordinary criminal law.
+hostilities
+1. A person who takes part in hostilities and falls into the
+power of an adverse Party shall be presumed to be a prisoner of
+war, and therefore shall be protected by the Third Convention,
+if he claims the status of prisoner of war, or if he appears to
+be entitled to such status, or if the Party on which he depends
+claims such status on his behalf by notification to the detaining
+Power or to the Protecting Power. Should any doubt arise as to
+whether any such person is entitled to the status of prisoner
+of war, he shall continue to have such status and, therefore,
+to be protected by the Third Convention and this Protocol until
+such time as his status has been determined by a competent tribunal.
+2. If a person who has fallen into the power of an adverse
+Party is not held as a prisoner of war and is to be tried by that
+Party for an offence arising out of the hostilities, he shall
+have the right to assert his entitlement to prisoner-of-war status
+before a judicial tribunal and to have that question adjudicated.
+Whenever possible under the applicable procedure, this adjudication
+shall occur before the trial for the offence. The representatives
+of the Protecting Power shall be entitled to attend the proceedings
+in which that question is adjudicated, unless, exceptionally,
+the proceedings are held in
+camera in the interest of State security. In such a case the
+detaining Power shall advise the Protecting Power accordingly.
+3. Any person who has taken part in hostilities, who is not
+entitled to prisoner-of-war status and who does not benefit from
+more favourable treatment in accordance with the Fourth Convention
+shall have the right at all times to the protection of Article
+75 of this Protocol. In occupied territory, an such person, unless
+he is held as a spy, shall also be entitled, notwithstanding Article
+5 of the Fourth Convention, to his rights of communication under
+that Convention.

@@ -1,12 +1,44 @@
-# Article 33
+# Article 33 — Missing persons
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_33`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-No protected person may be punished for an offence he or she has not personally committed. Collective penalties and likewise all measures of intimidation or of terrorism are prohibited
-Pillage is prohibited.
-Reprisals against protected persons and their property are prohibited.
+1. As soon as circumstances permit, and at the latest from
+the end of active hostilities, each Party to the conflict shall
+search for the persons who have been reported missing by an adverse
+Party. Such adverse Party shall
+transmit all relevant information concerning such persons in
+order to facilitate such searches.
+2. In order to facilitate the gathering of information pursuant
+to the preceding paragraph, each Party to the conflict shall,
+with respect to persons who would not receive more favourable
+consideration under the Conventions and this Protocol:
+(a) Record the information specified in Article 138 of the
+Fourth Convention in respect of such persons who have been detained,
+imprisoned or otherwise held in captivity for more than two weeks
+as a result of hostilities or occupation, or who have died during
+any period of detention;
+(b) To the fullest extent possible, facilitate and, if need
+be, carry out the search for and the recording of information
+concerning such persons if they have died in other circumstances
+as a result of hostilities or occupation.
+3. Information concerning persons reported missing pursuant
+to paragraph I and requests for such information shall be transmitted
+either directly or through the Protecting Power or the Central
+Tracing Agency of the International Committee of the Red Cross
+or national Red Cross (Red Crescent, Red Lion and Sun) Societies.
+Where the information is not transmitted through the International
+Committee of the Red Cross and its Central Tracing Agency, each
+Party to the conflict shall ensure that such information is also
+supplied to the Central Tracing Agency.
+4. The Parties to the conflict shall endeavour to agree on
+arrangements for teams to search for, identify and recover the
+dead from battlefield areas, including arrangements, if appropriate,
+for such teams to be accompanied by personnel of the adverse Party
+while carrying out the missions in areas controlled by the adverse
+Party. Personnel of such teams shall be respected and protected
+while exclusively carrying out these duties.

@@ -1,11 +1,18 @@
-# Article 42
+# Article 42 — Occupants of aircraft
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_42`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The internment or placing in assigned residence of protected persons may be ordered only if the security of the Detaining Power makes it absolutely necessary
-If any person, acting through the representatives of the Protecting Power, voluntarily demands internment, and if his situation renders this step necessary, he shall be interned by the Power in whose hands he may be.
+1. No person parachuting from an aircraft in distress shall
+be made the object of attack during his descent.
+2. Upon reaching the ground in territory controlled by an adverse
+Party, a person who has parachuted from an aircraft in distress
+shall be given an opportunity to surrender before being made the
+object of attack, unless it is apparent that he is engaging in
+a hostile act.
+3. Airborne troops are not protected by this Article.
+SECTION.-COMBATANT AND PRISONER-OF-WAR STATUS

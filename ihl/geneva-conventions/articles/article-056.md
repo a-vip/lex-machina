@@ -1,12 +1,66 @@
-# Article 56
+# Article 56 — Protection of works and installations
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_56`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-To the fullest extent of the means available to it, the public Occupying Power has the duty of ensuring and maintaining, with the cooperation of national and local authorities, the medical and hospital establishments and services, public health and hygiene in the occupied territory, with particular reference to the adoption and application of the prophylactic and preventive measures necessary to combat the spread of contagious diseases and epidemics. Medical personnel of all categories shall be allowed to carry out their duties
-If new hospitals are set up in occupied territory and if the competent organs of the occupied State are not operating there, the occupying authorities shall, if necessary, grant them the recognition provided for in Article 18. In similar circumstances, the occupying authorities shall also grant recognition to hospital personnel and transport vehicles under the provisions of Articles 20 and 21.
-In adopting measures of health and hygiene and in their implementation, the Occupying Power shall take into consideration the moral and ethical susceptibilities of the population of the occupied territory.
+containing dangerous forces
+1. Works or installations containing dangerous forces, namely
+dams, dykes and nuclear electrical generating stations, shall
+not be made the object of attack, even where these objects are
+military objectives, if such attack may cause the release of dangerous
+forces and consequent severe losses among the civilian population.
+Other military objectives located at or in the vicinity of these
+works or installations shall not be made the object of attack
+if such attack may cause the release of dangerous forces from
+the works or installations and consequent severe losses among
+the civilian population.
+2. The special protection against attack provided by paragraph
+1 shall cease:
+(a) For a dam or a dyke only if it is used for other than its
+normal function and in regular, significant and direct support
+of military operations and if such attack is the only feasible
+way to terminate such support;
+(b) For a nuclear electrical generating station only if it
+provides electric power in regular, significant and direct support
+of military operations and if such attack is the only feasible
+way to terminate such support;
+(c) For other military objectives located at or in the vicinity
+of these works or installations only if they are used in regular,
+significant and direct support of military operations and if such
+attack is the only feasible way to terminate such support.
+3. In all cases, the civilian population and individual civilians
+shall remain entitled to all the protection accorded them by international
+law, including the protection of the precautionary measures provided
+for in Article 57. If the protection ceases and any of the works,
+installations or military objectives mentioned in paragraph I
+is attacked, all practical precautions shall be taken to avoid
+the release of the dangerous forces.
+4. It is prohibited to make any of the works, installations
+or military objectives mentioned in paragraph 1 the object of
+reprisals.
+5. The Parties to the conflict shall endeavour to avoid locating
+any military objectives in the vicinity of the works or installations
+mentioned in
+paragraph 1. Nevertheless, installations erected for the sole
+purpose of defending the protected works or installations from
+attack are permissible and shall not themselves be made the object
+of attack, provided that they are not used in hostilities except
+for defensive actions necessary to respond to attacks against
+the protected works or installations and that their armament is
+limited to weapons capable only of repelling hostile action against
+the protected works or installations.
+6. The High Contracting Parties and the Parties to the conflict
+are urged to conclude further agreements among themselves to provide
+additional protection for objects containing dangerous forces.
+7. In order to facilitate the identification of the objects
+protected by this article, the Parties to the conflict may mark
+them with a special sign consisting of a group of three bright
+orange circles placed on the same axis, as specified in Article
+16 of Annex I to this Protocol. The absence of such marking in
+no way relieves any Party to the conflict of its obligations under
+this Article.
+CHAPTER IV.-PRECAUTIONARY MEASURES

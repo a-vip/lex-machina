@@ -1,10 +1,58 @@
-# Article 44
+# Article 44 — Combatants and prisoners of war
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_44`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-In applying the measures of control mentioned in the present Convention, the Detaining Power shall not treat as enemy aliens exclusively on the basis of their nationality de jure of an enemy State, refugees who do not, in fact, enjoy the protection of any government
+1. Any combatant, as defined in Article 43, who falls into
+the power of an adverse Party shall be a prisoner of war.
+2. While all combatants are obliged to comply with the rules
+of international law applicable in armed conflict, violations
+of these rules shall not deprive a combatant of his right to be
+a combatant or, if he falls into the power of an adverse Party,
+of his right to be a prisoner of war, except as provided in paragraphs
+3 and 4.
+3. In order to promote the protection of the civilian population
+from the effects of hostilities, combatants are obliged to distinguish
+themselves from the civilian population while they are engaged
+in an attack or in a military operation preparatory to an attack.
+Recognizing, however, that there are situations in armed conflicts
+where, owing to the nature of the hostilities an armed combatant
+cannot so distinguish himself, he shall retain his status as a
+combatant, provided that, in such situations, he carries his arms
+openly:
+(a) During each military engagement, and
+(b) During such time as he is visible to the adversary while
+he is engaged in a military deployment preceding the launching
+of an attack in which he is to participate.
+Acts which comply with the requirements of this paragraph shall
+not be considered as perfidious within the meaning of Article
+37, paragraph 1 (c).
+4. A combatant who falls into the power of an adverse Party
+while failing to meet the requirements set forth in the second
+sentence of paragraph 3 shall forfeit his right to be a prisoner
+of war, but he shall, nevertheless, be given protections equivalent
+in all respects to those accorded to prisoners of war by the Third
+Convention and by this Protocol. This protection includes protections
+equivalent to those accorded to prisoners of war by the Third
+Convention in the case where such a person is tried and punished
+for any offences he has committed.
+5. Any combatant who falls into the power of an adverse Party
+while not engaged in an attack or in a military operation preparatory
+to an attack shall not forfeit his rights to be a combatant and
+a prisoner of war by virtue of his prior activities.
+6. This Article is without prejudice to the right of any person
+to be a prisoner of war pursuant to Article 4 of the Third Convention.
+7. This Article is not intended to change the generally accepted
+practice of States with respect to the wearing of the uniform
+by combatants assigned to the regular, uniformed armed units of
+a Party to the conflict.
+8. In addition to the categories of persons mentioned in Article
+13 of the First and Second Conventions, all members of the armed
+forces of a Party to the conflict, as defined in Article 43 of
+this Protocol, shall be entitled to protection under those Conventions
+if they are wounded or sick or, in the case of the Second Convention,
+shipwrecked at sea or in other waters.

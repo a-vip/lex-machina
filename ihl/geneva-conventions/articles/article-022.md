@@ -1,13 +1,36 @@
-# Article 22
+# Article 22 — Hospitals ships and coastal rescue craft
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_22`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Aircraft exclusively employed for the removal of wounded and sick civilians, the infirm and maternity cases or for the transport of medical personnel and equipment, shall not be attacked, but shall be respected while flying at heights, times and on routes specifically agreed upon between all the Parties to the conflict concerned
-They may be marked with the distinctive emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949.
-Unless agreed otherwise, flights over enemy or enemy occupied territory are prohibited.
-Such aircraft shall obey every summons to land. In the event of a landing thus imposed, the aircraft with its occupants may continue its flight after examination, if any.
+1. The provisions of the Conventions relating to:
+(a) Vessels described in Articles 22, 24, 25 and 27 of the
+Second Convention,
+(b) Their lifeboats and small craft,
+(c) Their personnel and crews; and
+(d) The wounded, sick and shipwrecked on board,
+shall also apply where these vessels carry civilian wounded,
+sick and shipwrecked who do not belong to any of the categories
+mentioned in Article 13 of the Second Convention. Such civilians
+shall not, however, be subject to surrender to any Party which
+is not their own, or to capture at sea. If they find themselves
+in the power of a Party to the conflict other than their own they
+shall be covered by the Fourth Convention and by this Protocol.
+2. The protection provided by the Conventions to vessels described
+in Article 25 of the Second Convention shall extend to hospital
+ships made available for humanitarian purposes to a Party to the
+conflict:
+(a) By a neutral or other State which is not a Party to that
+conflict; or
+(b) By an impartial international humanitarian organization,
+provided that, in either case, the requirements set out in
+that Article are complied with.
+3. Small craft described in Article 27 of the Second Convention
+shall be protected even if the notification envisaged by that
+Article has not been made. The Parties to the conflict are, nevertheless,
+invited to inform each other of any details of such craft which
+will facilitate their identification and recognition.

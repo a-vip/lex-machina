@@ -1,13 +1,37 @@
-# Article 63
+# Article 63 — Civil defence in occupied territories
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_63`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Subject to temporary and exceptional measures imposed for urgent reasons of security by the Occupying Power
-(a) recognized National Red Cross (Red Crescent, Red Lion and Sun) Societies shall be able to pursue their activities in accordance with Red Cross principles, as defined by the International Red Cross Conferences. Other relief societies shall be permitted to continue their humanitarian activities under similar conditions;
-(b) the Occupying Power may not require any changes in the personnel or structure of these societies, which would prejudice the aforesaid activities.
-The same principles shall apply to the activities and personnel of special organizations of a non-military character, which already exist or which may be established, for the purpose of ensuring the living conditions of the civilian population by the maintenance of the essential public utility services, by the distribution of relief and by the organization of rescues.
+1. In occupied territories, civilian civil defence organizations
+shall receive from the authorities the facilities necessary for
+the performance of their tasks. In no circumstances shall their
+personnel be compelled to perform activities which would interfere
+with the proper performance of these tasks. The Occupying Power
+shall not change the structure or personnel of such organizations
+in any way which might jeopardize the efficient performance of
+their mission. These organizations shall not be required to give
+priority to the nationals or interests of that Power.
+2. The Occupying Power shall not compel, coerce or induce civilian
+civil defense organizations to perform their tasks in an manner
+prejudicial to the interests of the civilian population.
+3. The Occupying Power may disarm civil defense personnel for
+reasons of security.
+4. The Occupying Power shall neither divert from their proper
+use nor requisition buildings or mat‚riel belonging to or
+used by civil defense organizations if such diversion or requisition
+would be harmful to the civilian population.
+5. Provided that the general rule in paragraph 4 continues
+to be observed, the occupying Power may requisition or divert
+these resources, subject to the following particular conditions:
+(a) That the buildings or mat‚riel are necessary for other
+needs of the civilian population; and
+(b) That the requisition or diversion continues only while
+such necessity exists.
+6. The Occupying Power shall neither divert nor requisition
+shelters provided for the use of the civilian population or needed
+by such population.

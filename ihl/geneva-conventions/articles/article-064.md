@@ -1,12 +1,33 @@
-# Article 64
+# Article 64 — Civilian civil defence organizations of neutral
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_64`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The penal laws of the occupied territory shall remain in force, with the exception that they may be repealed or suspended by the Occupying Power in cases where they constitute a threat to its security or an obstacle to the application of the present Convention
-Subject to the latter consideration and to the necessity for ensuring the effective administration of justice, the tribunals of the occupied territory shall continue to function in respect of all offences covered by the said laws.
-The Occupying Power may, however, subject the population of the occupied territory to provisions which are essential to enable the Occupying Power to fulfil its obligations under the present Convention, to maintain the orderly government of the territory, and to ensure the security of the Occupying Power, of the members and property of the occupying forces or administration, and likewise of the establishments and lines of communication used by them.
+or other States not Parties to the conflict and
+international co-ordinating organizations
+1. Articles 62, 63, 65 and 66 shall also apply to the personnel
+and mat‚riel of civilian civil defence organizations of neutral
+or other States not Parties to the conflict which perform civil
+defense tasks mentioned in Article 61 in the territory of a Party
+to the conflict, with the consent and under the control of that
+Party. Notification of such assistance shall be given as soon
+as possible to any adverse Party concerned. In no circumstances
+shall this activity be deemed to be an interference in the conflict.
+This activity
+should, however, be performed with due regard to the security
+interests of the Parties to the conflict concerned.
+2. The Parties to the conflict receiving the assistance referred
+to in paragraph 1 and the High Contracting Parties granting it
+should facilitate international co-ordination of such civil defence
+actions when appropriate. In such cases the relevant international
+organizations are covered by the provisions of this Chapter.
+3. In occupied territories, the Occupying Power may only exclude
+or restrict the activities of civilian civil defence organizations
+of neutral or other States not Parties to the conflict and of
+international co-ordinating organizations if it can ensure the
+adequate performance of civil defence tasks from its own resources
+or those of the occupied territory.

@@ -1,15 +1,51 @@
-# Article 23
+# Article 23 — Other medical ships and craft
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_23`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Each High Contracting Party shall allow the free passage of all consignments of medical and hospital stores and objects necessary for religious worship intended only for civilians of another High Contracting Party, even if the latter is its adversary. It shall likewise permit the free passage of all consignments of essential foodstuffs, clothing and tonics intended for children under fifteen, expectant mothers and maternity cases
-The obligation of a High Contracting Party to allow the free passage of the consignments indicated in the preceding paragraph is subject to the condition that this Party is satisfied that there are no serious reasons for fearing:
-(a) that the consignments may be diverted from their destination,
-(b) that the control may not be effective, or (c) that a definite advantage may accrue to the military efforts or economy of the enemy through the substitution of the above-mentioned consignments for goods which would otherwise be provided or produced by the enemy or through the release of such material, services or facilities as would otherwise be required for the production of such goods.
-The Power which allows the passage of the consignments indicated in the first paragraph of this Article may make such permission conditional on the distribution to the persons benefited thereby being made under the local supervision of the Protecting Powers.
-Such consignments shall be forwarded as rapidly as possible, and the Power which permits their free passage shall have the right to prescribe the technical arrangements under which such passage is allowed.
+1. Medical ships and craft other than those referred to in
+Article 22 of this Protocol and Article 38 of the Second Convention
+shall, whether at sea or in other waters, be respected and protected
+in the same way as mobile medical units under the Conventions
+and this Protocol. Since this protection can only be effective
+if they can be identified and recognized as medical ships or craft,
+such vessels should be marked with the distinctive emblem and
+as far as possible comply with the second paragraph of Article
+43 of the Second Convention.
+2. The ships and craft referred to in paragraph I shall remain
+subject to the laws of war. Any warship on the surface able immediately
+to enforce its command may order them to stop, order them off,
+or make them take a certain course, and they shall obey every
+such command. Such ships and craft may not in any other way be
+diverted from their medical mission so long as they are needed
+for the wounded, sick and shipwrecked on board.
+3. The protection provided in paragraph I shall cease only
+under the conditions set out in Articles 34 and 35 of the Second
+Convention. A clear
+refusal to obey a command given in accordance with paragraph
+2 shall be an act harmful to the enemy under Article 34 of the
+Second Convention.
+4. A Party to the conflict may notify any adverse Party as
+far in advance of sailing as possible of the name, description,
+expected time of sailing, course and estimated speed of the medical
+ship or craft, particularly in the case of ships of over 2,000
+gross tons, and may provide any other information which would
+facilitate identification and recognition. The adverse Party shall
+acknowledge receipt of such information.
+5. The provisions of Article 37 of the Second Convention shall
+apply to medical and religious personnel in such ships and craft.
+6. The provisions of the Second Convention shall apply to the
+wounded, sick and shipwrecked belonging to the categories referred
+to in Article 13 of the Second Convention and in Article 44 of
+this Protocol who may be on board such medical ships and craft.
+Wounded, sick and shipwrecked civilians who do not belong to any
+of the categories mentioned in Article 13 of the Second Convention
+shall not be subject, at sea, either to surrender to any Party
+which is not their own; or to removal from such ships or craft;
+if they find themselves in the power of a Party to the conflict
+other than their own, they shall be covered by the Fourth Convention
+and by this Protocol.

@@ -1,18 +1,34 @@
-# Article 96
+# Article 96 — Treaty relations upon entry into force of this
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_96`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-All labour detachments shall remain part of and dependent upon a place of internment. The competent authorities of the Detaining Power and the commandant of a place of internment shall be responsible for the observance in a labour detachment of the provisions of the present Convention. The commandant shall keep an up-to-date list of the labour detachments subordinate to him and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross and of other humanitarian organizations who may visit the places of internment
-CHAPTER VI
-Personal Property and Financial Resources Art. 97. Internees shall be permitted to retain articles of personal use. Monies, cheques, bonds, etc., and valuables in their possession may not be taken from them except in accordance with established procedure. Detailed receipts shall be given therefor.
-The amounts shall be paid into the account of every internee as provided for in Article 98. Such amounts may not be converted into any other currency unless legislation in force in the territory in which the owner is interned so requires or the internee gives his consent.
-Articles which have above all a personal or sentimental value may not be taken away.
-A woman internee shall not be searched except by a woman.
-On release or repatriation, internees shall be given all articles, monies or other valuables taken from them during internment and shall receive in currency the balance of any credit to their accounts kept in accordance with Article 98, with the exception of any articles or amounts withheld by the Detaining Power by virtue of its legislation in force. If the property of an internee is so withheld, the owner shall receive a detailed receipt.
-Family or identity documents in the possession of internees may not be taken away without a receipt being given. At no time shall internees be left without identity documents. If they have none, they shall be issued with special documents drawn up by the detaining authorities, which will serve as their identity papers until the end of their internment.
-Internees may keep on their persons a certain amount of money, in cash or in the shape of purchase coupons, to enable them to make purchases.
+Protocol
+1. When the Parties to the Conventions are also Parties to
+this Protocol, the Conventions shall apply as supplemented by
+this Protocol.
+2. When one of the Parties to the conflict is not bound by
+this Protocol, the Parties to the Protocol shall remain bound
+by it in their mutual relations. They shall furthermore be bound
+by this Protocol in relation to each of the Parties which are
+not bound by it, if the latter accepts and applies the provisions
+thereof.
+3. The authority representing a people engaged against a High
+Contracting Party in an armed conflict of the type referred to
+in Article 1, paragraph 4, may undertake to apply the Conventions
+and this Protocol in relation to that conflict by means of a unilateral
+declaration addressed to the depositary. Such declaration shall,
+upon its receipt by the depositary, have in relation to that conflict
+the following effects:
+(a) The Conventions and this Protocol are brought into force
+for the said authority as a Party to the conflict with immediate
+effect;
+(b) The said authority assumes the same rights and obligations
+as those which have been assumed by a High Contracting Party to
+the Conventions and this Protocol; and
+(c) The Conventions and this Protocol are equally binding upon
+all Parties to the conflict.

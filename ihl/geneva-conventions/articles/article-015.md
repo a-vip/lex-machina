@@ -1,13 +1,31 @@
-# Article 15
+# Article 15 — International distinctive sign
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_15`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Any Party to the conflict may, either direct or through a neutral State or some humanitarian organization, propose to the adverse Party to establish, in the regions where fighting is taking place, neutralized zones intended to shelter from the effects of war the following persons, without distinction:
-(a) wounded and sick combatants or non-combatants;
-(b) civilian persons who take no part in hostilities, and who, while they reside in the zones, perform no work of a military character
-When the Parties concerned have agreed upon the geographical position, administration, food supply and supervision of the proposed neutralized zone, a written agreement shall be concluded and signed by the representatives of the Parties to the conflict. The agreement shall fix the beginning and the duration of the neutralization of the zone.
+1. The international distinctive sign of civil defence provided
+for in Article 66, paragraph 4, of the Protocol is an equilateral
+blue triangle on an orange ground. A model is shown in Figure
+4:
+2. It is recommended that:
+(a) If the blue triangle is on a flag or armlet or tabard.
+the ground to the triangle be the orange flag, armlet or tabard;
+(b) One of the angles of the triangle be pointed vertically
+upwards;
+(c) No angle of the triangle touch the edge of the orange ground.
+3. The international distinctive sign shall be as large as
+appropriate under the circumstances. The distinctive sign shall,
+whenever possible, be displayed on flat surfaces or on flags visible
+from as many directions and from as far away as possible. Subject
+to the instructions of the competent authority, civil defence
+personnel shall, as far as possible, wear headgear and clothing
+bearing the international distinctive sign. At night or when visibility
+is reduced, the sign may be lighted or illuminated; it may also
+be made of materials rendering it recognizable by technical means
+of detection.
+CHAPTER VI.-WORKS AND INSTALLATIONS CONTAINING DANGEROUS
+FORCES

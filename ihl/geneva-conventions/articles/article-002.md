@@ -1,12 +1,34 @@
-# Article 2
+# Article 2 — Definitions
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_2`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-In addition to the provisions which shall be implemented in peace-time, the present Convention shall apply to all cases of declared war or of any other armed conflict which may arise between two or more of the High Contracting Parties, even if the state of war is not recognized by one of them
-The Convention shall also apply to all cases of partial or total occupation of the territory of a High Contracting Party, even if the said occupation meets with no armed resistance.
-Although one of the Powers in conflict may not be a party to the present Convention, the Powers who are parties thereto shall remain bound by it in their mutual relations. They shall furthermore be bound by the Convention in relation to the said Power, if the latter accepts and applies the provisions thereof.
+For the purposes of this Protocol:
+(a) "First Convention", "Second Convention",
+"Third Convention" and "Fourth Convention"
+mean, respectively, the Geneva Convention for the Amelioration
+of the Condition of the Wounded and Sick in Armed Forces in the
+Field of 12 August 1949; the Geneva Convention for the Amelioration
+of the Condition of Wounded, Sick and Shipwrecked Members of Armed
+Forces at Sea of 12 August 1949; the Geneva Convention relative
+to the Treatment of Prisoners of War of 12 August 1949; the Geneva
+Convention relative to the Protection of Civilian Persons in Time
+of War of 12 August 1949; "the Conventions" means the
+four Geneva Conventions of 12 August 1949; for the protection
+of war victims;
+(b) ''Rules of international law applicable in armed conflict"
+means the rules applicable in armed conflict set forth in international
+agreements to which the Parties to the conflict are Parties and
+the generally recognized principles and rules of international
+law which are applicable to armed conflict;
+(c) ''Protecting Power" means a neutral or other State
+not a Party to the conflict which has been designated by a Party
+to the conflict and accepted by the adverse Party and has agreed
+to carry out the functions assigned to a Protecting Power under
+the Conventions and this Protocol;
+(d) ''Substitute" means an organization acting in place
+of a Protecting Power in accordance with Article 5.

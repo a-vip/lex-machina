@@ -1,13 +1,12 @@
-# Article 20
+# Article 20 — Prohibition of reprisals
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_20`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Persons regularly and solely engaged in the operation and administration of civilian hospitals, including the personnel engaged in the search for, removal and transporting of and caring for wounded and sick civilians, the infirm and maternity cases shall be respected and protected
-In occupied territory and in zones of military operations, the above personnel shall be recognizable by means of an identity card certifying their status, bearing the photograph of the holder and embossed with the stamp of the responsible authority, and also by means of a stamped, water-resistant armlet which they shall wear on the left arm while carrying out their duties. This armlet shall be issued by the State and shall bear the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949.
-Other personnel who are engaged in the operation and administration of civilian hospitals shall be entitled to respect and protection and to wear the armlet, as provided in and under the conditions prescribed in this Article, while they are employed on such duties. The identity card shall state the duties on which they are employed.
-The management of each hospital shall at all times hold at the disposal of the competent national or occupying authorities an up-to-date list of such personnel.
+Reprisals against the persons and objects protected by this
+Part are prohibited.
+SECTION II.-MEDICAL TRANSPORTATION

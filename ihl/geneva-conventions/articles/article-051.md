@@ -1,13 +1,56 @@
-# Article 51
+# Article 51 — Protection of the civilian population
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_51`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The Occupying Power may not compel protected persons to serve in its armed or auxiliary forces. No pressure or propaganda which aims at securing voluntary enlistment is permitted
-The Occupying Power may not compel protected persons to work unless they are over eighteen years of age, and then only on work which is necessary either for the needs of the army of occupation, or for the public utility services, or for the feeding, sheltering, clothing, transportation or health of the population of the occupied country. Protected persons may not be compelled to undertake any work which would involve them in the obligation of taking part in military operations. The Occupying Power may not compel protected persons to employ forcible means to ensure the security of the installations where they are performing compulsory labour.
-The work shall be carried out only in the occupied territory where the persons whose services have been requisitioned are. Every such person shall, so far as possible, be kept in his usual place of employment. Workers shall be paid a fair wage and the work shall be proportionate to their physical and intellectual capacities. The legislation in force in the occupied country concerning working conditions, and safeguards as regards, in particular, such matters as wages, hours of work, equipment, preliminary training and compensation for occupational accidents and diseases, shall be applicable to the protected persons assigned to the work referred to in this Article.
-In no case shall requisition of labour lead to a mobilization of workers in an organization of a military or semi-military character.
+1. The civilian population and individual civilians shall enjoy
+general protection against dangers arising from military operations.
+To give effect to this protection, the following rules, which
+are additional to other applicable rules of international law,
+shall be observed in circumstances.
+2. The civilian population as such, as well as individual civilians,
+shall not be the object of attack. Acts or threats of violence
+the primary purpose of which is to spread terror among the civilian
+population are prohibited.
+3. Civilians shall enjoy the protection afforded by this Section,
+unless and for such time as they take a direct part in hostilities.
+4. Indiscriminate attacks are prohibited. Indiscriminate attacks
+are:
+(a) Those which are not directed at a specific military objective;
+(b) Those which employ a method or means of combat which cannot
+be directed at a specific military objective; or
+(c) Those which employ a method or means of combat the effects
+of which cannot be limited as required by this Protocol;
+and consequently, in each such case, are of a nature to strike
+military objectives and civilians or civilian objects without
+distinction.
+5. Among others, the following types of attacks are to be considered
+as indiscriminate:
+(a) An attack by bombardment by any methods or means which
+treats as a single military objective a number of clearly separated
+and distinct military objectives located in a city, town, village
+or other area containing a similar concentration of civilians
+or civilian objects; and
+(b) An attack which may be expected to cause incidental loss
+of civilian life, injury to civilians, damage to civilian objects,
+or a combination thereof, which would be excessive in relation
+to the concrete and direct military advantage anticipated.
+6. Attacks against the civilian population or civilians by
+way of reprisals are prohibited.
+7. The presence or movements of the civilian population or
+individual civilians shall not be used to render certain points
+or areas immune from military operations, in particular in attempts
+to shield military objectives from attacks or to shield, favour
+or impede military operations. The Parties to the conflict shall
+not direct the movement of the civilian population or individual
+civilians in order to attempt to shield military objectives from
+attacks or to shield military operations.
+8. Any violation of these prohibitions shall not release the
+Parties to the conflict from their legal obligations with respect
+to the civilian population and civilians, including the obligation
+to take the precautionary measures provided for in Article 57.
+CHAPTER III.-CIVILIAN OBJECTS

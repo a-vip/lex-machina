@@ -1,12 +1,31 @@
-# Article 14
+# Article 14 — Limitations on requisition of civilian medical
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_14`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-In time of peace, the High Contracting Parties and, after the outbreak of hostilities, the Parties thereto, may establish in their own territory and, if the need arises, in occupied areas, hospital and safety zones and localities so organized as to protect from the effects of war, wounded, sick and aged persons, children under fifteen, expectant mothers and mothers of children under seven
-Upon the outbreak and during the course of hostilities, the Parties concerned may conclude agreements on mutual recognition of the zones and localities they have created. They may for this purpose implement the provisions of the Draft Agreement annexed to the present Convention, with such amendments as they may consider necessary.
-The Protecting Powers and the International Committee of the Red Cross are invited to lend their good offices in order to facilitate the institution and recognition of these hospital and safety zones and localities.
+units
+1. The Occupying Power has the duty to ensure that the medical
+needs of the civilian population in occupied territory continue
+to be satisfied.
+2. The Occupying Power shall not, therefore, requisition civilian
+medical units, their equipment, their mat‚riel or the services
+of their personnel, so long as these resources are necessary for
+the provision of adequate
+medical services for the civilian population and for the continuing
+medical care of any wounded and sick already under treatment.
+3. Provided that the general rule in paragraph 2 continues
+to be observed, the Occupying Power may requisition the said resources,
+subject to the following particular conditions:
+(a) That the resources are necessary for the adequate and immediate
+medical treatment of the wounded and sick members of the armed
+forces of the Occupying Power or of prisoners of war;
+(b) That the requisition continues only while such necessity
+exists; and
+(c) That immediate arrangements are made to ensure that the
+medical needs of the civilian population, as well as those of
+any wounded and sick under treatment who are affected by the requisition,
+continue to be satisfied.

@@ -1,10 +1,62 @@
-# Article 31
+# Article 31 — Neutral or other States not Parties to the
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_31`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-No physical or moral coercion shall be exercised against protected persons, in particular to obtain information from them or from third parties
+conflict
+1. Except by prior agreement, medical aircraft shall not fly
+over or land in the territory of a neutral or other State not
+a Party to the conflict. However, with such an agreement, they
+shall be respected throughout their flight and also for the duration
+of any calls in the territory. Nevertheless they shall obey any
+summons to land or to alight on water, as appropriate.
+2. Should a medical aircraft, in the absence of an agreement
+or in deviation from the terms of an agreement, fly over the territory
+of a neutral or other State not a Party to the conflict, either
+through navigational error or because of an emergency affecting
+the safety o the flight, it shall make every effort to give notice
+of the flight and to identify itself. As soon as such medical
+aircraft is recognized, that State shall make all reasonable efforts
+to give the order to land or to alight on water referred to in
+Article 30, paragraph 1, or to take other measures to safeguard
+its own interests, and in either case, to allow the aircraft time
+for compliance, before resorting to an attack against the aircraft.
+3. If a medical aircraft, either by agreement or in the circumstances
+mentioned in paragraph 2, lands or alights on water in the territory
+of a neutral or other State not Party to the conflict, whether
+ordered to do so or for
+other reasons, the aircraft shall be subject to inspection
+for the purposes of determining whether it is in fact a medical
+aircraft. The inspection shall be commenced without delay and
+shall be conducted expeditiously. The inspecting Party shall not
+require the wounded and sick of the Party operating the aircraft
+to be removed from it unless their removal is essential for the
+inspection. The inspecting Party shall in any event ensure that
+the condition of the wounded and sick is not adversely affected
+by the inspection or the removal. If the inspection discloses
+that the aircraft is in fact a medical aircraft, the aircraft
+with its occupants, other than those who must be detained in accordance
+with the rules of international law applicable in armed conflict,
+shall be allowed to resume its flight, and reasonable facilities
+shall be given for the continuation of the flight. If the inspection
+discloses that the aircraft is not a medical aircraft, it shall
+be seized and the occupants treated in accordance with paragraph
+4.
+4. The wounded, sick and shipwrecked disembarked, otherwise
+than temporarily, from a medical aircraft with the consent of
+the local authorities in the territory of a neutral or other State
+not a Party to the conflict shall, unless agreed otherwise between
+that State and the Parties to the conflict, be detained by that
+Sate where so required by the rules of international law applicable
+in armed conflict, in such a manner that they cannot again take
+part in the hostilities. The cost of hospital treatment and internment
+shall be borne by the State to which those persons belong.
+5. Neutral or other States not Parties to the conflict shall
+apply any conditions and restrictions on the passage of medical
+aircraft over, or on the landing of medical aircraft in, their
+territory equally to all Parties to the conflict.
+SECTION.-MISSING AND DEAD PERSONS

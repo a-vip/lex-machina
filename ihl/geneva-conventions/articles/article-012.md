@@ -1,13 +1,27 @@
-# Article 12
+# Article 12 — Protection of medical units
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_12`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-In cases where they deem it advisable in the interest of protected persons, particularly in cases of disagreement between the Parties to the conflict as to the application or interpretation of the provisions of the present Convention, the Protecting Powers shall lend their good offices with a view to settling the disagreement
-For this purpose, each of the Protecting Powers may, either at the invitation of one Party or on its own initiative, propose to the Parties to the conflict a meeting of their representatives, and in particular of the authorities responsible for protected persons, possibly on neutral territory suitably chosen. The Parties to the conflict shall be bound to give effect to the proposals made to them for this purpose. The Protecting Powers may, if necessary, propose for approval by the Parties to the conflict a person belonging to a neutral Power, or delegated by the International Committee of the Red Cross, who shall be invited to take part in such a meeting.
-PART II
-GENERAL PROTECTION OF POPULATIONS AGAINST CERTAIN CONSEQUENCES OF WAR
+1. Medical units shall be respected and protected at all times
+and shall not be the object of attack.
+2. Paragraph I shall apply to civilian medical units, provided
+that they:
+(a) Belong to one of the Parties to the conflict;
+(b) Are recognized and authorized by the competent authority
+of one of the Parties to the conflict; or
+(c) Are authorized in conformity with Article 9, paragraph
+2, of this Protocol or Article 27 of the First Convention.
+3. The Parties to the conflict are invited to notify each other
+of the location of their fixed medical units. The absence of such
+notification shall not exempt any of the Parties from the obligation
+to comply with the provisions of paragraph 1.
+4. Under no circumstances shall medical units be used in an
+attempt to shield military objectives from attack. Whenever possible,
+the Parties to the conflict shall ensure that medical units are
+so sated that attacks against military objectives do not imperil
+their safety.

@@ -1,10 +1,30 @@
-# Article 47
+# Article 47 — Mercenaries
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_47`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Protected persons who are in occupied territory shall not be deprived, in any case or in any manner whatsoever, of the benefits of the present Convention by any change introduced, as the result of the occupation of a territory, into the institutions or government of the said territory, nor by any agreement concluded between the authorities of the occupied territories and the Occupying Power, nor by any annexation by the latter of the whole or part of the occupied territory
+1. A mercenary shall not have the right to be a combatant or
+a prisoner of war.
+2. A mercenary is any person who:
+(a) Is specially recruited locally or abroad in order to fight
+in an armed conflict;
+(b) Does, in fact, take a direct part in the hostilities;
+(c) Is motivated to take part in the hostilities essentially
+by the desire for private gain and, in fact, is promised, by or
+on behalf of a Party to the conflict, material compensation substantially
+in excess of that promised or paid to combatants of similar ranks
+and functions in the armed forces of that Party;
+(d) Is neither a national of a Party to the conflict nor a
+resident of territory controlled by a Party to the conflict;
+(e) Is not a member of the armed forces of a Party to the conflict;
+and
+(f) Has not been sent by a State which is not a Party to the
+conflict on official duty as a member of its armed forces.
+PART IV
+CIVILIAN POPULATION
+SECTION I.-GENERAL PROTECTION AGAINST EFFECTS OF HOSTILITIES
+CHAPTER 1.-BASIC RULE AND FIELD OF APPLICATION

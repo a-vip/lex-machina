@@ -1,14 +1,43 @@
-# Article 18
+# Article 18 — Identification
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_18`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Civilian hospitals organized to give care to the wounded and sick, the infirm and maternity cases, may in no circumstances be the object of attack but shall at all times be respected and protected by the Parties to the conflict
-States which are Parties to a conflict shall provide all civilian hospitals with certificates showing that they are civilian hospitals and that the buildings which they occupy are not used for any purpose which would deprive these hospitals of protection in accordance with Article 19.
-Civilian hospitals shall be marked by means of the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949, but only if so authorized by the State.
-The Parties to the conflict shall, in so far as military considerations permit, take the necessary steps to make the distinctive emblems indicating civilian hospitals clearly visible to the enemy land, air and naval forces in order to obviate the possibility of any hostile action.
-In view of the dangers to which hospitals may be exposed by being close to military objectives, it is recommended that such hospitals be situated as far as possible from such objectives.
+1. Each Party to the conflict shall endeavour to ensure that
+medical and religious personnel and medical units and transports
+are identifiable.
+2. Each Party to the conflict shall also endeavour to adopt
+and to implement methods and procedures which will make it possible
+to recognize medical units and transports which use the distinctive
+emblem and distinctive signals.
+3. In occupied territory and in areas where fighting is taking
+place or is likely to take place, civilian medical personnel and
+civilian religious personnel should be recognizable by the distinctive
+emblem and an identity card certifying their status.
+4. With the consent of the competent authority, medical units
+and transports shall be marked by the distinctive emblem. The
+ships and craft referred to in Article 22 of this Protocol shall
+be marked in accordance with the provisions of the Second Convention.
+5. In addition to the distinctive emblem, a Party to the conflict
+may, as provided in Chapter III of Annex I to this Protocol, authorize
+the use of distinctive signals to identify medical units and transports.
+Exceptionally, in the special cases covered in that Chapter, medical
+transports may use distinctive signals without displaying the
+distinctive emblem.
+6. The application of the provisions of paragraphs 1 to 5 of
+this Article is governed by Chapters I to m of Annex I to this
+Protocol. Signals designated in Chapter m of the Annex for the
+exclusive use of medical units and transports shall not, except
+as provided therein, be used for any purpose other than to identify
+the medical units and transports specified in that Chapter.
+7. This Article does not authorize any wider use of the distinctive
+emblem in peacetime than is prescribed in Article 44 of the First
+Convention.
+8. The provisions of the Conventions and of this Protocol relating
+to supervision of the use of the distinctive emblem and to the
+prevention and repression of any misuse thereof shall be applicable
+to distinctive signals .

@@ -1,12 +1,40 @@
-# Article 81
+# Article 81 — Activities of the Red Cross and other
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_81`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Parties to the conflict who intern protected persons shall be bound to provide free of charge for their maintenance, and to grant them also the medical attention required by their state of health
-No deduction from the allowances, salaries or credits due to the internees shall be made for the repayment of these costs.
-The Detaining Power shall provide for the support of those dependent on the internees, if such dependents are without adequate means of support or are unable to earn a living.
+humanitarian organizations
+1. The Parties to the conflict shall grant to the International
+Committee of the Red Cross all facilities within their power so
+as to enable it to carry out the humanitarian functions assigned
+to it by the Conventions and this Protocol in order to ensure
+protection and assistance to the victims of conflicts; the International
+Committee of the Red Cross may also carry out any other humanitarian
+activities in favour of these victims, subject to the consent
+of the Parties to the conflict concerned.
+2. The Parties to the conflict shall grant to their respective
+Red Cross (Red Crescent, Red Lion and Sun) organizations the facilities
+necessary for carrying out their humanitarian activities in favour
+of the victims of the conflict, in accordance with the provisions
+of the Conventions and this Protocol and the fundamental principles
+of the Red Cross as formulated by the International Conferences
+of the Red Cross.
+3. The High Contracting Parties and the Parties to the conflict
+shall facilitate in every possible way the assistance which Red
+Cross (Red Crescent, Red Lion and Sun) organizations and the League
+of Red Cross Societies extend to the victims of conflicts in accordance
+with the provisions of
+the Conventions and this Protocol and with the fundamental
+principles of the Red Cross as formulated by the International
+Conferences of the Red Cross.
+4. The High Contracting Parties and the Parties to the conflict
+shall, as far as possible, make facilities similar to those mentioned
+in paragraphs 2 and 3 available to the other humanitarian organizations
+referred to in the Conventions and this Protocol which are duly
+authorized by the respective Parties to the conflict and which
+perform their humanitarian activities in accordance with the provisions
+of the Conventions and this Protocol.

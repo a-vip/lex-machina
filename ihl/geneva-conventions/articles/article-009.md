@@ -1,13 +1,25 @@
-# Article 9
+# Article 9 — Field of application
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_9`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The present Convention shall be applied with the cooperation and under the scrutiny of the Protecting Powers whose duty it is to safeguard the interests of the Parties to the conflict. For this purpose, the Protecting Powers may appoint, apart from their diplomatic or consular staff, delegates from amongst their own nationals or the nationals of other neutral Powers. The said delegates shall be subject to the approval of the Power with which they are to carry out their duties
-The Parties to the conflict shall facilitate to the greatest extent possible the task of the representatives or delegates of the Protecting Powers.
-The representatives or delegates of the Protecting Powers shall not in any case exceed their mission under the present Convention.
-They shall, in particular, take account of the imperative necessities of security of the State wherein they carry out their duties.
+1. This Part, the provisions of which are intended to ameliorate
+the condition of the wounded, sick and shipwrecked, shall apply
+to all those affected by a situation referred to in Article 1,
+without any adverse distinction founded on race, colour, sex,
+language, religion or belief, political or other opinion, national
+or social origin, wealth, birth or other status, or on any other
+similar criteria.
+2. The relevant provisions of Articles 27 and 32 of the First
+Convention shall apply to permanent medical units and transports
+(other than hospital ships, to which Article 25 of the Second
+Convention applies) and their personnel made available to a Party
+to the conflict for humanitarian purposes:
+(a) By a neutral or other State which is not a Party to that
+conflict;
+(b) By a recognized and authorized aid society of such a State;
+(c) By an impartial international humanitarian organization.

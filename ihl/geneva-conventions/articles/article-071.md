@@ -1,17 +1,29 @@
-# Article 71
+# Article 71 — Personnel participating in relief actions
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_71`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-No sentence shall be pronounced by the competent courts of the Occupying Power except after a regular trial
-Accused persons who are prosecuted by the Occupying Power shall be promptly informed, in writing, in a language which they understand, of the particulars of the charges preferred against them, and shall be brought to trial as rapidly as possible. The Protecting Power shall be informed of all proceedings instituted by the Occupying Power against protected persons in respect of charges involving the death penalty or imprisonment for two years or more; it shall be enabled, at any time, to obtain information regarding the state of such proceedings. Furthermore, the Protecting Power shall be entitled, on request, to be furnished with all particulars of these and of any other proceedings instituted by the Occupying Power against protected persons.
-The notification to the Protecting Power, as provided for in the second paragraph above, shall be sent immediately, and shall in any case reach the Protecting Power three weeks before the date of the first hearing. Unless, at the opening of the trial, evidence is submitted that the provisions of this Article are fully complied with, the trial shall not proceed. The notification shall include the following particulars:
-(a) description of the accused;
-(b) place of residence or detention;
-(c) specification of the charge or charges (with mention of the penal provisions under which it is brought);
-(d) designation of the court which will hear the case;
-(e) place and date of the first hearing.
+1. Where necessary, relief personnel may form part of the assistance
+provided in any relief action, in particular for the transportation
+and distribution of relief consignments; the participation of
+such personnel shall be subject to the approval of the Party in
+whose territory they will carry out their duties.
+2. Such personnel shall be respected and protected.
+3. Each Party in receipt of relief consignments shall, to the
+fullest extent practicable, assist the relief personnel referred
+to in paragraph 1 in carrying out their relief mission. Only in
+case of imperative military necessity may the activities of the
+relief personnel be limited or their movements temporarily restricted.
+4. Under no circumstances may relief personnel exceed the terms
+of their mission under this Protocol. In particular they shall
+take account of the security requirements of the Party in whose
+territory they are carrying out their duties. The mission of any
+of the personnel who do not respect these conditions may be terminated.
+SECTION III.-TREATMENT OF PERSONS IN THE POWER
+OF A PARTY TO THE CONFLICT
+CHAPTER 1.-FIELD OF APPLICATION AND PROTECTION
+OF PERSONS AND OBJECTS

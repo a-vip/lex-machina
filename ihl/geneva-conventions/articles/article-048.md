@@ -1,10 +1,14 @@
-# Article 48
+# Article 48 — Basic rule
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_48`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Protected persons who are not nationals of the Power whose territory is occupied, may avail themselves of the right to leave the territory subject to the provisions of Article 35, and decisions thereon shall be taken in accordance with the procedure which the Occupying Power shall establish in accordance with the said Article
+In order to ensure respect for and protection of the civilian
+population and civilian objects, the Parties to the conflict shall
+at all times distinguish between the civilian population and combatants
+and between civilian objects and military objectives and accordingly
+shall direct their operations only against military objectives.

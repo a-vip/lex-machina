@@ -1,13 +1,21 @@
-# Article 26
+# Article 26 — Medical aircraft in contact or similar zones
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_26`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Each Party to the conflict shall facilitate enquiries made by members of families dispersed owing to the war, with the object of renewing contact with one another and of meeting, if possible. It shall encourage, in particular, the work of organizations engaged on this task provided they are acceptable to it and conform to its security regulations
-PART III STATUS AND TREATMENT OF PROTECTED PERSONS
-SECTION I
-Provisions Common to the Territories of the Parties to the Conflict and to Occupied Territories
+1. In and over those parts of the contact zone which are physically
+controlled by friendly forces and in and over those areas the
+physical control of which is not clearly established, protection
+for medical aircraft can be fully effective only by prior agreement
+between the competent military authorities of the Parties to the
+conflict, as provided for in Article 29. Al
+though, in the absence of such an agreement, medical aircraft
+operate at their own risk, they shall nevertheless be respected
+after they have been recognized as such.
+2. "Contact zone" means any area on land where the
+forward elements of opposing forces are in contact with each other,
+especially where they are exposed to direct fire from the ground.

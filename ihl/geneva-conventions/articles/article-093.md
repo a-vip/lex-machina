@@ -1,12 +1,12 @@
-# Article 93
+# Article 93 — Ratification
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_93`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Internees shall enjoy complete latitude in the exercise of their religious duties, including attendance at the services of their faith, on condition that they comply with the disciplinary routine prescribed by the detaining authorities
-Ministers of religion who are interned shall be allowed to minister freely to the members of their community. For this purpose the Detaining Power shall ensure their equitable allocation amongst the various places of internment in which there are internees speaking the same language and belonging to the same religion. Should such ministers be too few in number, the Detaining Power shall provide them with the necessary facilities, including means of transport, for moving from one place to another, and they shall be authorized to visit any internees who are in hospital. Ministers of religion shall be at liberty to correspond on matters concerning their ministry with the religious authorities in the country of detention and, as far as possible, with the international religious organizations of their faith. Such correspondence shall not be considered as forming a part of the quota mentioned in Article 107. It shall, however, be subject to the provisions of Article 112.
-When internees do not have at their disposal the assistance of ministers of their faith, or should these latter be too few in number, the local religious authorities of the same faith may appoint, in agreement with the Detaining Power, a minister of the internees' faith or, if such a course is feasible from a denominational point of view, a minister of similar religion or a qualified layman. The latter shall enjoy the facilities granted to the ministry he has assumed. Persons so appointed shall comply with all regulations laid down by the Detaining Power in the interests of discipline and security.
+This Protocol shall be ratified as soon as possible. The instruments
+of ratification shall be deposited with the Swiss Federal Council,
+depositary of the Conventions.

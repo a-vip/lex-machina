@@ -1,12 +1,54 @@
-# Article 34
+# Article 34 — Remains of deceased
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_34`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The taking of hostages is prohibited
-SECTION II
-Aliens in the Territory of a Party to the Conflict
+1. The remains of persons who have died for reasons related
+to occupation or in detention resulting from occupation or hostilities
+and those of persons not nationals of the country in which they
+have died as a result of hostilities shall be respected, and the
+gravesites of all such persons shall be respected, maintained
+and marked as provided for in Article 130 of the Fourth Convention,
+where their remains or gravesites would not receive more favourable
+consideration under the Conventions and this Protocol.
+2. As soon as circumstances and the relations between the adverse
+Parties permit, the High Contracting Parties in whose territories
+graves and, as the case may be, other locations of the remains
+of persons who have died as a result of hostilities or during
+occupation or in detention are situated, shall conclude agreements
+in order:
+(a) To facilitate access to the gravesites by relatives of
+the deceased and by representatives of official graves registration
+services and to regulate the practical arrangements for such access;
+(b) To protect and maintain such gravesites permanently;
+(c) To facilitate the return of the remains of the deceased
+and of personal effects to the home country upon its request or,
+unless that country objects, upon the request of the next of kin.
+3. In the absence of the agreements provided for in paragraph
+2 (b) or (c) and if the home country of such deceased is not willing
+to arrange at its expense for the maintenance of such gravesites,
+the High Contracting Party in whose territory the gravesites are
+situated may offer to facilitate the return of the remains of
+the deceased to the home country. Where such an offer has not
+been accepted the High Contracting Party may, after the expiry
+of five years from the date of the offer and upon due notice to
+the home country, adopt the arrangements laid down in its own
+laws relating to cemeteries and graves.
+4. A High Contracting Party in whose territory the gravesites
+referred to in this Article are situated shall be permitted to
+exhume the remains only:
+(a) In accordance with paragraphs 2 (c) and 3; or
+(b) Where exhumation is a matter of overriding public necessity,
+including cases of medical and investigative necessity, in which
+case the High Contracting Party shall at all times respect the
+remains, and shall give notice to the home country of its intention
+to exhume the remains together with details of the intended place
+of reinterment.
+PART III
+METHODS AND MEANS OF WARFARE
+COMBATANT AND PRISONER-OF-WAR STATUS
+SECTION I.-METHODS AND MEANS OF WARFARE

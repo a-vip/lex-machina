@@ -1,12 +1,17 @@
-# Article 55
+# Article 55 — Protection of the natural environment
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_55`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-To the fullest extent of the means available to it, the Occupying Power has the duty of ensuring the food and medical supplies of the population; it should, in particular, bring in the necessary foodstuffs, medical stores and other articles if the resources of the occupied territory are inadequate
-The Occupying Power may not requisition foodstuffs, articles or medical supplies available in the occupied territory, except for use by the occupation forces and administration personnel, and then only if the requirements of the civilian population have been taken into account. Subject to the provisions of other international Conventions, the Occupying Power shall make arrangements to ensure that fair value is paid for any requisitioned goods.
-The Protecting Power shall, at any time, be at liberty to verify the state of the food and medical supplies in occupied territories, except where temporary restrictions are made necessary by imperative military requirements.
+1. Care shall be taken in warfare to protect the natural environment
+against widespread, long-term and severe damage. This protection
+includes a prohibition of the use of methods or means of warfare
+which are intended or may be expected to cause such damage to
+the natural environment and thereby to prejudice the health or
+survival of the population.
+2. Attacks against the natural environment by way of reprisals
+are prohibited.

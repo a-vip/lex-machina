@@ -1,14 +1,18 @@
-# Article 50
+# Article 50 — Definition of civilians and civilian population
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_50`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The Occupying Power shall, with the cooperation of the national and local authorities, facilitate the proper working of all institutions devoted to the care and education of children
-The Occupying Power shall take all necessary steps to facilitate the identification of children and the registration of their parentage. It may not, in any case, change their personal status, nor enlist them in formations or organizations subordinate to it.
-Should the local institutions be inadequate for the purpose, the Occupying Power shall make arrangements for the maintenance and education, if possible by persons of their own nationality, language and religion, of children who are orphaned or separated from their parents as a result of the war and who cannot be adequately cared for by a near relative or friend.
-A special section of the Bureau set up in accordance with Article 136 shall be responsible for taking all necessary steps to identify children whose identity is in doubt. Particulars of their parents or other near relatives should always be recorded if available.
-The Occupying Power shall not hinder the application of any preferential measures in regard to food, medical care and protection against the effects of war which may have been adopted prior to the occupation in favour of children under fifteen years, expectant mothers, and mothers of children under seven years.
+1. A civilian is any person who does not belong to one of the
+categories of persons referred to in Article 4 A (1), (2),
+(3) and (6) of the Third Convention and in Article 43 of this Protocol.
+In case of doubt whether a person is a civilian, that person shall
+be considered to be a civilian.
+2. The civilian population comprises all persons who are civilians.
+3. The presence within the civilian population of individuals
+who do not come within the definition of civilians does not deprive
+the population of its civilian character.

@@ -1,16 +1,61 @@
-# Article 78
+# Article 78 — Evacuation of children
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_78`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-If the Occupying Power considers it necessary, for imperative reasons of security, to take safety measures concerning protected persons, it may, at the most, subject them to assigned residence or to internment
-Decisions regarding such assigned residence or internment shall be made according to a regular procedure to be prescribed by the Occupying Power in accordance with the provisions of the present Convention. This procedure shall include the right of appeal for the parties concerned. Appeals shall be decided with the least possible delay. In the event of the decision being upheld, it shall be subject to periodical review, if possible every six months, by a competent body set up by the said Power.
-Protected persons made subject to assigned residence and thus required to leave their homes shall enjoy the full benefit of Article 39 of the present Convention.
-SECTION IV
-Regulations for the Treatment of Internees
-CHAPTER I
-General Provisions
+1. No Party to the conflict shall arrange for the evacuation
+of children, other than its own nationals, to a foreign country
+except for a temporary evacuation where compelling reasons of
+the health or medical treatment of the children or, except in
+occupied territory, their safety, so require. Where the parents
+or legal guardians can be found, their written consent to such
+evacuation is required. If these persons cannot be found, the
+written consent to such evacuation of the persons who by law or
+custom are primarily responsible for the care of the children
+is required. Any such evacuation shall be supervised by the Protecting
+Power in agreement with the Parties concerned, namely, the Party
+arranging for the evacuation, the Party receiving the children
+and any Parties whose nationals are being evacuated. In each case,
+all Parties to the conflict shall take all feasible precautions
+to avoid endangering the evacuation.
+2. Whenever an evacuation occurs pursuant to paragraph 1, each
+child's education, including his religious and moral education
+as his parents desire, shall be provided while he is away with
+the greatest possible continuity.
+3. With a view to facilitating the return to their families
+and country of children evacuated pursuant to this Article, the
+authorities of the Party ar
+ranging for the evacuation and, as appropriate, the authorities
+of the receiving country shall establish for each child a card
+with photographs, which they shall send to the Central Tracing
+Agency of the International Committee of the Red Cross. Each card
+shall bear, whenever possible, and whenever it involves no risk
+of harm to the child, the following information:
+(a) Surname(s) of the child;
+(b) The child's first name(s);
+(c) The child's sex;
+(d) The place and date of birth (or, if that date is not known,
+the approximate age);
+(e) The father's full name;
+(f) The mother's full name and her maiden name;
+(g) The child's next-of-kin;
+(h) The child's nationality;
+(i) The child's native language, and any other languages he
+speaks;
+(j) The address of the child's family;
+(k) Any identification number for the child;
+(I) The child's state of health;
+(m) The child's blood group;
+(n) Any distinguishing features;
+(o) The date on which and the place where the child was found;
+(p) The date on which and the place from which the child left
+the country;
+(q) The child's religion, if any;
+(r) The child's present address in the receiving country;
+(s) Should the child die before his return, the date, place
+and circumstances of death and place of interment.
+CHAPTER III.-JOURNALISTS

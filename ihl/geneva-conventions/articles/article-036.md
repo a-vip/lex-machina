@@ -1,11 +1,15 @@
-# Article 36
+# Article 36 — New weapons
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_36`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Departures permitted under the foregoing Article shall be carried out in satisfactory conditions as regards safety, hygiene, sanitation and food. All costs in connection therewith, from the point of exit in the territory of the Detaining Power, shall be borne by the country of destination, or, in the case of accommodation in a neutral country, by the Power whose nationals are benefited. The practical details of such movements may, if necessary, be settled by special agreements between the Powers concerned
-The foregoing shall not prejudice such special agreements as may be concluded between Parties to the conflict concerning the exchange and repatriation of their nationals in enemy hands.
+In the study, development, acquisition or adoption of a new
+weapon, means or method of warfare, a High Contracting Party is
+under an obligation to determine whether its employment would,
+in some or all circumstances, be prohibited by this Protocol or
+by any other rule of international law applicable to the High
+Contracting Party.

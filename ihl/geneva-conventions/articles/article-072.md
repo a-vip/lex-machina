@@ -1,12 +1,15 @@
-# Article 72
+# Article 72 — Field of application
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_72`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Accused persons shall have the right to present evidence necessary to their defence and may, in particular, call witnesses. They shall have the right to be assisted by a qualified advocate or counsel of their own choice, who shall be able to visit them freely and shall enjoy the necessary facilities for preparing the defence
-Failing a choice by the accused, the Protecting Power may provide him with an advocate or counsel. When an accused person has to meet a serious charge and the Protecting Power is not functioning, the Occupying Power, subject to the consent of the accused, shall provide an advocate or counsel.
-Accused persons shall, unless they freely waive such assistance, be aided by an interpreter, both during preliminary investigation and during the hearing in court. They shall have at any time the right to object to the interpreter and to ask for his replacement.
+The provisions of this Section are additional to the rules
+concerning humanitarian protection of civilians and civilian objects
+in the power of a Party to the conflict contained in the Fourth
+Convention, particularly Parts I and m thereof, as well as to
+other applicable rules of international law relating to the protection
+of fundamental human rights during international armed conflict.

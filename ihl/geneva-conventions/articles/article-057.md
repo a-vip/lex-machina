@@ -1,11 +1,51 @@
-# Article 57
+# Article 57 — Precautions in attack
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_57`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-The Occupying Power may requisition civilian hospitals of hospitals only temporarily and only in cases of urgent necessity for the care of military wounded and sick, and then on condition that suitable arrangements are made in due time for the care and treatment of the patients and for the needs of the civilian population for hospital accommodation
-The material and stores of civilian hospitals cannot be requisitioned so long as they are necessary for the needs of the civilian population.
+1. In the conduct of military operations, constant care shall
+be taken to spare the civilian population, civilians and civilian
+objects.
+2. With respect to attacks, the following precautions shall
+be taken:
+(a) Those who plan or decide upon an attack shall:
+(i) Do everything feasible to verify that the objectives to
+be attacked are neither civilians nor civilian objects and are
+not subject to special protection but are military objectives
+within the meaning of paragraph 2 of Article 52 and that it is
+not prohibited by the provisions of this Protocol to attack them;
+(ii) Take all feasible precautions in the choice of means and
+methods of attack with a view to avoiding, and in any event to
+minimizing, incidental loss of civilian life, injury to civilians
+and damage to civilian objects;
+(iii) Refrain from deciding to launch any attack which may
+be expected to cause incidental loss of civilian life, injury
+to civilians, damage to civilian objects, or a combination thereof,
+which would be excessive in relation to the concrete and direct
+military advantage anticipated;
+(b) An attack shall be cancelled or suspended if it becomes
+apparent that the objective is not a military one or is subject
+to special protection or that the attack may be expected to cause
+incidental loss of civilian life, injury to civilians, damage
+to civilian objects, or a combination thereof, which would be
+excessive in relation to the concrete and direct military advantage
+anticipated;
+(c) Effective advance warning shall be given of attacks which
+may affect the civilian population, unless circumstances do not
+permit.
+3. When a choice is possible between several military objectives
+for obtaining a similar military advantage, the objective to be
+selected shall be that the attack on which may be expected to
+cause the least danger to civilian lives and to civilian objects.
+4. In the conduct of military operations at sea or in the air,
+each Party to the conflict shall, in conformity with its rights
+and duties under the rules of international law applicable in
+armed conflict, take all reasonable precautions to avoid losses
+of civilian lives and damage to civilian objects.
+5. No provision of this Article may be construed as authorizing
+any attacks against the civilian population, civilians or civilian
+objects.

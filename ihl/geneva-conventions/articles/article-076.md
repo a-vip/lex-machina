@@ -1,16 +1,21 @@
-# Article 76
+# Article 76 — Protection of women
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_76`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Protected persons accused of offences shall be detained in the occupied country, and if convicted they shall serve their sentences therein. They shall, if possible, be separated from other detainees and shall enjoy conditions of food and hygiene which will be sufficient to keep them in good health, and which will be at least equal to those obtaining in prisons in the occupied country
-They shall receive the medical attention required by their state of health.
-They shall also have the right to receive any spiritual assistance which they may require.
-Women shall be confined in separate quarters and shall be under the direct supervision of women.
-Proper regard shall be paid to the special treatment due to minors.
-Protected persons who are detained shall have the right to be visited by delegates of the Protecting Power and of the International Committee of the Red Cross, in accordance with the provisions of Article 143.
-Such persons shall have the right to receive at least one relief parcel monthly.
+1. Women shall be the object of special respect and shall be
+protected in particular against rape, forced prostitution and
+any other form of indecent assault.
+2. Pregnant women and mothers having dependent infants who
+are arrested, detained or interned for reasons related to the
+armed conflict, shall have their cases considered with the utmost
+priority.
+3. To the maximum extent feasible, the Parties to the conflict
+shall endeavour to avoid the pronouncement of the death penalty
+on pregnant women or mothers having dependent infants, for an
+offence related to the armed conflict. The death penalty for such
+offences shall not be executed on such women.

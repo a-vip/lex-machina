@@ -1,0 +1,35 @@
+# Article 77 — Protection of children
+
+- **Instrument**: Geneva Conventions & Additional Protocols
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
+- **Akoma Ntoso eId**: `art_77`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
+
+1. Children shall be the object of special respect and shall
+be protected against any form of indecent assault. The Parties
+to the conflict shall
+provide them with the care and aid they require, whether because
+of their age or for any other reason.
+2. The Parties to the conflict shall take all feasible measures
+in order that children who have not attained the age of fifteen
+years do not take a direct part in hostilities and, in particular,
+they shall refrain from recruiting them into their armed forces.
+In recruiting among those persons who have attained the age of
+fifteen years but who have not attained the age of eighteen years,
+the Parties to the conflict shall endeavour to give priority to
+those who are oldest.
+3. If, in exceptional cases, despite the provisions of paragraph
+2, children who have not attained the age of fifteen years take
+a direct part in hostilities and fall into the power of an adverse
+Party, they shall continue to benefit from the special protection
+accorded by this Article, whether or not they are prisoners of
+war.
+4. If arrested, detained or interned for reasons related to
+the armed conflict, children shall be held in quarters separate
+from the quarters of adults, except where families are accommodated
+as family units as provided in Article 75, paragraph 5.
+5. The death penalty for an offence related to armed conflict
+shall not be executed on persons who had not attained the age
+of eighteen years at the time the offence was committed.

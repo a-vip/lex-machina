@@ -1,13 +1,27 @@
-# Article 27
+# Article 27 — Medical aircraft in areas controlled by an
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_27`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Protected persons are entitled, in all circumstances, to respect for their persons, their honour, their family rights, their religious convictions and practices, and their manners and customs. They shall at all times be humanely treated, and shall be protected especially against all acts of violence or threats thereof and against insults and public curiosity
-Women shall be especially protected against any attack on their honour, in particular against rape, enforced prostitutiOn, or any form of indecent assault.
-Without prejudice to the provisions relating to their state of health, age and sex, all protected persons shall be treated with the same consideration by the Party to the conflict in whose power they are, without any adverse distinction based, in particular, on race, religion or political opinion.
-However, the Parties to the conflict may take such measures of control and security in regard to protected persons as may be necessary as a result of the war.
+adverse Party
+1. The medical aircraft of a Party to the conflict shall continue
+to be protected while flying over land or sea areas physically
+controlled by an adverse Patty, provided that prior agreement
+to such flights has been obtained from the competent authority
+of the adverse Party.
+2. A medical aircraft which flies over an area physically controlled
+by an adverse Party without, or in deviation from the terms of,
+an agreement provided for in paragraph 1, either through navigational
+error or because of an emergency affecting the safety of the flight,
+shall make every effort to identify itself and to inform the adverse
+Party of the circumstances. As soon as such medical aircraft has
+been recognized by the adverse Party, that Party shall make all
+reasonable efforts to given the order to land or to alight on
+water, referred to in Article 30, paragraph 1, or to take other
+measures to safeguard its own interests, and, in either case,
+to allow the aircraft time for compliance, before resorting to
+an attack against the aircraft.

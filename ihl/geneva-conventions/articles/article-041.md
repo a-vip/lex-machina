@@ -1,11 +1,25 @@
-# Article 41
+# Article 41 — Safeguard of an enemy hors de combat
 
 - **Instrument**: Geneva Conventions & Additional Protocols
-- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
-- **Document Symbol**: `75 UNTS 31-417`
+- **Stage**: Additional Protocols I and II (1977) (`1977-06-08`)
+- **Document Symbol**: `1125 UNTS 3 / 1125 UNTS 609`
 - **Akoma Ntoso eId**: `art_41`
 - **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+- **Institutional Author**: Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH) `<ihl@icrc.org>`
 
-Should the Power, in whose hands protected persons may be, consider the measures of control mentioned in the present Convention to be inadequate, it may not have recourse to any other measure of control more severe than that of assigned residence or internment, in accordance with the provisions of Articles 42 and 43
-In applying the provisions of Article 39, second paragraph, to the cases of persons required to leave their usual places of residence by virtue of a decision placing them in assigned residence, by virtue of a decision placing them in assigned residence, elsewhere, the Detaining Power shall be guided as closely as possible by the standards of welfare set forth in Part III, Section IV of this Convention.
+1. A person who is recognized or who, in the circumstances,
+should be recognized to be hors de combat shall not be made the
+object of attack.
+2. A person is hors de combat if:
+(a) He is in the power of an adverse Party;
+(b) He clearly expresses an intention to surrender; or
+(c) He has been rendered unconscious or is otherwise incapacitated
+by wounds or sickness, and therefore is incapable of defending
+himself;
+provided that in any of these cases he abstains from any hostile
+act and does not attempt to escape.
+3. When persons entitled to protection as prisons of war have
+fallen into the power of an adverse Party under unusual conditions
+of combat which prevent their evacuation as provided for in Part
+m, Section I, of the Third Convention, they shall be released
+and all feasible precautions shall be taken to ensure their safety.
