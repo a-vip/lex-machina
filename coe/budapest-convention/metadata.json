@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "coe-budapest-convention",
+  "path": "coe/budapest-convention",
+  "jurisdiction": "coe",
+  "domain": "cyber",
+  "title": "Council of Europe Convention on Cybercrime (Budapest Convention, ETS 185) & Second Additional Protocol (CETS 224)",
+  "short_title": "Budapest Cybercrime Convention",
+  "type": "treaty",
+  "celex": "ETS_185_CETS_224",
+  "eli": null,
+  "document_symbol": "ETS No. 185",
+  "stage": "budapest_convention_2001",
+  "stage_label": "Budapest Convention on Cybercrime (ETS 185)",
+  "published_date": "2001-11-23",
+  "in_force_date": "2004-07-01",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Council of Europe Committee of Ministers",
+    "email": "cm@coe.int"
+  },
+  "source_url": "https://rm.coe.int/1680081561",
+  "summary": "First binding international treaty harmonizing substantive cybercrime offenses, procedural electronic evidence powers, Article 15 human rights safeguards, and 24/7 mutual legal assistance.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "d5d38a49519121a3cc9a37a623f3047f4cefb25423494cee6780ad75eeeef0af",
+    "final_url": "https://rm.coe.int/1680081561",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 211660,
+    "fetched_utc": "2026-11-23T14:31:37Z",
+    "sha256_normalized_full_text": "49a0d5c74ed7e57cf89bb695906df9584a9f0c9dad99d142d73e8047c0975007"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 48,
+    "annexes": 0
+  }
+}
