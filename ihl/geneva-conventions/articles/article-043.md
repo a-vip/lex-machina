@@ -1,0 +1,11 @@
+# Article 43
+
+- **Instrument**: Geneva Conventions & Additional Protocols
+- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 31-417`
+- **Akoma Ntoso eId**: `art_43`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+Any protected person who has been interned or placed in assigned residence shall be entitled to have such action reconsidered as soon as possible by an appropriate court or administrative board designated by the Detaining Power for that purpose. If the internment or placing in assigned residence is maintained, the court or administrative board shall periodically, and at least twice yearly, give consideration to his or her case, with a view to the favourable amendment of the initial decision, if circumstances permit
+Unless the protected persons concerned object, the Detaining Power shall, as rapidly as possible, give the Protecting Power the names of any protected persons who have been interned or subjected to assigned residence, or who have been released from internment or assigned residence. The decisions of the courts or boards mentioned in the first paragraph of the present Article shall also, subject to the same conditions, be notified as rapidly as possible to the Protecting Power.

@@ -1,0 +1,18 @@
+# Article 96
+
+- **Instrument**: Geneva Conventions & Additional Protocols
+- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 31-417`
+- **Akoma Ntoso eId**: `art_96`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+All labour detachments shall remain part of and dependent upon a place of internment. The competent authorities of the Detaining Power and the commandant of a place of internment shall be responsible for the observance in a labour detachment of the provisions of the present Convention. The commandant shall keep an up-to-date list of the labour detachments subordinate to him and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross and of other humanitarian organizations who may visit the places of internment
+CHAPTER VI
+Personal Property and Financial Resources Art. 97. Internees shall be permitted to retain articles of personal use. Monies, cheques, bonds, etc., and valuables in their possession may not be taken from them except in accordance with established procedure. Detailed receipts shall be given therefor.
+The amounts shall be paid into the account of every internee as provided for in Article 98. Such amounts may not be converted into any other currency unless legislation in force in the territory in which the owner is interned so requires or the internee gives his consent.
+Articles which have above all a personal or sentimental value may not be taken away.
+A woman internee shall not be searched except by a woman.
+On release or repatriation, internees shall be given all articles, monies or other valuables taken from them during internment and shall receive in currency the balance of any credit to their accounts kept in accordance with Article 98, with the exception of any articles or amounts withheld by the Detaining Power by virtue of its legislation in force. If the property of an internee is so withheld, the owner shall receive a detailed receipt.
+Family or identity documents in the possession of internees may not be taken away without a receipt being given. At no time shall internees be left without identity documents. If they have none, they shall be issued with special documents drawn up by the detaining authorities, which will serve as their identity papers until the end of their internment.
+Internees may keep on their persons a certain amount of money, in cash or in the shape of purchase coupons, to enable them to make purchases.

@@ -1,0 +1,14 @@
+# Article 91
+
+- **Instrument**: Geneva Conventions & Additional Protocols
+- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 31-417`
+- **Akoma Ntoso eId**: `art_91`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+Every place of internment shall have an adequate infirmary, under the direction of a qualified doctor, where internees may have the attention they require, as well as appropriate diet. Isolation wards shall be set aside for cases of contagious or mental diseases
+Maternity cases and internees suffering from serious diseases, or whose condition requires special treatment, a surgical operation or hospital care, must be admitted to any institution where adequate treatment can be given and shall receive care not inferior to that provided for the general population.
+Internees shall, for preference, have the attention of medical personnel of their own nationality.
+Internees may not be prevented from presenting themselves to the medical authorities for examination. The medical authorities of the Detaining Power shall, upon request, issue to every internee who has undergone treatment an official certificate showing the nature of his illness or injury, and the duration and nature of the treatment given. A duplicate of this certificate shall be forwarded to the Central Agency provided for in Article 140.
+Treatment, including the provision of any apparatus necessary for the maintenance of internees in good health, particularly dentures and other artificial appliances and spectacles, shall be free of charge to the internee.

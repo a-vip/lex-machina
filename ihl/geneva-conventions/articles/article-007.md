@@ -1,0 +1,11 @@
+# Article 7
+
+- **Instrument**: Geneva Conventions & Additional Protocols
+- **Stage**: Geneva Conventions I-IV (1949) (`1949-08-12`)
+- **Document Symbol**: `75 UNTS 31-417`
+- **Akoma Ntoso eId**: `art_7`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Diplomatic Conference of Geneva `<ihl@icrc.org>`
+
+In addition to the agreements expressly provided for in Articles 11, 14, 15, 17, 36, 108, 109, 132, 133 and 149, the High Contracting Parties may conclude other special agreements for all matters concerning which they may deem it suitable to make separate provision. No special agreement shall adversely affect the situation of protected persons, as defined by the present Convention, not restrict the rights which it confers upon them
+Protected persons shall continue to have the benefit of such agreements as long as the Convention is applicable to them, except where express provisions to the contrary are contained in the aforesaid or in subsequent agreements, or where more favourable measures have been taken with regard to them by one or other of the Parties to the conflict.

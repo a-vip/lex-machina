@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "ihl-geneva-conventions",
+  "path": "ihl/geneva-conventions",
+  "jurisdiction": "ihl",
+  "domain": "ihl",
+  "title": "Geneva Conventions of 12 August 1949 and Additional Protocols I & II of 8 June 1977",
+  "short_title": "Geneva Conventions & Additional Protocols",
+  "type": "treaty",
+  "celex": "IHL_GC_1949_AP_1977",
+  "eli": null,
+  "document_symbol": "75 UNTS 31-417",
+  "stage": "geneva_conventions_1949",
+  "stage_label": "Geneva Conventions I-IV (1949)",
+  "published_date": "1949-08-12",
+  "in_force_date": "1950-10-21",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Diplomatic Conference of Geneva",
+    "email": "ihl@icrc.org"
+  },
+  "source_url": "https://avalon.law.yale.edu/20th_century/geneva07.asp",
+  "summary": "Four Geneva Conventions of 12 August 1949 establishing Common Articles 1-3 and the Grave Breaches regime.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "1634ac0ca9f639f2d575dbf06a815e89c5d4affda56aafb35b6f33b3db8b9ace",
+    "final_url": "https://avalon.law.yale.edu/20th_century/geneva07.asp",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 143236,
+    "fetched_utc": "2026-11-23T14:31:31Z",
+    "sha256_normalized_full_text": "5a2d2e9c58c8ead51cc705ff6b3d6fac87b837a945db59f0ad715e89638cab2e"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 158,
+    "annexes": 0
+  }
+}
