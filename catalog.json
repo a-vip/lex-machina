@@ -1,0 +1,531 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "a-vip/lex-machina",
+  "description": "Declarative manifest of global AI regulations, cyber norms, and international humanitarian law instruments tracked with deterministic institutional Git history.",
+  "instruments": [
+    {
+      "id": "eu-ai-act",
+      "path": "eu/ai-act",
+      "jurisdiction": "eu",
+      "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
+      "short_title": "EU AI Act",
+      "type": "regulation",
+      "celex": "32024R1689",
+      "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+      "status": "in_force",
+      "in_force_date": "2024-08-01",
+      "cross_references": [
+        {
+          "target": "eu/gdpr",
+          "relationship": "complements",
+          "provisions": [
+            "Article 2(7)",
+            "Article 5(1)(g)",
+            "Article 10(5)",
+            "Recital 10"
+          ],
+          "note": "Without prejudice to Regulation (EU) 2016/679 (GDPR); relies on GDPR concepts for personal data and biometric categorization."
+        },
+        {
+          "target": "coe/ai-convention",
+          "relationship": "harmonized_with",
+          "provisions": [
+            "Article 1",
+            "Article 5",
+            "Article 9"
+          ],
+          "note": "Aligned with Council of Europe Framework Convention on AI (CETS 225) on risk-based approach and fundamental rights protections."
+        },
+        {
+          "target": "national/us/nist-ai-rmf",
+          "relationship": "comparative_framework",
+          "provisions": [
+            "Article 9",
+            "Article 15",
+            "Article 40"
+          ],
+          "note": "Risk management system in Article 9 parallels NIST AI RMF 1.0 Govern-Map-Measure-Manage lifecycle functions."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "commission_proposal",
+          "stage_label": "European Commission Proposal",
+          "date": "2021-04-21",
+          "document_symbol": "COM(2021) 206 final",
+          "celex": "52021PC0206",
+          "author_name": "European Commission",
+          "author_email": "commission@europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206",
+          "summary": "Initial proposal by the European Commission laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts.",
+          "commit_subject": "[2021-04-21] Propose EU Artificial Intelligence Act (COM(2021) 206 final)"
+        },
+        {
+          "stage": "council_general_approach",
+          "stage_label": "Council of the EU General Approach",
+          "date": "2022-12-06",
+          "document_symbol": "14954/22",
+          "celex": "ST_14954_2022_INIT",
+          "author_name": "Council of the European Union",
+          "author_email": "council@consilium.europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf",
+          "summary": "Council General Approach narrowing the definition of AI systems, introducing rules on general purpose AI systems, refining national security exclusions, and modifying law enforcement remote biometric identification safeguards.",
+          "commit_subject": "[2022-12-06] Adopt Council General Approach on the AI Act (14954/22)"
+        },
+        {
+          "stage": "parliament_mandate",
+          "stage_label": "European Parliament Negotiating Mandate",
+          "date": "2023-06-14",
+          "document_symbol": "P9_TA(2023)0236",
+          "celex": "52023AP0236",
+          "author_name": "European Parliament",
+          "author_email": "parliament@europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html",
+          "summary": "European Parliament plenary negotiating mandate banning real-time remote biometric identification in publicly accessible spaces, biometric categorization, predictive policing, untargeted facial scraping, emotion recognition in workplaces/education, and introducing tiered obligations for foundation models and generative AI.",
+          "commit_subject": "[2023-06-14] Adopt European Parliament Negotiating Mandate (P9_TA(2023)0236)"
+        },
+        {
+          "stage": "trilogue_provisional_agreement",
+          "stage_label": "Provisional Trilogue Agreement Text",
+          "date": "2024-01-26",
+          "document_symbol": "5662/24",
+          "celex": "ST_5662_2024_INIT",
+          "author_name": "EU Trilogue Negotiators",
+          "author_email": "trilogue@europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf",
+          "summary": "Consolidated compromise text following political trilogue agreement between Parliament, Council, and Commission establishing Fundamental Rights Impact Assessments (Article 27), General-Purpose AI Models with systemic risk thresholds (10^25 FLOPs), and narrowly circumscribed law enforcement exceptions in Article 5.",
+          "commit_subject": "[2024-01-26] Seal Provisional Trilogue Agreement Text (5662/24)"
+        },
+        {
+          "stage": "official_journal_final",
+          "stage_label": "Final Official Journal Publication",
+          "date": "2024-07-12",
+          "document_symbol": "OJ L, 2024/1689",
+          "celex": "32024R1689",
+          "author_name": "European Union Official Journal",
+          "author_email": "oj@europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689",
+          "summary": "Lawyer-linguist finalized Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence, published in the Official Journal of the European Union (180 recitals, 113 articles, 13 annexes).",
+          "commit_subject": "[2024-07-12] Publish Final EU AI Act in Official Journal (OJ L, 2024/1689)"
+        }
+      ]
+    },
+    {
+      "id": "eu-gdpr",
+      "path": "eu/gdpr",
+      "jurisdiction": "eu",
+      "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
+      "short_title": "EU GDPR",
+      "type": "regulation",
+      "celex": "32016R0679",
+      "eli": "http://data.europa.eu/eli/reg/2016/679/oj",
+      "status": "in_force",
+      "in_force_date": "2018-05-25",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "referenced_by",
+          "provisions": [
+            "Article 4",
+            "Article 9",
+            "Article 22",
+            "Article 35"
+          ],
+          "note": "Automated individual decision-making including profiling (Article 22) and Data Protection Impact Assessments (Article 35) directly underpin high-risk AI deployers' obligations and Fundamental Rights Impact Assessments."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "commission_proposal",
+          "stage_label": "European Commission Proposal",
+          "date": "2012-01-25",
+          "document_symbol": "COM(2012) 11 final",
+          "celex": "52012PC0011",
+          "author_name": "European Commission",
+          "author_email": "commission@europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52012PC0011",
+          "summary": "Proposal for a Regulation of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation).",
+          "commit_subject": "[2012-01-25] Propose General Data Protection Regulation (COM(2012) 11 final)"
+        },
+        {
+          "stage": "official_journal_final",
+          "stage_label": "Final Official Journal Text",
+          "date": "2016-04-27",
+          "document_symbol": "OJ L 119, 4.5.2016",
+          "celex": "32016R0679",
+          "author_name": "European Union Official Journal",
+          "author_email": "oj@europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
+          "summary": "Adopted Regulation (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.",
+          "commit_subject": "[2016-04-27] Adopt Final General Data Protection Regulation (32016R0679)"
+        },
+        {
+          "stage": "corrigendum_2018",
+          "stage_label": "2018 Official Journal Corrigendum Consolidated",
+          "date": "2018-05-23",
+          "document_symbol": "OJ L 127, 23.5.2018",
+          "celex": "02016R0679-20160504",
+          "author_name": "Council of the European Union",
+          "author_email": "council@consilium.europa.eu",
+          "source_type": "eurlex",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504",
+          "summary": "Corrigendum to Regulation (EU) 2016/679 refining cross-references and technical terminology in Article 37 (Designation of the data protection officer), Article 40, and Recital 71 prior to application date.",
+          "commit_subject": "[2018-05-23] Apply 2018 Corrigendum to GDPR (OJ L 127)"
+        }
+      ]
+    },
+    {
+      "id": "coe-ai-convention",
+      "path": "coe/ai-convention",
+      "jurisdiction": "coe",
+      "title": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225)",
+      "short_title": "CoE AI Convention (CETS 225)",
+      "type": "treaty",
+      "celex": "CETS_225",
+      "status": "open_for_signature",
+      "in_force_date": "2024-09-05",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "harmonized_with",
+          "provisions": [
+            "Article 1",
+            "Article 4",
+            "Article 11",
+            "Article 16"
+          ],
+          "note": "First legally binding international treaty on AI; negotiated in parallel with the EU AI Act."
+        },
+        {
+          "target": "un/ai-governance",
+          "relationship": "complements",
+          "provisions": [
+            "Article 3",
+            "Article 7",
+            "Article 16"
+          ],
+          "note": "Reinforces UNGA Resolution A/RES/78/265 human-rights lifecycle protection principles."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "revised_zero_draft",
+          "stage_label": "CAI Revised Zero Draft",
+          "date": "2023-01-06",
+          "document_symbol": "CAI(2023)01",
+          "author_name": "Committee on Artificial Intelligence (CAI)",
+          "author_email": "cai@coe.int",
+          "source_type": "un_coe",
+          "source_url": "https://rm.coe.int/cai-2023-01-revised-zero-draft-framework-convention-public/1680aa193f",
+          "summary": "Revised Zero Draft of the [Framework] Convention on Artificial Intelligence, Human Rights, Democracy and the Rule of Law prepared by the Chair of the CAI.",
+          "commit_subject": "[2023-01-06] Release CAI Revised Zero Draft (CAI(2023)01)"
+        },
+        {
+          "stage": "consolidated_working_draft",
+          "stage_label": "CAI Consolidated Working Draft",
+          "date": "2023-12-18",
+          "document_symbol": "CAI(2023)28",
+          "author_name": "Committee on Artificial Intelligence (CAI)",
+          "author_email": "cai@coe.int",
+          "source_type": "un_coe",
+          "source_url": "https://rm.coe.int/cai-2023-28-draft-framework-convention/1680ade043",
+          "summary": "Consolidated Working Draft of the Framework Convention following multi-stakeholder negotiations on public vs. private sector scope, national defense exemptions, and algorithmic risk and impact assessments.",
+          "commit_subject": "[2023-12-18] Issue CAI Consolidated Working Draft (CAI(2023)28)"
+        },
+        {
+          "stage": "adopted_convention_cets_225",
+          "stage_label": "Adopted Framework Convention (CETS 225) + Explanatory Report",
+          "date": "2024-05-17",
+          "document_symbol": "CETS No. 225",
+          "author_name": "Council of Europe Committee of Ministers",
+          "author_email": "cm@coe.int",
+          "source_type": "un_coe",
+          "source_url": "https://rm.coe.int/1680afae3c",
+          "summary": "Adopted Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225) and its official Explanatory Report, adopted by the Committee of Ministers at its 133rd Session in Strasbourg.",
+          "commit_subject": "[2024-05-17] Adopt CoE Framework Convention on AI (CETS No. 225) + Explanatory Report"
+        }
+      ]
+    },
+    {
+      "id": "un-ccw-laws",
+      "path": "un/ccw-laws",
+      "jurisdiction": "un",
+      "title": "UN CCW Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems (LAWS)",
+      "short_title": "UN CCW GGE on LAWS",
+      "type": "multilateral_normative_instrument",
+      "celex": "CCW_GGE_LAWS",
+      "status": "active_negotiation",
+      "in_force_date": null,
+      "cross_references": [
+        {
+          "target": "ihl/geneva-conventions",
+          "relationship": "implements_and_interprets",
+          "provisions": [
+            "Principle (a)",
+            "Principle (c)",
+            "Principle (e)",
+            "Article 36 Weapons Review"
+          ],
+          "note": "Affirms that International Humanitarian Law (specifically Geneva Conventions and Additional Protocol I Articles 35, 36, 48, 51, 57) applies fully to all weapons systems, including LAWS."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "guiding_principles_2019",
+          "stage_label": "CCW GGE 11 Guiding Principles on LAWS",
+          "date": "2019-08-21",
+          "document_symbol": "CCW/GGE.1/2019/3",
+          "author_name": "UN CCW GGE",
+          "author_email": "ccw@un.org",
+          "source_type": "un_coe",
+          "source_url": "https://undocs.org/en/CCW/GGE.1/2019/3",
+          "summary": "Adoption of the 11 Guiding Principles affirmed by the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems (Annex IV), endorsed by the Meeting of the High Contracting Parties to the CCW.",
+          "commit_subject": "[2019-08-21] Adopt CCW GGE 11 Guiding Principles on LAWS (CCW/GGE.1/2019/3)"
+        },
+        {
+          "stage": "rolling_text_report_2023",
+          "stage_label": "CCW GGE Report & Rolling Text Evolution",
+          "date": "2023-05-26",
+          "document_symbol": "CCW/GGE.1/2023/2",
+          "author_name": "UN CCW GGE",
+          "author_email": "ccw@un.org",
+          "source_type": "un_coe",
+          "source_url": "https://undocs.org/en/CCW/GGE.1/2023/2",
+          "summary": "Consensus 2023 Report of the GGE on LAWS establishing two-tier operationalization: prohibition of weapons systems that cannot be used in compliance with IHL or produce uncontrollable effects, and strict regulation (context, duration, geographic scope, human-machine interaction) of other autonomous weapons systems.",
+          "commit_subject": "[2023-05-26] Adopt CCW GGE Consensus Report & Two-Tier Normative Framework (CCW/GGE.1/2023/2)"
+        }
+      ]
+    },
+    {
+      "id": "un-ai-governance",
+      "path": "un/ai-governance",
+      "jurisdiction": "un",
+      "title": "United Nations General Assembly Global AI Governance Resolutions & Global Digital Compact",
+      "short_title": "UN Global AI Governance",
+      "type": "un_resolution",
+      "celex": "UNGA_AI_GOV",
+      "status": "adopted",
+      "in_force_date": "2024-03-21",
+      "cross_references": [
+        {
+          "target": "coe/ai-convention",
+          "relationship": "complements",
+          "provisions": [
+            "Article 1",
+            "Article 4",
+            "Article 6"
+          ],
+          "note": "Global baseline consensus supporting binding regional instruments like CETS 225."
+        },
+        {
+          "target": "national/us/nist-ai-rmf",
+          "relationship": "references_standards",
+          "provisions": [
+            "Article 5",
+            "Article 7"
+          ],
+          "note": "Explicitly encourages internationally interoperable technical risk management standards."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "unga_res_78_265",
+          "stage_label": "UNGA Resolution A/RES/78/265",
+          "date": "2024-03-21",
+          "document_symbol": "A/RES/78/265",
+          "author_name": "United Nations General Assembly",
+          "author_email": "unga@un.org",
+          "source_type": "un_coe",
+          "source_url": "https://undocs.org/en/A/RES/78/265",
+          "summary": "Landmark consensus resolution 'Seizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development', adopted without a vote by all 193 UN Member States.",
+          "commit_subject": "[2024-03-21] Adopt UNGA Resolution A/RES/78/265 on Safe, Secure and Trustworthy AI"
+        },
+        {
+          "stage": "global_digital_compact",
+          "stage_label": "UN Global Digital Compact (A/79/L.2)",
+          "date": "2024-09-22",
+          "document_symbol": "A/79/L.2",
+          "author_name": "United Nations Summit of the Future",
+          "author_email": "summit@un.org",
+          "source_type": "un_coe",
+          "source_url": "https://undocs.org/en/A/RES/79/1",
+          "summary": "Global Digital Compact (Annex I to the Pact for the Future, A/79/L.2 / A/RES/79/1) establishing the International Scientific Panel on AI and the Global Dialogue on AI Governance under UN auspices.",
+          "commit_subject": "[2024-09-22] Adopt UN Global Digital Compact (A/79/L.2) at Summit of the Future"
+        }
+      ]
+    },
+    {
+      "id": "ihl-geneva-conventions",
+      "path": "ihl/geneva-conventions",
+      "jurisdiction": "ihl",
+      "title": "Geneva Conventions of 12 August 1949 and Additional Protocols I & II of 8 June 1977",
+      "short_title": "Geneva Conventions & Additional Protocols",
+      "type": "treaty",
+      "celex": "IHL_GC_1949_AP_1977",
+      "status": "in_force",
+      "in_force_date": "1950-10-21",
+      "cross_references": [
+        {
+          "target": "un/ccw-laws",
+          "relationship": "foundational_treaty_for",
+          "provisions": [
+            "Common Article 1",
+            "Common Article 3",
+            "Article 35",
+            "Article 36",
+            "Article 48",
+            "Article 51",
+            "Article 57"
+          ],
+          "note": "Additional Protocol I Part III Section I (Articles 35-36 on methods/means of warfare and new weapons reviews) and Part IV (distinction, proportionality, precautions in attack) form the primary legal benchmark for autonomous weapons systems."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "geneva_conventions_1949",
+          "stage_label": "Geneva Conventions I–IV (1949)",
+          "date": "1949-08-12",
+          "document_symbol": "75 UNTS 31-417",
+          "author_name": "Diplomatic Conference of Geneva",
+          "author_email": "ihl@icrc.org",
+          "source_type": "un_coe",
+          "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-1949additional-protocols-and-their-commentaries",
+          "summary": "Adoption of the Four Geneva Conventions of 12 August 1949 for the Protection of War Victims, including Common Article 1 (obligation to respect and ensure respect), Common Article 2 (application in international armed conflicts), Common Article 3 (non-international armed conflicts), and Grave Breaches regime.",
+          "commit_subject": "[1949-08-12] Adopt Geneva Conventions I-IV for the Protection of War Victims"
+        },
+        {
+          "stage": "additional_protocols_1977",
+          "stage_label": "Additional Protocols I and II (1977)",
+          "date": "1977-06-08",
+          "document_symbol": "1125 UNTS 3 / 1125 UNTS 609",
+          "author_name": "Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH)",
+          "author_email": "ihl@icrc.org",
+          "source_type": "un_coe",
+          "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+          "summary": "Adoption of Protocol Additional I (specifically Part III, Section I — Methods and Means of Warfare, including Article 35 Basic Rules, Article 36 New Weapons Reviews, and Articles 48, 51, 57 on Distinction, Proportionality, and Precautions in Attack) and Protocol Additional II relating to Non-International Armed Conflicts.",
+          "commit_subject": "[1977-06-08] Adopt Additional Protocols I (incl. Art. 36 Weapons Review) and II to the Geneva Conventions"
+        }
+      ]
+    },
+    {
+      "id": "national-us-nist-ai-rmf",
+      "path": "national/us/nist-ai-rmf",
+      "jurisdiction": "national",
+      "title": "United States NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0 & GenAI Profile)",
+      "short_title": "US NIST AI RMF",
+      "type": "national_framework",
+      "celex": "NIST_AI_100_1",
+      "status": "active",
+      "in_force_date": "2023-01-26",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "comparative_framework",
+          "provisions": [
+            "Article 1 (GOVERN)",
+            "Article 2 (MAP)",
+            "Article 3 (MEASURE)",
+            "Article 4 (MANAGE)",
+            "Article 5 (GenAI Risks)"
+          ],
+          "note": "Maps directly onto EU AI Act Article 9 Risk Management System and Article 53/55 General-Purpose AI Model obligations."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "nist_ai_rmf_1_0",
+          "stage_label": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1)",
+          "date": "2023-01-26",
+          "document_symbol": "NIST AI 100-1",
+          "author_name": "National Institute of Standards and Technology (NIST)",
+          "author_email": "ai-rmf@nist.gov",
+          "source_type": "national",
+          "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+          "summary": "Release of NIST AI RMF 1.0 defining trustworthiness characteristics (valid/reliable, safe, secure/resilient, accountable/transparent, explainable/interpretable, privacy-enhanced, fair with harmful bias managed) and the four Core Functions: GOVERN, MAP, MEASURE, and MANAGE.",
+          "commit_subject": "[2023-01-26] Publish NIST AI Risk Management Framework 1.0 (NIST AI 100-1)"
+        },
+        {
+          "stage": "nist_ai_600_1_genai",
+          "stage_label": "NIST AI 600-1 Generative AI Profile",
+          "date": "2024-07-26",
+          "document_symbol": "NIST AI 600-1",
+          "author_name": "National Institute of Standards and Technology (NIST)",
+          "author_email": "ai-rmf@nist.gov",
+          "source_type": "national",
+          "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "summary": "Release of the NIST AI RMF Generative Artificial Intelligence Profile (NIST AI 600-1) pursuant to Executive Order 14110, adding 12 specific GenAI risk categories (CBRN capabilities, confabulation, dangerous/violent recommendations, data privacy, environmental impacts, information integrity, intellectual property, value chain security) and over 200 suggested actions across GOVERN, MAP, MEASURE, and MANAGE.",
+          "commit_subject": "[2024-07-26] Extend NIST AI RMF with Generative AI Profile (NIST AI 600-1)"
+        }
+      ]
+    },
+    {
+      "id": "national-cn-cac-ai-measures",
+      "path": "national/cn/cac-ai-measures",
+      "jurisdiction": "national",
+      "title": "People's Republic of China CAC Algorithmic, Deep Synthesis, and Generative AI Regulatory Trilogy",
+      "short_title": "China CAC AI Regulations",
+      "type": "national_regulation",
+      "celex": "CN_CAC_AI_TRILOGY",
+      "status": "in_force",
+      "in_force_date": "2022-03-01",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "comparative_framework",
+          "provisions": [
+            "Article 4",
+            "Article 7",
+            "Article 12",
+            "Article 17"
+          ],
+          "note": "Pioneered mandatory algorithmic registry filings, synthetic content watermarking (paralleled in EU AI Act Article 50), and training data legitimacy audits."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "algorithmic_recommendation_2022",
+          "stage_label": "CAC Algorithmic Recommendation Provisions",
+          "date": "2022-01-04",
+          "document_symbol": "CAC Order No. 9",
+          "author_name": "Cyberspace Administration of China (CAC)",
+          "author_email": "cac@cac.gov.cn",
+          "source_type": "national",
+          "source_url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+          "summary": "Internet Information Service Algorithmic Recommendation Management Provisions establishing user rights to opt out of algorithmic profiling, prohibitions on price discrimination and addiction-inducing dark patterns, protection of gig-economy dispatch workers, and the mandatory Algorithm Filing Registry.",
+          "commit_subject": "[2022-01-04] Promulgate CAC Algorithmic Recommendation Management Provisions"
+        },
+        {
+          "stage": "deep_synthesis_2022",
+          "stage_label": "CAC Deep Synthesis Provisions",
+          "date": "2022-11-25",
+          "document_symbol": "CAC Order No. 12",
+          "author_name": "Cyberspace Administration of China (CAC)",
+          "author_email": "cac@cac.gov.cn",
+          "source_type": "national",
+          "source_url": "https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm",
+          "summary": "Internet Information Service Deep Synthesis Management Provisions extending algorithmic governance to generative audio, video, image, and text synthesis, mandating both implicit metadata watermarking and explicit conspicuous labeling of synthetic media, biometric consent for face/voice editing, and security assessments.",
+          "commit_subject": "[2022-11-25] Expand CAC Framework with Deep Synthesis Management Provisions"
+        },
+        {
+          "stage": "generative_ai_measures_2023",
+          "stage_label": "Interim Measures for the Management of Generative AI Services",
+          "date": "2023-07-10",
+          "document_symbol": "CAC Order No. 15",
+          "author_name": "Cyberspace Administration of China (CAC)",
+          "author_email": "cac@cac.gov.cn",
+          "source_type": "national",
+          "source_url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+          "summary": "Interim Measures for the Management of Generative Artificial Intelligence Services (jointly issued by CAC, NDRC, MoE, MOST, MIIT, MPS, NRTA) governing public-facing foundation and generative AI services, training data IP and personal information compliance, accuracy/reliability duties, and tiered regulation excluding internal R&D.",
+          "commit_subject": "[2023-07-10] Enact CAC Interim Measures for the Management of Generative AI Services"
+        }
+      ]
+    }
+  ]
+}

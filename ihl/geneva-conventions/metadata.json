@@ -1,0 +1,26 @@
+{
+  "instrument_id": "ihl-geneva-conventions",
+  "path": "ihl/geneva-conventions",
+  "jurisdiction": "ihl",
+  "title": "Geneva Conventions of 12 August 1949 and Additional Protocols I & II of 8 June 1977",
+  "short_title": "Geneva Conventions & Additional Protocols",
+  "type": "treaty",
+  "celex": "IHL_GC_1949_AP_1977",
+  "document_symbol": "75 UNTS 31-417",
+  "stage": "geneva_conventions_1949",
+  "stage_label": "Geneva Conventions I–IV (1949)",
+  "published_date": "1949-08-12",
+  "in_force_date": "1950-10-21",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Diplomatic Conference of Geneva",
+    "email": "ihl@icrc.org"
+  },
+  "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-1949additional-protocols-and-their-commentaries",
+  "summary": "Adoption of the Four Geneva Conventions of 12 August 1949 for the Protection of War Victims, including Common Article 1 (obligation to respect and ensure respect), Common Article 2 (application in international armed conflicts), Common Article 3 (non-international armed conflicts), and Grave Breaches regime.",
+  "counts": {
+    "recitals": 1,
+    "articles": 4,
+    "annexes": 0
+  }
+}
