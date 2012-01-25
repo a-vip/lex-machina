@@ -1,0 +1,24 @@
+# Article 19 — Right to object
+
+- **Instrument**: EU GDPR
+- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Document Symbol**: `COM(2012) 11 final`
+- **Akoma Ntoso eId**: `art_19`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Commission `<commission@europa.eu>`
+
+1. The data subject shall
+have the right to object, on grounds relating to their particular situation, at
+any time to the processing of personal data which is based on points (d),
+(e) and (f) of Article 6(1), unless the controller demonstrates compelling
+legitimate grounds for the processing which override the interests or
+fundamental rights and freedoms of the data subject.
+2. Where personal data are
+processed for direct marketing purposes, the data subject shall have the right
+to object free of charge to the processing of their personal data for such
+marketing. This right shall be explicitly offered to the data subject in an
+intelligible manner and shall be clearly distinguishable from other
+information.
+3. Where an objection is upheld
+pursuant to paragraphs 1 and 2, the controller shall no longer use or otherwise
+process the personal data concerned.

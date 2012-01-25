@@ -1,0 +1,63 @@
+# Article 33 — Data protection impact assessment
+
+- **Instrument**: EU GDPR
+- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Document Symbol**: `COM(2012) 11 final`
+- **Akoma Ntoso eId**: `art_33`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Commission `<commission@europa.eu>`
+
+1. Where processing
+operations present specific risks to the rights and freedoms of data subjects
+by virtue of their nature, their scope or their purposes, the controller or the
+processor acting on the controller's behalf shall carry out an assessment of
+the impact of the envisaged processing operations on the protection of personal
+data.
+2. The following processing
+operations in particular present specific risks referred to in paragraph 1:
+(a) a systematic and extensive evaluation
+of personal aspects relating to a natural person or for analysing or predicting
+in particular the natural person's economic situation, location, health,
+personal preferences, reliability or behaviour, which is based on automated
+processing and on which measures are based that produce legal effects
+concerning the individual or significantly affect the individual;
+(b) information on sex life, health, race
+and ethnic origin or for the provision of health care, epidemiological
+researches, or surveys of mental or infectious diseases, where the data are
+processed for taking measures or decisions regarding specific individuals on a
+large scale;
+(c) monitoring publicly accessible areas,
+especially when using optic-electronic devices (video surveillance) on a large
+scale;
+(d) personal data in large scale filing
+systems on children, genetic data or biometric data;
+(e) other processing operations for which
+the consultation of the supervisory authority is required pursuant to point (b)
+of Article 34(2).
+3. The assessment shall
+contain at least a general description of the envisaged processing operations,
+an assessment of the risks to the rights and freedoms of data subjects, the
+measures envisaged to address the risks, safeguards, security measures and
+mechanisms to ensure the protection of personal data and to demonstrate
+compliance with this Regulation, taking into account the rights and legitimate
+interests of data subjects and other persons concerned.
+4. The controller shall seek
+the views of data subjects or their representatives on the intended processing,
+without prejudice to the protection of commercial
+or public interests or the security of the processing operations.
+5. Where the controller is a
+public authority or body and where the processing results from a legal
+obligation pursuant to point (c) of Article 6(1) providing for rules and
+procedures pertaining to the processing operations and regulated by Union law,
+paragraphs 1 to 4 shall not apply, unless Member States deem it necessary to
+carry out such assessment prior to the processing activities.
+6. The Commission shall be empowered to adopt delegated acts in accordance
+with Article 86 for the purpose of further specifying the criteria and conditions
+for the processing operations likely to present specific risks referred
+to in paragraphs 1 and 2 and the requirements for the assessment referred to in
+paragraph 3, including conditions for scalability, verification and
+auditability. In doing so, the Commission shall consider specific measures for micro, small and medium-sized enterprises.
+7. The Commission may specify
+standards and procedures for carrying out and verifying and auditing the assessment
+referred to in paragraph 3. Those implementing acts shall be adopted in
+accordance with the examination procedure referred to in Article 87(2).

@@ -1,0 +1,51 @@
+# Article 56 — Joint operations of supervisory
+
+- **Instrument**: EU GDPR
+- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Document Symbol**: `COM(2012) 11 final`
+- **Akoma Ntoso eId**: `art_56`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Commission `<commission@europa.eu>`
+
+authorities
+1. In order to step up co-operation
+and mutual assistance, the supervisory authorities shall carry out joint
+investigative tasks, joint enforcement measures and other joint operations, in
+which designated members or staff from other Member States' supervisory
+authorities are involved.
+2. In cases where data
+subjects in several Member States are likely to be
+affected by processing operations, a supervisory authority of each of those Member States shall have the
+right to participate in the joint investigative tasks or joint operations, as
+appropriate. The competent supervisory authority shall invite the supervisory
+authority of each of those Member States to take part
+in the respective joint investigative tasks or joint operations and respond to the request of a supervisory authority to
+participate in the operations without delay.
+3. Each supervisory authority may, as a host supervisory authority, in compliance with
+its own national law, and with the seconding supervisory
+authority’s authorisation, confer executive powers,
+including investigative tasks on the seconding supervisory
+authority’s members or staff involved in joint
+operations or, in so far as the host supervisory
+authority’s law permits, allow the seconding supervisory authority’s members or staff to
+exercise their executive powers in accordance with the seconding supervisory authority’s law. Such executive
+powers may be exercised only under the guidance and, as a rule, in the presence
+of members or staff from the host supervisory authority. The seconding supervisory authority's members or staff shall be subject to the host supervisory authority's national law. The
+host supervisory authority shall
+assume responsibility for their actions.
+4. Supervisory
+authorities shall lay down the practical aspects of specific
+co-operation actions.
+5. Where a supervisory
+authority does not comply within one month with the obligation laid down in
+paragraph 2, the other supervisory authorities shall be competent to take a
+provisional measure on the territory of its Member State in accordance with
+Article 51(1).
+6. The supervisory authority
+shall specify the period of validity of a provisional measure referred to in
+paragraph 5. This period shall not exceed three months. The supervisory
+authority shall, without delay, communicate those measures, with full reasons,
+to the European Data Protection Board and to the Commission and shall submit
+the matter in the mechanism referred to in Article 57.
+Section 2
+Consistency
