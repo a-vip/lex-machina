@@ -5,19 +5,19 @@
   "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
   "short_title": "EU GDPR",
   "type": "regulation",
-  "celex": "52012PC0011",
-  "document_symbol": "COM(2012) 11 final",
-  "stage": "commission_proposal",
-  "stage_label": "European Commission Proposal",
-  "published_date": "2012-01-25",
+  "celex": "32016R0679",
+  "document_symbol": "OJ L 119, 4.5.2016",
+  "stage": "official_journal_final",
+  "stage_label": "Final Official Journal Text",
+  "published_date": "2016-04-27",
   "in_force_date": "2018-05-25",
   "status": "in_force",
   "institutional_author": {
-    "name": "European Commission",
-    "email": "commission@europa.eu"
+    "name": "European Union Official Journal",
+    "email": "oj@europa.eu"
   },
-  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52012PC0011",
-  "summary": "Proposal for a Regulation of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation).",
+  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
+  "summary": "Adopted Regulation (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.",
   "counts": {
     "recitals": 2,
     "articles": 5,
