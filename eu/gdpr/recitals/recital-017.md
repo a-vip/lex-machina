@@ -1,12 +1,14 @@
 # Recital (17)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_17`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (17)
-This Regulation should be without prejudice to
-the application of Directive 2000/31/EC, in particular of the liability rules
-of intermediary service providers in Articles 12 to 15 of that Directive.
+Regulation (EC) No 45/2001 of the European Parliament and of the Council
+(
+6
+)
+applies to the processing of personal data by the Union institutions, bodies, offices and agencies. Regulation (EC) No 45/2001 and other Union legal acts applicable to such processing of personal data should be adapted to the principles and rules established in this Regulation and applied in the light of this Regulation. In order to provide a strong and coherent data protection framework in the Union, the necessary adaptations of Regulation (EC) No 45/2001 should follow after the adoption of this Regulation, in order to allow application at the same time as this Regulation.

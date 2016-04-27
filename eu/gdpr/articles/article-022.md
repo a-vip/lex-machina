@@ -1,35 +1,17 @@
-# Article 22 — Responsibility of the controller
+# Article 22 — Automated individual decision-making, including profiling
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_22`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The controller shall adopt
-policies and implement appropriate measures to ensure and be able to demonstrate
-that the processing of personal data is performed in compliance with this
-Regulation.
-2. The measures provided for
-in paragraph 1 shall in particular include:
-(a) keeping the documentation pursuant to Article 28;
-(b) implementing the data security requirements
-laid down in Article 30;
-(c) performing a data protection impact assessment pursuant
-to Article 33;
-(d) complying with the requirements for prior
-authorisation or prior consultation of the supervisory authority pursuant to
-Article 34(1) and (2);
-(e) designating a data protection officer pursuant to
-Article 35(1).
-3. The controller shall implement mechanisms to ensure the verification
-of the effectiveness of the measures referred to in paragraphs 1 and 2. If proportionate, this verification shall be carried
-out by independent internal or external auditors.
-4. The
-Commission shall be empowered to adopt delegated acts in accordance with
-Article 86 for the purpose of specifying any further criteria and requirements
-for appropriate measures referred to in paragraph 1 other than those already referred
-to in paragraph 2, the conditions for the verification and auditing mechanisms
-referred to in paragraph 3 and as regards the criteria for proportionality
-under paragraph 3, and considering specific measures for micro, small and medium-sized-enterprises.
+1. The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.
+2. Paragraph 1 shall not apply if the decision:
+(a) is necessary for entering into, or performance of, a contract between the data subject and a data controller;
+(b) is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or
+(c)
+is based on the data subject's explicit consent.
+3. In the cases referred to in points (a) and (c) of paragraph 2, the data controller shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and to contest the decision.
+4. Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9(1), unless point (a) or (g) of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place.

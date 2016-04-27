@@ -1,50 +1,17 @@
-# Article 42 — Transfers by way of appropriate safeguards
+# Article 42 — Certification
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_42`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Where the Commission has
-taken no decision pursuant to Article 41, a controller or processor may transfer
-personal data to a third country or an international organisation only if the
-controller or processor has adduced appropriate safeguards with respect to the
-protection of personal data in a legally binding instrument.
-2. The appropriate safeguards
-referred to in paragraph 1 shall be provided for, in particular, by:
-(a) binding corporate rules in accordance
-with Article 43; or
-(b) standard data protection clauses
-adopted by the Commission. Those implementing acts shall be adopted in
-accordance with the examination procedure referred to in Article 87(2); or
-(c) standard data protection clauses
-adopted by a supervisory authority in accordance with the consistency mechanism
-referred to in Article 57 when declared generally valid by the Commission
-pursuant to point (b) of Article 62(1); or
-(d) contractual clauses between the
-controller or processor and the recipient of the data authorised by a
-supervisory authority in accordance with paragraph 4.
-3. A transfer based on
-standard data protection clauses or binding corporate rules as referred to in
-points (a),
-(b) or (c) of paragraph 2 shall not require any further authorisation.
-4. Where a transfer is based
-on contractual clauses as referred to in point (d) of paragraph 2 of this
-Article the controller or processor shall obtain prior authorisation of the contractual
-clauses according to point (a) of Article 34(1) from the supervisory authority.
-If the transfer is related to processing activities which concern data subjects
-in another Member State or other Member States, or substantially affect the
-free movement of personal data within the Union, the supervisory authority
-shall apply the consistency mechanism referred to in Article 57.
-5. Where the appropriate
-safeguards with respect to the protection of personal data are not provided for
-in a legally binding instrument, the controller or processor shall obtain prior
-authorisation for the transfer, or a set of transfers, or for provisions to be
-inserted into administrative arrangements providing the basis for such transfer.
-Such authorisation by the supervisory authority shall be in accordance with
-point (a) of Article 34(1). If the transfer is related to processing activities
-which concern data subjects in another Member State or other Member States, or
-substantially affect the free movement of personal data within the Union, the
-supervisory authority shall apply the consistency mechanism referred to in
+1. The Member States, the supervisory authorities, the Board and the Commission shall encourage, in particular at Union level, the establishment of data protection certification mechanisms and of data protection seals and marks, for the purpose of demonstrating compliance with this Regulation of processing operations by controllers and processors. The specific needs of micro, small and medium-sized enterprises shall be taken into account.
+2. In addition to adherence by controllers or processors subject to this Regulation, data protection certification mechanisms, seals or marks approved pursuant to paragraph 5 of this Article may be established for the purpose of demonstrating the existence of appropriate safeguards provided by controllers or processors that are not subject to this Regulation pursuant to Article 3 within the framework of personal data transfers to third countries or international organisations under the terms referred to in point (f) of Article 46(2). Such controllers or processors shall make binding and enforceable commitments, via contractual or other legally binding instruments, to apply those appropriate safeguards, including with regard to the rights of data subjects.
+3. The certification shall be voluntary and available via a process that is transparent.
+4. A certification pursuant to this Article does not reduce the responsibility of the controller or the processor for compliance with this Regulation and is without prejudice to the tasks and powers of the supervisory authorities which are competent pursuant to Article 55 or 56.
+5. A certification pursuant to this Article shall be issued by the certification bodies referred to in Article 43 or by the competent supervisory authority, on the basis of criteria approved by that competent supervisory authority pursuant to Article 58(3) or by the Board pursuant to Article 63. Where the criteria are approved by the Board, this may result in a common certification, the European Data Protection Seal.
+6. The controller or processor which submits its processing to the certification mechanism shall provide the certification body referred to in Article 43, or where applicable, the competent supervisory authority, with all information and access to its processing activities which are necessary to conduct the certification procedure.
+7. Certification shall be issued to a controller or processor for a maximum period of three years and may be renewed, under the same conditions, provided that the relevant requirements continue to be met. Certification shall be withdrawn, as applicable, by the certification bodies referred to in Article 43 or by the competent supervisory authority where the requirements for the certification are not or are no longer met.
+8. The Board shall collate all certification mechanisms and data protection seals and marks in a register and shall make them publicly available by any appropriate means.

@@ -1,39 +1,25 @@
-# Article 30 — Security of processing
+# Article 30 — Records of processing activities
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_30`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The controller and the
-processor shall implement appropriate technical and organisational measures to
-ensure a level of security appropriate to the risks represented by the
-processing and the nature of the personal data to be protected, having regard
-to the state of the art and the costs of their implementation.
-2. The controller and the
-processor shall, following an evaluation of the risks, take the measures referred
-to in paragraph 1 to protect personal data against accidental or unlawful
-destruction or accidental loss and to prevent any unlawful forms of processing,
-in particular any unauthorised disclosure, dissemination or access, or
-alteration of personal data.
-3. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and conditions for the technical and
-organisational measures referred to in paragraphs 1 and 2, including the
-determinations of what constitutes the state of the art, for specific sectors
-and in specific data processing situations, in particular taking account of
-developments in technology and solutions for privacy by design and data
-protection by default, unless paragraph 4 applies.
-4. The Commission may adopt,
-where necessary, implementing acts for specifying the requirements laid down in
-paragraphs 1 and 2 to various situations, in particular to:
-(a) prevent any unauthorised access to
-personal data;
-(b) prevent any unauthorised disclosure,
-reading, copying, modification, erasure or removal of personal data;
-(c) ensure the verification of the
-lawfulness of processing operations.
-Those implementing acts shall be adopted in
-accordance with the examination procedure referred to in Article 87(2).
+1. Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility. That record shall contain all of the following information:
+(a) the name and contact details of the controller and, where applicable, the joint controller, the controller's representative and the data protection officer;
+(b) the purposes of the processing;
+(c) a description of the categories of data subjects and of the categories of personal data;
+(d) the categories of recipients to whom the personal data have been or will be disclosed including recipients in third countries or international organisations;
+(e) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
+(f) where possible, the envisaged time limits for erasure of the different categories of data;
+(g) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+2. Each processor and, where applicable, the processor's representative shall maintain a record of all categories of processing activities carried out on behalf of a controller, containing:
+(a) the name and contact details of the processor or processors and of each controller on behalf of which the processor is acting, and, where applicable, of the controller's or the processor's representative, and the data protection officer;
+(b) the categories of processing carried out on behalf of each controller;
+(c) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
+(d) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+3. The records referred to in paragraphs 1 and 2 shall be in writing, including in electronic form.
+4. The controller or the processor and, where applicable, the controller's or the processor's representative, shall make the record available to the supervisory authority on request.
+5. The obligations referred to in paragraphs 1 and 2 shall not apply to an enterprise or an organisation employing fewer than 250 persons unless the processing it carries out is likely to result in a risk to the rights and freedoms of data subjects, the processing is not occasional, or the processing includes special categories of data as referred to in Article 9(1) or personal data relating to criminal convictions and offences referred to in Article 10.

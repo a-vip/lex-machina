@@ -1,20 +1,10 @@
 # Recital (86)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_86`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (86)
-Provisions should be made for the possibility
-for transfers in certain circumstances where the data subject has given his
-consent, where the transfer is necessary in relation to a contract or a legal
-claim, where important grounds of public interest laid down by Union or Member
-State law so require or where the transfer is made from a register established
-by law and intended for consultation by the public or persons having a
-legitimate interest. In this latter case such a transfer should not involve the
-entirety of the data or entire categories of the data contained in the register
-and, when the register is intended for consultation by persons having a
-legitimate interest, the transfer should be made only at the request of those
-persons or if they are to be the recipients.
+The controller should communicate to the data subject a personal data breach, without undue delay, where that personal data breach is likely to result in a high risk to the rights and freedoms of the natural person in order to allow him or her to take the necessary precautions. The communication should describe the nature of the personal data breach as well as recommendations for the natural person concerned to mitigate potential adverse effects. Such communications to data subjects should be made as soon as reasonably feasible and in close cooperation with the supervisory authority, respecting guidance provided by it or by other relevant authorities such as law-enforcement authorities. For example, the need to mitigate an immediate risk of damage would call for prompt communication with data subjects whereas the need to implement appropriate measures against continuing or similar personal data breaches may justify more time for communication.

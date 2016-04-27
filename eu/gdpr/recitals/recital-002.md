@@ -1,18 +1,10 @@
 # Recital (2)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_2`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (2)
-The processing of personal data is designed to
-serve man; the principles and rules on the protection of individuals with
-regard to the processing of their personal data should, whatever the
-nationality or residence of natural persons, respect their fundamental rights
-and freedoms, notably their right to the protection of personal data. It should
-contribute to the accomplishment of an area of freedom, security and justice
-and of an economic union, to economic and social progress, the strengthening
-and the convergence of the economies within the internal market, and the
-well-being of individuals.
+The principles of, and rules on the protection of natural persons with regard to the processing of their personal data should, whatever their nationality or residence, respect their fundamental rights and freedoms, in particular their right to the protection of personal data. This Regulation is intended to contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, to the strengthening and the convergence of the economies within the internal market, and to the well-being of natural persons.

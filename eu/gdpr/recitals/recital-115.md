@@ -1,16 +1,10 @@
 # Recital (115)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_115`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (115)
-In situations where the competent supervisory
-authority established in another Member State does not act or has taken insufficient
-measures in relation to a complaint, the data subject may request the
-supervisory authority in the Member State of his or her habitual residence to bring
-proceedings against that supervisory authority to the competent court in the
-other Member State. The requested supervisory authority may decide, subject to
-judicial review, whether it is appropriate to follow the request or not.
+Some third countries adopt laws, regulations and other legal acts which purport to directly regulate the processing activities of natural and legal persons under the jurisdiction of the Member States. This may include judgments of courts or tribunals or decisions of administrative authorities in third countries requiring a controller or processor to transfer or disclose personal data, and which are not based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or a Member State. The extraterritorial application of those laws, regulations and other legal acts may be in breach of international law and may impede the attainment of the protection of natural persons ensured in the Union by this Regulation. Transfers should only be allowed where the conditions of this Regulation for a transfer to third countries are met. This may be the case, inter alia, where disclosure is necessary for an important ground of public interest recognised in Union or Member State law to which the controller is subject.

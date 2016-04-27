@@ -1,23 +1,10 @@
 # Recital (39)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_39`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (39)
-The processing of data to the extent strictly
-necessary for the purposes of ensuring network and information security, i.e.
-the ability of a network or an information system to resist, at a given level
-of confidence, accidental events or unlawful or malicious actions that
-compromise the availability, authenticity, integrity and confidentiality of
-stored or transmitted data, and the security of the related services offered
-by, or accessible via, these networks and systems, by public authorities, Computer
-Emergency Response Teams – CERTs, Computer Security Incident Response Teams ­­–
-CSIRTs, providers of electronic communications networks and services and by
-providers of security technologies and services, constitutes a legitimate
-interest of the concerned data controller. This could, for example, include
-preventing unauthorised access to electronic communications networks and
-malicious code distribution and stopping ‘denial of service’ attacks and damage
-to computer and electronic communication systems.
+Any processing of personal data should be lawful and fair. It should be transparent to natural persons that personal data concerning them are collected, used, consulted or otherwise processed and to what extent the personal data are or will be processed. The principle of transparency requires that any information and communication relating to the processing of those personal data be easily accessible and easy to understand, and that clear and plain language be used. That principle concerns, in particular, information to the data subjects on the identity of the controller and the purposes of the processing and further information to ensure fair and transparent processing in respect of the natural persons concerned and their right to obtain confirmation and communication of personal data concerning them which are being processed. Natural persons should be made aware of risks, rules, safeguards and rights in relation to the processing of personal data and how to exercise their rights in relation to such processing. In particular, the specific purposes for which personal data are processed should be explicit and legitimate and determined at the time of the collection of the personal data. The personal data should be adequate, relevant and limited to what is necessary for the purposes for which they are processed. This requires, in particular, ensuring that the period for which the personal data are stored is limited to a strict minimum. Personal data should be processed only if the purpose of the processing could not reasonably be fulfilled by other means. In order to ensure that the personal data are not kept longer than necessary, time limits should be established by the controller for erasure or for a periodic review. Every reasonable step should be taken to ensure that personal data which are inaccurate are rectified or deleted. Personal data should be processed in a manner that ensures appropriate security and confidentiality of the personal data, including for preventing unauthorised access to or use of personal data and the equipment used for the processing.

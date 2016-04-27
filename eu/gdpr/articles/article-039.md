@@ -1,30 +1,16 @@
-# Article 39 — Certification
+# Article 39 — Tasks of the data protection officer
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_39`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The
-Member States and the Commission shall encourage, in particular at European
-level, the establishment of data protection certification mechanisms and of data
-protection seals and marks, allowing data subjects to quickly assess the level
-of data protection provided by controllers and processors. The data protection certifications
-mechanisms shall contribute to the proper application
-of this Regulation, taking account of the specific features of the various
-sectors and different processing operations.
-2. The Commission shall be empowered to adopt delegated acts in accordance
-with Article 86 for the purpose of further specifying the criteria and
-requirements for the data protection certification
-mechanisms referred to in paragraph 1, including conditions for granting and withdrawal,
-and requirements for recognition within the Union and in third countries.
-3. The
-Commission may lay down technical standards for certification mechanisms and data
-protection seals and marks and mechanisms to promote and recognize
-certification mechanisms and data protection seals and marks. Those implementing acts shall be adopted in
-accordance with the examination procedure set out in Article 87(2).
-CHAPTER V
-TRANSFER OF PERSONAL DATA TO
-THIRD COUNTRIES OR INTERNATIONAL ORGANISATIONS
+1. The data protection officer shall have at least the following tasks:
+(a) to inform and advise the controller or the processor and the employees who carry out processing of their obligations pursuant to this Regulation and to other Union or Member State data protection provisions;
+(b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
+(c) to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35;
+(d) to cooperate with the supervisory authority;
+(e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter.
+2. The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing.

@@ -1,0 +1,10 @@
+# Recital (155)
+
+- **Instrument**: EU GDPR
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Akoma Ntoso eId**: `rct_155`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
+
+(155)
+Member State law or collective agreements, including ‘works agreements’, may provide for specific rules on the processing of employees' personal data in the employment context, in particular for the conditions under which personal data in the employment context may be processed on the basis of the consent of the employee, the purposes of the recruitment, the performance of the contract of employment, including discharge of obligations laid down by law or by collective agreements, management, planning and organisation of work, equality and diversity in the workplace, health and safety at work, and for the purposes of the exercise and enjoyment, on an individual or collective basis, of rights and benefits related to employment, and for the purpose of the termination of the employment relationship.

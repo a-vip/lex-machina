@@ -1,19 +1,10 @@
 # Recital (46)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_46`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (46)
-The principle of transparency requires that any
-information addressed to the public or to the data subject should be easily
-accessible and easy to understand, and that clear and plain language is used. This
-is in particular relevant where in situations, such as online advertising, the
-proliferation of actors and the technological complexity of practice makes it
-difficult for the data subject to know and understand if personal data relating
-to them are being collected, by whom and for what purpose. Given that children
-deserve specific protection, any information and communication, where
-processing is addressed specifically to a child, should be in such a clear and
-plain language that the child can easily understand.
+The processing of personal data should also be regarded to be lawful where it is necessary to protect an interest which is essential for the life of the data subject or that of another natural person. Processing of personal data based on the vital interest of another natural person should in principle take place only where the processing cannot be manifestly based on another legal basis. Some types of processing may serve both important grounds of public interest and the vital interests of the data subject as for instance when processing is necessary for humanitarian purposes, including for monitoring epidemics and their spread or in situations of humanitarian emergencies, in particular in situations of natural and man-made disasters.

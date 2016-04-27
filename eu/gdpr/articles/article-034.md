@@ -1,72 +1,17 @@
-# Article 34 — Prior authorisation and prior consultation
+# Article 34 — Communication of a personal data breach to the data subject
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_34`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The controller or the processor
-as the case may be shall obtain an authorisation from the supervisory authority
-prior to the processing of personal data, in
-order to ensure the compliance of the intended processing with this Regulation
-and in particular to mitigate the risks involved for the data subjects where
-a controller or processor adopts contractual clauses as provided for in point
-(d) of Article 42(2) or does not provide for the appropriate safeguards in a
-legally binding instrument as referred to in Article 42(5) for the transfer of
-personal data to a third country or an international organisation.
-2. The controller or
-processor acting on the controller's behalf shall consult the supervisory
-authority prior to the processing of personal data in order to ensure the
-compliance of the intended processing with this Regulation and in particular to
-mitigate the risks involved for the data subjects where:
-(a) a data protection impact assessment as
-provided for in Article 33 indicates that processing operations are by virtue
-of their nature, their scope or their purposes, likely to present a high degree
-of specific risks; or
-(b) the supervisory authority deems it
-necessary to carry out a prior consultation on processing operations that are
-likely to present specific risks to the rights and freedoms of data subjects by
-virtue of their nature, their scope and/or their purposes, and specified
-according to paragraph 4.
-3. Where the supervisory
-authority is of the opinion that the intended processing does not comply with this
-Regulation, in particular where risks are insufficiently identified or
-mitigated, it shall prohibit the intended processing and make appropriate
-proposals to remedy such incompliance.
-4. The supervisory authority
-shall establish and make public a list of the processing operations which are
-subject to prior consultation pursuant to point (b) of paragraph 2. The
-supervisory authority shall communicate those lists to the European Data
-Protection Board.
-5. Where the list provided
-for in paragraph 4 involves processing activities which are related to the
-offering of goods or services to data subjects in several Member States, or to the
-monitoring of their behaviour, or may substantially affect the free movement of
-personal data within the Union, the supervisory authority shall apply the
-consistency mechanism referred to in Article 57 prior to the adoption of the list.
-6. The controller or
-processor shall provide the supervisory authority with the data protection impact
-assessment provided for in Article 33 and, on
-request, with any other information to allow the supervisory authority to make an
-assessment of the compliance of the processing and in particular of the risks
-for the protection of personal data of the data subject and of the related
-safeguards.
-7. Member States shall consult
-the supervisory authority in the preparation of a legislative measure to be adopted
-by the national parliament or of a measure based on such a legislative measure,
-which defines the nature of the processing, in order to ensure the compliance of the intended processing with this Regulation
-and in particular to mitigate the risks involved for the data subjects.
-8. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and requirements for determining the high
-degree of specific risk referred to in point (a) of paragraph 2.
-9. The Commission may set out
-standard forms and procedures for prior authorisations and consultations referred
-to in paragraphs 1 and 2, and standard forms and procedures for informing the
-supervisory authorities pursuant to paragraph 6. Those implementing acts shall
-be adopted in accordance with the examination procedure referred to in Article 87(2).
-SECTION
-4
-DATA PROTECTION OFFICER
+1. When the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall communicate the personal data breach to the data subject without undue delay.
+2. The communication to the data subject referred to in paragraph 1 of this Article shall describe in clear and plain language the nature of the personal data breach and contain at least the information and measures referred to in points (b),
+(c) and (d) of Article 33(3).
+3. The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met:
+(a) the controller has implemented appropriate technical and organisational protection measures, and those measures were applied to the personal data affected by the personal data breach, in particular those that render the personal data unintelligible to any person who is not authorised to access it, such as encryption;
+(b) the controller has taken subsequent measures which ensure that the high risk to the rights and freedoms of data subjects referred to in paragraph 1 is no longer likely to materialise;
+(c) it would involve disproportionate effort. In such a case, there shall instead be a public communication or similar measure whereby the data subjects are informed in an equally effective manner.
+4. If the controller has not already communicated the personal data breach to the data subject, the supervisory authority, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so or may decide that any of the conditions referred to in paragraph 3 are met.

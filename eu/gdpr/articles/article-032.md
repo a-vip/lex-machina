@@ -1,45 +1,17 @@
-# Article 32 — Communication of a personal data breach to
+# Article 32 — Security of processing
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_32`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-the data subject
-1. When the personal data breach
-is likely to adversely affect the protection of the personal data or privacy of
-the data subject, the controller shall, after the notification referred to in
-Article 31, communicate the personal data breach to the data subject without
-undue delay.
-2. The communication to the
-data subject referred to in paragraph 1 shall describe the nature of the
-personal data breach and contain at least the information and the
-recommendations provided for in points (b) and (c) of Article 31(3).
-3. The communication of a
-personal data breach to the data subject shall not be required if the
-controller demonstrates to the satisfaction of the supervisory authority that
-it has implemented appropriate technological
-protection measures, and that those measures were applied to the data concerned
-by the personal data breach. Such technological
-protection measures shall render the data unintelligible to any person who is
-not authorised to access it.
-4. Without prejudice to the
-controller's obligation to communicate the personal data breach to the data
-subject, if the controller has not already communicated the personal data
-breach to the data subject of the personal data breach, the supervisory
-authority, having considered the likely adverse effects of the breach, may
-require it to do so.
-5. The Commission shall be empowered to adopt delegated acts in accordance
-with Article 86 for the purpose of further specifying the criteria and
-requirements as to the circumstances in which a personal data breach is
-likely to adversely affect the personal data referred to in paragraph 1.
-6. The Commission may lay
-down the format of the communication to the data subject referred to in
-paragraph 1 and the procedures applicable to that communication. Those
-implementing acts shall be adopted in accordance with the examination procedure
-referred to in Article 87(2).
-SECTION 3
-DATA PROTECTION IMPACT ASSESSMENT
-AND PRIOR AUTHORISATION
+1. Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:
+(a) the pseudonymisation and encryption of personal data;
+(b) the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+(c) the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident;
+(d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
+2. In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed.
+3. Adherence to an approved code of conduct as referred to in Article 40 or an approved certification mechanism as referred to in Article 42 may be used as an element by which to demonstrate compliance with the requirements set out in paragraph 1 of this Article.
+4. The controller and processor shall take steps to ensure that any natural person acting under the authority of the controller or the processor who has access to personal data does not process them except on instructions from the controller, unless he or she is required to do so by Union or Member State law.

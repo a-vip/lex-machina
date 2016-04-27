@@ -1,23 +1,11 @@
-# Article 84 — Obligations of secrecy
+# Article 84 — Penalties
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_84`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Within
-the limits of this Regulation, Member States may adopt specific rules to set
-out the investigative powers by the supervisory authorities laid down in
-Article 53(2) in relation to controllers or processors that are subjects under
-national law or rules established by national competent bodies to an obligation
-of professional secrecy or other equivalent obligations of secrecy, where this is necessary and proportionate to reconcile the
-right of the protection of personal data with the obligation of secrecy. These
-rules shall only apply with regard to personal data which the controller or
-processor has received from or has obtained in an activity covered by this
-obligation of secrecy.
-2. Each Member State shall
-notify to the Commission the rules adopted pursuant to paragraph 1, by the date
-specified in Article 91(2) at the latest and, without delay, any subsequent
-amendment affecting them.
+1. Member States shall lay down the rules on other penalties applicable to infringements of this Regulation in particular for infringements which are not subject to administrative fines pursuant to Article 83, and shall take all measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive.
+2. Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.

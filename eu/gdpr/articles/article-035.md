@@ -1,63 +1,29 @@
-# Article 35 — Designation of the data protection officer
+# Article 35 — Data protection impact assessment
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_35`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The controller and the
-processor shall designate a data protection officer in any case where:
-(a) the processing is carried out by a
-public authority or body; or
-(b) the processing is carried out by an
-enterprise employing 250 persons or more; or
-(c) the core activities of the controller
-or the processor consist of processing operations which, by virtue of their
-nature, their scope and/or their purposes, require regular and systematic
-monitoring of data subjects.
-2. In the case referred to in
-point (b) of paragraph 1, a group of undertakings may appoint a single data
-protection officer.
-3. Where the controller or
-the processor is a public authority or body, the data protection officer may be
-designated for several of its entities, taking account of the organisational
-structure of the public authority or body.
-4. In cases other than those
-referred to in paragraph 1, the controller or processor or associations and
-other bodies representing categories of controllers or processors may designate
-a data protection officer.
-5. The controller or
-processor shall designate the data protection officer on the basis of
-professional qualities and, in particular, expert knowledge of data protection
-law and practices and ability to fulfil the tasks referred to in Article 37.
-The necessary level of expert knowledge shall be determined in particular according
-to the data processing carried out and the protection required for the personal
-data processed by the controller or the processor.
-6. The controller or the processor
-shall ensure that any other professional duties of the data protection officer are
-compatible with the person's tasks and duties as data protection officer and do
-not result in a conflict of interests.
-7. The controller or the processor
-shall designate a data protection officer for a period of at least two years.
-The data protection officer may be reappointed for further terms. During their
-term of office, the data protection officer may only be dismissed, if the data
-protection officer no longer fulfils the conditions required for the
-performance of their duties.
-8. The data protection
-officer may be employed by the controller or processor, or fulfil his or her
-tasks on the basis of a service contract.
-9. The controller or the processor
-shall communicate the name and contact details of the data protection officer to
-the supervisory authority and to the public.
-10. Data subjects shall have
-the right to contact the data protection officer on all issues related to the
-processing of the data subject’s data and to request exercising the rights
-under this Regulation.
-11. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and requirements for the core activities of
-the controller or the processor referred to in point (c) of paragraph 1 and the
-criteria for the professional qualities of the data protection officer referred
-to in paragraph 5.
+1. Where a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data. A single assessment may address a set of similar processing operations that present similar high risks.
+2. The controller shall seek the advice of the data protection officer, where designated, when carrying out a data protection impact assessment.
+3. A data protection impact assessment referred to in paragraph 1 shall in particular be required in the case of:
+(a) a systematic and extensive evaluation of personal aspects relating to natural persons which is based on automated processing, including profiling, and on which decisions are based that produce legal effects concerning the natural person or similarly significantly affect the natural person;
+(b) processing on a large scale of special categories of data referred to in Article 9(1), or of personal data relating to criminal convictions and offences referred to in Article 10; or
+(c)
+a systematic monitoring of a publicly accessible area on a large scale.
+4. The supervisory authority shall establish and make public a list of the kind of processing operations which are subject to the requirement for a data protection impact assessment pursuant to paragraph 1. The supervisory authority shall communicate those lists to the Board referred to in Article 68.
+5. The supervisory authority may also establish and make public a list of the kind of processing operations for which no data protection impact assessment is required. The supervisory authority shall communicate those lists to the Board.
+6. Prior to the adoption of the lists referred to in paragraphs 4 and 5, the competent supervisory authority shall apply the consistency mechanism referred to in Article 63 where such lists involve processing activities which are related to the offering of goods or services to data subjects or to the monitoring of their behaviour in several Member States, or may substantially affect the free movement of personal data within the Union.
+7. The assessment shall contain at least:
+(a) a systematic description of the envisaged processing operations and the purposes of the processing, including, where applicable, the legitimate interest pursued by the controller;
+(b) an assessment of the necessity and proportionality of the processing operations in relation to the purposes;
+(c) an assessment of the risks to the rights and freedoms of data subjects referred to in paragraph 1; and
+(d)
+the measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and legitimate interests of data subjects and other persons concerned.
+8. Compliance with approved codes of conduct referred to in Article 40 by the relevant controllers or processors shall be taken into due account in assessing the impact of the processing operations performed by such controllers or processors, in particular for the purposes of a data protection impact assessment.
+9. Where appropriate, the controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of processing operations.
+10. Where processing pursuant to point (c) or (e) of Article 6(1) has a legal basis in Union law or in the law of the Member State to which the controller is subject, that law regulates the specific processing operation or set of operations in question, and a data protection impact assessment has already been carried out as part of a general impact assessment in the context of the adoption of that legal basis, paragraphs 1 to 7 shall not apply unless Member States deem it to be necessary to carry out such an assessment prior to processing activities.
+11. Where necessary, the controller shall carry out a review to assess if processing is performed in accordance with the data protection impact assessment at least when there is a change of the risk represented by processing operations.

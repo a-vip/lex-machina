@@ -1,48 +1,21 @@
-# Article 12 — Procedures and mechanisms for exercising the rights of the data subject
+# Article 12 — Transparent information, communication and modalities for the exercise of the rights of the data subject
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_12`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The controller shall establish
-procedures for providing the information referred to in Article 14 and for the exercise
-of the rights of data subjects referred to in Article 13 and Articles 15 to 19.
-The controller shall provide in particular mechanisms for facilitating the request
-for the actions referred to in Article 13 and Articles 15 to 19. Where personal
-data are processed by automated means, the controller shall also provide means
-for requests to be made electronically.
-2. The controller shall inform
-the data subject without delay and, at
-the latest within one month of receipt of the
-request, whether or not any action has been taken pursuant to Article 13
-and Articles 15 to 19 and shall provide the requested information. This period
-may be prolonged for a further month, if several data subjects exercise their
-rights and their cooperation is necessary to a reasonable extent to prevent an unnecessary
-and disproportionate effort on the part of the controller. The information
-shall be given in writing. Where the data subject makes the request in
-electronic form, the information shall be provided in electronic form, unless
-otherwise requested by the data subject.
-3. If the controller refuses
-to take action on the request of the data subject, the controller shall inform
-the data subject of the reasons for the refusal and on the possibilities of lodging
-a complaint to the supervisory authority and seeking a judicial remedy.
-4. The information and the actions
-taken on requests referred to in paragraph 1 shall be free of charge. Where requests
-are manifestly excessive, in particular because of their repetitive character,
-the controller may charge a fee for providing the information or taking the
-action requested, or the controller may not take the action requested. In that case,
-the controller shall bear the burden of proving the manifestly excessive
-character of the request.
-5. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and conditions for the manifestly excessive
-requests and the fees referred to in paragraph 4.
-6. The Commission may lay
-down standard forms and specifying standard procedures for the communication
-referred to in paragraph 2, including the electronic format. In doing so, the
-Commission shall take the appropriate measures for micro, small and medium-sized
-enterprises. Those implementing acts shall be adopted in accordance with the
-examination procedure referred to in Article 87(2).
+1. The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child. The information shall be provided in writing, or by other means, including, where appropriate, by electronic means. When requested by the data subject, the information may be provided orally, provided that the identity of the data subject is proven by other means.
+2. The controller shall facilitate the exercise of data subject rights under Articles 15 to 22. In the cases referred to in Article 11(2), the controller shall not refuse to act on the request of the data subject for exercising his or her rights under Articles 15 to 22, unless the controller demonstrates that it is not in a position to identify the data subject.
+3. The controller shall provide information on action taken on a request under Articles 15 to 22 to the data subject without undue delay and in any event within one month of receipt of the request. That period may be extended by two further months where necessary, taking into account the complexity and number of the requests. The controller shall inform the data subject of any such extension within one month of receipt of the request, together with the reasons for the delay. Where the data subject makes the request by electronic form means, the information shall be provided by electronic means where possible, unless otherwise requested by the data subject.
+4. If the controller does not take action on the request of the data subject, the controller shall inform the data subject without delay and at the latest within one month of receipt of the request of the reasons for not taking action and on the possibility of lodging a complaint with a supervisory authority and seeking a judicial remedy.
+5. Information provided under Articles 13 and 14 and any communication and any actions taken under Articles 15 to 22 and 34 shall be provided free of charge. Where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character, the controller may either:
+(a) charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested; or
+(b)
+refuse to act on the request.
+The controller shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
+6. Without prejudice to Article 11, where the controller has reasonable doubts concerning the identity of the natural person making the request referred to in Articles 15 to 21, the controller may request the provision of additional information necessary to confirm the identity of the data subject.
+7. The information to be provided to data subjects pursuant to Articles 13 and 14 may be provided in combination with standardised icons in order to give in an easily visible, intelligible and clearly legible manner a meaningful overview of the intended processing. Where the icons are presented electronically they shall be machine-readable.
+8. The Commission shall be empowered to adopt delegated acts in accordance with Article 92 for the purpose of determining the information to be presented by the icons and the procedures for providing standardised icons.

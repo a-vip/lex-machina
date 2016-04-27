@@ -1,80 +1,26 @@
-# Article 43 — Transfers by way of binding corporate rules
+# Article 43 — Certification bodies
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_43`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. A supervisory authority
-shall in accordance with the consistency mechanism set out in Article 58 approve
-binding corporate rules, provided that they:
-(a) are legally binding and apply to and
-are enforced by every member within the controller’s or processor's group of
-undertakings, and include their employees;
-(b) expressly confer enforceable rights on
-data subjects;
-(c) fulfil the requirements laid down in
-paragraph 2.
-2. The binding corporate
-rules shall at least specify:
-(a) the structure and contact details of
-the group of undertakings and its members;
-(b) the data transfers or set of
-transfers, including the categories of personal data, the type of processing and
-its purposes, the type of data subjects affected and the identification of the
-third country or countries in question;
-(c) their legally binding nature, both
-internally and externally;
-(d) the general data protection
-principles, in particular purpose limitation, data quality, legal basis for the
-processing, processing of sensitive personal data; measures to ensure data
-security; and the requirements for onward transfers to organisations which are
-not bound by the policies;
-(e) the rights of data subjects and the
-means to exercise these rights, including the right not to be subject to a
-measure based on profiling in accordance with Article 20, the right to lodge a
-complaint before the competent supervisory authority and before the competent
-courts of the Member States in accordance with Article 75, and to obtain
-redress and, where appropriate, compensation for a breach of the binding
-corporate rules;
-(f) the acceptance by the controller or
-processor established on the territory of a Member State of liability for any
-breaches of the binding corporate rules by any member of the group of
-undertakings not established in the Union; the controller or the processor may
-only be exempted from this liability, in whole or in part, if he proves that
-that member is not responsible for the event giving rise to the damage;
-(g) how the information on the binding
-corporate rules, in particular on the provisions referred to in points (d),
-(e) and (f) of this paragraph is provided to the data subjects in accordance with
-Article 11;
-(h) the tasks of the data protection
-officer designated in accordance with Article 35, including monitoring within
-the group of undertakings the compliance with the binding corporate rules, as
-well as monitoring the training and complaint handling;
-(i) the mechanisms within the group of
-undertakings aiming at ensuring the verification of compliance with the binding
-corporate rules;
-(j) the mechanisms for reporting and
-recording changes to the policies and reporting these changes to the
-supervisory authority;
-(k) the co-operation mechanism with the
-supervisory authority to ensure compliance by any member of the group of
-undertakings, in particular by making available to the supervisory authority
-the results of the verifications of the measures referred to in point (i) of
-this paragraph.
-3. The Commission shall be empowered to adopt delegated acts in accordance
-with Article 86 for the purpose of further specifying the criteria and
-requirements for binding corporate rules within the meaning of this
-Article, in particular as regards the criteria for their approval, the
-application of points (b), (d),
-(e) and (f) of paragraph 2 to binding corporate
-rules adhered to by processors and on further necessary requirements to ensure
-the protection of personal data of the data subjects concerned.
-4. The Commission may specify
-the format and procedures for the exchange of information by electronic means
-between controllers, processors and supervisory authorities for binding
-corporate rules within the meaning of this Article. Those implementing acts
-shall be adopted in accordance with the examination procedure set out in Article
-87(2).
+1. Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
+(a) the supervisory authority which is competent pursuant to Article 55 or 56;
+(b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council ( 20 ) in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
+2. Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:
+(a) demonstrated their independence and expertise in relation to the subject-matter of the certification to the satisfaction of the competent supervisory authority;
+(b) undertaken to respect the criteria referred to in Article 42(5) and approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63;
+(c) established procedures for the issuing, periodic review and withdrawal of data protection certification, seals and marks;
+(d) established procedures and structures to handle complaints about infringements of the certification or the manner in which the certification has been, or is being, implemented by the controller or processor, and to make those procedures and structures transparent to data subjects and the public; and
+(e)
+demonstrated, to the satisfaction of the competent supervisory authority, that their tasks and duties do not result in a conflict of interests.
+3. The accreditation of certification bodies as referred to in paragraphs 1 and 2 of this Article shall take place on the basis of criteria approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63. In the case of accreditation pursuant to point (b) of paragraph 1 of this Article, those requirements shall complement those envisaged in Regulation (EC) No 765/2008 and the technical rules that describe the methods and procedures of the certification bodies.
+4. The certification bodies referred to in paragraph 1 shall be responsible for the proper assessment leading to the certification or the withdrawal of such certification without prejudice to the responsibility of the controller or processor for compliance with this Regulation. The accreditation shall be issued for a maximum period of five years and may be renewed on the same conditions provided that the certification body meets the requirements set out in this Article.
+5. The certification bodies referred to in paragraph 1 shall provide the competent supervisory authorities with the reasons for granting or withdrawing the requested certification.
+6. The requirements referred to in paragraph 3 of this Article and the criteria referred to in Article 42(5) shall be made public by the supervisory authority in an easily accessible form. The supervisory authorities shall also transmit those requirements and criteria to the Board. The Board shall collate all certification mechanisms and data protection seals in a register and shall make them publicly available by any appropriate means.
+7. Without prejudice to Chapter VIII, the competent supervisory authority or the national accreditation body shall revoke an accreditation of a certification body pursuant to paragraph 1 of this Article where the conditions for the accreditation are not, or are no longer, met or where actions taken by a certification body infringe this Regulation.
+8. The Commission shall be empowered to adopt delegated acts in accordance with Article 92 for the purpose of specifying the requirements to be taken into account for the data protection certification mechanisms referred to in Article 42(1).
+9. The Commission may adopt implementing acts laying down technical standards for certification mechanisms and data protection seals and marks, and mechanisms to promote and recognise those certification mechanisms, seals and marks. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2).

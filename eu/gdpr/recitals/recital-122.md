@@ -1,21 +1,10 @@
 # Recital (122)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_122`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (122)
-The processing of personal data concerning
-health, as a special category of data which deserves higher protection, may
-often be justified by a number of legitimate reasons for the benefit of
-individuals and society as a whole, in particular in the context of ensuring
-continuity of cross-border healthcare. Therefore this Regulation should provide
-for harmonised conditions for the processing of personal data concerning health,
-subject to specific and suitable safeguards so as to protect the fundamental
-rights and the personal data of individuals. This includes the right for
-individuals to have access to their personal data concerning their health, for
-example the data in their medical records containing such information as
-diagnosis, examination results, assessments by treating physicians and any
-treatment or interventions provided.
+Each supervisory authority should be competent on the territory of its own Member State to exercise the powers and to perform the tasks conferred on it in accordance with this Regulation. This should cover in particular the processing in the context of the activities of an establishment of the controller or processor on the territory of its own Member State, the processing of personal data carried out by public authorities or private bodies acting in the public interest, processing affecting data subjects on its territory or processing carried out by a controller or processor not established in the Union when targeting data subjects residing on its territory. This should include handling complaints lodged by a data subject, conducting investigations on the application of this Regulation and promoting public awareness of the risks, rules, safeguards and rights in relation to the processing of personal data.

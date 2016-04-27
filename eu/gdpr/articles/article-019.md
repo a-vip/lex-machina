@@ -1,24 +1,10 @@
-# Article 19 — Right to object
+# Article 19 — Notification obligation regarding rectification or erasure of personal data or restriction of processing
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_19`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The data subject shall
-have the right to object, on grounds relating to their particular situation, at
-any time to the processing of personal data which is based on points (d),
-(e) and (f) of Article 6(1), unless the controller demonstrates compelling
-legitimate grounds for the processing which override the interests or
-fundamental rights and freedoms of the data subject.
-2. Where personal data are
-processed for direct marketing purposes, the data subject shall have the right
-to object free of charge to the processing of their personal data for such
-marketing. This right shall be explicitly offered to the data subject in an
-intelligible manner and shall be clearly distinguishable from other
-information.
-3. Where an objection is upheld
-pursuant to paragraphs 1 and 2, the controller shall no longer use or otherwise
-process the personal data concerned.
+The controller shall communicate any rectification or erasure of personal data or restriction of processing carried out in accordance with Article 16, Article 17(1) and Article 18 to each recipient to whom the personal data have been disclosed, unless this proves impossible or involves disproportionate effort. The controller shall inform the data subject about those recipients if the data subject requests it.

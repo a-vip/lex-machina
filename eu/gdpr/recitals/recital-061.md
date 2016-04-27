@@ -1,17 +1,10 @@
 # Recital (61)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_61`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (61)
-The protection of the rights and freedoms of
-data subjects with regard to the processing of personal data require that
-appropriate technical and organisational measures are taken, both at the time
-of the design of the processing and at the time of the processing itself, to
-ensure that the requirements of this Regulation are met. In order to ensure and
-demonstrate compliance with this Regulation, the controller should adopt
-internal policies and implement appropriate measures, which meet in particular
-the principles of data protection by design and data protection by default.
+The information in relation to the processing of personal data relating to the data subject should be given to him or her at the time of collection from the data subject, or, where the personal data are obtained from another source, within a reasonable period, depending on the circumstances of the case. Where personal data can be legitimately disclosed to another recipient, the data subject should be informed when the personal data are first disclosed to the recipient. Where the controller intends to process the personal data for a purpose other than that for which they were collected, the controller should provide the data subject prior to that further processing with information on that other purpose and other necessary information. Where the origin of the personal data cannot be provided to the data subject because various sources have been used, general information should be provided.

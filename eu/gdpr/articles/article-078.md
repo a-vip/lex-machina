@@ -1,23 +1,13 @@
-# Article 78 — Penalties
+# Article 78 — Right to an effective judicial remedy against a supervisory authority
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_78`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Member States shall lay
-down the rules on penalties, applicable to infringements of the provisions of
-this Regulation and shall take all measures necessary to ensure that they are
-implemented, including where the controller did not comply with the obligation
-to designate a representative. The penalties provided for must be effective,
-proportionate and dissuasive.
-2. Where the controller has
-established a representative, any penalties shall be applied to the
-representative, without prejudice to any penalties which could be initiated
-against the controller.
-3. Each Member State shall
-notify to the Commission those provisions of its law which it adopts pursuant
-to paragraph 1, by the date specified in Article 91(2) at the latest and,
-without delay, any subsequent amendment affecting them.
+1. Without prejudice to any other administrative or non-judicial remedy, each natural or legal person shall have the right to an effective judicial remedy against a legally binding decision of a supervisory authority concerning them.
+2. Without prejudice to any other administrative or non-judicial remedy, each data subject shall have the right to a an effective judicial remedy where the supervisory authority which is competent pursuant to Articles 55 and 56 does not handle a complaint or does not inform the data subject within three months on the progress or outcome of the complaint lodged pursuant to Article 77.
+3. Proceedings against a supervisory authority shall be brought before the courts of the Member State where the supervisory authority is established.
+4. Where proceedings are brought against a decision of a supervisory authority which was preceded by an opinion or a decision of the Board in the consistency mechanism, the supervisory authority shall forward that opinion or decision to the court.

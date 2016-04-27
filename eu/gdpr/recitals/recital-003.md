@@ -1,15 +1,14 @@
 # Recital (3)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_3`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (3)
-Directive 95/46/EC of the European Parliament
-and of the Council of 24 October 1995 on the protection of individuals with
-regard to the processing of personal data and on the free movement of such data[43] seeks to harmonise the protection
-of fundamental rights and freedoms of natural persons in respect of processing
-activities and to guarantee the free flow of personal data between Member
-States.
+Directive 95/46/EC of the European Parliament and of the Council
+(
+4
+)
+seeks to harmonise the protection of fundamental rights and freedoms of natural persons in respect of processing activities and to ensure the free flow of personal data between Member States.

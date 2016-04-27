@@ -1,18 +1,11 @@
-# Article 90 — Evaluation
+# Article 90 — Obligations of secrecy
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_90`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-The Commission shall submit reports on the
-evaluation and review of this Regulation to the European Parliament and the
-Council at regular intervals. The first report shall be submitted no later than
-four years after the entry into force of this Regulation. Subsequent reports
-shall be submitted every four years thereafter. The Commission shall, if
-necessary, submit appropriate proposals with a view to amending this Regulation,
-and aligning other legal instruments, in particular taking account of
-developments in information technology and in the light of the state of
-progress in the information society. The reports shall be made public.
+1. Member States may adopt specific rules to set out the powers of the supervisory authorities laid down in points (e) and (f) of Article 58(1) in relation to controllers or processors that are subject, under Union or Member State law or rules established by national competent bodies, to an obligation of professional secrecy or other equivalent obligations of secrecy where this is necessary and proportionate to reconcile the right of the protection of personal data with the obligation of secrecy. Those rules shall apply only with regard to personal data which the controller or processor has received as a result of or has obtained in an activity covered by that obligation of secrecy.
+2. Each Member State shall notify to the Commission the rules adopted pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.

@@ -1,21 +1,10 @@
 # Recital (105)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_105`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (105)
-In order to ensure the consistent application of
-this Regulation throughout the Union, a consistency mechanism for co-operation
-between the supervisory authorities themselves and the Commission should be
-established. This mechanism should in particular apply where a supervisory
-authority intends to take a measure as regards processing operations that are related
-to the offering of goods or services to data subjects in several Member States,
-, or to the monitoring such data subjects, or that might substantially affect the
-free flow of personal data. It should also apply where any supervisory
-authority or the Commission requests that the matter should be dealt with in
-the consistency mechanism. This mechanism should be without prejudice to any
-measures that the Commission may take in the exercise of its powers under the
-Treaties.
+Apart from the international commitments the third country or international organisation has entered into, the Commission should take account of obligations arising from the third country's or international organisation's participation in multilateral or regional systems in particular in relation to the protection of personal data, as well as the implementation of such obligations. In particular, the third country's accession to the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to the Automatic Processing of Personal Data and its Additional Protocol should be taken into account. The Commission should consult the Board when assessing the level of protection in third countries or international organisations.

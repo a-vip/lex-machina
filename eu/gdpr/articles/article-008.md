@@ -1,28 +1,13 @@
-# Article 8 — Processing of personal data of a child
+# Article 8 — Conditions applicable to child's consent in relation to information society services
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_8`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. For the purposes of this
-Regulation, in relation to the offering of information society services
-directly to a child, the processing of personal data of a child below the age
-of 13 years shall only be lawful if and to the extent that consent is given or
-authorised by the child's parent or custodian. The controller shall make
-reasonable efforts to obtain verifiable consent, taking into consideration
-available technology.
-2. Paragraph 1 shall not
-affect the general contract law of Member States such as the rules on the
-validity, formation or effect of a contract in relation to a child.
-3. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and requirements for the methods to obtain
-verifiable consent referred to in paragraph 1. In doing so, the Commission
-shall consider specific measures for micro, small and medium-sized enterprises.
-4. The Commission may lay
-down standard forms for specific methods to obtain verifiable consent referred
-to in paragraph 1. Those implementing acts shall be adopted in accordance with
-the examination procedure referred to in Article 87(2).
+1. Where point (a) of Article 6(1) applies, in relation to the offer of information society services directly to a child, the processing of the personal data of a child shall be lawful where the child is at least 16 years old. Where the child is below the age of 16 years, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.
+Member States may provide by law for a lower age for those purposes provided that such lower age is not below 13 years.
+2. The controller shall make reasonable efforts to verify in such cases that consent is given or authorised by the holder of parental responsibility over the child, taking into consideration available technology.
+3. Paragraph 1 shall not affect the general contract law of Member States such as the rules on the validity, formation or effect of a contract in relation to a child.

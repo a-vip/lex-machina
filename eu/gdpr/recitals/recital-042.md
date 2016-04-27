@@ -1,18 +1,14 @@
 # Recital (42)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_42`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (42)
-Derogating from the prohibition on processing
-sensitive categories of data should also be allowed if done by a law, and
-subject to suitable safeguards, so as to protect personal data and other fundamental
-rights, where grounds of public interest so justify and in particular for
-health purposes, including public health and social protection and the
-management of health-care services, especially in order to ensure the quality
-and cost-effectiveness of the procedures used for settling claims for benefits
-and services in the health insurance system, or for historical, statistical and
-scientific research purposes.
+Where processing is based on the data subject's consent, the controller should be able to demonstrate that the data subject has given consent to the processing operation. In particular in the context of a written declaration on another matter, safeguards should ensure that the data subject is aware of the fact that and the extent to which consent is given. In accordance with Council Directive 93/13/EEC
+(
+10
+)
+a declaration of consent pre-formulated by the controller should be provided in an intelligible and easily accessible form, using clear and plain language and it should not contain unfair terms. For consent to be informed, the data subject should be aware at least of the identity of the controller and the purposes of the processing for which the personal data are intended. Consent should not be regarded as freely given if the data subject has no genuine or free choice or is unable to refuse or withdraw consent without detriment.

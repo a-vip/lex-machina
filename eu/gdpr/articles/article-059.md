@@ -1,27 +1,10 @@
-# Article 59 — Opinion by the Commission
+# Article 59 — Activity reports
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_59`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Within ten weeks after a
-matter has been raised under Article 58, or at the latest within six weeks in
-the case of Article 61, the Commission may adopt, in order to ensure correct
-and consistent application of this Regulation, an opinion in relation to
-matters raised pursuant to Articles 58 or 61.
-2. Where the Commission has
-adopted an opinion in accordance with paragraph 1, the supervisory authority concerned
-shall take utmost account of the Commission’s opinion and inform the Commission
-and the European Data Protection Board whether it intends to maintain or amend
-its draft measure.
-3. During the period referred
-to in paragraph 1, the draft measure shall not be adopted by the supervisory
-authority.
-4. Where the supervisory
-authority concerned intends not to follow the opinion of the Commission, it
-shall inform the Commission and the European Data Protection Board thereof
-within the period referred to in paragraph 1 and provide a justification. In
-this case the draft measure shall not be adopted for one further month.
+Each supervisory authority shall draw up an annual report on its activities, which may include a list of types of infringement notified and types of measures taken in accordance with Article 58(2). Those reports shall be transmitted to the national parliament, the government and other authorities as designated by Member State law. They shall be made available to the public, to the Commission and to the Board.

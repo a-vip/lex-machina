@@ -1,16 +1,10 @@
 # Recital (8)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_8`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (8)
-In order to ensure consistent and high level of protection
-of individuals and to remove the obstacles to flows of personal data, the level
-of protection of the rights and freedoms of individuals with regard to the
-processing of such data should be equivalent in all Member States. Consistent
-and homogenous application of the rules for the protection of the fundamental
-rights and freedoms of natural persons with regard to the processing of
-personal data should be ensured throughout the Union.
+Where this Regulation provides for specifications or restrictions of its rules by Member State law, Member States may, as far as necessary for coherence and for making the national provisions comprehensible to the persons to whom they apply, incorporate elements of this Regulation into their national law.

@@ -1,65 +1,23 @@
 # Article 9 — Processing of special categories of personal data
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_9`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The processing of personal
-data, revealing race or ethnic origin, political opinions, religion or beliefs,
-trade-union membership, and the processing of genetic data or data concerning
-health or sex life or criminal convictions or related security measures shall
-be prohibited.
-2. Paragraph 1 shall not
-apply where:
-(a) the data
-subject has given consent to the processing of those personal data, subject to
-the conditions laid down in Articles 7 and 8, except where Union law or Member
-State law provide that the prohibition referred to in paragraph 1 may not be
-lifted by the data subject; or
-(b) processing is necessary for the
-purposes of carrying out the obligations and exercising specific rights of the
-controller in the field of employment law in so far as it is authorised by Union law or Member State law providing for
-adequate safeguards; or
-(c) processing is necessary to protect the
-vital interests of the data subject or of another
-person where the data subject is physically or legally incapable of giving
-consent; or
-(d) processing is carried out in the
-course of its legitimate activities with appropriate safeguards by a
-foundation, association or any other non-profit-seeking body with a political,
-philosophical, religious or trade-union aim and on condition that the
-processing relates solely to the members or to former members of the body or to
-persons who have regular contact with it in connection with its purposes and
-that the data are not disclosed outside that body without the consent of the
-data subjects; or
-(e) the processing relates to personal data
-which are manifestly made public by the data subject; or
-(f) processing is necessary for the
-establishment, exercise or defence of legal claims; or
-(g) processing is necessary for the
-performance of a task carried out in the public interest, on the basis of Union
-law, or Member State law which shall provide for suitable measures to safeguard
-the data subject's legitimate interests; or
-(h) processing of data concerning health
-is necessary for health purposes and subject to the conditions and safeguards
-referred to in Article 81; or
-(i) processing is necessary for
-historical, statistical or scientific research purposes subject to the
-conditions and safeguards referred to in Article 83; or
-(j) processing of data relating to
-criminal convictions or related security measures is carried out either under
-the control of official authority or when the processing is necessary for
-compliance with a legal or regulatory obligation to which a controller is
-subject, or for the performance of a task carried out for important public
-interest reasons, and in so far as authorised by Union
-law or Member State law providing for adequate safeguards. A complete register
-of criminal convictions shall be kept only under the control of official
-authority.
-3. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria, conditions and appropriate safeguards for
-the processing of the special categories of personal data referred to in
-paragraph 1 and the exemptions laid down in paragraph 2.
+1. Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited.
+2. Paragraph 1 shall not apply if one of the following applies:
+(a) the data subject has given explicit consent to the processing of those personal data for one or more specified purposes, except where Union or Member State law provide that the prohibition referred to in paragraph 1 may not be lifted by the data subject;
+(b) processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law in so far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the data subject;
+(c) processing is necessary to protect the vital interests of the data subject or of another natural person where the data subject is physically or legally incapable of giving consent;
+(d) processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim and on condition that the processing relates solely to the members or to former members of the body or to persons who have regular contact with it in connection with its purposes and that the personal data are not disclosed outside that body without the consent of the data subjects;
+(e) processing relates to personal data which are manifestly made public by the data subject;
+(f) processing is necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity;
+(g) processing is necessary for reasons of substantial public interest, on the basis of Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject;
+(h) processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law or pursuant to contract with a health professional and subject to the conditions and safeguards referred to in paragraph 3;
+(i) processing is necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of quality and safety of health care and of medicinal products or medical devices, on the basis of Union or Member State law which provides for suitable and specific measures to safeguard the rights and freedoms of the data subject, in particular professional secrecy;
+(j) processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) based on Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.
+3. Personal data referred to in paragraph 1 may be processed for the purposes referred to in point (h) of paragraph 2 when those data are processed by or under the responsibility of a professional subject to the obligation of professional secrecy under Union or Member State law or rules established by national competent bodies or by another person also subject to an obligation of secrecy under Union or Member State law or rules established by national competent bodies.
+4. Member States may maintain or introduce further conditions, including limitations, with regard to the processing of genetic data, biometric data or data concerning health.

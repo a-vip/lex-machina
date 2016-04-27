@@ -1,16 +1,10 @@
 # Recital (87)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_87`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (87)
-These derogations should in particular apply to
-data transfers required and necessary for the protection of important grounds
-of public interest, for example in cases of international data transfers
-between competition authorities, tax or customs administrations, financial
-supervisory authorities, between services competent for social security matters,
-or to competent authorities for the prevention, investigation, detection and
-prosecution of criminal offences.
+It should be ascertained whether all appropriate technological protection and organisational measures have been implemented to establish immediately whether a personal data breach has taken place and to inform promptly the supervisory authority and the data subject. The fact that the notification was made without undue delay should be established taking into account in particular the nature and gravity of the personal data breach and its consequences and adverse effects for the data subject. Such notification may result in an intervention of the supervisory authority in accordance with its tasks and powers laid down in this Regulation.

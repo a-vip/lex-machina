@@ -1,17 +1,10 @@
 # Recital (24)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_24`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (24)
-When using online services, individuals may be
-associated with online identifiers provided by their devices, applications,
-tools and protocols, such as Internet Protocol addresses or cookie identifiers.
-This may leave traces which, combined with unique identifiers and other
-information received by the servers, may be used to create profiles of the
-individuals and identify them. It follows that identification numbers, location
-data, online identifiers or other specific factors as such need not necessarily
-be considered as personal data in all circumstances.
+The processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union should also be subject to this Regulation when it is related to the monitoring of the behaviour of such data subjects in so far as their behaviour takes place within the Union. In order to determine whether a processing activity can be considered to monitor the behaviour of data subjects, it should be ascertained whether natural persons are tracked on the internet including potential subsequent use of personal data processing techniques which consist of profiling a natural person, particularly in order to take decisions concerning her or him or for analysing or predicting her or his personal preferences, behaviours and attitudes.

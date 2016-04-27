@@ -1,50 +1,21 @@
-# Article 15 — Right of access for the data subject
+# Article 15 — Right of access by the data subject
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_15`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The data subject shall have
-the right to obtain from the controller at any time, on request, confirmation
-as to whether or not personal data relating to the data subject are being
-processed. Where such personal data are being processed, the controller shall
-provide the following information:
+1. The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information:
 (a) the purposes of the processing;
-(b) the categories of personal data
-concerned;
-(c) the recipients or categories of
-recipients to whom the personal data are to be or have been disclosed, in
-particular to recipients in third countries;
-(d) the period for which the personal data
-will be stored;
-(e) the existence of the right to request
-from the controller rectification or erasure of personal data concerning the
-data subject or to object to the processing of such personal data;
-(f) the right to lodge a complaint to the
-supervisory authority and the contact details of the supervisory authority;
-(g) communication of the personal data
-undergoing processing and of any available information as to their source;
-(h) the significance and envisaged consequences of such
-processing, at least in the case of measures referred to in Article 20.
-2. The data subject shall
-have the right to obtain from the controller communication of the personal data
-undergoing processing. Where the data subject makes the request in electronic
-form, the information shall be provided in electronic form, unless otherwise
-requested by the data subject.
-3. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and requirements for the communication
-to the data subject of the content of the personal data referred to in point
-(g) of paragraph 1.
-4. The Commission may specify
-standard forms and procedures for requesting and granting access to the information
-referred to in paragraph 1, including for verification of the identity of the data
-subject and communicating the personal data to the data subject, taking into
-account the specific features and necessities of various sectors and data
-processing situations. Those implementing acts shall be adopted in accordance
-with the examination procedure referred to in Article 87(2).
-SECTION 3
-RECTIFICATION AND ERASURE
+(b) the categories of personal data concerned;
+(c) the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;
+(d) where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
+(e) the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing;
+(f) the right to lodge a complaint with a supervisory authority;
+(g) where the personal data are not collected from the data subject, any available information as to their source;
+(h) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+2. Where personal data are transferred to a third country or to an international organisation, the data subject shall have the right to be informed of the appropriate safeguards pursuant to Article 46 relating to the transfer.
+3. The controller shall provide a copy of the personal data undergoing processing. For any further copies requested by the data subject, the controller may charge a reasonable fee based on administrative costs. Where the data subject makes the request by electronic means, and unless otherwise requested by the data subject, the information shall be provided in a commonly used electronic form.
+4. The right to obtain a copy referred to in paragraph 3 shall not adversely affect the rights and freedoms of others.

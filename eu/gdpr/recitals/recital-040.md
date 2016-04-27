@@ -1,21 +1,10 @@
 # Recital (40)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_40`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (40)
-The processing of personal data for other
-purposes should be only allowed where the processing is compatible with those
-purposes for which the data have been initially collected, in particular where
-the processing is necessary for historical, statistical or scientific research purposes.
-Where the other purpose is not compatible with the initial one for which the
-data are collected, the controller should obtain the consent of the data
-subject for this other purpose or should base the processing on another
-legitimate ground for lawful processing, in particular where provided by Union
-law or the law of the Member State to which the controller is subject. In any
-case, the application of the principles set out by this Regulation and in
-particular the information of the data subject on those other purposes should
-be ensured.
+In order for processing to be lawful, personal data should be processed on the basis of the consent of the data subject concerned or some other legitimate basis, laid down by law, either in this Regulation or in other Union or Member State law as referred to in this Regulation, including the necessity for compliance with the legal obligation to which the controller is subject or the necessity for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.

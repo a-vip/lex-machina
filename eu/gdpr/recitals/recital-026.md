@@ -1,24 +1,10 @@
 # Recital (26)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_26`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (26)
-Personal data relating to health should include
-in particular all data pertaining to the health status of a data subject;
-information about the registration of the individual for the provision of
-health services; information about payments or eligibility for healthcare with
-respect to the individual; a number, symbol or particular assigned to an
-individual to uniquely identify the individual for health purposes; any
-information about the individual collected in the course of the provision of
-health services to the individual; information derived from the testing or
-examination of a body part or bodily substance, including biological samples;
-identification of a person as provider of healthcare to the individual; or any
-information on e.g. a disease, disability, disease risk, medical history,
-clinical treatment, or the actual physiological or biomedical state of the data
-subject independent of its source, such as e.g. from a physician or other
-health professional, a hospital, a medical device, or an in vitro diagnostic
-test.
+The principles of data protection should apply to any information concerning an identified or identifiable natural person. Personal data which have undergone pseudonymisation, which could be attributed to a natural person by the use of additional information should be considered to be information on an identifiable natural person. To determine whether a natural person is identifiable, account should be taken of all the means reasonably likely to be used, such as singling out, either by the controller or by another person to identify the natural person directly or indirectly. To ascertain whether means are reasonably likely to be used to identify the natural person, account should be taken of all objective factors, such as the costs of and the amount of time required for identification, taking into consideration the available technology at the time of the processing and technological developments. The principles of data protection should therefore not apply to anonymous information, namely information which does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable. This Regulation does not therefore concern the processing of such anonymous information, including for statistical or research purposes.

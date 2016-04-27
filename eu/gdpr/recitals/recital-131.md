@@ -1,26 +1,10 @@
 # Recital (131)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_131`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (131)
-The examination procedure should be used for the
-adoption of specifying standard forms in relation to the consent of a child; standard
-procedures and forms for exercising the rights of data subjects; standard forms
-for the information to the data subject; standard forms and procedures in
-relation to the right of access;, the right to data portability; standard forms
-in relation to the responsibility of the controller to data protection by
-design and by default and to the documentation; specific requirements for the
-security of processing; the standard format and the procedures for the notification
-of a personal data breach to the supervisory authority and the communication of
-a personal data breach to the data subject; standards and procedures for a data
-protection impact assessment; forms and procedures for prior authorisation and
-prior consultation; technical standards and mechanisms for certification; the
-adequate level of protection afforded by a third country or a territory or a
-processing sector within that third country or an international organisation;
-disclosures not authorized by Union law; mutual assistance; joint operations;
-decisions under the consistency mechanism, given that those acts are of general
-scope.
+Where another supervisory authority should act as a lead supervisory authority for the processing activities of the controller or processor but the concrete subject matter of a complaint or the possible infringement concerns only processing activities of the controller or processor in the Member State where the complaint has been lodged or the possible infringement detected and the matter does not substantially affect or is not likely to substantially affect data subjects in other Member States, the supervisory authority receiving a complaint or detecting or being informed otherwise of situations that entail possible infringements of this Regulation should seek an amicable settlement with the controller and, if this proves unsuccessful, exercise its full range of powers. This should include: specific processing carried out in the territory of the Member State of the supervisory authority or with regard to data subjects on the territory of that Member State; processing that is carried out in the context of an offer of goods or services specifically aimed at data subjects in the territory of the Member State of the supervisory authority; or processing that has to be assessed taking into account relevant legal obligations under Member State law.

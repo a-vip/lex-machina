@@ -1,21 +1,10 @@
 # Recital (38)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_38`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (38)
-The legitimate interests of a controller may
-provide a legal basis for processing, provided that the interests or the fundamental
-rights and freedoms of the data subject are not overriding. This would need
-careful assessment in particular where the data subject is a child, given that
-children deserve specific protection. The data subject should have the right to
-object the processing, on grounds relating to their particular situation and
-free of charge. To ensure transparency, the controller should be obliged to explicitly
-inform the data subject on the legitimate interests pursued and on the right to
-object, and also be obliged to document these legitimate interests. Given that
-it is for the legislator to provide by law the legal basis for public
-authorities to process data, this legal ground should not apply for the
-processing by public authorities in the performance of their tasks.
+Children merit specific protection with regard to their personal data, as they may be less aware of the risks, consequences and safeguards concerned and their rights in relation to the processing of personal data. Such specific protection should, in particular, apply to the use of personal data of children for the purposes of marketing or creating personality or user profiles and the collection of personal data with regard to children when using services offered directly to a child. The consent of the holder of parental responsibility should not be necessary in the context of preventive or counselling services offered directly to a child.

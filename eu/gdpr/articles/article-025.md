@@ -1,30 +1,12 @@
-# Article 25 — Representatives of controllers not established
+# Article 25 — Data protection by design and by default
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_25`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-in the Union
-1. In the situation referred
-to in Article 3(2), the controller shall designate a representative in the
-Union.
-2. This obligation shall not
-apply to:
-(a) a controller established in a third
-country where the Commission has decided that the third country ensures an
-adequate level of protection in accordance with Article 41; or
-(b) an enterprise employing fewer than 250
-persons; or
-(c) a public authority or body; or
-(d) a controller offering only
-occasionally goods or services to data subjects residing in the Union.
-3. The representative shall
-be established in one of those Member States where the data subjects whose
-personal data are processed in relation to the offering of goods or services to
-them, or whose behaviour is monitored, reside.
-4. The designation of a
-representative by the controller shall be without
-prejudice to legal actions which could be initiated against the controller itself.
+1. Taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for rights and freedoms of natural persons posed by the processing, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures, such as pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner and to integrate the necessary safeguards into the processing in order to meet the requirements of this Regulation and protect the rights of data subjects.
+2. The controller shall implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose of the processing are processed. That obligation applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual's intervention to an indefinite number of natural persons.
+3. An approved certification mechanism pursuant to Article 42 may be used as an element to demonstrate compliance with the requirements set out in paragraphs 1 and 2 of this Article.

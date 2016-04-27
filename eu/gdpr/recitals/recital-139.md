@@ -1,24 +1,10 @@
 # Recital (139)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_139`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (139)
-In view of the fact that, as underlined by the
-Court of Justice of the European Union, the right to the protection of personal
-data is not an absolute right, but must be considered in relation to its
-function in society and be balanced with other fundamental rights, in
-accordance with the principle of proportionality, this Regulation respects all fundamental
-rights and observes the principles recognised in the Charter of Fundamental
-Rights of the European Union as enshrined in the Treaties, notably the right to
-respect for private and family life, home and communications, the right to the
-protection of personal data, the freedom of thought, conscience and religion, the
-freedom of expression and information, the freedom to conduct a business, the
-right to an effective remedy and to a fair trial as well as cultural, religious
-and linguistic diversity.
-HAVE ADOPTED THIS REGULATION:
-CHAPTER I
-GENERAL PROVISIONS
+In order to promote the consistent application of this Regulation, the Board should be set up as an independent body of the Union. To fulfil its objectives, the Board should have legal personality. The Board should be represented by its Chair. It should replace the Working Party on the Protection of Individuals with Regard to the Processing of Personal Data established by Directive 95/46/EC. It should consist of the head of a supervisory authority of each Member State and the European Data Protection Supervisor or their respective representatives. The Commission should participate in the Board's activities without voting rights and the European Data Protection Supervisor should have specific voting rights. The Board should contribute to the consistent application of this Regulation throughout the Union, including by advising the Commission, in particular on the level of protection in third countries or international organisations, and promoting cooperation of the supervisory authorities throughout the Union. The Board should act independently when performing its tasks.

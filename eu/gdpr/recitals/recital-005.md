@@ -1,19 +1,10 @@
 # Recital (5)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_5`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (5)
-Rapid technological developments and
-globalisation have brought new challenges for the protection of personal data.
-The scale of data sharing and collecting has increased spectacularly.
-Technology allows both private companies and public authorities to make use of
-personal data on an unprecedented scale in order to pursue their activities.
-Individuals increasingly make personal information available publicly and
-globally. Technology has transformed both the economy and social life, and
-requires to further facilitate the free flow of data within the Union and the
-transfer to third countries and international organisations, while ensuring an
-high level of the protection of personal data.
+The economic and social integration resulting from the functioning of the internal market has led to a substantial increase in cross-border flows of personal data. The exchange of personal data between public and private actors, including natural persons, associations and undertakings across the Union has increased. National authorities in the Member States are being called upon by Union law to cooperate and exchange personal data so as to be able to perform their duties or carry out tasks on behalf of an authority in another Member State.

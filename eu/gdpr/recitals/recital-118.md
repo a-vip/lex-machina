@@ -1,14 +1,10 @@
 # Recital (118)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_118`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (118)
-Any damage which a person may suffer as a result
-of unlawful processing should be compensated by the controller or processor,
-who may be exempted from liability if they prove that they are not responsible
-for the damage, in particular where he establishes fault on the part of the data
-subject or in case of force majeure.
+The independence of supervisory authorities should not mean that the supervisory authorities cannot be subject to control or monitoring mechanisms regarding their financial expenditure or to judicial review.

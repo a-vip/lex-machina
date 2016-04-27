@@ -1,54 +1,15 @@
-# Article 38 — Codes of conduct
+# Article 38 — Position of the data protection officer
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_38`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The Member States, the supervisory
-authorities and the Commission shall encourage the drawing up of codes of
-conduct intended to contribute to the proper application
-of this Regulation, taking account of the specific features of the various data
-processing sectors, in particular in relation to:
-(a) fair and
-transparent data processing;
-(b) the
-collection of data;
-(c) the
-information of the public and of data subjects;
-(d) requests of
-data subjects in exercise of their rights;
-(e) information
-and protection of children;
-(f) transfer of
-data to third countries or international organisations;
-(g) mechanisms
-for monitoring and ensuring compliance with the code by the controllers
-adherent to it;
-(h) out-of-court
-proceedings and other dispute resolution procedures for resolving disputes
-between controllers and data subjects with respect to the processing of
-personal data, without prejudice to the rights of the data subjects pursuant to
-Articles 73 and 75.
-2. Associations and other
-bodies representing categories of controllers or processors in one Member State
-which intend to draw up codes of conduct or to amend or extend existing codes
-of conduct may submit them to an opinion of the supervisory authority in that Member
-State. The supervisory authority may give an opinion whether the draft code of
-conduct or the amendment is in compliance with this Regulation. The supervisory
-authority shall seek the views of data subjects or their representatives on
-these drafts.
-3. Associations and other
-bodies representing categories of controllers in several Member States may
-submit draft codes of conduct and amendments or extensions to existing codes of
-conduct to the Commission.
-4. The
-Commission may adopt implementing acts for deciding that the codes of conduct and amendments or extensions to existing codes
-of conduct submitted to it pursuant to paragraph 3 have general validity within
-the Union. Those implementing acts shall be adopted in accordance with the
-examination procedure set out in Article 87(2).
-5. The Commission shall
-ensure appropriate publicity for the codes which have been decided as having
-general validity in accordance with paragraph 4.
+1. The controller and the processor shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data.
+2. The controller and processor shall support the data protection officer in performing the tasks referred to in Article 39 by providing resources necessary to carry out those tasks and access to personal data and processing operations, and to maintain his or her expert knowledge.
+3. The controller and processor shall ensure that the data protection officer does not receive any instructions regarding the exercise of those tasks. He or she shall not be dismissed or penalised by the controller or the processor for performing his tasks. The data protection officer shall directly report to the highest management level of the controller or the processor.
+4. Data subjects may contact the data protection officer with regard to all issues related to processing of their personal data and to the exercise of their rights under this Regulation.
+5. The data protection officer shall be bound by secrecy or confidentiality concerning the performance of his or her tasks, in accordance with Union or Member State law.
+6. The data protection officer may fulfil other tasks and duties. The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests.

@@ -1,16 +1,10 @@
 # Recital (62)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_62`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (62)
-The protection of the rights and freedoms of
-data subjects as well as the responsibility and liability of controllers and
-processor, also in relation to the monitoring by and measures of supervisory
-authorities, requires a clear attribution of the responsibilities under this
-Regulation, including where a controller determines the purposes, conditions
-and means of the processing jointly with other controllers or where a
-processing operation is carried out on behalf of a controller.
+However, it is not necessary to impose the obligation to provide information where the data subject already possesses the information, where the recording or disclosure of the personal data is expressly laid down by law or where the provision of information to the data subject proves to be impossible or would involve a disproportionate effort. The latter could in particular be the case where processing is carried out for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes. In that regard, the number of data subjects, the age of the data and any appropriate safeguards adopted should be taken into consideration.

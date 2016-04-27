@@ -1,16 +1,10 @@
 # Recital (14)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_14`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (14)
-This Regulation does not address issues of
-protection of fundamental rights and freedoms or the free flow of data related
-to activities which fall outside the scope of Union law, nor does it cover the
-processing of personal data by the Union institutions, bodies, offices and
-agencies, which are subject to Regulation (EC) No 45/2001[44], or the processing of personal
-data by the Member States when carrying out activities in relation to the
-common foreign and security policy of the Union.
+The protection afforded by this Regulation should apply to natural persons, whatever their nationality or place of residence, in relation to the processing of their personal data. This Regulation does not cover the processing of personal data which concerns legal persons and in particular undertakings established as legal persons, including the name and the form of the legal person and the contact details of the legal person.

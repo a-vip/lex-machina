@@ -1,16 +1,10 @@
 # Recital (88)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_88`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (88)
-Transfers which cannot be qualified as frequent
-or massive, could also be possible for the purposes of the legitimate interests
-pursued by the controller or the processor, when they have assessed all the
-circumstances surrounding the data transfer. For the purposes of processing for
-historical, statistical and scientific research purposes, the legitimate
-expectations of society for an increase of knowledge should be taken into
-consideration.
+In setting detailed rules concerning the format and procedures applicable to the notification of personal data breaches, due consideration should be given to the circumstances of that breach, including whether or not personal data had been protected by appropriate technical protection measures, effectively limiting the likelihood of identity fraud or other forms of misuse. Moreover, such rules and procedures should take into account the legitimate interests of law-enforcement authorities where early disclosure could unnecessarily hamper the investigation of the circumstances of a personal data breach.

@@ -1,16 +1,10 @@
 # Recital (136)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_136`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (136)
-As regards Iceland and Norway, this Regulation constitutes
-a development of provisions of the Schengen acquis to the extent that it
-applies to the processing of personal data by authorities involved in the
-implementation of that acquis, as provided for by the Agreement concluded by
-the Council of the European Union and the Republic of Iceland and the Kingdom
-of Norway concerning the association of those two States with the
-implementation, application and development of the Schengen acquis[46].
+In applying the consistency mechanism, the Board should, within a determined period of time, issue an opinion, if a majority of its members so decides or if so requested by any supervisory authority concerned or the Commission. The Board should also be empowered to adopt legally binding decisions where there are disputes between supervisory authorities. For that purpose, it should issue, in principle by a two-thirds majority of its members, legally binding decisions in clearly specified cases where there are conflicting views among supervisory authorities, in particular in the cooperation mechanism between the lead supervisory authority and supervisory authorities concerned on the merits of the case, in particular whether there is an infringement of this Regulation.

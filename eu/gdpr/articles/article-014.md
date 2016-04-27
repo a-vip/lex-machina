@@ -1,85 +1,36 @@
-# Article 14 — Information to the data subject
+# Article 14 — Information to be provided where personal data have not been obtained from the data subject
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_14`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Where personal data
-relating to a data subject are collected, the controller shall provide the data
-subject with at least the following information:
-(a) the identity and the contact details
-of the controller and, if any, of the controller's representative and of the
-data protection officer;
-(b) the purposes of the processing for
-which the personal data are intended, including the contract terms and general
-conditions where the processing is based on point (b) of Article 6(1) and the
-legitimate interests pursued by the controller where the processing is based on
-point (f) of Article 6(1);
-(c) the period for which the personal data
-will be stored;
-(d) the existence of the right to request
-from the controller access to and rectification or erasure of the personal data
-concerning the data subject or to object to the processing of such personal data;
-(e) the right to lodge a complaint to the
-supervisory authority and the contact details of the supervisory authority;
-(f) the recipients or categories of
-recipients of the personal data;
-(g) where applicable, that the controller
-intends to transfer to a third country or international organisation and on the
-level of protection afforded by that third country or international
-organisation by reference to an adequacy decision by the Commission;
-(h) any further information necessary to
-guarantee fair processing in respect of the data subject, having regard to the
-specific circumstances in which the personal data are collected.
-2. Where the personal data
-are collected from the data subject, the controller shall inform the data
-subject, in addition to the information referred to in paragraph 1, whether the
-provision of personal data is obligatory or voluntary, as well as the possible
-consequences of failure to provide such data.
-3. Where the personal data
-are not collected from the data subject, the controller shall inform the data
-subject, in addition to the information referred to in paragraph 1, from which
-source the personal data originate.
-4. The controller shall
-provide the information referred to in paragraphs 1, 2 and 3:
-(a) at the
-time when the personal data are obtained from the data subject; or
-(b) where the personal data are not collected
-from the data subject, at the time of the recording or within a reasonable
-period after the collection, having regard to the specific circumstances in
-which the data are collected or otherwise processed, or, if a disclosure to
-another recipient is envisaged, and at the latest when the data are first
-disclosed.
-5. Paragraphs 1 to 4 shall
-not apply, where:
-(a) the data subject has already the
-information referred to in paragraphs 1, 2 and 3; or
-(b) the data are not collected from the
-data subject and the provision of such information proves impossible or would
-involve a disproportionate effort; or
-(c) the data are not collected from the
-data subject and recording or disclosure is expressly laid down by law; or
-(d) the data are not collected from the
-data subject and the provision of such information will impair the rights and
-freedoms of others, as defined in Union law or Member State law in accordance
-with Article 21.
-6. In the case referred to in
-point (b) of paragraph 5, the controller shall provide appropriate measures to
-protect the data subject's legitimate interests.
-7. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria for categories of recipients referred
-to in point (f) of paragraph 1, the requirements for the notice of potential
-access referred to in point (g) of paragraph 1, the criteria for the further
-information necessary referred to in point (h) of paragraph 1 for specific
-sectors and situations, and the conditions and appropriate safeguards for the
-exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall
-take the appropriate measures for micro, small and medium-sized-enterprises.
-8. The Commission may lay down
-standard forms for providing the information referred to in paragraphs 1 to 3,
-taking into account the specific characteristics and needs of various sectors
-and data processing situations where necessary. Those implementing acts shall
-be adopted in accordance with the examination procedure referred to in Article 87(2).
+1. Where personal data have not been obtained from the data subject, the controller shall provide the data subject with the following information:
+(a) the identity and the contact details of the controller and, where applicable, of the controller's representative;
+(b) the contact details of the data protection officer, where applicable;
+(c) the purposes of the processing for which the personal data are intended as well as the legal basis for the processing;
+(d) the categories of personal data concerned;
+(e) the recipients or categories of recipients of the personal data, if any;
+(f) where applicable, that the controller intends to transfer personal data to a recipient in a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means to obtain a copy of them or where they have been made available.
+2. In addition to the information referred to in paragraph 1, the controller shall provide the data subject with the following information necessary to ensure fair and transparent processing in respect of the data subject:
+(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period;
+(b) where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party;
+(c) the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject and to object to processing as well as the right to data portability;
+(d) where processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;
+(e) the right to lodge a complaint with a supervisory authority;
+(f) from which source the personal data originate, and if applicable, whether it came from publicly accessible sources;
+(g) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+3. The controller shall provide the information referred to in paragraphs 1 and 2:
+(a) within a reasonable period after obtaining the personal data, but at the latest within one month, having regard to the specific circumstances in which the personal data are processed;
+(b) if the personal data are to be used for communication with the data subject, at the latest at the time of the first communication to that data subject; or
+(c)
+if a disclosure to another recipient is envisaged, at the latest when the personal data are first disclosed.
+4. Where the controller intends to further process the personal data for a purpose other than that for which the personal data were obtained, the controller shall provide the data subject prior to that further processing with information on that other purpose and with any relevant further information as referred to in paragraph 2.
+5. Paragraphs 1 to 4 shall not apply where and insofar as:
+(a) the data subject already has the information;
+(b) the provision of such information proves impossible or would involve a disproportionate effort, in particular for processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, subject to the conditions and safeguards referred to in Article 89(1) or in so far as the obligation referred to in paragraph 1 of this Article is likely to render impossible or seriously impair the achievement of the objectives of that processing. In such cases the controller shall take appropriate measures to protect the data subject's rights and freedoms and legitimate interests, including making the information publicly available;
+(c) obtaining or disclosure is expressly laid down by Union or Member State law to which the controller is subject and which provides appropriate measures to protect the data subject's legitimate interests; or
+(d)
+where the personal data must remain confidential subject to an obligation of professional secrecy regulated by Union or Member State law, including a statutory obligation of secrecy.

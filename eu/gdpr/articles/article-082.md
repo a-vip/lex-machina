@@ -1,27 +1,15 @@
-# Article 82 — Processing in the employment context
+# Article 82 — Right to compensation and liability
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_82`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Within the limits of this
-Regulation, Member States may adopt by law
-specific rules regulating the processing of employees' personal data in
-the employment context, in particular for the purposes of the recruitment, the performance
-of the contract of employment, including discharge
-of obligations laid down by law or by collective agreements, management,
-planning and organisation of work, health and safety at work, and for the
-purposes of the exercise and enjoyment, on an individual or collective basis,
-of rights and benefits related to employment, and for the purpose of the
-termination of the employment relationship.
-2. Each
-Member State shall notify to the Commission those provisions of its law which
-it adopts pursuant to paragraph 1, by the date specified in Article 91(2) at
-the latest and, without delay, any subsequent amendment affecting them.
-3. The Commission shall be empowered to adopt delegated acts in accordance
-with Article 86 for the purpose of further specifying the criteria and
-requirements for the safeguards for the processing of personal data for
-the purposes referred to in paragraph 1.
+1. Any person who has suffered material or non-material damage as a result of an infringement of this Regulation shall have the right to receive compensation from the controller or processor for the damage suffered.
+2. Any controller involved in processing shall be liable for the damage caused by processing which infringes this Regulation. A processor shall be liable for the damage caused by processing only where it has not complied with obligations of this Regulation specifically directed to processors or where it has acted outside or contrary to lawful instructions of the controller.
+3. A controller or processor shall be exempt from liability under paragraph 2 if it proves that it is not in any way responsible for the event giving rise to the damage.
+4. Where more than one controller or processor, or both a controller and a processor, are involved in the same processing and where they are, under paragraphs 2 and 3, responsible for any damage caused by processing, each controller or processor shall be held liable for the entire damage in order to ensure effective compensation of the data subject.
+5. Where a controller or processor has, in accordance with paragraph 4, paid full compensation for the damage suffered, that controller or processor shall be entitled to claim back from the other controllers or processors involved in the same processing that part of the compensation corresponding to their part of responsibility for the damage, in accordance with the conditions set out in paragraph 2.
+6. Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2).

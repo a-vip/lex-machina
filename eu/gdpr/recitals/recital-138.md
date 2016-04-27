@@ -1,18 +1,10 @@
 # Recital (138)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_138`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (138)
-As regards Liechtenstein, this Regulation
-constitutes a development of provisions of the Schengen acquis to the extent
-that it applies to the processing of personal data by authorities involved in
-the implementation of that acquis, as provided for by the Protocol between the
-European Union, the European Community, the Swiss Confederation and the
-Principality of Liechtenstein on the accession of the Principality of
-Liechtenstein to the Agreement between the European Union, the European
-Community and the Swiss Confederation on the Swiss Confederation’s association
-with the implementation, application and development of the Schengen acquis[48].
+The application of such mechanism should be a condition for the lawfulness of a measure intended to produce legal effects by a supervisory authority in those cases where its application is mandatory. In other cases of cross-border relevance, the cooperation mechanism between the lead supervisory authority and supervisory authorities concerned should be applied and mutual assistance and joint operations might be carried out between the supervisory authorities concerned on a bilateral or multilateral basis without triggering the consistency mechanism.

@@ -1,64 +1,41 @@
-# Article 58 — Opinion by the European Data Protection Board
+# Article 58 — Powers
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_58`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Before a supervisory
-authority adopts a measure referred to in paragraph 2, this supervisory
-authority shall communicate the draft measure to the European Data Protection
-Board and the Commission.
-2. The obligation set out in
-paragraph 1 shall apply to a measure intended to
-produce legal effects and which:
-(a) relates to processing activities which
-are related to the offering of goods or services to data subjects in several
-Member States, or to the monitoring of their behaviour; or
-(b) may substantially affect the free
-movement of personal data within the Union; or
-(c) aims at adopting a list of the
-processing operations subject to prior consultation pursuant to Article 34(5); or
-(d) aims to determine standard data
-protection clauses referred to in point (c) of Article 42(2); or
-(e) aims to authorise contractual clauses
-referred to in point (d) of Article 42(2); or
-(f) aims to approve binding corporate rules
-within the meaning of Article 43.
-3. Any supervisory authority
-or the European Data Protection Board may request that any
-matter shall be dealt with in the consistency mechanism, in particular where a supervisory authority does not submit a draft measure referred to
-in paragraph 2 or does not comply with the obligations for mutual assistance in
-accordance with Article 55 or for joint operations in accordance with Article 56.
-4. In order to ensure correct
-and consistent application of this Regulation, the
-Commission may request that any matter shall be dealt with in the consistency mechanism.
-5. Supervisory authorities
-and the Commission shall electronically communicate any relevant information, including as the case may be a
-summary of the facts, the draft measure, and the grounds which make the
-enactment of such measure necessary, using a
-standardised format.
-6. The chair of the European
-Data Protection Board shall immediately electronically inform the members of the European Data Protection Board and the
-Commission of any relevant information which has been communicated to it, using a standardised format. The chair of
-the European Data Protection Board shall provide translations of relevant
-information, where necessary.
-7. The European Data
-Protection Board shall issue an opinion on the matter, if the European Data
-Protection Board so decides by simple majority of its members or any
-supervisory authority or the Commission so requests within one week after the
-relevant information has been provided according to paragraph 5. The opinion
-shall be adopted within one month by simple majority of the members of the European
-Data Protection Board. The chair of the European Data Protection Board shall
-inform, without undue delay, the supervisory authority referred to, as the case
-may be, in paragraphs 1 and 3, the Commission and the supervisory authority
-competent under Article 51 of the opinion and make it public.
-8. The supervisory authority
-referred to in paragraph 1 and the supervisory authority competent under
-Article 51 shall take account of the opinion of the European Data Protection Board
-and shall within two weeks after the information on the opinion by the chair of
-the European Data Protection Board, electronically communicate to the chair of the European Data Protection Board and
-to the Commission whether it maintains or amends its draft measure and, if any,
-the amended draft measure, using a standardised format.
+1. Each supervisory authority shall have all of the following investigative powers:
+(a) to order the controller and the processor, and, where applicable, the controller's or the processor's representative to provide any information it requires for the performance of its tasks;
+(b) to carry out investigations in the form of data protection audits;
+(c) to carry out a review on certifications issued pursuant to Article 42(7);
+(d) to notify the controller or the processor of an alleged infringement of this Regulation;
+(e) to obtain, from the controller and the processor, access to all personal data and to all information necessary for the performance of its tasks;
+(f) to obtain access to any premises of the controller and the processor, including to any data processing equipment and means, in accordance with Union or Member State procedural law.
+2. Each supervisory authority shall have all of the following corrective powers:
+(a) to issue warnings to a controller or processor that intended processing operations are likely to infringe provisions of this Regulation;
+(b) to issue reprimands to a controller or a processor where processing operations have infringed provisions of this Regulation;
+(c) to order the controller or the processor to comply with the data subject's requests to exercise his or her rights pursuant to this Regulation;
+(d) to order the controller or processor to bring processing operations into compliance with the provisions of this Regulation, where appropriate, in a specified manner and within a specified period;
+(e) to order the controller to communicate a personal data breach to the data subject;
+(f) to impose a temporary or definitive limitation including a ban on processing;
+(g) to order the rectification or erasure of personal data or restriction of processing pursuant to Articles 16, 17 and 18 and the notification of such actions to recipients to whom the personal data have been disclosed pursuant to Article 17(2) and Article 19;
+(h) to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles 42 and 43, or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;
+(i) to impose an administrative fine pursuant to Article 83, in addition to, or instead of measures referred to in this paragraph, depending on the circumstances of each individual case;
+(j) to order the suspension of data flows to a recipient in a third country or to an international organisation.
+3. Each supervisory authority shall have all of the following authorisation and advisory powers:
+(a) to advise the controller in accordance with the prior consultation procedure referred to in Article 36;
+(b) to issue, on its own initiative or on request, opinions to the national parliament, the Member State government or, in accordance with Member State law, to other institutions and bodies as well as to the public on any issue related to the protection of personal data;
+(c) to authorise processing referred to in Article 36(5), if the law of the Member State requires such prior authorisation;
+(d) to issue an opinion and approve draft codes of conduct pursuant to Article 40(5);
+(e) to accredit certification bodies pursuant to Article 43;
+(f) to issue certifications and approve criteria of certification in accordance with Article 42(5);
+(g) to adopt standard data protection clauses referred to in Article 28(8) and in point (d) of Article 46(2);
+(h) to authorise contractual clauses referred to in point (a) of Article 46(3);
+(i) to authorise administrative arrangements referred to in point (b) of Article 46(3);
+(j) to approve binding corporate rules pursuant to Article 47.
+4. The exercise of the powers conferred on the supervisory authority pursuant to this Article shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter.
+5. Each Member State shall provide by law that its supervisory authority shall have the power to bring infringements of this Regulation to the attention of the judicial authorities and where appropriate, to commence or engage otherwise in legal proceedings, in order to enforce the provisions of this Regulation.
+6. Each Member State may provide by law that its supervisory authority shall have additional powers to those referred to in paragraphs 1, 2 and 3. The exercise of those powers shall not impair the effective operation of Chapter VII.

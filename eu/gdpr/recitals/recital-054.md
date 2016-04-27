@@ -1,20 +1,14 @@
 # Recital (54)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_54`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (54)
-To strengthen the 'right to be forgotten' in the
-online environment, the right to erasure should also be extended in such a way that
-a controller who has made the personal data public should be obliged to inform
-third parties which are processing such data that a data subject requests them
-to erase any links to, or copies or replications of that personal data. To
-ensure this information, the controller should take all reasonable steps,
-including technical measures, in relation to data for the publication of which
-the controller is responsible. In relation to a third party publication of
-personal data, the controller should be considered responsible for the
-publication, where the controller has authorised the publication by the third
-party.
+The processing of special categories of personal data may be necessary for reasons of public interest in the areas of public health without consent of the data subject. Such processing should be subject to suitable and specific measures so as to protect the rights and freedoms of natural persons. In that context, ‘public health’ should be interpreted as defined in Regulation (EC) No 1338/2008 of the European Parliament and of the Council
+(
+11
+)
+, namely all elements related to health, namely health status, including morbidity and disability, the determinants having an effect on that health status, health care needs, resources allocated to health care, the provision of, and universal access to, health care as well as health care expenditure and financing, and the causes of mortality. Such processing of data concerning health for reasons of public interest should not result in personal data being processed for other purposes by third parties such as employers or insurance and banking companies.

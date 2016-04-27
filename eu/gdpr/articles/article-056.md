@@ -1,51 +1,15 @@
-# Article 56 — Joint operations of supervisory
+# Article 56 — Competence of the lead supervisory authority
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_56`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-authorities
-1. In order to step up co-operation
-and mutual assistance, the supervisory authorities shall carry out joint
-investigative tasks, joint enforcement measures and other joint operations, in
-which designated members or staff from other Member States' supervisory
-authorities are involved.
-2. In cases where data
-subjects in several Member States are likely to be
-affected by processing operations, a supervisory authority of each of those Member States shall have the
-right to participate in the joint investigative tasks or joint operations, as
-appropriate. The competent supervisory authority shall invite the supervisory
-authority of each of those Member States to take part
-in the respective joint investigative tasks or joint operations and respond to the request of a supervisory authority to
-participate in the operations without delay.
-3. Each supervisory authority may, as a host supervisory authority, in compliance with
-its own national law, and with the seconding supervisory
-authority’s authorisation, confer executive powers,
-including investigative tasks on the seconding supervisory
-authority’s members or staff involved in joint
-operations or, in so far as the host supervisory
-authority’s law permits, allow the seconding supervisory authority’s members or staff to
-exercise their executive powers in accordance with the seconding supervisory authority’s law. Such executive
-powers may be exercised only under the guidance and, as a rule, in the presence
-of members or staff from the host supervisory authority. The seconding supervisory authority's members or staff shall be subject to the host supervisory authority's national law. The
-host supervisory authority shall
-assume responsibility for their actions.
-4. Supervisory
-authorities shall lay down the practical aspects of specific
-co-operation actions.
-5. Where a supervisory
-authority does not comply within one month with the obligation laid down in
-paragraph 2, the other supervisory authorities shall be competent to take a
-provisional measure on the territory of its Member State in accordance with
-Article 51(1).
-6. The supervisory authority
-shall specify the period of validity of a provisional measure referred to in
-paragraph 5. This period shall not exceed three months. The supervisory
-authority shall, without delay, communicate those measures, with full reasons,
-to the European Data Protection Board and to the Commission and shall submit
-the matter in the mechanism referred to in Article 57.
-Section 2
-Consistency
+1. Without prejudice to Article 55, the supervisory authority of the main establishment or of the single establishment of the controller or processor shall be competent to act as lead supervisory authority for the cross-border processing carried out by that controller or processor in accordance with the procedure provided in Article 60.
+2. By derogation from paragraph 1, each supervisory authority shall be competent to handle a complaint lodged with it or a possible infringement of this Regulation, if the subject matter relates only to an establishment in its Member State or substantially affects data subjects only in its Member State.
+3. In the cases referred to in paragraph 2 of this Article, the supervisory authority shall inform the lead supervisory authority without delay on that matter. Within a period of three weeks after being informed the lead supervisory authority shall decide whether or not it will handle the case in accordance with the procedure provided in Article 60, taking into account whether or not there is an establishment of the controller or processor in the Member State of which the supervisory authority informed it.
+4. Where the lead supervisory authority decides to handle the case, the procedure provided in Article 60 shall apply. The supervisory authority which informed the lead supervisory authority may submit to the lead supervisory authority a draft for a decision. The lead supervisory authority shall take utmost account of that draft when preparing the draft decision referred to in Article 60(3).
+5. Where the lead supervisory authority decides not to handle the case, the supervisory authority which informed the lead supervisory authority shall handle it according to Articles 61 and 62.
+6. The lead supervisory authority shall be the sole interlocutor of the controller or processor for the cross-border processing carried out by that controller or processor.

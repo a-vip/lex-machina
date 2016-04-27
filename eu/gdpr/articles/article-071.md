@@ -1,31 +1,11 @@
-# Article 71 — Secretariat
+# Article 71 — Reports
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_71`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The European Data
-Protection Board shall have a secretariat. The European Data Protection
-Supervisor shall provide that secretariat.
-2. The secretariat shall
-provide analytical, administrative and logistical support to the European Data
-Protection Board under the direction of the chair.
-3. The secretariat shall be
-responsible in particular for:
-(a) the day-to-day business of the
-European Data Protection Board;
-(b) the communication between the members
-of the European Data Protection Board, its chair and the Commission and for
-communication with other institutions and the public;
-(c) the use of electronic means for the
-internal and external communication;
-(d) the translation of relevant
-information;
-(e) the preparation and follow-up of the
-meetings of the European Data Protection Board;
-(f) the preparation, drafting and
-publication of opinions and other texts adopted by the European Data Protection
-Board.
+1. The Board shall draw up an annual report regarding the protection of natural persons with regard to processing in the Union and, where relevant, in third countries and international organisations. The report shall be made public and be transmitted to the European Parliament, to the Council and to the Commission.
+2. The annual report shall include a review of the practical application of the guidelines, recommendations and best practices referred to in point (l) of Article 70(1) as well as of the binding decisions referred to in Article 65.

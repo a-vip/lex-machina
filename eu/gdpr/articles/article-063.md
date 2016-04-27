@@ -1,19 +1,10 @@
-# Article 63 — Enforcement
+# Article 63 — Consistency mechanism
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_63`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. For the purposes of this Regulation,
-an enforceable measure of the supervisory authority of one Member State shall
-be enforced in all Member States concerned.
-2. Where a supervisory
-authority does not submit a draft measure to the consistency mechanism in
-breach of Article 58(1) to (5), the measure of the supervisory authority shall
-not be legally valid and enforceable.
-Section
-3
-European Data Protection Board
+In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in this Section.

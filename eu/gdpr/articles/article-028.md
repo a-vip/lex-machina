@@ -1,56 +1,28 @@
-# Article 28 — Documentation
+# Article 28 — Processor
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_28`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Each controller and
-processor and, if any, the controller's representative, shall maintain
-documentation of all processing operations under its responsibility.
-2. The documentation shall
-contain at least the following information:
-(a) the name and contact details of the
-controller, or any joint controller or processor, and of the representative, if
-any;
-(b) the name and contact details of the
-data protection officer, if any;
-(c) the purposes of the processing,
-including the legitimate interests pursued by the controller where the
-processing is based on point (f) of Article 6(1);
-(d) a description of categories of data
-subjects and of the categories of personal data relating to them;
-(e) the recipients or categories of
-recipients of the personal data, including the controllers to whom personal
-data are disclosed for the legitimate interest pursued by them;
-(f) where applicable, transfers of data
-to a third country or an international organisation, including the
-identification of that third country or international organisation and, in case
-of transfers referred to in point (h) of Article 44(1), the documentation of
-appropriate safeguards;
-(g) a general indication of the time
-limits for erasure of the different categories of data;
-(h) the description of the mechanisms referred
-to in Article 22(3).
-3. The controller and the processor
-and, if any, the controller's representative, shall make the documentation
-available, on request, to the supervisory authority.
-4. The obligations referred
-to in paragraphs 1 and 2 shall not apply to the following controllers and
-processors:
-(a) a natural person processing personal
-data without a commercial interest; or
-(b) an enterprise or an organisation employing
-fewer than 250 persons that is processing personal data only as an activity
-ancillary to its main activities.
-5. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and requirements for the documentation referred
-to in paragraph 1, to take account of in particular the responsibilities of the
-controller and the processor and, if any, the controller's representative.
-6. The Commission may lay
-down standard forms for the documentation referred to in paragraph 1. Those
-implementing acts shall be adopted in accordance with the examination procedure
-referred to in Article 87(2).
+1. Where processing is to be carried out on behalf of a controller, the controller shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.
+2. The processor shall not engage another processor without prior specific or general written authorisation of the controller. In the case of general written authorisation, the processor shall inform the controller of any intended changes concerning the addition or replacement of other processors, thereby giving the controller the opportunity to object to such changes.
+3. Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. That contract or other legal act shall stipulate, in particular, that the processor:
+(a) processes the personal data only on documented instructions from the controller, including with regard to transfers of personal data to a third country or an international organisation, unless required to do so by Union or Member State law to which the processor is subject; in such a case, the processor shall inform the controller of that legal requirement before processing, unless that law prohibits such information on important grounds of public interest;
+(b) ensures that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;
+(c) takes all measures required pursuant to Article 32;
+(d) respects the conditions referred to in paragraphs 2 and 4 for engaging another processor;
+(e) taking into account the nature of the processing, assists the controller by appropriate technical and organisational measures, insofar as this is possible, for the fulfilment of the controller's obligation to respond to requests for exercising the data subject's rights laid down in Chapter III;
+(f) assists the controller in ensuring compliance with the obligations pursuant to Articles 32 to 36 taking into account the nature of processing and the information available to the processor;
+(g) at the choice of the controller, deletes or returns all the personal data to the controller after the end of the provision of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of the personal data;
+(h) makes available to the controller all information necessary to demonstrate compliance with the obligations laid down in this Article and allow for and contribute to audits, including inspections, conducted by the controller or another auditor mandated by the controller.
+With regard to point (h) of the first subparagraph, the processor shall immediately inform the controller if, in its opinion, an instruction infringes this Regulation or other Union or Member State data protection provisions.
+4. Where a processor engages another processor for carrying out specific processing activities on behalf of the controller, the same data protection obligations as set out in the contract or other legal act between the controller and the processor as referred to in paragraph 3 shall be imposed on that other processor by way of a contract or other legal act under Union or Member State law, in particular providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that the processing will meet the requirements of this Regulation. Where that other processor fails to fulfil its data protection obligations, the initial processor shall remain fully liable to the controller for the performance of that other processor's obligations.
+5. Adherence of a processor to an approved code of conduct as referred to in Article 40 or an approved certification mechanism as referred to in Article 42 may be used as an element by which to demonstrate sufficient guarantees as referred to in paragraphs 1 and 4 of this Article.
+6. Without prejudice to an individual contract between the controller and the processor, the contract or the other legal act referred to in paragraphs 3 and 4 of this Article may be based, in whole or in part, on standard contractual clauses referred to in paragraphs 7 and 8 of this Article, including when they are part of a certification granted to the controller or processor pursuant to Articles 42 and 43.
+7. The Commission may lay down standard contractual clauses for the matters referred to in paragraph 3 and 4 of this Article and in accordance with the examination procedure referred to in Article 93(2).
+8. A supervisory authority may adopt standard contractual clauses for the matters referred to in paragraph 3 and 4 of this Article and in accordance with the consistency mechanism referred to in Article 63.
+9. The contract or the other legal act referred to in paragraphs 3 and 4 shall be in writing, including in electronic form.
+10. Without prejudice to Articles 82, 83 and 84, if a processor infringes this Regulation by determining the purposes and means of processing, the processor shall be considered to be a controller in respect of that processing.

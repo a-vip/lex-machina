@@ -1,26 +1,10 @@
 # Recital (53)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_53`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (53)
-Any person should have the right to have
-personal data concerning them rectified and a 'right to be forgotten' where the
-retention of such data is not in compliance with this Regulation. In
-particular, data subjects should have the right that their personal data are
-erased and no longer processed, where the data are no longer necessary in
-relation to the purposes for which the data are collected or otherwise
-processed, where data subjects have withdrawn their consent for processing or
-where they object to the processing of personal data concerning them or where
-the processing of their personal data otherwise does not comply with this
-Regulation. This right is particularly relevant, when the data subject has
-given their consent as a child, when not being fully aware of the risks
-involved by the processing, and later wants to remove such personal data especially
-on the Internet. However, the further retention of the data should be allowed
-where it is necessary for historical, statistical and scientific research purposes,
-for reasons of public interest in the area of public health, for exercising the
-right of freedom of expression, when required by law or where there is a reason
-to restrict the processing of the data instead of erasing them.
+Special categories of personal data which merit higher protection should be processed for health-related purposes only where necessary to achieve those purposes for the benefit of natural persons and society as a whole, in particular in the context of the management of health or social care services and systems, including processing by the management and central national health authorities of such data for the purpose of quality control, management information and the general national and local supervision of the health or social care system, and ensuring continuity of health or social care and cross-border healthcare or health security, monitoring and alert purposes, or for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, based on Union or Member State law which has to meet an objective of public interest, as well as for studies conducted in the public interest in the area of public health. Therefore, this Regulation should provide for harmonised conditions for the processing of special categories of personal data concerning health, in respect of specific needs, in particular where the processing of such data is carried out for certain health-related purposes by persons subject to a legal obligation of professional secrecy. Union or Member State law should provide for specific and suitable measures so as to protect the fundamental rights and the personal data of natural persons. Member States should be allowed to maintain or introduce further conditions, including limitations, with regard to the processing of genetic data, biometric data or data concerning health. However, this should not hamper the free flow of personal data within the Union when those conditions apply to cross-border processing of such data.

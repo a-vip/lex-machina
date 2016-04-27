@@ -1,39 +1,10 @@
 # Recital (129)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_129`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (129)
-In order to fulfil the objectives of this
-Regulation, namely to protect the fundamental rights and freedoms of natural
-persons and in particular their right to the protection of personal data and to
-ensure the free movement of personal data within the Union, the power to adopt
-acts in accordance with Article 290 of the Treaty on the Functioning of the
-European Union should be delegated to the Commission. In particular, delegated
-acts should be adopted in respect of lawfulness of processing; specifying the
-criteria and conditions in relation to the consent of a child; processing of
-special categories of data; specifying the criteria and conditions for
-manifestly excessive requests and fees for exercising the rights of the data
-subject; criteria and requirements for the information to the data subject and
-in relation to the right of access; the right to be forgotten and to erasure; measures
-based on profiling; criteria and requirements in relation to the responsibility
-of the controller and to data protection by design and by default; a processor;
-criteria and requirements for the documentation and the security of processing;
-criteria and requirements for establishing a personal data breach and for its notification
-to the supervisory authority, and on the circumstances where a personal data
-breach is likely to adversely affect the data subject; the criteria and
-conditions for processing operations requiring a data protection impact
-assessment; the criteria and requirements for determining a high degree of specific
-risks which require prior consultation; designation and tasks of the data
-protection officer; codes of conduct; criteria and requirements for certification
-mechanisms; criteria and requirements for transfers by way of binding corporate
-rules; transfer derogations; administrative sanctions; processing for health
-purposes; processing in the employment context and processing for historical,
-statistical and scientific research purposes. It is of particular importance
-that the Commission carry out appropriate consultations during its preparatory
-work, including at expert level. The Commission, when preparing and drawing-up
-delegated acts, should ensure a simultaneous, timely and appropriate
-transmission of relevant documents to the European Parliament and Council.
+In order to ensure consistent monitoring and enforcement of this Regulation throughout the Union, the supervisory authorities should have in each Member State the same tasks and effective powers, including powers of investigation, corrective powers and sanctions, and authorisation and advisory powers, in particular in cases of complaints from natural persons, and without prejudice to the powers of prosecutorial authorities under Member State law, to bring infringements of this Regulation to the attention of the judicial authorities and engage in legal proceedings. Such powers should also include the power to impose a temporary or definitive limitation, including a ban, on processing. Member States may specify other tasks related to the protection of personal data under this Regulation. The powers of supervisory authorities should be exercised in accordance with appropriate procedural safeguards set out in Union and Member State law, impartially, fairly and within a reasonable time. In particular each measure should be appropriate, necessary and proportionate in view of ensuring compliance with this Regulation, taking into account the circumstances of each individual case, respect the right of every person to be heard before any individual measure which would affect him or her adversely is taken and avoid superfluous costs and excessive inconveniences for the persons concerned. Investigatory powers as regards access to premises should be exercised in accordance with specific requirements in Member State procedural law, such as the requirement to obtain a prior judicial authorisation. Each legally binding measure of the supervisory authority should be in writing, be clear and unambiguous, indicate the supervisory authority which has issued the measure, the date of issue of the measure, bear the signature of the head, or a member of the supervisory authority authorised by him or her, give the reasons for the measure, and refer to the right of an effective remedy. This should not preclude additional requirements pursuant to Member State procedural law. The adoption of a legally binding decision implies that it may give rise to judicial review in the Member State of the supervisory authority that adopted the decision.

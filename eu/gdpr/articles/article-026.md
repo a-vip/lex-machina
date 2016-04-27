@@ -1,58 +1,12 @@
-# Article 26 — Processor
+# Article 26 — Joint controllers
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_26`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Where a processing
-operation is to be carried out on behalf of a controller, the controller shall
-choose a processor providing sufficient guarantees to implement appropriate
-technical and organisational measures and procedures in such a way that the
-processing will meet the requirements of this Regulation and ensure the
-protection of the rights of the data subject, in particular in respect of the technical
-security measures and organizational measures governing the processing to be
-carried out and shall ensure compliance with those measures.
-2. The carrying out of
-processing by a processor shall be governed by a contract or other legal act
-binding the processor to the controller and stipulating in particular that the
-processor shall:
-(a) act only on instructions from the
-controller, in particular, where the transfer of the personal data used is
-prohibited;
-(b) employ only staff who have committed
-themselves to confidentiality or are under a statutory obligation of
-confidentiality;
-(c) take all required measures pursuant to
-Article 30;
-(d) enlist another processor only with the
-prior permission of the controller;
-(e) insofar as this is possible given the
-nature of the processing, create in agreement with the controller the necessary
-technical and organisational requirements for the fulfilment of the
-controller’s obligation to respond to requests for exercising the data
-subject’s rights laid down in Chapter III;
-(f) assist
-the controller in ensuring compliance with the obligations pursuant to Articles
-30 to 34;
-(g) hand over all results to the
-controller after the end of the processing and not process the personal data
-otherwise;
-(h) make available to the controller and
-the supervisory authority all information necessary to control compliance with
-the obligations laid down in this Article.
-3. The controller and the
-processor shall document in writing the controller's instructions and the
-processor's obligations referred to in paragraph 2.
-4. If a processor processes personal
-data other than as instructed by the controller, the processor shall be
-considered to be a controller in respect of that processing and shall be
-subject to the rules on joint controllers laid down in Article 24.
-5. The Commission shall be
-empowered to adopt delegated acts in accordance with Article 86 for the purpose
-of further specifying the criteria and requirements for the responsibilities,
-duties and tasks in relation to a processor in line with paragraph 1, and
-conditions which allow facilitating the processing of personal data within a
-group of undertakings, in particular for the purposes of control and reporting.
+1. Where two or more controllers jointly determine the purposes and means of processing, they shall be joint controllers. They shall in a transparent manner determine their respective responsibilities for compliance with the obligations under this Regulation, in particular as regards the exercising of the rights of the data subject and their respective duties to provide the information referred to in Articles 13 and 14, by means of an arrangement between them unless, and in so far as, the respective responsibilities of the controllers are determined by Union or Member State law to which the controllers are subject. The arrangement may designate a contact point for data subjects.
+2. The arrangement referred to in paragraph 1 shall duly reflect the respective roles and relationships of the joint controllers vis-à-vis the data subjects. The essence of the arrangement shall be made available to the data subject.
+3. Irrespective of the terms of the arrangement referred to in paragraph 1, the data subject may exercise his or her rights under this Regulation in respect of and against each of the controllers.

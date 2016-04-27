@@ -1,29 +1,11 @@
-# Article 76 — Common rules for court proceedings
+# Article 76 — Confidentiality
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_76`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Any body, organisation or
-association referred to in Article 73(2) shall have the right to exercise the
-rights referred to in Articles 74 and 75 on behalf of one or more data
-subjects.
-2. Each supervisory authority
-shall have the right to engage in legal proceedings and bring an action to
-court, in order to enforce the provisions of this Regulation or to ensure
-consistency of the protection of personal data within the Union.
-3. Where a competent court of
-a Member State has reasonable grounds to believe that parallel proceedings are
-being conducted in another Member State, it shall contact the competent court
-in the other Member State to confirm the existence of such parallel
-proceedings.
-4. Where such parallel
-proceedings in another Member State concern the same measure, decision or
-practice, the court may suspend the proceedings.
-5. Member States shall ensure
-that court actions available under national law allow for the rapid adoption of
-measures including interim measures, designed to terminate any alleged
-infringement and to prevent any further impairment of the interests involved.
+1. The discussions of the Board shall be confidential where the Board deems it necessary, as provided for in its rules of procedure.
+2. Access to documents submitted to members of the Board, experts and representatives of third parties shall be governed by Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 21 ) .

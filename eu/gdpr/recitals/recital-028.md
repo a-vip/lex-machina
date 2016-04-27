@@ -1,15 +1,10 @@
 # Recital (28)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_28`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (28)
-A group of undertakings should cover a
-controlling undertaking and its controlled undertakings, whereby the
-controlling undertaking should be the undertaking which can exercise a dominant
-influence over the other undertakings by virtue, for example, of ownership,
-financial participation or the rules which govern it or the power to have
-personal data protection rules implemented.
+The application of pseudonymisation to personal data can reduce the risks to the data subjects concerned and help controllers and processors to meet their data-protection obligations. The explicit introduction of ‘pseudonymisation’ in this Regulation is not intended to preclude any other measures of data protection.

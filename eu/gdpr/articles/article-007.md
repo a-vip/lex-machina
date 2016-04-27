@@ -1,23 +1,13 @@
 # Article 7 — Conditions for consent
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_7`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The controller shall bear
-the burden of proof for the data subject's consent to the processing of their
-personal data for specified purposes.
-2. If the data subject's consent
-is to be given in the context of a written declaration which also concerns another
-matter, the requirement to give consent must be presented distinguishable in
-its appearance from this other matter.
-3. The data subject shall
-have the right to withdraw his or her consent at any time. The withdrawal of
-consent shall not affect the lawfulness of processing based on consent before
-its withdrawal.
-4. Consent shall not provide
-a legal basis for the processing, where there is a significant imbalance
-between the position of the data subject and the controller.
+1. Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data.
+2. If the data subject's consent is given in the context of a written declaration which also concerns other matters, the request for consent shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language. Any part of such a declaration which constitutes an infringement of this Regulation shall not be binding.
+3. The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. Prior to giving consent, the data subject shall be informed thereof. It shall be as easy to withdraw as to give consent.
+4. When assessing whether consent is freely given, utmost account shall be taken of whether, inter alia , the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.

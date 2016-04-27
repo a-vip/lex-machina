@@ -1,16 +1,10 @@
 # Recital (15)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_15`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (15)
-This Regulation should not apply to processing
-of personal data by a natural person, which are exclusively personal or
-domestic, such as correspondence and the holding of addresses, and without any
-gainful interest and thus without any connection with a professional or
-commercial activity. The exemption should also not apply to controllers or
-processors which provide the means for processing personal data for such
-personal or domestic activities.
+In order to prevent creating a serious risk of circumvention, the protection of natural persons should be technologically neutral and should not depend on the techniques used. The protection of natural persons should apply to the processing of personal data by automated means, as well as to manual processing, if the personal data are contained or are intended to be contained in a filing system. Files or sets of files, as well as their cover pages, which are not structured according to specific criteria should not fall within the scope of this Regulation.

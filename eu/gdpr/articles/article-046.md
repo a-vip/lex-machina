@@ -1,27 +1,24 @@
-# Article 46 — Supervisory authority
+# Article 46 — Transfers subject to appropriate safeguards
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_46`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Each Member State shall
-provide that one or more public authorities are responsible for monitoring the
-application of this Regulation and for contributing to its consistent
-application throughout the Union, in order to protect the fundamental rights
-and freedoms of natural persons in relation to the processing of their personal
-data and to facilitate the free flow of personal data within the Union. For these
-purposes, the supervisory authorities shall co-operate with each other and the
-Commission.
-2. Where in a Member State more
-than one supervisory authority are established, that Member State shall designate
-the supervisory authority which functions as a single contact point for the effective
-participation of those authorities in the European Data Protection Board and
-shall set out the mechanism to ensure compliance by the other authorities with
-the rules relating to the consistency mechanism referred to in Article 57.
-3. Each Member State shall
-notify to the Commission those provisions of its law which it adopts pursuant
-to this Chapter, by the date specified in Article 91(2) at the latest and,
-without delay, any subsequent amendment affecting them.
+1. In the absence of a decision pursuant to Article 45(3), a controller or processor may transfer personal data to a third country or an international organisation only if the controller or processor has provided appropriate safeguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.
+2. The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authorisation from a supervisory authority, by:
+(a) a legally binding and enforceable instrument between public authorities or bodies;
+(b) binding corporate rules in accordance with Article 47;
+(c) standard data protection clauses adopted by the Commission in accordance with the examination procedure referred to in Article 93(2);
+(d) standard data protection clauses adopted by a supervisory authority and approved by the Commission pursuant to the examination procedure referred to in Article 93(2);
+(e) an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or
+(f)
+an approved certification mechanism pursuant to Article 42 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights.
+3. Subject to the authorisation from the competent supervisory authority, the appropriate safeguards referred to in paragraph 1 may also be provided for, in particular, by:
+(a) contractual clauses between the controller or processor and the controller, processor or the recipient of the personal data in the third country or international organisation; or
+(b)
+provisions to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective data subject rights.
+4. The supervisory authority shall apply the consistency mechanism referred to in Article 63 in the cases referred to in paragraph 3 of this Article.
+5. Authorisations by a Member State or supervisory authority on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that supervisory authority. Decisions adopted by the Commission on the basis of Article 26(4) of Directive 95/46/EC shall remain in force until amended, replaced or repealed, if necessary, by a Commission Decision adopted in accordance with paragraph 2 of this Article.

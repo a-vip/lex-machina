@@ -1,30 +1,22 @@
-# Article 75 — Right to a judicial remedy against a controller or processor
+# Article 75 — Secretariat
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_75`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Without prejudice to any
-available administrative remedy, including the right to lodge a complaint with
-a supervisory authority as referred to in Article 73, every natural person
-shall have the right to a judicial remedy if they consider that their rights
-under this Regulation have been infringed as a result of the processing of their
-personal data in non-compliance with this Regulation.
-2. Proceedings against a
-controller or a processor shall be brought before the courts of the Member
-State where the controller or processor has an establishment. Alternatively,
-such proceedings may be brought before the courts of the Member State where the
-data subject has its habitual residence, unless the controller is a public
-authority acting in the exercise of its public powers.
-3. Where proceedings are
-pending in the consistency mechanism referred to in Article 58, which concern the
-same measure, decision or practice, a court may suspend the proceedings brought
-before it, except where the urgency of the matter for the protection of the
-data subject's rights does not allow to wait for the outcome of the procedure
-in the consistency mechanism.
-4. The
-Member States shall enforce final decisions by the courts referred to in this
-Article.
+1. The Board shall have a secretariat, which shall be provided by the European Data Protection Supervisor.
+2. The secretariat shall perform its tasks exclusively under the instructions of the Chair of the Board.
+3. The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this Regulation shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the European Data Protection Supervisor.
+4. Where appropriate, the Board and the European Data Protection Supervisor shall establish and publish a Memorandum of Understanding implementing this Article, determining the terms of their cooperation, and applicable to the staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this Regulation.
+5. The secretariat shall provide analytical, administrative and logistical support to the Board.
+6. The secretariat shall be responsible in particular for:
+(a) the day-to-day business of the Board;
+(b) communication between the members of the Board, its Chair and the Commission;
+(c) communication with other institutions and the public;
+(d) the use of electronic means for the internal and external communication;
+(e) the translation of relevant information;
+(f) the preparation and follow-up of the meetings of the Board;
+(g) the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board.

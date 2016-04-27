@@ -1,22 +1,10 @@
 # Recital (70)
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
+- **Stage**: Final Official Journal Text (`2016-04-27`)
 - **Akoma Ntoso eId**: `rct_70`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (70)
-Directive 95/46/EC provided for a general
-obligation to notify processing of personal data to the supervisory
-authorities. While this obligation produces administrative and financial burdens,
-it did not in all cases contribute to improving the protection of personal data.
-Therefore such indiscriminate general notification obligation should be
-abolished, and replaced by effective procedures and mechanism which focus instead
-on those processing operations which are likely to present specific risks to
-the rights and freedoms of data subjects by virtue of their nature, their scope
-or their purposes. In such cases, a data protection impact assessment should be
-carried out by the controller or processor prior to the processing, which
-should include in particular the envisaged measures, safeguards and mechanisms for
-ensuring the protection of personal data and for demonstrating the compliance
-with this Regulation.
+Where personal data are processed for the purposes of direct marketing, the data subject should have the right to object to such processing, including profiling to the extent that it is related to such direct marketing, whether with regard to initial or further processing, at any time and free of charge. That right should be explicitly brought to the attention of the data subject and presented clearly and separately from any other information.

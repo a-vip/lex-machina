@@ -1,73 +1,10 @@
-# Article 44 — Derogations
+# Article 44 — General principle for transfers
 
 - **Instrument**: EU GDPR
-- **Stage**: European Commission Proposal (`2012-01-25`)
-- **Document Symbol**: `COM(2012) 11 final`
+- **Stage**: Final Official Journal Text (`2016-04-27`)
+- **Document Symbol**: `OJ L 119, 4.5.2016`
 - **Akoma Ntoso eId**: `art_44`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. In the absence of an
-adequacy decision pursuant to Article 41 or of appropriate safeguards pursuant
-to Article 42, a transfer or a set of transfers of personal data to a third
-country or an international organisation may take place only on condition that:
-(a) the data subject has consented to the
-proposed transfer, after having been informed of the risks of such transfers
-due to the absence of an adequacy decision and appropriate safeguards; or
-(b) the transfer is necessary for the
-performance of a contract between the data subject and the controller or the
-implementation of pre-contractual measures taken at the data subject's request;
-or
-(c) the transfer is necessary for the
-conclusion or performance of a contract concluded in the interest of the data
-subject between the controller and another natural or legal person; or
-(d) the transfer is necessary for important
-grounds of public interest; or
-(e) the transfer is necessary for the
-establishment, exercise or defence of legal claims; or
-(f) the transfer is necessary in order to
-protect the vital interests of the data subject or of another person, where the data subject is physically or legally
-incapable of giving consent; or
-(g) the transfer is made from a register
-which according to Union or Member State law is intended to provide information
-to the public and which is open to consultation either by the public in general
-or by any person who can demonstrate legitimate interest, to the extent that
-the conditions laid down in Union or Member State law for consultation are
-fulfilled in the particular case; or
-(h) the transfer is necessary for the
-purposes of the legitimate interests pursued by the controller or the processor,
-which cannot be qualified as frequent or massive, and where the controller or
-processor has assessed all the circumstances surrounding the data transfer
-operation or the set of data transfer operations and based on this assessment
-adduced appropriate safeguards with respect to the protection of personal data,
-where necessary.
-2. A transfer pursuant to
-point (g) of paragraph 1 shall not involve the entirety of the personal data or
-entire categories of the personal data contained in the register. When the
-register is intended for consultation by persons having a legitimate interest,
-the transfer shall be made only at the request of those persons or if they are
-to be the recipients.
-3. Where the processing is
-based on point (h) of paragraph 1, the controller or processor shall give
-particular consideration to the nature of the data, the purpose and duration of
-the proposed processing operation or operations, as well as the situation in
-the country of origin, the third country and the country of final destination,
-and adduced appropriate safeguards with respect to the protection of personal
-data, where necessary.
-4. Points (b),
-(c) and (h) of
-paragraph 1 shall not apply to activities carried out by public authorities in
-the exercise of their public powers.
-5. The public interest
-referred to in point (d) of paragraph 1 must be recognised in Union law or in
-the law of the Member State to which the controller is subject.
-6. The controller or
-processor shall document the assessment as well as the appropriate safeguards
-adduced referred to in point (h) of paragraph 1 of this Article in the
-documentation referred to in Article 28 and shall inform the supervisory
-authority of the transfer.
-7. The Commission shall be empowered to adopt delegated acts in accordance
-with Article 86 for the purpose of further specifying 'important grounds of
-public interest' within the meaning of point (d) of paragraph 1 as well as the
-criteria and requirements for appropriate safeguards referred to in point
-(h) of paragraph 1.
+Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if, subject to the other provisions of this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another international organisation. All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined.
