@@ -1,18 +1,18 @@
 # Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)
 
-- **Stage**: Final Official Journal Text (`official_journal_final`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
-- **Date**: `2016-04-27`
-- **Institutional Author**: `European Union Official Journal <oj@europa.eu>`
-- **Source**: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679
+- **Stage**: 2018 Official Journal Corrigendum Consolidated (`corrigendum_2018`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
+- **Date**: `2018-05-23`
+- **Institutional Author**: `Council of the European Union <council@consilium.europa.eu>`
+- **Source**: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504
 
-> Adopted Regulation (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+> Corrigendum to Regulation (EU) 2016/679 refining cross-references and technical terminology in Article 37 (Designation of the data protection officer), Article 40, and Recital 71 prior to application date.
 
 ## Preamble & Recitals
 
 (1) The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the 'Charter') and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her.
 
-(71) The data subject should have the right not to be subject to a decision, which may include a measure, evaluating personal aspects relating to him or her which is based solely on automated processing and which produces legal effects concerning him or her or similarly significantly affects him or her, such as automatic refusal of an online credit application or e-recruiting practices without any human intervention. Such processing includes 'profiling' that consists of any form of automated processing of personal data evaluating the personal aspects relating to a natural person, in particular to analyse or predict aspects concerning the data subject's performance at work, economic situation, health, personal preferences or interests, reliability or behaviour, location or movements, where it produces legal effects concerning him or her or similarly significantly affects him or her.
+(71) The data subject should have the right not to be subject to a decision, which may include a measure, evaluating personal aspects relating to him or her which is based solely on automated processing and which produces legal effects concerning him or her or similarly significantly affects him or her, such as automatic refusal of an online credit application or e-recruiting practices without any human intervention. In any case, such processing should be subject to suitable safeguards, which should include specific information to the data subject and the right to obtain human intervention, to express his or her point of view, to obtain an explanation of the decision reached after such assessment and to challenge the decision.
 
 ## Enacting Terms (Articles)
 
@@ -54,3 +54,10 @@ For the purposes of this Regulation:
 (a) a systematic and extensive evaluation of personal aspects relating to natural persons which is based on automated processing, including profiling, and on which decisions are based that produce legal effects concerning the natural person or similarly significantly affect the natural person;
 (b) processing on a large scale of special categories of data referred to in Article 9(1), or of personal data relating to criminal convictions and offences referred to in Article 10; or
 (c) a systematic monitoring of a publicly accessible area on a large scale.
+
+### Article 37 — Designation of the data protection officer
+
+1. The controller and the processor shall designate a data protection officer in any case where:
+(a) the processing is carried out by a public authority or body, except for courts acting in their judicial capacity;
+(b) the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or
+(c) the core activities of the controller or the processor consist of processing on a large scale of special categories of data pursuant to Article 9 or personal data relating to criminal convictions and offences referred to in Article 10.

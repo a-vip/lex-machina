@@ -5,22 +5,22 @@
   "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
   "short_title": "EU GDPR",
   "type": "regulation",
-  "celex": "32016R0679",
-  "document_symbol": "OJ L 119, 4.5.2016",
-  "stage": "official_journal_final",
-  "stage_label": "Final Official Journal Text",
-  "published_date": "2016-04-27",
+  "celex": "02016R0679-20160504",
+  "document_symbol": "OJ L 127, 23.5.2018",
+  "stage": "corrigendum_2018",
+  "stage_label": "2018 Official Journal Corrigendum Consolidated",
+  "published_date": "2018-05-23",
   "in_force_date": "2018-05-25",
   "status": "in_force",
   "institutional_author": {
-    "name": "European Union Official Journal",
-    "email": "oj@europa.eu"
+    "name": "Council of the European Union",
+    "email": "council@consilium.europa.eu"
   },
-  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
-  "summary": "Adopted Regulation (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.",
+  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504",
+  "summary": "Corrigendum to Regulation (EU) 2016/679 refining cross-references and technical terminology in Article 37 (Designation of the data protection officer), Article 40, and Recital 71 prior to application date.",
   "counts": {
     "recitals": 2,
-    "articles": 5,
+    "articles": 6,
     "annexes": 0
   }
 }

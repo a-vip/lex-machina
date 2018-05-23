@@ -1,9 +1,9 @@
 # Article 4 — Definitions
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
-- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+- **Stage**: 2018 Official Journal Corrigendum Consolidated (`2018-05-23`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
 For the purposes of this Regulation:
 (1) 'personal data' means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;

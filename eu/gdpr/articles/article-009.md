@@ -1,9 +1,9 @@
 # Article 9 — Processing of special categories of personal data
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
-- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+- **Stage**: 2018 Official Journal Corrigendum Consolidated (`2018-05-23`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
 1. Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited.
 2. Paragraph 1 shall not apply if one of the following applies:

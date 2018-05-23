@@ -1,7 +1,7 @@
 # Recital (1)
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Author**: European Union Official Journal `<oj@europa.eu>`
+- **Stage**: 2018 Official Journal Corrigendum Consolidated (`2018-05-23`)
+- **Author**: Council of the European Union `<council@consilium.europa.eu>`
 
 (1) The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the 'Charter') and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her.
