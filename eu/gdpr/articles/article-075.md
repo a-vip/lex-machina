@@ -1,18 +1,18 @@
-# Article 75 — Secretariat
+# Article 75
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
+- **Stage**: 2018 Consolidated Official Journal Text (`2018-05-23`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
 - **Akoma Ntoso eId**: `art_75`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-1. The Board shall have a secretariat, which shall be provided by the European Data Protection Supervisor.
-2. The secretariat shall perform its tasks exclusively under the instructions of the Chair of the Board.
-3. The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this Regulation shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the European Data Protection Supervisor.
-4. Where appropriate, the Board and the European Data Protection Supervisor shall establish and publish a Memorandum of Understanding implementing this Article, determining the terms of their cooperation, and applicable to the staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this Regulation.
-5. The secretariat shall provide analytical, administrative and logistical support to the Board.
-6. The secretariat shall be responsible in particular for:
+The Board shall have a secretariat, which shall be provided by the European Data Protection Supervisor.
+The secretariat shall perform its tasks exclusively under the instructions of the Chair of the Board.
+The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this Regulation shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the European Data Protection Supervisor.
+Where appropriate, the Board and the European Data Protection Supervisor shall establish and publish a Memorandum of Understanding implementing this Article, determining the terms of their cooperation, and applicable to the staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this Regulation.
+The secretariat shall provide analytical, administrative and logistical support to the Board.
+The secretariat shall be responsible in particular for:
 (a) the day-to-day business of the Board;
 (b) communication between the members of the Board, its Chair and the Commission;
 (c) communication with other institutions and the public;

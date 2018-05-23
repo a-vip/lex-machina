@@ -1,11 +1,11 @@
-# Article 50 — International cooperation for the protection of personal data
+# Article 50
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
+- **Stage**: 2018 Consolidated Official Journal Text (`2018-05-23`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
 - **Akoma Ntoso eId**: `art_50`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
 In relation to third countries and international organisations, the Commission and supervisory authorities shall take appropriate steps to:
 (a) develop international cooperation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data;

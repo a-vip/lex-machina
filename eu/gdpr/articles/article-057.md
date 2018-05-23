@@ -1,13 +1,13 @@
-# Article 57 — Tasks
+# Article 57
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
+- **Stage**: 2018 Consolidated Official Journal Text (`2018-05-23`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
 - **Akoma Ntoso eId**: `art_57`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-1. Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:
+Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:
 (a) monitor and enforce the application of this Regulation;
 (b) promote public awareness and understanding of the risks, rules, safeguards and rights in relation to processing. Activities addressed specifically to children shall receive specific attention;
 (c) advise, in accordance with Member State law, the national parliament, the government, and other institutions and bodies on legislative and administrative measures relating to the protection of natural persons' rights and freedoms with regard to processing;
@@ -23,14 +23,18 @@
 (m) encourage the drawing up of codes of conduct pursuant to Article 40(1) and provide an opinion and approve such codes of conduct which provide sufficient safeguards, pursuant to Article 40(5);
 (n) encourage the establishment of data protection certification mechanisms and of data protection seals and marks pursuant to Article 42(1), and approve the criteria of certification pursuant to Article 42(5);
 (o) where applicable, carry out a periodic review of certifications issued in accordance with Article 42(7);
-(p) draft and publish the criteria for accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
-(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
+▼C1
+(p)
+draft and publish the requirements for accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
+▼B
+(q)
+conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
 (r) authorise contractual clauses and provisions referred to in Article 46(3);
 (s) approve binding corporate rules pursuant to Article 47;
 (t) contribute to the activities of the Board;
 (u) keep internal records of infringements of this Regulation and of measures taken in accordance with Article 58(2); and
 (v)
 fulfil any other tasks related to the protection of personal data.
-2. Each supervisory authority shall facilitate the submission of complaints referred to in point (f) of paragraph 1 by measures such as a complaint submission form which can also be completed electronically, without excluding other means of communication.
-3. The performance of the tasks of each supervisory authority shall be free of charge for the data subject and, where applicable, for the data protection officer.
-4. Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the supervisory authority may charge a reasonable fee based on administrative costs, or refuse to act on the request. The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
+Each supervisory authority shall facilitate the submission of complaints referred to in point (f) of paragraph 1 by measures such as a complaint submission form which can also be completed electronically, without excluding other means of communication.
+The performance of the tasks of each supervisory authority shall be free of charge for the data subject and, where applicable, for the data protection officer.
+Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the supervisory authority may charge a reasonable fee based on administrative costs, or refuse to act on the request. The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.

@@ -1,13 +1,13 @@
-# Article 70 — Tasks of the Board
+# Article 70
 
 - **Instrument**: EU GDPR
-- **Stage**: Final Official Journal Text (`2016-04-27`)
-- **Document Symbol**: `OJ L 119, 4.5.2016`
+- **Stage**: 2018 Consolidated Official Journal Text (`2018-05-23`)
+- **Document Symbol**: `OJ L 127, 23.5.2018`
 - **Akoma Ntoso eId**: `art_70`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-1. The Board shall ensure the consistent application of this Regulation. To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:
+The Board shall ensure the consistent application of this Regulation. To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:
 (a) monitor and ensure the correct application of this Regulation in the cases provided for in Articles 64 and 65 without prejudice to the tasks of national supervisory authorities;
 (b) advise the Commission on any issue related to the protection of personal data in the Union, including on any proposed amendment of this Regulation;
 (c) advise the Commission on the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules;
@@ -20,12 +20,20 @@
 (j) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for the personal data transfers on the basis of Article 49(1);
 (k) draw up guidelines for supervisory authorities concerning the application of measures referred to in Article 58(1),
 (2) and (3) and the setting of administrative fines pursuant to Article 83;
-(l) review the practical application of the guidelines, recommendations and best practices referred to in points (e) and (f);
-(m) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by natural persons of infringements of this Regulation pursuant to Article 54(2);
+▼C1
+(l)
+review the practical application of the guidelines, recommendations and best practices;
+▼B
+(m)
+issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by natural persons of infringements of this Regulation pursuant to Article 54(2);
 (n) encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms and data protection seals and marks pursuant to Articles 40 and 42;
-(o) carry out the accreditation of certification bodies and its periodic review pursuant to Article 43 and maintain a public register of accredited bodies pursuant to Article 43(6) and of the accredited controllers or processors established in third countries pursuant to Article 42(7);
-(p) specify the requirements referred to in Article 43(3) with a view to the accreditation of certification bodies under Article 42;
-(q) provide the Commission with an opinion on the certification requirements referred to in Article 43(8);
+▼C1
+(o)
+approve the criteria of certification pursuant to Article 42(5) and maintain a public register of certification mechanisms and data protection seals and marks pursuant to Article 42(8) and of the certified controllers or processors established in third countries pursuant to Article 42(7);
+(p) approve the requirements referred to in Article 43(3) with a view to the accreditation of certification bodies referred to in Article 43;
+▼B
+(q)
+provide the Commission with an opinion on the certification requirements referred to in Article 43(8);
 (r) provide the Commission with an opinion on the icons referred to in Article 12(7);
 (s) provide the Commission with an opinion for the assessment of the adequacy of the level of protection in a third country or international organisation, including for the assessment whether a third country, a territory or one or more specified sectors within that third country, or an international organisation no longer ensures an adequate level of protection. To that end, the Commission shall provide the Board with all necessary documentation, including correspondence with the government of the third country, with regard to that third country, territory or specified sector, or with the international organisation.
 (t) issue opinions on draft decisions of supervisory authorities pursuant to the consistency mechanism referred to in Article 64(1), on matters submitted pursuant to Article 64(2) and to issue binding decisions pursuant to Article 65, including in cases referred to in Article 66;
@@ -35,6 +43,6 @@
 (x) issue opinions on codes of conduct drawn up at Union level pursuant to Article 40(9); and
 (y)
 maintain a publicly accessible electronic register of decisions taken by supervisory authorities and courts on issues handled in the consistency mechanism.
-2. Where the Commission requests advice from the Board, it may indicate a time limit, taking into account the urgency of the matter.
-3. The Board shall forward its opinions, guidelines, recommendations, and best practices to the Commission and to the committee referred to in Article 93 and make them public.
-4. The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period. The Board shall, without prejudice to Article 76, make the results of the consultation procedure publicly available.
+Where the Commission requests advice from the Board, it may indicate a time limit, taking into account the urgency of the matter.
+The Board shall forward its opinions, guidelines, recommendations, and best practices to the Commission and to the committee referred to in Article 93 and make them public.
+The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period. The Board shall, without prejudice to Article 76, make the results of the consultation procedure publicly available.

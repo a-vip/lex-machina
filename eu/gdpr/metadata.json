@@ -7,34 +7,34 @@
   "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
   "short_title": "EU GDPR",
   "type": "regulation",
-  "celex": "32016R0679",
+  "celex": "02016R0679-20160504",
   "eli": "http://data.europa.eu/eli/reg/2016/679/oj",
-  "document_symbol": "OJ L 119, 4.5.2016",
-  "stage": "official_journal_final",
-  "stage_label": "Final Official Journal Text",
-  "published_date": "2016-04-27",
+  "document_symbol": "OJ L 127, 23.5.2018",
+  "stage": "corrigendum_2018",
+  "stage_label": "2018 Consolidated Official Journal Text",
+  "published_date": "2018-05-23",
   "in_force_date": "2018-05-25",
   "status": "in_force",
   "institutional_author": {
-    "name": "European Union Official Journal",
-    "email": "oj@europa.eu"
+    "name": "Council of the European Union",
+    "email": "council@consilium.europa.eu"
   },
-  "source_url": "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0006.03/DOC_1",
-  "summary": "Enacted Regulation (EU) 2016/679 (full 173 recitals and 99 articles).",
+  "source_url": "http://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1.0022.03/DOC_1",
+  "summary": "Consolidated GDPR incorporating 2018 Official Journal corrigenda across Articles 37, 40, and Recital 71.",
   "provenance": {
     "provenance_mode": "full_primary_xhtml_akn",
-    "sha256_raw": "962539af03738bf552319ff4ce42d69e5f95a576307c4dfed7bf87e81b646b9d",
-    "final_url": "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0006.03/DOC_1",
+    "sha256_raw": "a681ff22f32f125749af6e96947224369efc132edb8a95b12637e357df1056de",
+    "final_url": "http://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1.0022.03/DOC_1",
     "eli": "http://data.europa.eu/eli/reg/2016/679/oj",
-    "celex": "32016R0679",
+    "celex": "02016R0679-20160504",
     "http_status": 200,
-    "http_etag": "\"Con-20250205163118000\"",
-    "bytes_fetched": 806864,
-    "fetched_utc": "2026-11-23T14:22:52Z",
-    "sha256_normalized_full_text": "f21dabed5ecc66d9126cc6d8d2738e658e7bf1224e2216c2e639c28391e105bd"
+    "http_etag": "\"Con-20250322184835000\"",
+    "bytes_fetched": 462324,
+    "fetched_utc": "2026-11-23T14:22:53Z",
+    "sha256_normalized_full_text": "f098a05877b222d6044e53755bac319de74716d2d0b3b234c36d2438a2ee75d6"
   },
   "counts": {
-    "recitals": 173,
+    "recitals": 0,
     "articles": 99,
     "annexes": 0
   }
