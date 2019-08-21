@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "un-ccw-laws",
+  "path": "un/ccw-laws",
+  "jurisdiction": "un",
+  "domain": "ihl",
+  "title": "UN CCW Group of Governmental Experts on Lethal Autonomous Weapons Systems (LAWS)",
+  "short_title": "UN CCW GGE on LAWS",
+  "type": "multilateral_normative_instrument",
+  "celex": "CCW_GGE_LAWS",
+  "eli": null,
+  "document_symbol": "CCW/GGE.1/2019/3",
+  "stage": "guiding_principles_2019",
+  "stage_label": "CCW GGE 11 Guiding Principles on LAWS",
+  "published_date": "2019-08-21",
+  "in_force_date": null,
+  "status": "active_negotiation",
+  "institutional_author": {
+    "name": "UN CCW GGE",
+    "email": "ccw@un.org"
+  },
+  "source_url": "https://documents.un.org/doc/undoc/gen/g19/285/69/pdf/g1928569.pdf",
+  "summary": "Adoption of the 11 Guiding Principles on emerging technologies in the area of LAWS.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "bdcde85a282814e22fc3ccb98522024e652c58fc4511321e1031c507dd80e5d9",
+    "final_url": "https://documents.un.org/doc/undoc/gen/g19/285/69/pdf/g1928569.pdf",
+    "http_status": 200,
+    "http_etag": "W/\"61877-1875b940954\"",
+    "bytes_fetched": 399479,
+    "fetched_utc": "2026-11-23T14:31:39Z",
+    "sha256_normalized_full_text": "1c4a437a061635a03dc0b5d196571ebe6d78c5cf059115061b2d61ccd99b15a4"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 11,
+    "annexes": 0
+  }
+}
