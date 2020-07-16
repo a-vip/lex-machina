@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "caselaw-cjeu-schrems-ii",
+  "path": "caselaw/cjeu/schrems-ii-c-311-18",
+  "jurisdiction": "caselaw",
+  "domain": "privacy",
+  "title": "CJEU Grand Chamber Judgment in Data Protection Commissioner v Facebook Ireland & Maximillian Schrems (Schrems II, Case C-311/18)",
+  "short_title": "CJEU Schrems II (C-311/18)",
+  "type": "judicial_precedent",
+  "celex": "62018CJ0311",
+  "eli": null,
+  "document_symbol": "Case C-311/18 (Schrems II)",
+  "stage": "judgment_final",
+  "stage_label": "CJEU Grand Chamber Judgment (ECLI:EU:C:2020:559)",
+  "published_date": "2020-07-16",
+  "in_force_date": "2020-07-16",
+  "status": "binding_precedent",
+  "institutional_author": {
+    "name": "Court of Justice of the European Union (CJEU Grand Chamber)",
+    "email": "cjeu@curia.europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/c93f72bb-c749-11ea-adf7-01aa75ed71a1.0001.05/DOC_1",
+  "summary": "Grand Chamber ruling invalidating Decision 2016/1250 (Privacy Shield) and defining strict essential-equivalence safeguards for Standard Contractual Clauses.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "8520d8e819b50edcca816acd3a8b80ce88bd9796badef3f5921d4f2438863b25",
+    "final_url": "http://publications.europa.eu/resource/cellar/c93f72bb-c749-11ea-adf7-01aa75ed71a1.0001.05/DOC_1",
+    "eli": null,
+    "celex": "62018CJ0311",
+    "http_status": 200,
+    "http_etag": "\"Con-20221116090201000\"",
+    "bytes_fetched": 346425,
+    "fetched_utc": "2026-11-23T14:22:55Z",
+    "sha256_normalized_full_text": "7f9e9009619e11db405f4afb7c259e47b199c3c99df2d9b0a2da6d06157db06e"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 18,
+    "annexes": 0
+  }
+}
