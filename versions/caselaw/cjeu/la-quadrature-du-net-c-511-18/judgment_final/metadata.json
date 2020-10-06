@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "caselaw-cjeu-la-quadrature-du-net",
+  "path": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+  "jurisdiction": "caselaw",
+  "domain": "cyber",
+  "title": "CJEU Grand Chamber Judgment in La Quadrature du Net (Joined Cases C-511/18, C-512/18 & C-520/18) — Bulk Data Retention & Automated Traffic Analysis",
+  "short_title": "CJEU La Quadrature du Net (C-511/18)",
+  "type": "judicial_precedent",
+  "celex": "62018CJ0511",
+  "eli": null,
+  "document_symbol": "Joined Cases C-511/18, C-512/18 & C-520/18",
+  "stage": "judgment_final",
+  "stage_label": "CJEU Grand Chamber Judgment (ECLI:EU:C:2020:791)",
+  "published_date": "2020-10-06",
+  "in_force_date": "2020-10-06",
+  "status": "binding_precedent",
+  "institutional_author": {
+    "name": "Court of Justice of the European Union (CJEU Grand Chamber)",
+    "email": "cjeu@curia.europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/b39b8190-07b5-11eb-a511-01aa75ed71a1.0002.05/DOC_1",
+  "summary": "Grand Chamber ruling strictly bounding bulk communications retention and automated algorithmic traffic analysis under EU fundamental rights law.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "64a24ef9bc598447f7e3841b9256adc3d4e70d390f378ed0c115688fec8efc59",
+    "final_url": "http://publications.europa.eu/resource/cellar/b39b8190-07b5-11eb-a511-01aa75ed71a1.0002.05/DOC_1",
+    "eli": null,
+    "celex": "62018CJ0511",
+    "http_status": 200,
+    "http_etag": "\"Con-20210304111918000\"",
+    "bytes_fetched": 454121,
+    "fetched_utc": "2026-11-23T14:22:58Z",
+    "sha256_normalized_full_text": "e77eeff93f01c5bffa9df6e259323a0e1f10e8e307abda0d15424158435baf64"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 29,
+    "annexes": 0
+  }
+}
