@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-cyber-nis2",
+  "path": "eu/cyber/nis2",
+  "jurisdiction": "eu",
+  "domain": "cyber",
+  "title": "Directive (EU) 2022/2555 — Network and Information Security Directive (NIS2)",
+  "short_title": "EU NIS2 Directive",
+  "type": "directive",
+  "celex": "52020PC0823",
+  "eli": "http://data.europa.eu/eli/dir/2022/2555/oj",
+  "document_symbol": "COM(2020) 823 final",
+  "stage": "commission_proposal",
+  "stage_label": "European Commission Proposal",
+  "published_date": "2020-12-16",
+  "in_force_date": "2023-01-16",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "European Commission",
+    "email": "commission@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/be0b5038-3fa8-11eb-b27b-01aa75ed71a1.0001.03/DOC_1",
+  "summary": "Commission proposal for a revised Directive on measures for a high common level of cybersecurity across the Union.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "1a97988cf88083c741e2e123e3975305292d0d732eb85f3c658cfb78b8b9b218",
+    "final_url": "http://publications.europa.eu/resource/cellar/be0b5038-3fa8-11eb-b27b-01aa75ed71a1.0001.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/dir/2022/2555/oj",
+    "celex": "52020PC0823",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 797460,
+    "fetched_utc": "2026-11-23T14:22:59Z",
+    "sha256_normalized_full_text": "c405546a1c0f755ddc57a4f69044ba5ee62d978569ee2c65debe1b51a07172f9"
+  },
+  "counts": {
+    "recitals": 84,
+    "articles": 41,
+    "annexes": 1
+  }
+}

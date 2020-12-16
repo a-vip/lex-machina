@@ -1,0 +1,9 @@
+# Recital (55)
+
+- **Instrument**: EU NIS2 Directive
+- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Akoma Ntoso eId**: `rct_55`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Commission `<commission@europa.eu>`
+
+(55) This Directive lays down a two-stage approach to incident reporting in order to strike the right balance between, on the one hand, swif t reporting that helps mitigate the potential spread of incidents and allows entities to seek support, and, on the other hand, in-depth reporting that draws valuable lessons from individual incidents and improves over time the resilience to cyber threats o f individual companies and entire sectors. Where entities become aware of an incident, they should be required to submit an initial notification within 24 hours, followed by a final report not later than one month after. The initial notification should onl y include the information strictly necessary to make the competent authorities aware of the incident and allow the entity to seek assistance, if required. Such notification, where applicable, should indicate whether the incident is presumably caused by unl awful or malicious action. Member States should ensure that the requirement to submit this initial notification does not divert the reporting entity’s resources from activities related to incident handling that should be prioritised. To further prevent tha t incident reporting obligations either divert resources from incident response handling or may otherwise compromise the entities efforts in that respect, Member States should also provide that, in duly justified cases and in agreement with the competent a uthorities or the CSIRT, the entity concerned can deviate from the deadlines of 24 hours for the initial notification and one month for the final report.
