@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "52021PC0206",
+  "eli": "http://data.europa.eu/eli/com/2021/206/oj",
+  "document_symbol": "COM(2021) 206 final",
+  "stage": "commission_proposal",
+  "stage_label": "European Commission Proposal",
+  "published_date": "2021-04-21",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "European Commission",
+    "email": "commission@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/e0649735-a372-11eb-9585-01aa75ed71a1.0001.03/DOC_1",
+  "summary": "Initial European Commission legislative proposal for harmonised rules on artificial intelligence.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "6a2b3dd607a437f0e60ca21290aa0259ee8ff5b4fe7df654f73e80da0488ce55",
+    "final_url": "http://publications.europa.eu/resource/cellar/e0649735-a372-11eb-9585-01aa75ed71a1.0001.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/com/2021/206/oj",
+    "celex": "52021PC0206",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 647194,
+    "fetched_utc": "2026-11-23T14:23:01Z",
+    "sha256_normalized_full_text": "ae441ce4c36c97951f3e7c074ea45c82d80cc6674f5b8bf8cdff08e97288bdfb"
+  },
+  "counts": {
+    "recitals": 89,
+    "articles": 85,
+    "annexes": 9
+  }
+}

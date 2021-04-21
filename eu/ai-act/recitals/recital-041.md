@@ -1,0 +1,9 @@
+# Recital (41)
+
+- **Instrument**: EU AI Act
+- **Stage**: European Commission Proposal (`2021-04-21`)
+- **Akoma Ntoso eId**: `rct_41`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Commission `<commission@europa.eu>`
+
+(41) The fact that an AI system is classified as high risk under this Regulation should not be interpreted as indicating that the use of the system is necessarily lawful under other acts of Union law or under national law compatible with Union law, such as on the protection of personal data, on the use of polygraphs and similar tools or other systems to detect the emotional state of natural persons . Any such use should continue to occur solely in accordance with the applicable requirements resulting from the Charter and from the applicable acts of secondary Union law and national law. This Regulation should not be understood as providing for the legal ground for processing of personal data, including special categories of personal data, where relevant .
