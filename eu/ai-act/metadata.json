@@ -1,0 +1,26 @@
+{
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "52021PC0206",
+  "document_symbol": "COM(2021) 206 final",
+  "stage": "commission_proposal",
+  "stage_label": "European Commission Proposal",
+  "published_date": "2021-04-21",
+  "in_force_date": "2024-08-01",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "European Commission",
+    "email": "commission@europa.eu"
+  },
+  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206",
+  "summary": "Initial proposal by the European Commission laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts.",
+  "counts": {
+    "recitals": 3,
+    "articles": 7,
+    "annexes": 2
+  }
+}
