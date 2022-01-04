@@ -1,0 +1,26 @@
+{
+  "instrument_id": "national-cn-cac-ai-measures",
+  "path": "national/cn/cac-ai-measures",
+  "jurisdiction": "national",
+  "title": "People's Republic of China CAC Algorithmic, Deep Synthesis, and Generative AI Regulatory Trilogy",
+  "short_title": "China CAC AI Regulations",
+  "type": "national_regulation",
+  "celex": "CN_CAC_AI_TRILOGY",
+  "document_symbol": "CAC Order No. 9",
+  "stage": "algorithmic_recommendation_2022",
+  "stage_label": "CAC Algorithmic Recommendation Provisions",
+  "published_date": "2022-01-04",
+  "in_force_date": "2022-03-01",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Cyberspace Administration of China (CAC)",
+    "email": "cac@cac.gov.cn"
+  },
+  "source_url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+  "summary": "Internet Information Service Algorithmic Recommendation Management Provisions establishing user rights to opt out of algorithmic profiling, prohibitions on price discrimination and addiction-inducing dark patterns, protection of gig-economy dispatch workers, and the mandatory Algorithm Filing Registry.",
+  "counts": {
+    "recitals": 1,
+    "articles": 5,
+    "annexes": 0
+  }
+}
