@@ -1,0 +1,10 @@
+# Article 7 — CAC Order No. 9 — Article 7 (第七条)
+
+- **Instrument**: China CAC AI Regulations
+- **Stage**: CAC Algorithmic Recommendation Provisions (Order No. 9) (`2022-01-04`)
+- **Document Symbol**: `CAC Order No. 9`
+- **Akoma Ntoso eId**: `cn_art_7`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
+
+第七条 算法推荐服务提供者应当落实算法安全主体责任，建立健全算法机制机理审核、科技伦理审查、用户注册、信息发布审核、数据安全和个人信息保护、反电信网络诈骗、安全评估监测、安全事件应急处置等管理制度和技术措施，制定并公开算法推荐服务相关规则，配备与算法推荐服务规模相适应的专业人员和技术支撑。
