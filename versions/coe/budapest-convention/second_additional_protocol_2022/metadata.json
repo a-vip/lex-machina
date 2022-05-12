@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "coe-budapest-convention",
+  "path": "coe/budapest-convention",
+  "jurisdiction": "coe",
+  "domain": "cyber",
+  "title": "Council of Europe Convention on Cybercrime (Budapest Convention, ETS 185) & Second Additional Protocol (CETS 224)",
+  "short_title": "Budapest Cybercrime Convention",
+  "type": "treaty",
+  "celex": "ETS_185_CETS_224",
+  "eli": null,
+  "document_symbol": "CETS No. 224",
+  "stage": "second_additional_protocol_2022",
+  "stage_label": "Second Additional Protocol on Enhanced Co-operation (CETS 224)",
+  "published_date": "2022-05-12",
+  "in_force_date": "2004-07-01",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Council of Europe Committee of Ministers",
+    "email": "cm@coe.int"
+  },
+  "source_url": "https://rm.coe.int/1680a49dab",
+  "summary": "Second Additional Protocol enabling direct cross-border requests to service providers for subscriber/domain data, emergency mutual assistance, and binding Article 14 data protection safeguards.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "73e4b4dd158bb393ecfb6aa0b265f3ada51ee8ab85969d56841314336095ebed",
+    "final_url": "https://rm.coe.int/1680a49dab",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 423734,
+    "fetched_utc": "2026-11-23T14:31:43Z",
+    "sha256_normalized_full_text": "47857e0fe3884b75c5f029bf857c107d974204370c93548cdef96d985a8e0c8e"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 25,
+    "annexes": 0
+  }
+}

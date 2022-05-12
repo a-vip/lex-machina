@@ -1,28 +1,20 @@
-# Article 18 — Production order
+# Article 18 — Territorial application
 
 - **Instrument**: Budapest Cybercrime Convention
-- **Stage**: Budapest Convention on Cybercrime (ETS 185) (`2001-11-23`)
-- **Document Symbol**: `ETS No. 185`
+- **Stage**: Second Additional Protocol on Enhanced Co-operation (CETS 224) (`2022-05-12`)
+- **Document Symbol**: `CETS No. 224`
 - **Akoma Ntoso eId**: `art_18`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-1 Each Party shall adopt such legislative and other measures as may be necessary to empower
-its competent authorities to order:
-a a person in its territory to submit specified computer data in that person’s possession or
-control, which is stored in a computer system or a computer-data storage medium; and
-b a service provider offering its services in the territory of the Party to submit subscriber
-information relating to such services in that service provider’s possession or control.
-2 The powers and procedures referred to in this article shall be subject to Articles 14 and 15.
-3 For the purpose of this article, the term “subscriber information” means any information
-contained in the form of computer data or any other form that is held by a service provider,
-relating to subscribers of its services other than traffic or content data and by which can be
-established:
-a the type of communication service used, the technical provisions taken thereto and the
-period of service;
-b the subscriber’s identity, postal or geographic address, telephone and other access
-number, billing and payment information, available on the basis of the service agreement
-or arrangement;
-c any other information on the site of the installation of communication equipment,
-available on the basis of the service agreement or arrangement.
-Title 4 – Search and seizure of stored computer data
+1 This Protocol shall apply to the territory or territories specified in a declaration made by a Party
+under Article 38, paragraphs 1 or 2, of the Convention to the extent that such declaration has not
+been withdrawn under Article 38, paragraph 3.
+2 A Party may, at the time of signature of this Protocol or when depositing its instrument of
+ratification, acceptance or approval, declare that this Protocol shall not apply to one or more
+territories specified in the Party’s declaration under Article 38, paragraphs 1 and/or 2, of the
+Convention.
+3 A declaration under paragraph 2 of this article may, in respect of any territory specified in such
+declaration, be withdrawn by a notification addressed to the Secretary General of the Council of
+Europe. The withdrawal shall become effective on the first day of the month following the expiration
+of a period of three months after the date of receipt of such notification by the Secretary General.

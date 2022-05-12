@@ -1,37 +1,37 @@
-# Article 14 — Scope of procedural provisions
+# Article 14 — Protection of personal data
 
 - **Instrument**: Budapest Cybercrime Convention
-- **Stage**: Budapest Convention on Cybercrime (ETS 185) (`2001-11-23`)
-- **Document Symbol**: `ETS No. 185`
+- **Stage**: Second Additional Protocol on Enhanced Co-operation (CETS 224) (`2022-05-12`)
+- **Document Symbol**: `CETS No. 224`
 - **Akoma Ntoso eId**: `art_14`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-1 Each Party shall adopt such legislative and other measures as may be necessary to establish
-the powers and procedures provided for in this section for the purpose of specific criminal
-investigations or proceedings.
-2 Except as specifically provided otherwise in Article 21, each Party shall apply the powers and
-procedures referred to in paragraph 1 of this article to:
-a the criminal offences established in accordance with Articles 2 through 11 of this
-Convention;
-b other criminal offences committed by means of a computer system; and
-c the collection of evidence in electronic form of a criminal offence.
-3 a Each Party may reserve the right to apply the measures referred to in Article 20 only to
-offences or categories of offences specified in the reservation, provided that the range of
-such offences or categories of offences is not more restricted than the range of offences
-to which it applies the measures referred to in Article 21. Each Party shall consider
-restricting such a reservation to enable the broadest application of the measure referred
-to in Article 20.
-ETS 185 – Cybercrime (Convention), 23.XI.2001
-__________________________________________________________________________________
-8
-b Where a Party, due to limitations in its legislation in force at the time of the adoption of
-the present Convention, is not able to apply the measures referred to in Articles 20
-and 21 to communications being transmitted within a computer system of a service
-provider, which system:
-i is being operated for the benefit of a closed group of users, and
-ii does not employ public communications networks and is not connected with another
-computer system, whether public or private,
-that Party may reserve the right not to apply these measures to such communications.
-Each Party shall consider restricting such a reservation to enable the broadest
-application of the measures referred to in Articles 20 and 21.
+1 Scope
+a Except as otherwise provided in paragraphs 1.b and c, each Party shall process the personal
+data that it receives under this Protocol in accordance with paragraphs 2 to 15 of this article.
+b If, at the time of receipt of personal data under this Protocol, both the transferring Party and
+the receiving Party are mutually bound by an international agreement establishing a
+comprehensive framework between those Parties for the protection of personal data, which
+is applicable to the transfer of personal data for the purpose of the prevention, detection,
+investigation and prosecution of criminal offences, and which provides that the processing of
+personal data under that agreement complies with the requirements of the data protection
+legislation of the Parties concerned, the terms of such agreement shall apply, for the
+measures falling within the scope of such agreement, to personal data received under this
+Protocol in lieu of paragraphs 2 to 15, unless otherwise agreed between the Parties
+concerned.
+c If the transferring Party and the receiving Party are not mutually bound under an agreement
+described in paragraph 1.b, they may mutually determine that the transfer of personal data
+under this Protocol may take place on the basis of other agreements or arrangements
+between the Parties concerned in lieu of paragraphs 2 to 15.
+d Each Party shall consider that the processing of personal data pursuant to paragraphs 1.a
+and 1.b meets the requirements of its personal data protection legal framework for
+international transfers of personal data, and no further authorisation for transfer shall be
+required under that legal framework. A Party may only refuse or prevent data transfers to
+another Party under this Protocol for reasons of data protection under the conditions set out
+in paragraph 15 when paragraph 1.a applies; or under the terms of an agreement or
+arrangement referred to in paragraphs 1.b or c, when one of those paragraphs applies.
+e Nothing in this article shall prevent a Party from applying stronger safeguards to the
+processing by its own authorities of personal data received under this Protocol.
+2 Purpose and use
+a The Party that has received personal data shall process them for the purposes described in
