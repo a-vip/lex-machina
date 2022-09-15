@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-cyber-cra",
+  "path": "eu/cyber/cra",
+  "jurisdiction": "eu",
+  "domain": "cyber",
+  "title": "Regulation (EU) 2024/2847 — Cyber Resilience Act (CRA)",
+  "short_title": "EU Cyber Resilience Act",
+  "type": "regulation",
+  "celex": "52022PC0454",
+  "eli": "http://data.europa.eu/eli/reg/2024/2847/oj",
+  "document_symbol": "COM(2022) 454 final",
+  "stage": "commission_proposal",
+  "stage_label": "European Commission Proposal",
+  "published_date": "2022-09-15",
+  "in_force_date": "2024-12-10",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "European Commission",
+    "email": "commission@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/864f472b-34e9-11ed-9c68-01aa75ed71a1.0001.03/DOC_1",
+  "summary": "Initial European Commission proposal establishing horizontal cybersecurity requirements for products with digital elements.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "7cadd2da662666a5c48c0caf8ccb9b8568608be1db59b682447a9680f7f1b671",
+    "final_url": "http://publications.europa.eu/resource/cellar/864f472b-34e9-11ed-9c68-01aa75ed71a1.0001.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/reg/2024/2847/oj",
+    "celex": "52022PC0454",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 601959,
+    "fetched_utc": "2026-11-23T14:23:07Z",
+    "sha256_normalized_full_text": "d16ffbd5c52fe310bbe284087a142629e2f417e4a7d01de50762599fdefb8e6d"
+  },
+  "counts": {
+    "recitals": 71,
+    "articles": 57,
+    "annexes": 6
+  }
+}
