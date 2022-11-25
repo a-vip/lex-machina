@@ -1,38 +1,41 @@
 # People's Republic of China CAC Algorithmic, Deep Synthesis, and Generative AI Regulatory Trilogy
 
-- **Stage**: CAC Algorithmic Recommendation Provisions (`algorithmic_recommendation_2022`)
-- **Document Symbol**: `CAC Order No. 9`
-- **Date**: `2022-01-04`
+- **Stage**: CAC Deep Synthesis Provisions (`deep_synthesis_2022`)
+- **Document Symbol**: `CAC Order No. 12`
+- **Date**: `2022-11-25`
 - **Institutional Author**: `Cyberspace Administration of China (CAC) <cac@cac.gov.cn>`
-- **Source**: https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm
+- **Source**: https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm
 
-> Internet Information Service Algorithmic Recommendation Management Provisions establishing user rights to opt out of algorithmic profiling, prohibitions on price discrimination and addiction-inducing dark patterns, protection of gig-economy dispatch workers, and the mandatory Algorithm Filing Registry.
+> Internet Information Service Deep Synthesis Management Provisions extending algorithmic governance to generative audio, video, image, and text synthesis, mandating both implicit metadata watermarking and explicit conspicuous labeling of synthetic media, biometric consent for face/voice editing, and security assessments.
 
 ## Preamble & Recitals
 
-(1) The Internet Information Service Algorithmic Recommendation Management Provisions (CAC Order No. 9, promulgated 4 January 2022, effective 1 March 2022) are formulated pursuant to the Cybersecurity Law, Data Security Law, and Personal Information Protection Law to regulate algorithmic recommendation activities and safeguard national security and social public interest.
+(1) The Internet Information Service Deep Synthesis Management Provisions (CAC Order No. 12, promulgated 25 November 2022, effective 10 January 2023) extend China's algorithmic regulatory framework to deep learning and virtual reality synthesis technologies generating text, images, audio, video, and virtual scenes.
 
 ## Enacting Terms (Articles)
 
-### Article 1 — Purpose and Scope
+### Article 1 — Purpose and Scope (Articles 1–2)
 
-1. These Provisions are formulated in order to regulate internet information service algorithmic recommendation activities, promote the positive and good values of algorithms, and protect the lawful rights and interests of citizens, legal persons, and other organizations.
-2. Application of algorithmic recommendation technologies (including generation and synthesis, personalized pushing, sorting and selection, retrieval and filtering, and scheduling and decision-making) to provide internet information services within the territory of the PRC shall abide by these Provisions.
+1. These Provisions are formulated to strengthen the management of internet information service deep synthesis, joined with the Algorithmic Recommendation Management Provisions.
+2. 'Deep synthesis technology' refers to technologies that use deep learning, virtual reality, and other generative or synthetic algorithms to produce text, images, audio, video, virtual scenes, and other network information.
 
-### Article 4 — General Principles, Transparency, and Non-Discrimination
+### Article 4 — General Principles, Information Authenticity, and Prohibited Uses (Article 6)
 
-1. The provision of algorithmic recommendation services shall abide by laws and regulations, observe social morality and ethics, abide by commercial ethics and professional ethics, and respect the principles of fairness and justice, openness and transparency, science and reasonableness, and誠信 (honesty and trustworthiness).
+1. No organization or individual may use deep synthesis services to produce, reproduce, publish, or disseminate information prohibited by laws and administrative regulations, or engage in activities harming national security and interests, damaging national image, infringing social public interests, disturbing economic and social order, or infringing the lawful rights and interests of others.
+2. Deep synthesis service providers and users shall not use deep synthesis services to produce, reproduce, publish, or disseminate fake news information.
 
-### Article 7 — Lifecycle Governance and Ethical Review
+### Article 7 — Training Data Legitimacy and Biometric Editing Consent (Article 14)
 
-Algorithmic recommendation service providers shall implement main responsibility for algorithmic security, establish and improve management systems and technical measures for algorithm mechanism and principle review, scientific and technological ethics review, user registration, information publication review, data security and personal information protection, and security assessment and monitoring.
+1. Deep synthesis service providers and technical supporters shall strengthen training data management, take necessary measures to ensure training data security, and where personal information is involved, comply with relevant provisions on personal information protection.
+2. Where deep synthesis service providers and technical supporters provide functions for editing biometric information such as faces and voices, they shall prompt deep synthesis service users to legally notify the edited individuals and obtain their separate consent.
 
-### Article 12 — User Explanation, Opt-Out, and Tag Management Rights (Articles 16–17)
+### Article 12 — Implicit Watermarking and Conspicuous Synthetic Content Labeling (Articles 16–17)
 
-1. Algorithmic recommendation service providers shall inform users in a conspicuous manner of their provision of algorithmic recommendation services, and publicize the basic principles, purpose intentions, and main operating mechanisms of algorithmic recommendation services.
-2. Algorithmic recommendation service providers shall provide users with options that are not specific to their personal characteristics, or provide users with convenient options to turn off algorithmic recommendation services. Where users choose to turn off algorithmic recommendation services, the provider shall immediately cease providing related services and provide options to delete user tags used for personal profiling.
+1. Deep synthesis service providers shall take technical measures to add signs that do not affect user use (implicit watermarks/metadata logs) to information content generated or edited using their services, and store log information in accordance with laws and regulations.
+2. Where deep synthesis service providers provide intelligent dialogue, synthesized human voice, facial generation or replacement, or immersive realistic scenes that might cause confusion or misidentification by the public, they shall place conspicuous labels in reasonable positions on the generated or edited content to alert the public to the deep synthesis situation.
+3. No organization or individual may use technical means to delete, tamper with, or conceal the deep synthesis identification marks specified in Articles 16 and 17.
 
-### Article 17 — Mandatory Algorithm Filing Registry and Security Assessment (Articles 24 & 27)
+### Article 17 — Algorithm Registry Filing and Security Assessments for Deep Synthesis (Articles 19–20)
 
-1. Algorithmic recommendation service providers with public opinion attributes or social mobilization capabilities shall, within 10 working days from the date of providing services, fill in the service provider's name, service form, application field, algorithm type, algorithm self-assessment report, and content to be publicized through the Internet Information Service Algorithm Filing System to complete filing formalities.
-2. Providers with public opinion attributes or social mobilization capabilities shall conduct security assessments in accordance with relevant state regulations.
+1. Deep synthesis service providers and technical supporters with public opinion attributes or social mobilization capabilities shall fulfill filing and change/cancellation filing procedures in accordance with the Internet Information Service Algorithmic Recommendation Management Provisions.
+2. Before launching new products, applications, or functions with public opinion attributes or social mobilization capabilities, providers shall conduct a security assessment.

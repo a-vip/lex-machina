@@ -1,9 +1,10 @@
-# Article 12 — User Explanation, Opt-Out, and Tag Management Rights (Articles 16–17)
+# Article 12 — Implicit Watermarking and Conspicuous Synthetic Content Labeling (Articles 16–17)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-1. Algorithmic recommendation service providers shall inform users in a conspicuous manner of their provision of algorithmic recommendation services, and publicize the basic principles, purpose intentions, and main operating mechanisms of algorithmic recommendation services.
-2. Algorithmic recommendation service providers shall provide users with options that are not specific to their personal characteristics, or provide users with convenient options to turn off algorithmic recommendation services. Where users choose to turn off algorithmic recommendation services, the provider shall immediately cease providing related services and provide options to delete user tags used for personal profiling.
+1. Deep synthesis service providers shall take technical measures to add signs that do not affect user use (implicit watermarks/metadata logs) to information content generated or edited using their services, and store log information in accordance with laws and regulations.
+2. Where deep synthesis service providers provide intelligent dialogue, synthesized human voice, facial generation or replacement, or immersive realistic scenes that might cause confusion or misidentification by the public, they shall place conspicuous labels in reasonable positions on the generated or edited content to alert the public to the deep synthesis situation.
+3. No organization or individual may use technical means to delete, tamper with, or conceal the deep synthesis identification marks specified in Articles 16 and 17.

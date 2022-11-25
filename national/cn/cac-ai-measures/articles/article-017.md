@@ -1,9 +1,9 @@
-# Article 17 — Mandatory Algorithm Filing Registry and Security Assessment (Articles 24 & 27)
+# Article 17 — Algorithm Registry Filing and Security Assessments for Deep Synthesis (Articles 19–20)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-1. Algorithmic recommendation service providers with public opinion attributes or social mobilization capabilities shall, within 10 working days from the date of providing services, fill in the service provider's name, service form, application field, algorithm type, algorithm self-assessment report, and content to be publicized through the Internet Information Service Algorithm Filing System to complete filing formalities.
-2. Providers with public opinion attributes or social mobilization capabilities shall conduct security assessments in accordance with relevant state regulations.
+1. Deep synthesis service providers and technical supporters with public opinion attributes or social mobilization capabilities shall fulfill filing and change/cancellation filing procedures in accordance with the Internet Information Service Algorithmic Recommendation Management Provisions.
+2. Before launching new products, applications, or functions with public opinion attributes or social mobilization capabilities, providers shall conduct a security assessment.

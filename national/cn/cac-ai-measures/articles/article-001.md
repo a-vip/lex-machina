@@ -1,9 +1,9 @@
-# Article 1 — Purpose and Scope
+# Article 1 — Purpose and Scope (Articles 1–2)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-1. These Provisions are formulated in order to regulate internet information service algorithmic recommendation activities, promote the positive and good values of algorithms, and protect the lawful rights and interests of citizens, legal persons, and other organizations.
-2. Application of algorithmic recommendation technologies (including generation and synthesis, personalized pushing, sorting and selection, retrieval and filtering, and scheduling and decision-making) to provide internet information services within the territory of the PRC shall abide by these Provisions.
+1. These Provisions are formulated to strengthen the management of internet information service deep synthesis, joined with the Algorithmic Recommendation Management Provisions.
+2. 'Deep synthesis technology' refers to technologies that use deep learning, virtual reality, and other generative or synthetic algorithms to produce text, images, audio, video, virtual scenes, and other network information.
