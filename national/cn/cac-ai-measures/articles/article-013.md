@@ -1,10 +1,11 @@
-# Article 13 — CAC Order No. 9 — Article 13 (第十三条)
+# Article 13 — CAC Order No. 12 — Article 13 (第十三条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (Order No. 9) (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Akoma Ntoso eId**: `cn_art_13`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第十三条 算法推荐服务提供者提供互联网新闻信息服务的，应当依法取得互联网新闻信息服务许可，规范开展互联网新闻信息采编发布服务、转载服务和传播平台服务，不得生成合成虚假新闻信息，不得传播非国家规定范围内的单位发布的新闻信息。
+第十三条 互联网应用商店等应用程序分发平台应当落实上架审核、日常管理、应急处置等安全管理责任，核验深度合成类应用程序的安全评估、备案等情况；对违反国家有关规定的，应当及时采取不予上架、警示、暂停服务或者下架等处置措施。
+第三章 数据和技术管理规范

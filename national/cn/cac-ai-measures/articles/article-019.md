@@ -1,10 +1,12 @@
-# Article 19 — CAC Order No. 9 — Article 19 (第十九条)
+# Article 19 — CAC Order No. 12 — Article 19 (第十九条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (Order No. 9) (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Akoma Ntoso eId**: `cn_art_19`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第十九条 算法推荐服务提供者向老年人提供服务的，应当保障老年人依法享有的权益，充分考虑老年人出行、就医、消费、办事等需求，按照国家有关规定提供智能化适老服务，依法开展涉电信网络诈骗信息的监测、识别和处置，便利老年人安全使用算法推荐服务。
+第十九条 具有舆论属性或者社会动员能力的深度合成服务提供者，应当按照《互联网信息服务算法推荐管理规定》履行备案和变更、注销备案手续。
+深度合成服务技术支持者应当参照前款规定履行备案和变更、注销备案手续。
+完成备案的深度合成服务提供者和技术支持者应当在其对外提供服务的网站、应用程序等的显著位置标明其备案编号并提供公示信息链接。

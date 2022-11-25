@@ -1,10 +1,10 @@
-# Article 20 — CAC Order No. 9 — Article 20 (第二十条)
+# Article 20 — CAC Order No. 12 — Article 20 (第二十条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (Order No. 9) (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Akoma Ntoso eId**: `cn_art_20`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第二十条 算法推荐服务提供者向劳动者提供工作调度服务的，应当保护劳动者取得劳动报酬、休息休假等合法权益，建立完善平台订单分配、报酬构成及支付、工作时间、奖惩等相关算法。
+第二十条 深度合成服务提供者开发上线具有舆论属性或者社会动员能力的新产品、新应用、新功能的，应当按照国家有关规定开展安全评估。

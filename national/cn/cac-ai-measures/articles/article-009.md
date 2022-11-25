@@ -1,11 +1,10 @@
-# Article 9 — CAC Order No. 9 — Article 9 (第九条)
+# Article 9 — CAC Order No. 12 — Article 9 (第九条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (Order No. 9) (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Akoma Ntoso eId**: `cn_art_9`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第九条 算法推荐服务提供者应当加强信息安全管理，建立健全用于识别违法和不良信息的特征库，完善入库标准、规则和程序。发现未作显著标识的算法生成合成信息的，应当作出显著标识后，方可继续传输。
-发现违法信息的，应当立即停止传输，采取消除等处置措施，防止信息扩散，保存有关记录，并向网信部门和有关部门报告。发现不良信息的，应当按照网络信息内容生态治理有关规定予以处置。
+第九条 深度合成服务提供者应当基于移动电话号码、身份证件号码、统一社会信用代码或者国家网络身份认证公共服务等方式，依法对深度合成服务使用者进行真实身份信息认证，不得向未进行真实身份信息认证的深度合成服务使用者提供信息发布服务。

@@ -1,10 +1,10 @@
-# Article 12 — CAC Order No. 9 — Article 12 (第十二条)
+# Article 12 — CAC Order No. 12 — Article 12 (第十二条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Algorithmic Recommendation Provisions (Order No. 9) (`2022-01-04`)
-- **Document Symbol**: `CAC Order No. 9`
+- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
+- **Document Symbol**: `CAC Order No. 12`
 - **Akoma Ntoso eId**: `cn_art_12`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第十二条 鼓励算法推荐服务提供者综合运用内容去重、打散干预等策略，并优化检索、排序、选择、推送、展示等规则的透明度和可解释性，避免对用户产生不良影响，预防和减少争议纠纷。
+第十二条 深度合成服务提供者应当设置便捷的用户申诉和公众投诉、举报入口，公布处理流程和反馈时限，及时受理、处理和反馈处理结果。
