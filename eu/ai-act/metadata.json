@@ -5,22 +5,22 @@
   "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
   "short_title": "EU AI Act",
   "type": "regulation",
-  "celex": "52021PC0206",
-  "document_symbol": "COM(2021) 206 final",
-  "stage": "commission_proposal",
-  "stage_label": "European Commission Proposal",
-  "published_date": "2021-04-21",
+  "celex": "ST_14954_2022_INIT",
+  "document_symbol": "14954/22",
+  "stage": "council_general_approach",
+  "stage_label": "Council of the EU General Approach",
+  "published_date": "2022-12-06",
   "in_force_date": "2024-08-01",
   "status": "in_force",
   "institutional_author": {
-    "name": "European Commission",
-    "email": "commission@europa.eu"
+    "name": "Council of the European Union",
+    "email": "council@consilium.europa.eu"
   },
-  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206",
-  "summary": "Initial proposal by the European Commission laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts.",
+  "source_url": "https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf",
+  "summary": "Council General Approach narrowing the definition of AI systems, introducing rules on general purpose AI systems, refining national security exclusions, and modifying law enforcement remote biometric identification safeguards.",
   "counts": {
     "recitals": 3,
-    "articles": 7,
-    "annexes": 2
+    "articles": 8,
+    "annexes": 1
   }
 }
