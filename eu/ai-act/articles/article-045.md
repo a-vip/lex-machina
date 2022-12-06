@@ -1,10 +1,14 @@
-# Article 45 — Appeal against decisions of notified bodies
+# Article 45 — Appeal
 
 - **Instrument**: EU AI Act
-- **Stage**: European Commission Proposal (`2021-04-21`)
-- **Document Symbol**: `COM(2021) 206 final`
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Document Symbol**: `ST 14954/22`
 - **Akoma Ntoso eId**: `art_45`
-- **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-Member States shall ensure that an appeal procedure against decisions of the notified bodies is available to parties having a legitimate interest in that decision.
+against decisions of notified bodies
+A
+n appeal procedure against decisions of the notified bodies
+shall be
+available.

@@ -1,11 +1,21 @@
 # Article 38 — Coordination of notified bodies
 
 - **Instrument**: EU AI Act
-- **Stage**: European Commission Proposal (`2021-04-21`)
-- **Document Symbol**: `COM(2021) 206 final`
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Document Symbol**: `ST 14954/22`
 - **Akoma Ntoso eId**: `art_38`
-- **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-1. The Commission shall ensure that, with regard to the areas covered by this Regulation, appropriate coordination and cooperation between notified bodies active in the conformity assessment procedures of AI systems pursuant to this Regulation are put in place and properly operated in the form of a sectoral group of notified bodies .
-2. Member States shall ensure that the bodies notified by them participate in the work of that group, directly or by means of designated representatives.
+1.
+The Commission shall ensure that, with regard to high
+-
+risk AI systems, appropriate
+coordination and cooperation between notified bodies active in the
+conformity assessment
+procedures pursuant to this Regulation are put in place and properly operated in the form
+of a sectoral group of notified bodies.
+2.
+The notifying authority shall ensure that the bodies notified by them participate in the work
+of that
+group, directly or by means of designated representatives.

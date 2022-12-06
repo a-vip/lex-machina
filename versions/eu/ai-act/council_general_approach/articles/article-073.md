@@ -1,0 +1,60 @@
+# Article 73 — Exercise of the delegation
+
+- **Instrument**: EU AI Act
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Document Symbol**: `ST 14954/22`
+- **Akoma Ntoso eId**: `art_73`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+
+1.
+The power to adopt delegated acts is conferred on the Commission subject to the
+conditions laid down in this Article.
+2.
+The delegation of power referred to in Article 7(1),
+Article 7(3),
+Article 11(3), Article
+43(5) and (6) and Article 48(5) shall be conferred on the Commission for a period of five
+years from [
+entering into force of
+the Regulation
+].
+The Commission shall draw up a report in respect of the delegation of power not later than
+nine months before the end of the 5 year period. The delegation of power shall be tacitly
+extended for periods of an identical duration, unless the
+European Parliament or the
+Council opposes such extension not later than three months before the end of each period.
+14954/22
+RB/ek
+183
+TREE.2.B
+LIMITE
+EN
+3.
+The delegation of power referred to in Article 7(1),
+Article 7(3),
+Article 11(3), Article
+43(5) and (6) and Article 48(5) may be revoke
+d at any time by the European Parliament or
+by the Council. A decision of revocation shall put an end to the delegation of power
+specified in that decision. It shall take effect the day following that of its publication in the
+Official Journal of the Europ
+ean Union
+or at a later date specified therein. It shall not
+affect the validity of any delegated acts already in force.
+4.
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the
+European Parliament and to the Council.
+5
+.
+Any delegated act adopted pursuant to Article 7(1),
+Article 7(3),
+Article 11(3), Article
+43(5) and (6) and Article 48(5) shall enter into force only if no objection has been
+expressed by either the European Parliament or the Council within a period of th
+ree
+months of notification of that act to the European Parliament and the Council or if, before
+the expiry of that period, the European Parliament and the Council have both informed the
+Commission that they will not object. That period shall be extended by
+three months at the
+initiative of the European Parliament or of the Council.

@@ -1,13 +1,15 @@
-# Annex I — ARTIFICIAL INTELLIGENCE TECHNIQUES AND APPROACHES
+# Annex I — [deleted]
 
 - **Instrument**: EU AI Act
-- **Stage**: European Commission Proposal (`2021-04-21`)
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
 - **Akoma Ntoso eId**: `anx_I`
-- **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-ARTIFICIAL INTELLIGENCE TECHNIQUES AND APPROACHES
-referred to in Article 3, point 1
-(a) Machine learning approaches, including supervised, unsupervised and reinforcement learning, using a wide variety of methods including deep learning;
-(b) Logic- and knowledge-based approaches, including knowledge representation, inductive (logic) programming, knowledge bases, inference and deductive engines, (symbolic) reasoning and expert systems;
-(c) Statistical approaches, Bayesian estimation, search and optimization methods.
+[deleted]
+14954/22
+RB/ek
+194
+TREE.2.B
+LIMITE
+EN

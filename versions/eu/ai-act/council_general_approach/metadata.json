@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "ST_14954_2022_INIT",
+  "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+  "document_symbol": "ST 14954/22",
+  "stage": "council_general_approach",
+  "stage_label": "Council of the EU General Approach",
+  "published_date": "2022-12-06",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "Council of the European Union",
+    "email": "council@consilium.europa.eu"
+  },
+  "source_url": "https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf",
+  "summary": "Council General Approach narrowing the AI system definition, adding national security exclusions, and introducing Article 4a on general-purpose AI systems.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "8c548d1091c3e792440c18e1cef16366bd9d1f43aa61b6291b4e8640b80285e7",
+    "final_url": "https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf",
+    "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+    "celex": "ST_14954_2022_INIT",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 1031251,
+    "fetched_utc": "2026-11-23T14:23:09Z",
+    "sha256_normalized_full_text": "9ca3ca622e674a6ce1e4c338ae0472347d6c8972376c086a30fdc9ca3e9fd4b8"
+  },
+  "counts": {
+    "recitals": 106,
+    "articles": 90,
+    "annexes": 9
+  }
+}

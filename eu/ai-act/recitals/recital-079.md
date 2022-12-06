@@ -1,9 +1,39 @@
 # Recital (79)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Commission Proposal (`2021-04-21`)
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
 - **Akoma Ntoso eId**: `rct_79`
-- **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-(79) In order to ensure an appropriate and effective enforcement of the requirements and obligations set out by this Regulation, which is Union harmonisation legislation, the system of market surveillance and compliance of products established by Regulation (EU) 2019/1020 should apply in its entirety. Where necessary for their mandate, national public authorities or bodies, which supervise the application of Union law protecting fundamental rights, including equality bodies, should also have access to any documentation created under this Regulation.
+(79)
+In order to ensure an appropriate and effective enforcement of the requirements and
+obligations set out by this Regulation, wh
+ich is Union harmonisation legislation, the system
+of market surveillance and compliance of products established by Regulation (EU)
+2019/1020 should apply in its entirety. Market surveillance authorities designated pursuant
+to this Regulation should have a
+ll enforcement powers under this Regulation and Regulation
+(EU) 2019/1020
+and should exercise their powers and carry out their duties independently,
+impartially and without bias
+. Although the majority of AI systems are not subject to specific
+requirements
+and obligations under this Regualtion, market surveillance authorities may take
+measures in relation to all AI systems when they present a risk in accordance with this
+Regulation.
+Due to the specific nature of
+Union institutions, agencies and bodies falli
+ng
+within the scope of this Regulation, it is appropriate to designate the European Data
+Protection Supervisor as a competent market surveillance authority
+for them
+.
+This should be
+without prejudice to the
+designation of national
+competent authorities
+by the Member States
+.
+Market surveillance activities should not affect the ability of the supervised entities to carry
+out their tasks independently, when such independence is required by Union law.

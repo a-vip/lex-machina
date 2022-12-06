@@ -1,12 +1,34 @@
-# Article 4 — Amendments to Annex I
+# Article 4 — a
 
 - **Instrument**: EU AI Act
-- **Stage**: European Commission Proposal (`2021-04-21`)
-- **Document Symbol**: `COM(2021) 206 final`
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Document Symbol**: `ST 14954/22`
 - **Akoma Ntoso eId**: `art_4`
-- **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-The Commission is empowered to adopt delegated acts in accordance with Article 73 to amend the list of techniques and approaches listed in Annex I, in order to update that list to market and technological developments on the basis of characteristics that are similar to the techniques and approaches listed therein.
-TITLE II
-PROHIBITED ARTIFICIAL INTELLIGENCE PRACTICES
+Compliance of general purpose AI systems with this Regulation
+1.
+Without prejudice to Articles 5
+,
+52
+, 53 and 69
+of this Regulation, general purpose AI
+systems shall only comply with the requirements and obligations set out in Article 4b.
+2.
+Such requirements
+and obligations shall apply irrespective of whether the general
+purpose AI system is placed on the market or put into service as a pre
+-
+trained model
+and whether further fine
+-
+tuning of the model is to be performed by the user of the
+general purpose AI syst
+em.
+14954/22
+RB/ek
+80
+TREE.2.B
+LIMITE
+EN

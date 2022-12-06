@@ -1,9 +1,16 @@
 # Recital (60)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Commission Proposal (`2021-04-21`)
+- **Stage**: Council of the EU General Approach (`2022-12-06`)
 - **Akoma Ntoso eId**: `rct_60`
-- **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: Council of the European Union `<council@consilium.europa.eu>`
 
-(60) In the light of the complexity of the artificial intelligence value chain, relevant third parties, notably the ones involved in the sale and the supply of software, software tools and components, pre-trained models and data, or providers of network services, should cooperate, as appropriate, with providers and users to enable their compliance with the obligations under this Regulation and with competent authorities established under this Regulation.
+(60)
+[deleted]
+14954/22
+RB/ek
+50
+TREE.2.B
+LIMITE
+EN
