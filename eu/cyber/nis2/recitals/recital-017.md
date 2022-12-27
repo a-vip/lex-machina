@@ -1,9 +1,10 @@
 # Recital (17)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_17`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(17) Given the emergence of innovative technologies and new business models, new cloud comput ing deployment and service models are expected to appear on the market in response to evolving customer needs. In that context, cloud computing services may be delivered in a highly distributed form, even closer to where data are being generated or collect ed, thus moving from the traditional model to a highly distributed one (‘edge computing’).
+(17)
+Member States should be able to decide that entities identified before the entry into force of this Directive as operators of essential services in accordance with Directive (EU) 2016/1148 are to be considered to be essential entities.

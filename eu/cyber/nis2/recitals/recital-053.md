@@ -1,9 +1,10 @@
 # Recital (53)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_53`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(53) In particular, providers of public electronic communications networks or publicly available electronic communicat ions services, should inform the service recipients of particular and significant cyber threats and of measures they can take to protect the security of their communications, for instance by using specific types of software or encryption technologies.
+(53)
+Utilities are increasingly connected to digital networks in cities, for the purpose of improving urban transport networks, upgrading water supply and waste disposal facilities and increasing the efficiency of lighting and the heating of buildings. Those digitalised utilities are vulnerable to cyberattacks and run the risk, in the event of a successful cyberattack, of harming citizens at a large scale due to their interconnectedness. Member States should develop a policy that addresses the development of such connected or smart cities, and their potential effects on society, as part of their national cybersecurity strategy.

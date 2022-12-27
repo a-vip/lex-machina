@@ -1,9 +1,10 @@
 # Recital (44)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_44`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(44) Among service providers, managed security services provi ders (MSSPs) in areas such as incident response, penetration testing, security audits and consultancy play a particularly important role in assisting entities in their efforts to detect and respond to incidents. Those MSSPs have however also been the targe ts of cyberattacks themselves and through their close integration in the operations of operators pose a particular cybersecurity risk. Entities should therefore exercise increased diligence in selecting an MSSP.
+(44)
+The CSIRTs should have the ability, upon an essential or important entity’s request, to monitor the entity’s internet-facing assets, both on and off premises, in order to identify, understand and manage the entity’s overall organisational risks as regards newly identified supply chain compromises or critical vulnerabilities. The entity should be encouraged to communicate to the CSIRT whether it runs a privileged management interface, as this could affect the speed of undertaking mitigating actions.

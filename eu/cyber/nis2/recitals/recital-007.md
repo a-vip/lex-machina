@@ -1,9 +1,14 @@
 # Recital (7)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_7`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(7) With the repeal of Directive (EU) 2016/1148, the scope of application by sectors should be extended to a larger part of the economy in light of the considerations set out in recitals (4) to (6). The sectors covered by Directive (EU) 2016/1148 should therefore be extended to provide a comprehensive coverage of the sectors and services of vital importance for key societal and economic activities within the internal market. The rules should not be different according to whether the entities are operator s of essential services or digital service providers. That differentiation h as proven obsolete, since it does not reflect the actual importance of the sectors or services for the societal and economic activities in the internal market.
+(7)
+Under Directive (EU) 2016/1148, Member States were responsible for identifying the entities which met the criteria to qualify as operators of essential services. In order to eliminate the wide divergences among Member States in that regard and ensure legal certainty as regards the cybersecurity risk-management measures and reporting obligations for all relevant entities, a uniform criterion should be established that determines the entities falling within the scope of this Directive. That criterion should consist of the application of a size-cap rule, whereby all entities which qualify as medium-sized enterprises under Article 2 of the Annex to Commission Recommendation 2003/361/EC
+(
+5
+)
+, or exceed the ceilings for medium-sized enterprises provided for in paragraph 1 of that Article, and which operate within the sectors and provide the types of service or carry out the activities covered by this Directive fall within its scope. Member States should also provide for certain small enterprises and microenterprises, as defined in Article 2(2) and (3) of that Annex, which fulfil specific criteria that indicate a key role for society, the economy or for particular sectors or types of service to fall within the scope of this Directive.

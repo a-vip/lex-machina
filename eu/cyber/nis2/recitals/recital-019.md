@@ -1,11 +1,10 @@
 # Recital (19)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_19`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(19) Postal service providers within the meaning of Directive 97/67/EC of the European Parliament and of the Council
-18
-, as well as express and courier delivery service providers, should be su bject to this Directive if they provide at least one of the steps in the postal delivery chain and in particular clearance, sorting or distribution, including pick-up services. Transport services that are not undertaken in conjunction with one of those ste ps should fall outside of the scope of postal services.
+(19)
+Member States should be responsible for submitting to the Commission at least the number of essential and important entities for each sector and subsector referred to in the annexes, as well as relevant information about the number of identified entities and the provision, from among those laid down in this Directive, on the basis of which they were identified, and the type of service that they provide. Member States are encouraged to exchange with the Commission information about essential and important entities and, in the case of a large-scale cybersecurity incident, relevant information such as the name of the entity concerned.

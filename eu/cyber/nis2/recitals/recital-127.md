@@ -1,0 +1,10 @@
+# Recital (127)
+
+- **Instrument**: EU NIS2 Directive
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Akoma Ntoso eId**: `rct_127`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
+
+(127)
+In order to make enforcement effective, a minimum list of enforcement powers that can be exercised for breach of the cybersecurity risk-management measures and reporting obligations provided for in this Directive should be laid down, setting up a clear and consistent framework for such enforcement across the Union. Due regard should be given to the nature, gravity and duration of the infringement of this Directive, the material or non-material damage caused, whether the infringement was intentional or negligent, actions taken to prevent or mitigate the material or non-material damage, the degree of responsibility or any relevant previous infringements, the degree of cooperation with the competent authority and any other aggravating or mitigating factor. The enforcement measures, including administrative fines, should be proportionate and their imposition should be subject to appropriate procedural safeguards in accordance with the general principles of Union law and the Charter of Fundamental Rights of the European Union (the ‘Charter’), including the right to an effective remedy and to a fair trial, the presumption of innocence and the rights of the defence.

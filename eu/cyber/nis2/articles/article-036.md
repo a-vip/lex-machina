@@ -1,15 +1,10 @@
-# Article 36 — Exercise of the delegation
+# Article 36 — Penalties
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
-- **Document Symbol**: `COM(2020) 823 final`
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
 - **Akoma Ntoso eId**: `art_36`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
-2. The power to adopt delegated acts referred to in Articles 18(6) and 21(2) shall be conferred on the Commission for a period of five years from […]
-3. The delegation of power referred to in Articles 18(6) and 21(2) may be revoked at any time by the Europea n Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a la ter date specified therein. It shall not affect the validity of any delegated acts already in force.
-4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with principles laid down in the Int er-institutional Agreement of 13 April 2016 on Better Law-Making.
-5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
-6. A delegated act adopted pursuant to Articles 18(6) an d 21(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of t hat period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+Member States shall lay down rules on penalties applicable to infringements of national measures adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 17 January 2025, notify the Commission of those rules and of those measures and shall notify it, without delay of any subsequent amendment affecting them.

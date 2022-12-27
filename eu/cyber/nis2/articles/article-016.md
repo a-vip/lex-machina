@@ -1,25 +1,23 @@
-# Article 16 — Peer-reviews
+# Article 16 — European cyber crisis liaison organisation network (EU-CyCLONe)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
-- **Document Symbol**: `COM(2020) 823 final`
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
 - **Akoma Ntoso eId**: `art_16`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The Commission shall establish, after consulting the Cooperation Group and ENISA, and at the latest by 18 months follow ing the entry into force of this Directive, the methodology and content of a peer-review system for assessing the effectiveness of the Member States’ cybersecurity policies. The reviews shall be conducted by cybersecurity technical experts drawn from Membe r States different than the one reviewed and shall cover at least the following:
-(i) the effectiveness of the implementation of the cybersecurity risk management requirements and reporting obligations referred to in Articles 18 and 20;
-(ii) the level of c apabilities, including the available financial, technical and human resources, and the effectiveness of the exercise of the tasks of the national competent authorities;
-(iii) the operational capabilities and effectiveness of CSIRTs;
-(iv) the effectiveness of mutual assistance referred to in Article 34;
-(v) the effectiveness of the information-sharing framework, referred to in Article 26 of this Directive.
-2. The methodology shall include objective, non-discriminatory, fair and transparent criteria on the basis of which the Member States shall designate experts eligible to carry out the peer reviews. ENISA and the Commission shall designate experts to participate as observers in the peer-reviews. The Commission, supported by ENISA, shall establish within th e methodology as referred to in paragraph 1 an objective, non-discriminatory, fair and transparent system for the selection and the random allocation of experts for each peer review.
-3. The organisational aspects of the peer reviews shall be decided by the Commission, supported by ENISA, and, following consultation of the Cooperation Group, be based on criteria defined in the methodology referred to in paragraph 1. Peer reviews shall assess the aspects referred to in paragraph 1 for all Member States and se ctors, including targeted issues specific to one or several Member States or one or several sectors.
-4. Peer reviews shall entail actual or virtual on-site visits and off-site exchanges. In view of the principle of good cooperation, the Member States bein g reviewed shall provide the designated experts with the requested information necessary for the assessment of the reviewed aspects. Any information obtained through the peer review process shall be used solely for that purpose. The experts participating i n the peer review shall not disclose any sensitive or confidential information obtained in the course of that review to any third parties.
-5. Once reviewed in a Member State, the same aspects shall not be subject to further peer review within that Member S tate during the two years following the conclusion of a peer review, unless otherwise decided by the Commission, upon consultation with ENISA and the Cooperation Group.
-6. Member State shall ensure that any risk of conflict of interests concerning the desi gnated experts are revealed to the other Member States, the Commission and ENISA without undue delay.
-7. Experts participating in peer reviews shall draft reports on the findings and conclusions of the reviews. The reports shall be submitted to the Commiss ion, the Cooperation Group, the CSIRTs network and ENISA. The reports shall be discussed in the Cooperation Group and the CSIRTs network. The reports may be published on the dedicated website of the Cooperation Group.
-CHAPTER IV
-Cybersecurity risk management and reporting obligations
-SECTION I
-Cybersecurity risk management and reporting
+1. EU-CyCLONe is established to support the coordinated management of large-scale cybersecurity incidents and crises at operational level and to ensure the regular exchange of relevant information among Member States and Union institutions, bodies, offices and agencies.
+2. EU-CyCLONe shall be composed of the representatives of Member States’ cyber crisis management authorities as well as, in cases where a potential or ongoing large-scale cybersecurity incident has or is likely to have a significant impact on services and activities falling within the scope of this Directive, the Commission. In other cases, the Commission shall participate in the activities of EU-CyCLONe as an observer.
+ENISA shall provide the secretariat of EU-CyCLONe and support the secure exchange of information as well as provide necessary tools to support cooperation between Member States ensuring secure exchange of information.
+Where appropriate, EU-CyCLONe may invite representatives of relevant stakeholders to participate in its work as observers.
+3. EU-CyCLONe shall have the following tasks:
+(a) to increase the level of preparedness of the management of large-scale cybersecurity incidents and crises;
+(b) to develop a shared situational awareness for large-scale cybersecurity incidents and crises;
+(c) to assess the consequences and impact of relevant large-scale cybersecurity incidents and crises and propose possible mitigation measures;
+(d) to coordinate the management of large-scale cybersecurity incidents and crises and support decision-making at political level in relation to such incidents and crises;
+(e) to discuss, upon the request of a Member State concerned, national large-scale cybersecurity incident and crisis response plans referred to in Article 9(4).
+4. EU-CyCLONe shall adopt its rules of procedure.
+5. EU-CyCLONe shall report on a regular basis to the Cooperation Group on the management of large-scale cybersecurity incidents and crises, as well as trends, focusing in particular on their impact on essential and important entities.
+6. EU-CyCLONe shall cooperate with the CSIRTs network on the basis of agreed procedural arrangements provided for in Article 15(6).
+7. By 17 July 2024 and every 18 months thereafter, EU-CyCLONe shall submit to the European Parliament and to the Council a report assessing its work.

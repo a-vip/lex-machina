@@ -1,11 +1,10 @@
 # Recital (8)
 
 - **Instrument**: EU NIS2 Directive
-- **Stage**: European Commission Proposal (`2020-12-16`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_8`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(8) In accordance wi th Directive (EU) 2016/1148, Member States were responsible for determining which entities meet the criteria to qualify as operators of essential services (‘identification process’). In order to eliminate the wide divergences among Member States in that re gard and ensure legal certainty for the risk management requirements and reporting obligations for all relevant entities, a uniform criterion should be established that determines the entities falling within the scope of application of this Directive. That criterion should consist of the application of the size-cap rule, whereby all medium and large enterprises, as defined by Commission Recommendation 2003/361/EC
-15
-, that operate within the sectors or provide the type of services covered by this Directive, fa ll within its scope. Member States should not be required to establish a list of the entities that meet this generally applicable size-related criterion.
+(8)
+The exclusion of public administration entities from the scope of this Directive should apply to entities whose activities are predominantly carried out in the areas of national security, public security, defence or law enforcement, including the prevention, investigation, detection and prosecution of criminal offences. However, public administration entities whose activities are only marginally related to those areas should not be excluded from the scope of this Directive. For the purposes of this Directive, entities with regulatory competences are not considered to be carrying out activities in the area of law enforcement and are therefore not excluded on that ground from the scope of this Directive. Public administration entities that are jointly established with a third country in accordance with an international agreement are excluded from the scope of this Directive. This Directive does not apply to Member States’ diplomatic and consular missions in third countries or to their network and information systems, insofar as such systems are located in the premises of the mission or are operated for users in a third country.

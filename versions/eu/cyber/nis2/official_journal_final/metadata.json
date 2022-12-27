@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-cyber-nis2",
+  "path": "eu/cyber/nis2",
+  "jurisdiction": "eu",
+  "domain": "cyber",
+  "title": "Directive (EU) 2022/2555 — Network and Information Security Directive (NIS2)",
+  "short_title": "EU NIS2 Directive",
+  "type": "directive",
+  "celex": "32022L2555",
+  "eli": "http://data.europa.eu/eli/dir/2022/2555/oj",
+  "document_symbol": "OJ L 333, 27.12.2022",
+  "stage": "official_journal_final",
+  "stage_label": "Final Official Journal Publication",
+  "published_date": "2022-12-27",
+  "in_force_date": "2023-01-16",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "European Union Official Journal",
+    "email": "oj@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03/DOC_1",
+  "summary": "Enacted NIS2 Directive establishing essential/important entity tiers, management body liability, supply-chain security, and 24h/72h/1-month incident reporting.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "6ee66d5c419d9a056fb98d94083cacf9b818803bd6b416435718e0d4919cb589",
+    "final_url": "http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/dir/2022/2555/oj",
+    "celex": "32022L2555",
+    "http_status": 200,
+    "http_etag": "\"Con-20231213115119000\"",
+    "bytes_fetched": 702913,
+    "fetched_utc": "2026-11-23T14:23:17Z",
+    "sha256_normalized_full_text": "d9e7657189036fe7f66f4a5a7bc63b377ee3a2cee8ebb5196ec8f8fa8d6a0371"
+  },
+  "counts": {
+    "recitals": 144,
+    "articles": 46,
+    "annexes": 3
+  }
+}
