@@ -1,15 +1,13 @@
-# Article 49 — Professional secrecy
+# Article 49 — Financial cross-sector exercises, communication and cooperation
 
 - **Instrument**: EU DORA
-- **Stage**: European Commission Proposal (`2020-09-24`)
-- **Document Symbol**: `COM(2020) 595 final`
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
 - **Akoma Ntoso eId**: `art_49`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Any confidential information received, exchanged or transmitted pursuant to this Regulation shall be subject to the conditions of professional secrecy laid down in paragraph 2.
-2. The obligation of professional secrecy applies to all persons who work or who have worked for the competent authorities under this Regulation, or for any authority or market undertaking or natural or legal person to whom those competent authorities have delegated their powers, including auditors and experts contracted by them.
-3. Information covered by professional secrecy may not be disclosed to any other person or authority except by virtue of provisions laid down by Union or national law.
-4. All information exchanged between the competent authorities under this Regulation that concerns business or operational conditions and other economic or personal affairs shall be considered confidential and shall be subject to the requirements of professional secrecy, except where the competent authority states at the time of communication that such information may be disclosed or where such disclosure is necessary for legal proceedings.
-CHAPTER VIII
-DELEGATED ACTS
+1. The ESAs, through the Joint Committee and in collaboration with competent authorities, resolution authorities as referred to in Article 3 of Directive 2014/59/EU, the ECB, the Single Resolution Board as regards information relating to entities falling under the scope of Regulation (EU) No 806/2014, the ESRB and ENISA, as appropriate, may establish mechanisms to enable the sharing of effective practices across financial sectors to enhance situational awareness and identify common cyber vulnerabilities and risks across sectors.
+They may develop crisis management and contingency exercises involving cyber-attack scenarios with a view to developing communication channels and gradually enabling an effective coordinated response at Union level in the event of a major cross-border ICT-related incident or related threat having a systemic impact on the Union’s financial sector as a whole.
+Those exercises may, as appropriate, also test the financial sector’s dependencies on other economic sectors.
+2. Competent authorities, ESAs and the ECB shall cooperate closely with each other and exchange information to carry out their duties pursuant to Articles 47 to 54. They shall closely coordinate their supervision in order to identify and remedy breaches of this Regulation, develop and promote best practices, facilitate collaboration, foster consistency of interpretation and provide cross-jurisdictional assessments in the event of any disagreements.

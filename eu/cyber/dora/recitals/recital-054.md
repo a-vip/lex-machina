@@ -1,9 +1,10 @@
 # Recital (54)
 
 - **Instrument**: EU DORA
-- **Stage**: European Commission Proposal (`2020-09-24`)
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
 - **Akoma Ntoso eId**: `rct_54`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(54) Contractual arrangements should provide for clear termination rights and related minimum notices as well as dedicated exit strategies enabling, in particular, mandatory transition periods during which the ICT third-party service providers should continue providing the relevant functions with a view to reduce the risk of disruptions at the level of the financial entity or allow the latter to effectively switch to other ICT third- party service providers, or alternatively resort to the use of on-premises solutions, consistent with the complexity of the provided service.
+(54)
+This Regulation should require credit institutions, payment institutions, account information service providers and electronic money institutions to report all operational or security payment-related incidents – previously reported under Directive (EU) 2015/2366 – irrespective of the ICT nature of the incident.

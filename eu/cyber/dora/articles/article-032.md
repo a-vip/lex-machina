@@ -1,25 +1,27 @@
-# Article 32 — Request for information
+# Article 32 — Structure of the Oversight Framework
 
 - **Instrument**: EU DORA
-- **Stage**: European Commission Proposal (`2020-09-24`)
-- **Document Symbol**: `COM(2020) 595 final`
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
 - **Akoma Ntoso eId**: `art_32`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The Lead Overseer m ay by simple request or by decision require the critical ICT third-party providers to provide all information that is necessary for the Lead Overseer to carry out its duties under this Regulation, including all relevant business or operational documents, contracts, policies documentation, ICT security audit reports, ICT-related incident reports, as well as any information relating to parties to whom the critical ICT third-party provider has outsourced operational functions or activities.
-2. When sending a simple request for information under paragraph 1, the Lead Overseer shall:
-(a) refer to this Article as the legal basis of the request;
-(b) state the purpose of the request;
-(c) specify what information is required;
-(d) set a time limit within which the information is to be provided;
-(e) inform the representative of the critical ICT third-party service provider from whom the information is requested that he or she is not obliged to provide the information, but that in case of a voluntary reply to the request the information provided must not be incorrect or misleading.
-3. When requiring to supply information under paragraph 1, the Lead Overseer shall:
-(a) refer to this Article as the legal basis of the request;
-(b) state the purpose of the request;
-(c) specify what information is required;
-(d) set a time limit within which the information is to be provided;
-(e) indicate the periodic penalty payments provided for in Article 31(4) where the production of the required information is incomplete;
-(f) indicate the right to appeal the decision before ESA’s Board of Appeal and to have the decision reviewed by the Court of Justice of the European Union (‘Court of Justice’) in accordance with Articles 60 and 61 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 respectively.
-4. Representatives of critical ICT third-party service providers shall supply the information requested. Lawyers duly authorised to act may supply the information on behalf of their clients. The critical ICT third-party service provider shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
-5. The Lead Overseer shall, without delay, send a copy of the decision to supply information to the competent authorities of the financial entities using the critical ICT third-party providers’ services.
+1. The Joint Committee, in accordance with Article 57(1) of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010, shall establish the Oversight Forum as a sub-committee for the purposes of supporting the work of the Joint Committee and of the Lead Overseer referred to in Article 31(1), point (b), in the area of ICT third-party risk across financial sectors. The Oversight Forum shall prepare the draft joint positions and the draft common acts of the Joint Committee in that area.
+The Oversight Forum shall regularly discuss relevant developments on ICT risk and vulnerabilities and promote a consistent approach in the monitoring of ICT third-party risk at Union level.
+2. The Oversight Forum shall, on a yearly basis, undertake a collective assessment of the results and findings of the oversight activities conducted for all critical ICT third-party service providers and promote coordination measures to increase the digital operational resilience of financial entities, foster best practices on addressing ICT concentration risk and explore mitigants for cross-sector risk transfers.
+3. The Oversight Forum shall submit comprehensive benchmarks for critical ICT third-party service providers to be adopted by the Joint Committee as joint positions of the ESAs in accordance with Article 56(1) of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.
+4. The Oversight Forum shall be composed of:
+(a) the Chairpersons of the ESAs;
+(b) one high-level representative from the current staff of the relevant competent authority referred to in Article 46 from each Member State;
+(c) the Executive Directors of each ESA and one representative from the Commission, from the ESRB, from ECB and from ENISA as observers;
+(d) where appropriate, one additional representative of a competent authority referred to in Article 46 from each Member State as observer;
+(e) where applicable, one representative of the competent authorities designated or established in accordance with Directive (EU) 2022/2555 responsible for the supervision of an essential or important entity subject to that Directive, which has been designated as a critical ICT third-party service provider, as observer.
+The Oversight Forum may, where appropriate, seek the advice of independent experts appointed in accordance with paragraph 6.
+5. Each Member State shall designate the relevant competent authority whose staff member shall be the high-level representative referred in paragraph 4, first subparagraph, point (b), and shall inform the Lead Overseer thereof.
+The ESAs shall publish on their website the list of high-level representatives from the current staff of the relevant competent authority designated by Member States.
+6. The independent experts referred to in paragraph 4, second subparagraph, shall be appointed by the Oversight Forum from a pool of experts selected following a public and transparent application process.
+The independent experts shall be appointed on the basis of their expertise in financial stability, digital operational resilience and ICT security matters. They shall act independently and objectively in the sole interest of the Union as a whole and shall neither seek nor take instructions from Union institutions or bodies, from any government of a Member State or from any other public or private body.
+7. In accordance with Article 16 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010, the ESAs shall by 17 July 2024 issue, for the purposes of this Section, guidelines on the cooperation between the ESAs and the competent authorities covering the detailed procedures and conditions for the allocation and execution of tasks between competent authorities and the ESAs and the details on the exchanges of information which are necessary for competent authorities to ensure the follow-up of recommendations pursuant to Article 35(1), point (d), addressed to critical ICT third-party service providers.
+8. The requirements set out in this Section shall be without prejudice to the application of Directive (EU) 2022/2555 and of other Union rules on oversight applicable to providers of cloud computing services.
+9. The ESAs, through the Joint Committee and based on preparatory work conducted by the Oversight Forum, shall, on yearly basis, submit a report on the application of this Section to the European Parliament, the Council and the Commission.

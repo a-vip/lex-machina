@@ -1,18 +1,25 @@
-# Article 37 — Follow-up by competent authorities
+# Article 37 — Request for information
 
 - **Instrument**: EU DORA
-- **Stage**: European Commission Proposal (`2020-09-24`)
-- **Document Symbol**: `COM(2020) 595 final`
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
 - **Akoma Ntoso eId**: `art_37`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Within 30 calendar days after the receipt of the recommendations issued by Lead Overseers pursuant to point (d) of Article 31(1), critical ICT third-party service providers shall notify the Lead Overseer whether they intend to follow those recommendations. Lead Overseers shall immediately transmit this information to competent authorities.
-2. Competent authorities shall monitor whether financial entities take into account the risks identified in the recommendations addressed to critical ICT third-party providers by the Lead Overseer in accordance with points (d) of Article 31(1).
-3. Competent authorities may, in accordance with Article 44, require financial entities to temporarily suspend, either in part or completely, the use or deployment of a service provided by the critical ICT third-party provider until the risks identified in the recommendations addressed to critical ICT third-party providers have been addressed. Where necessary, they may require financial entities to terminate, in part or completely, the relevant contractual arrangements concluded with the critical ICT third-party service providers.
-4. When taking the decisions referred to in paragraph 3, competent authorities shall take into account the type and magnitude of risk that is not addressed by the critical ICT third-party service provider, as well as the seriousness of the non-compliance, having regard to the following criteria:
-(a) the gravity and the duration of the non-compliance;
-(b) whether the non-compliance has revealed serious weaknesses in the critical ICT third-party service provider’s procedures, management systems, risk management and internal controls;
-(c) whether financial crime was facilitated, occasioned or otherwise attributable to the non-compliance;
-(d) whether the non-compliance has been committed intentionally or negligently.
-5. Competent authorities shall regularly inform the Lead Overseers on the approaches and measures taken in their supervisory tasks in relation to financial entities as well as on the contractual measures taken by the latter where critical ICT third-party service have not endorsed in part or entirely recommendations addressed by the Lead Overseers.
+1. The Lead Overseer may, by simple request or by decision, require critical ICT third-party service providers to provide all information that is necessary for the Lead Overseer to carry out its duties under this Regulation, including all relevant business or operational documents, contracts, policies, documentation, ICT security audit reports, ICT-related incident reports, as well as any information relating to parties to whom the critical ICT third-party service provider has outsourced operational functions or activities.
+2. When sending a simple request for information under paragraph 1, the Lead Overseer shall:
+(a) refer to this Article as the legal basis of the request;
+(b) state the purpose of the request;
+(c) specify what information is required;
+(d) set a time limit within which the information is to be provided;
+(e) inform the representative of the critical ICT third-party service provider from whom the information is requested that he or she is not obliged to provide the information, but in the event of a voluntary reply to the request the information provided must not be incorrect or misleading.
+3. When requiring by decision to supply information under paragraph 1, the Lead Overseer shall:
+(a) refer to this Article as the legal basis of the request;
+(b) state the purpose of the request;
+(c) specify what information is required;
+(d) set a time limit within which the information is to be provided;
+(e) indicate the periodic penalty payments provided for in Article 35(6) where the production of the required information is incomplete or when such information is not provided within the time limit referred to in point (d) of this paragraph;
+(f) indicate the right to appeal the decision to ESA’s Board of Appeal and to have the decision reviewed by the Court of Justice of the European Union (Court of Justice) in accordance with Articles 60 and 61 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.
+4. The representatives of the critical ICT third-party service providers shall supply the information requested. Lawyers duly authorised to act may supply the information on behalf of their clients. The critical ICT third-party service provider shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+5. The Lead Overseer shall, without delay, transmit a copy of the decision to supply information to the competent authorities of the financial entities using the services of the relevant critical ICT third-party service providers and to the JON.

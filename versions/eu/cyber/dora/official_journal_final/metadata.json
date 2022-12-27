@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-cyber-dora",
+  "path": "eu/cyber/dora",
+  "jurisdiction": "eu",
+  "domain": "cyber",
+  "title": "Regulation (EU) 2022/2554 — Digital Operational Resilience Act (DORA)",
+  "short_title": "EU DORA",
+  "type": "regulation",
+  "celex": "32022R2554",
+  "eli": "http://data.europa.eu/eli/reg/2022/2554/oj",
+  "document_symbol": "OJ L 333, 27.12.2022",
+  "stage": "official_journal_final",
+  "stage_label": "Final Official Journal Publication",
+  "published_date": "2022-12-27",
+  "in_force_date": "2025-01-17",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "European Union Official Journal",
+    "email": "oj@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03/DOC_1",
+  "summary": "Enacted DORA establishing financial-sector ICT risk management, threat-led penetration testing (TLPT), and Critical Third-Party ICT Provider (CTPP) oversight effective January 17, 2025.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "cf50d8f023d23b2a56f535aaee0760eba7f1925ef08a9858c5c31d43d414f46b",
+    "final_url": "http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/reg/2022/2554/oj",
+    "celex": "32022R2554",
+    "http_status": 200,
+    "http_etag": "\"Con-20231213020151000\"",
+    "bytes_fetched": 746866,
+    "fetched_utc": "2026-11-23T14:23:15Z",
+    "sha256_normalized_full_text": "e1175d889e165db1bf65b6ffc5f1989a31b05d893d8df19d79478fe215957cf8"
+  },
+  "counts": {
+    "recitals": 106,
+    "articles": 64,
+    "annexes": 0
+  }
+}

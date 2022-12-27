@@ -1,23 +1,29 @@
-# Article 16 — Classification of ICT-related incidents
+# Article 16 — Simplified ICT risk management framework
 
 - **Instrument**: EU DORA
-- **Stage**: European Commission Proposal (`2020-09-24`)
-- **Document Symbol**: `COM(2020) 595 final`
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
 - **Akoma Ntoso eId**: `art_16`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Financial entities shall classify ICT-related incidents and shall determine their impact based on the following criteria:
-(a) the number of users or financial counterparts affected by the disruption caused by the ICT-related incident, and whether the ICT-related incident has caused reputational impact;
-(b) the duration of the ICT-related incident, including service downtime;
-(c) the geographical spread with regard to the areas affected by the ICT-related incident, particularly if it affects more than two Member States;
-(d) the data losses that the ICT-related incident entails, such as integrity loss, confidentiality loss or availability loss;
-(e) the severity of the impact of the ICT-related incident on the financial entity’s ICT systems;
-(f) the criticality of the services affected, including the financial entity’s transactions and operations;
-(g) the economic impact of the ICT-related incident in both absolute and relative terms.
-2. The ESAs shall, through the Joint Committee of the ESAs (the ‘Joint Committee’) and after consultation with the European Central Bank (ECB) and ENISA, develop common draft regulatory technical standards further specifying the following:
-(a) the criteria set out in paragraph 1, including materiality thresholds for determining major ICT-related incidents which are subject to the reporting obligation laid down in Article 17(1);
-(b) the criteria to be applied by competent authorities for the purpose of assessing the relevance of major ICT-related incidents to other Member States’ jurisdictions, and the details of ICT-related incidents reports to be shared with other competent authorities pursuant to points (5) and (6) of Article 17.
-3. When developing the common draft regulatory technical standards referred to in paragraph 2, the ESAs shall take into account international standards, as well as specifications developed and published by ENISA, including, where appropriate, specifications for other economic sectors.
-The ESAs shall submit those common draft regulatory technical standards to the Commission by [ PO: insert date 1 year after the date of entry into force ].
-Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in paragraph 2 in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010, respectively.
+1. Articles 5 to 15 of this Regulation shall not apply to small and non-interconnected investment firms, payment institutions exempted pursuant to Directive (EU) 2015/2366; institutions exempted pursuant to Directive 2013/36/EU in respect of which Member States have decided not to apply the option referred to in Article 2(4) of this Regulation; electronic money institutions exempted pursuant to Directive 2009/110/EC; and small institutions for occupational retirement provision.
+Without prejudice to the first subparagraph, the entities listed in the first subparagraph shall:
+(a) put in place and maintain a sound and documented ICT risk management framework that details the mechanisms and measures aimed at a quick, efficient and comprehensive management of ICT risk, including for the protection of relevant physical components and infrastructures;
+(b) continuously monitor the security and functioning of all ICT systems;
+(c) minimise the impact of ICT risk through the use of sound, resilient and updated ICT systems, protocols and tools which are appropriate to support the performance of their activities and the provision of services and adequately protect availability, authenticity, integrity and confidentiality of data in the network and information systems;
+(d) allow sources of ICT risk and anomalies in the network and information systems to be promptly identified and detected and ICT-related incidents to be swiftly handled;
+(e) identify key dependencies on ICT third-party service providers;
+(f) ensure the continuity of critical or important functions, through business continuity plans and response and recovery measures, which include, at least, back-up and restoration measures;
+(g) test, on a regular basis, the plans and measures referred to in point (f), as well as the effectiveness of the controls implemented in accordance with points (a) and (c);
+(h) implement, as appropriate, relevant operational conclusions resulting from the tests referred to in point (g) and from post-incident analysis into the ICT risk assessment process and develop, according to needs and ICT risk profile, ICT security awareness programmes and digital operational resilience training for staff and management.
+2. The ICT risk management framework referred to in paragraph 1, second subparagraph, point (a), shall be documented and reviewed periodically and upon the occurrence of major ICT-related incidents in compliance with supervisory instructions. It shall be continuously improved on the basis of lessons derived from implementation and monitoring. A report on the review of the ICT risk management framework shall be submitted to the competent authority upon its request.
+3. The ESAs shall, through the Joint Committee, in consultation with the ENISA, develop common draft regulatory technical standards in order to:
+(a) specify further the elements to be included in the ICT risk management framework referred to in paragraph 1, second subparagraph, point (a);
+(b) specify further the elements in relation to systems, protocols and tools to minimise the impact of ICT risk referred to in paragraph 1, second subparagraph, point (c), with a view to ensuring the security of networks, enabling adequate safeguards against intrusions and data misuse and preserving the availability, authenticity, integrity and confidentiality of data;
+(c) specify further the components of the ICT business continuity plans referred to in paragraph 1, second subparagraph, point (f);
+(d) specify further the rules on the testing of business continuity plans and ensure the effectiveness of the controls referred to in paragraph 1, second subparagraph, point (g) and ensure that such testing duly takes into account scenarios in which the quality of the provision of a critical or important function deteriorates to an unacceptable level or fails;
+(e) specify further the content and format of the report on the review of the ICT risk management framework referred to in paragraph 2.
+When developing those draft regulatory technical standards, the ESAs shall take into account the size and the overall risk profile of the financial entity, and the nature, scale and complexity of its services, activities and operations.
+The ESAs shall submit those draft regulatory technical standards to the Commission by 17 January 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.

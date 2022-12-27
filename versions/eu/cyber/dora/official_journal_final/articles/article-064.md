@@ -1,0 +1,11 @@
+# Article 64 — Entry into force and application
+
+- **Instrument**: EU DORA
+- **Stage**: Final Official Journal Publication (`2022-12-27`)
+- **Document Symbol**: `OJ L 333, 27.12.2022`
+- **Akoma Ntoso eId**: `art_64`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+It shall apply from 17 January 2025.
