@@ -1,0 +1,26 @@
+{
+  "instrument_id": "national-us-nist-ai-rmf",
+  "path": "national/us/nist-ai-rmf",
+  "jurisdiction": "national",
+  "title": "United States NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0 & GenAI Profile)",
+  "short_title": "US NIST AI RMF",
+  "type": "national_framework",
+  "celex": "NIST_AI_100_1",
+  "document_symbol": "NIST AI 100-1",
+  "stage": "nist_ai_rmf_1_0",
+  "stage_label": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1)",
+  "published_date": "2023-01-26",
+  "in_force_date": "2023-01-26",
+  "status": "active",
+  "institutional_author": {
+    "name": "National Institute of Standards and Technology (NIST)",
+    "email": "ai-rmf@nist.gov"
+  },
+  "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+  "summary": "Release of NIST AI RMF 1.0 defining trustworthiness characteristics (valid/reliable, safe, secure/resilient, accountable/transparent, explainable/interpretable, privacy-enhanced, fair with harmful bias managed) and the four Core Functions: GOVERN, MAP, MEASURE, and MANAGE.",
+  "counts": {
+    "recitals": 1,
+    "articles": 4,
+    "annexes": 0
+  }
+}
