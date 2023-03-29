@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-uk-ai-governance",
+  "path": "national/uk/ai-governance",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "United Kingdom AI Governance: DSIT AI White Paper, UK AI Safety Institute (AISI) & Data (Use and Access) Act 2025 (c. 18)",
+  "short_title": "UK AI Governance & DUAA 2025",
+  "type": "national_framework",
+  "celex": "UK_AI_DUAA_2025",
+  "eli": null,
+  "document_symbol": "CP 815 (UK DSIT)",
+  "stage": "uk_ai_white_paper_2023",
+  "stage_label": "UK DSIT Pro-Innovation Approach to AI Regulation White Paper",
+  "published_date": "2023-03-29",
+  "in_force_date": "2025-06-19",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "UK Department for Science, Innovation and Technology (DSIT)",
+    "email": "ai-regulation@dsit.gov.uk"
+  },
+  "source_url": "https://assets.publishing.service.gov.uk/media/64cb71a547915a00142a91c4/a-pro-innovation-approach-to-ai-regulation-amended-web-ready.pdf",
+  "summary": "Official UK White Paper establishing the five cross-sectoral AI principles (safety/security/robustness, transparency/explainability, fairness, accountability/governance, contestability/redress).",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "79d0b329134c14d0977e9819154ba1e55108b9a7d1c8890d93e6406f2ce0d9c7",
+    "final_url": "https://assets.publishing.service.gov.uk/media/64cb71a547915a00142a91c4/a-pro-innovation-approach-to-ai-regulation-amended-web-ready.pdf",
+    "http_status": 200,
+    "http_etag": "\"64cb71a5-130052\"",
+    "bytes_fetched": 1245266,
+    "fetched_utc": "2026-11-23T14:31:47Z",
+    "sha256_normalized_full_text": "5caff439005c8044c3d0c916b3635c3e5120fe0758ba3147ec405ad3d16eef28"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 24,
+    "annexes": 0
+  }
+}
