@@ -1,8 +1,12 @@
-# Article 2 — Principle (b) — Human Responsibility
+# Article 2 — First Tier — Prohibited Autonomous Weapons Systems (Paragraph 21)
 
 - **Instrument**: UN CCW GGE on LAWS
-- **Stage**: CCW GGE 11 Guiding Principles on LAWS (`2019-08-21`)
-- **Document Symbol**: `CCW/GGE.1/2019/3`
+- **Stage**: CCW GGE Report & Rolling Text Evolution (`2023-05-26`)
+- **Document Symbol**: `CCW/GGE.1/2023/2`
 - **Institutional Author**: UN CCW GGE `<ccw@un.org>`
 
-Human responsibility for decisions on the use of weapons systems must be retained since accountability cannot be transferred to machines. This should be considered across the entire life cycle of the weapons system.
+1. Weapons systems based on emerging technologies in the area of lethal autonomous weapons systems that cannot be used in compliance with international humanitarian law must not be used, and their development or production should be prohibited.
+2. In particular, weapons systems must not be used if they:
+(a) are of a nature to cause superfluous injury or unnecessary suffering;
+(b) are inherently indiscriminate; or
+(c) are incapable of being directed at a specific military objective or have effects that cannot be limited as required by IHL.

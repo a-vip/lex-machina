@@ -1,8 +1,10 @@
-# Article 1 — Principle (a) — Applicability of International Humanitarian Law
+# Article 1 — Applicability of IHL and State Responsibility (Paragraphs 17–19)
 
 - **Instrument**: UN CCW GGE on LAWS
-- **Stage**: CCW GGE 11 Guiding Principles on LAWS (`2019-08-21`)
-- **Document Symbol**: `CCW/GGE.1/2019/3`
+- **Stage**: CCW GGE Report & Rolling Text Evolution (`2023-05-26`)
+- **Document Symbol**: `CCW/GGE.1/2023/2`
 - **Institutional Author**: UN CCW GGE `<ccw@un.org>`
 
-International humanitarian law continues to apply fully to all weapons systems, including the potential development and use of lethal autonomous weapons systems.
+1. International law, in particular the United Nations Charter and International Humanitarian Law (IHL), applies fully to all weapons systems, including those based on emerging technologies in the area of lethal autonomous weapons systems (LAWS).
+2. Complying with IHL rules and principles, including inter alia distinction, proportionality and precautions in attack, requires inter alia context-specific human judgment and control.
+3. Every internationally wrongful act of a State, including one resulting from the use of a weapon system based on emerging technologies in the area of LAWS, entails the international responsibility of that State.

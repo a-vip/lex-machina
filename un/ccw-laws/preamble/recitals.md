@@ -1,6 +1,6 @@
 # Preamble & Recitals — UN CCW GGE on LAWS
-**Stage**: CCW GGE 11 Guiding Principles on LAWS (2019-08-21)
+**Stage**: CCW GGE Report & Rolling Text Evolution (2023-05-26)
 
 ## Recital (1)
 
-(1) The High Contracting Parties to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects (CCW) affirm the 11 Guiding Principles on emerging technologies in the area of lethal autonomous weapons systems (CCW/GGE.1/2019/3, Annex IV).
+(1) The Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems adopted its consensus 2023 report (CCW/GGE.1/2023/2) on 26 May 2023 in Geneva, advancing the normative and operational framework toward a two-tier structure of prohibitions and regulations.
