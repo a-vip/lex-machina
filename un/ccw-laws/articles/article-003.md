@@ -1,15 +1,14 @@
-# Article 3 — CCW GGE Guiding Principle (c)
+# Article 3 — CCW/GGE.1/2023/2 — Paragraph 3
 
 - **Instrument**: UN CCW GGE on LAWS
-- **Stage**: CCW GGE 11 Guiding Principles on LAWS (`2019-08-21`)
-- **Document Symbol**: `CCW/GGE.1/2019/3`
-- **Akoma Ntoso eId**: `principle_c`
+- **Stage**: CCW GGE Consensus Report & Two-Tier Framework (`2023-05-26`)
+- **Document Symbol**: `CCW/GGE.1/2023/2`
+- **Akoma Ntoso eId**: `para_3`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: UN CCW GGE `<ccw@un.org>`
 
-(c) States, parties to armed conflict and individuals remain at all times responsible
-for adhering to their obligations under applicable international law, including IHL. States
-must also ensure individual responsibility for the employment of means or methods of
-warfare involving the potential use of weapons systems based on emerging technologies in
-the area of lethal autonomous weapons systems in accordance with their obligations under
-IHL;
+3. In 2023, the Group of Governmental Experts of the High Contracting Parties related
+to emerging technologies in the area of lethal autonomous weapons systems (LAWS)
+(hereinafter “the Group”) met from 6 to 10 March, and from 15 to 19 May in Geneva. The
+Chairperson organized informal meetings on 20 February, 20 April and 2 May 2023.
+II. Organization and work of the Group of Governmental Experts

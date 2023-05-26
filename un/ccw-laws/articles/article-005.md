@@ -1,12 +1,12 @@
-# Article 5 — CCW GGE Guiding Principle (e)
+# Article 5 — CCW/GGE.1/2023/2 — Paragraph 5
 
 - **Instrument**: UN CCW GGE on LAWS
-- **Stage**: CCW GGE 11 Guiding Principles on LAWS (`2019-08-21`)
-- **Document Symbol**: `CCW/GGE.1/2019/3`
-- **Akoma Ntoso eId**: `principle_e`
+- **Stage**: CCW GGE Consensus Report & Two-Tier Framework (`2023-05-26`)
+- **Document Symbol**: `CCW/GGE.1/2023/2`
+- **Akoma Ntoso eId**: `para_5`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: UN CCW GGE `<ccw@un.org>`
 
-(e) Human judgement is essential in order to ensure that the potential use of
-weapons systems based on emerging technologies in the area of lethal autonomous weapons
-systems is in compliance with international law, and in particular IHL;
+5. The second session took place on 15-19 May 2023. On Monday 15 May 2023, the
+second session was opened by the Chairperson, Ambassador Flávio Soares Damico. The
+second session was closed on Friday 19 May 2023.

@@ -1,13 +1,15 @@
-# Article 4 — CCW GGE Guiding Principle (d)
+# Article 4 — CCW/GGE.1/2023/2 — Paragraph 4
 
 - **Instrument**: UN CCW GGE on LAWS
-- **Stage**: CCW GGE 11 Guiding Principles on LAWS (`2019-08-21`)
-- **Document Symbol**: `CCW/GGE.1/2019/3`
-- **Akoma Ntoso eId**: `principle_d`
+- **Stage**: CCW GGE Consensus Report & Two-Tier Framework (`2023-05-26`)
+- **Document Symbol**: `CCW/GGE.1/2023/2`
+- **Akoma Ntoso eId**: `para_4`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: UN CCW GGE `<ccw@un.org>`
 
-(d) The IHL requirements and principles including inter alia distinction,
-proportionality and precautions in attack must be applied through a chain of responsible
-command and control by the human operators and commanders who use weapons systems
-based on emerging technologies in the area of lethal autonomous weapons systems;
+4. On Monday 6 March 2023, the first session was opened by the Chairperson,
+Ambassador Flávio Soares Damico. The High Representative for Disarmament Affairs, Ms.
+Izumi Nakamitsu delivered a video statement. At the same meeting, the Group adopted its
+agenda (CCW/GGE.1/2023/1), and confirmed the Rules of Procedure, as adopted by the
+Sixth Review Conference (CCW/CONF.VI/11). The first session was closed on Friday 10
+March 2023.

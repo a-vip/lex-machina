@@ -9,31 +9,31 @@
   "type": "multilateral_normative_instrument",
   "celex": "CCW_GGE_LAWS",
   "eli": null,
-  "document_symbol": "CCW/GGE.1/2019/3",
-  "stage": "guiding_principles_2019",
-  "stage_label": "CCW GGE 11 Guiding Principles on LAWS",
-  "published_date": "2019-08-21",
+  "document_symbol": "CCW/GGE.1/2023/2",
+  "stage": "rolling_text_report_2023",
+  "stage_label": "CCW GGE Consensus Report & Two-Tier Framework",
+  "published_date": "2023-05-26",
   "in_force_date": null,
   "status": "active_negotiation",
   "institutional_author": {
     "name": "UN CCW GGE",
     "email": "ccw@un.org"
   },
-  "source_url": "https://documents.un.org/doc/undoc/gen/g19/285/69/pdf/g1928569.pdf",
-  "summary": "Adoption of the 11 Guiding Principles on emerging technologies in the area of LAWS.",
+  "source_url": "https://documents.un.org/doc/undoc/gen/g23/107/43/pdf/g2310743.pdf",
+  "summary": "Consensus report operationalizing the two-tier normative architecture: prohibiting IHL-non-compliant systems and strictly regulating context, duration, and human-machine interaction.",
   "provenance": {
     "provenance_mode": "full_primary_pdf",
-    "sha256_raw": "bdcde85a282814e22fc3ccb98522024e652c58fc4511321e1031c507dd80e5d9",
-    "final_url": "https://documents.un.org/doc/undoc/gen/g19/285/69/pdf/g1928569.pdf",
+    "sha256_raw": "4d32a0dba3e33cb7b1c7acedf96994a0537b44dee53c5516327aefd774ab56d4",
+    "final_url": "https://documents.un.org/doc/undoc/gen/g23/107/43/pdf/g2310743.pdf",
     "http_status": 200,
-    "http_etag": "W/\"61877-1875b940954\"",
-    "bytes_fetched": 399479,
-    "fetched_utc": "2026-11-23T14:31:39Z",
-    "sha256_normalized_full_text": "1c4a437a061635a03dc0b5d196571ebe6d78c5cf059115061b2d61ccd99b15a4"
+    "http_etag": "W/\"29a63-18d6ac6ddb9\"",
+    "bytes_fetched": 170595,
+    "fetched_utc": "2026-11-23T14:31:50Z",
+    "sha256_normalized_full_text": "aa3885bef2b43b3f1d71cefb11dca5759bcd6029bf09fb33cf6d7dbfc61a2d97"
   },
   "counts": {
     "recitals": 0,
-    "articles": 11,
+    "articles": 25,
     "annexes": 0
   }
 }

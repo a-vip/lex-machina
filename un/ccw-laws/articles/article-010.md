@@ -1,12 +1,12 @@
-# Article 10 — CCW GGE Guiding Principle (j)
+# Article 10 — CCW/GGE.1/2023/2 — Paragraph 10
 
 - **Instrument**: UN CCW GGE on LAWS
-- **Stage**: CCW GGE 11 Guiding Principles on LAWS (`2019-08-21`)
-- **Document Symbol**: `CCW/GGE.1/2019/3`
-- **Akoma Ntoso eId**: `principle_j`
+- **Stage**: CCW GGE Consensus Report & Two-Tier Framework (`2023-05-26`)
+- **Document Symbol**: `CCW/GGE.1/2023/2`
+- **Akoma Ntoso eId**: `para_10`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: UN CCW GGE `<ccw@un.org>`
 
-(j) Discussions and any potential policy measures taken within the context of the
-CCW should not hamper progress in or access to peaceful uses of intelligent autonomous
-technologies;
+10. The representatives of the European Union, the International Committee of the Red
+Cross (ICRC) and the United Nations Institute for Disarmament Research (UNIDIR)
+participated in the work of the Group in accordance with the rules of procedure.
