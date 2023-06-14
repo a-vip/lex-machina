@@ -5,22 +5,22 @@
   "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
   "short_title": "EU AI Act",
   "type": "regulation",
-  "celex": "ST_14954_2022_INIT",
-  "document_symbol": "14954/22",
-  "stage": "council_general_approach",
-  "stage_label": "Council of the EU General Approach",
-  "published_date": "2022-12-06",
+  "celex": "52023AP0236",
+  "document_symbol": "P9_TA(2023)0236",
+  "stage": "parliament_mandate",
+  "stage_label": "European Parliament Negotiating Mandate",
+  "published_date": "2023-06-14",
   "in_force_date": "2024-08-01",
   "status": "in_force",
   "institutional_author": {
-    "name": "Council of the European Union",
-    "email": "council@consilium.europa.eu"
+    "name": "European Parliament",
+    "email": "parliament@europa.eu"
   },
-  "source_url": "https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf",
-  "summary": "Council General Approach narrowing the definition of AI systems, introducing rules on general purpose AI systems, refining national security exclusions, and modifying law enforcement remote biometric identification safeguards.",
+  "source_url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html",
+  "summary": "European Parliament plenary negotiating mandate banning real-time remote biometric identification in publicly accessible spaces, biometric categorization, predictive policing, untargeted facial scraping, emotion recognition in workplaces/education, and introducing tiered obligations for foundation models and generative AI.",
   "counts": {
     "recitals": 3,
-    "articles": 8,
+    "articles": 10,
     "annexes": 1
   }
 }
