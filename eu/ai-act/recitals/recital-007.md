@@ -1,49 +1,32 @@
 # Recital (7)
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
 - **Akoma Ntoso eId**: `rct_7`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Author**: European Parliament `<parliament@europa.eu>`
 
-(7)
-The notion of biometric data used in this Regulation should be interpreted consistently with
-the notion of biometric data as define
-d in Article 4(14) of Regulation (EU) 2016/679 of the
-European Parliament and of the Council
-6
-, Article 3(18) of Regulation (EU) 2018/1725 of the
-European Parliament and of the Council
-7
-and Article 3(13) of Directive (EU) 2016/680 of
-the European Parliament
-and of the Council
-8
+The notion of biometric data used in this Regulation is in line with and should be interpreted consistently with the notion of biometric data as defined in Article 4(14) of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 35 )
+. Biometrics-based data are additional data resulting from specific technical processing relating to physical, physiological or behavioural signals of a natural person, such as facial expressions, movements, pulse frequency, voice, key strikes or gait, which may or may not allow or confirm the unique identification of a natural person
 .
-6
-Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection
-of natural persons with regard to the
-processing of personal data and on the free movement of such data, and
-repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
-7
-Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 20
-18 on the
-protection of natural persons with regard to the processing of personal data by the Union institutions, bodies,
-offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and
-Decision No 1247/2002/EC (OJ
-L 295, 21.11.2018, p. 39)
-8
-Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of
-natural persons with regard to the processing of personal data by competent authorities for the purposes of the
-prevention, investigation, detection
-or prosecution of criminal offences or the execution of criminal penalties,
-and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (Law
-Enforcement Directive)
-(
-OJ L 119, 4.5.2016, p. 89).
-14954/22
-RB/ek
-18
-TREE.2.B
-LIMITE
-EN
+The notion of biometric data used in this Regulation is in line with and should be interpreted consistently with the notion of biometric data as defined in Article 4(14) of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 35 )
+, Article 3(18) of Regulation (EU) 2018/1725 of the European Parliament and of the Council
+( 36 )
+and Article 3(13) of Directive (EU) 2016/680 of the European Parliament and of the Council
+( 37 )
+.
+The notion of biometric data used in this Regulation is in line with and should be interpreted consistently with the notion of biometric data as defined in Article 4(14) of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 35 )
+. Biometrics-based data are additional data resulting from specific technical processing relating to physical, physiological or behavioural signals of a natural person, such as facial expressions, movements, pulse frequency, voice, key strikes or gait, which may or may not allow or confirm the unique identification of a natural person
+.
+The notion of biometric data used in this Regulation is in line with and should be interpreted consistently with the notion of biometric data as defined in Article 4(14) of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 35 )
+, Article 3(18) of Regulation (EU) 2018/1725 of the European Parliament and of the Council
+( 36 )
+and Article 3(13) of Directive (EU) 2016/680 of the European Parliament and of the Council
+( 37 )
+.
+The notion of biometric identification as used in this Regulation should be defined as the automated recognition of physical, physiological, behavioural, and psychological human features such as the face, eye movement, facial expressions, body shape, voice, speech, gait, posture, heart rate, blood pressure, odour, keystrokes, psychological reactions (anger, distress, grief, etc.) for the purpose of establishing an individual’s identity by comparing biometric data of that individual to stored biometric data of individuals in a database (one-to-many identification), irrespective of whether the individual has given its consent or not.
+The notion of biometric identification as used in this Regulation should be defined as the automated recognition of physical, physiological, behavioural, and psychological human features such as the face, eye movement, facial expressions, body shape, voice, speech, gait, posture, heart rate, blood pressure, odour, keystrokes, psychological reactions (anger, distress, grief, etc.) for the purpose of establishing an individual’s identity by comparing biometric data of that individual to stored biometric data of individuals in a database (one-to-many identification), irrespective of whether the individual has given its consent or not.
+The notion of biometric identification as used in this Regulation should be defined as the automated recognition of physical, physiological, behavioural, and psychological human features such as the face, eye movement, facial expressions, body shape, voice, speech, gait, posture, heart rate, blood pressure, odour, keystrokes, psychological reactions (anger, distress, grief, etc.) for the purpose of establishing an individual’s identity by comparing biometric data of that individual to stored biometric data of individuals in a database (one-to-many identification), irrespective of whether the individual has given its consent or not.
+The notion of biometric categorisation as used in this Regulation should be defined as assigning natural persons to specific categories or inferring their characteristics and attributes such as gender, sex, age, hair colour, eye colour, tattoos, ethnic or social origin, health, mental or physical ability, behavioural or personality, traits language, religion, or membership of a national minority or sexual or political orientation on the basis of their biometric or biometric-based data, or which can be inferred from such data.
+The notion of biometric categorisation as used in this Regulation should be defined as assigning natural persons to specific categories or inferring their characteristics and attributes such as gender, sex, age, hair colour, eye colour, tattoos, ethnic or social origin, health, mental or physical ability, behavioural or personality, traits language, religion, or membership of a national minority or sexual or political orientation on the basis of their biometric or biometric-based data, or which can be inferred from such data.
+The notion of biometric categorisation as used in this Regulation should be defined as assigning natural persons to specific categories or inferring their characteristics and attributes such as gender, sex, age, hair colour, eye colour, tattoos, ethnic or social origin, health, mental or physical ability, behavioural or personality, traits language, religion, or membership of a national minority or sexual or political orientation on the basis of their biometric or biometric-based data, or which can be inferred from such data.

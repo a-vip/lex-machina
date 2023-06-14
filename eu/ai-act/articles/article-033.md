@@ -1,101 +1,31 @@
-# Article 33 — Requirements relating to notified bodies
+# Article 33 — Parliament Mandate Amendments — Article 33
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_33`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-1.
-A notified body shall
-be established under national law and have legal personality.
-2.
-Notified bodies shall satisfy the organisational, quality management, resources and process
-requirements that are necessary to fulfil their tasks.
-3.
-The organisational structure, allocation
-of responsibilities, reporting lines and operation of
-notified bodies shall be such as to ensure that there is confidence in the performance by
-and in the results of the conformity assessment activities that the notified bodies conduct.
-4.
-Notified bodies
-shall be independent of the provider of a
-high
--
-risk
-AI system in relation to
-which it performs conformity assessment activities. Notified bodies shall also be
-independent of any other operator having an economic interest in the high
--
-risk AI system
-that is
-assessed, as well as of any competitors of the provider.
-5.
-Notified bodies shall be organised and operated so as to safeguard the independence,
-objectivity and impartiality of their activities. Notified bodies shall document and
-implement a structure and
-procedures to safeguard impartiality and to promote and apply
-the principles of impartiality throughout their organisation, personnel and assessment
-activities.
-14954/22
-RB/ek
-117
-TREE.2.B
-LIMITE
-EN
-6.
-Notified bodies shall have documented procedures in place ensuring that their personnel,
-committees, subsidiaries, subcontractors and any associated body or personnel of external
-bodies respect the confidentiality of the information
-in accordance with Article 70
-which
-comes into their possession during the performance of conformity assessment
-activities,
-except when disclosure is required by law.
-The staff of notified bodies shall be bound to
-observe professional secrecy with regard to all information obtained in carrying out their
-tasks under this Regulation, except in relation to the notifyin
-g authorities of the Member
-State in which their activities are carried out.
-7.
-Notified bodies shall have procedures for the performance of activities which take due
-account of the size of an undertaking, the sector in which it operates, its structure, t
-he
-degree of complexity of the AI system in question.
-8.
-Notified bodies shall take out appropriate liability insurance for their conformity
-assessment activities, unless liability is assumed by the Member State in which they are
-located in accordance with
-national law or that Member State is itself directly responsible
-for the conformity assessment.
-9.
-Notified bodies shall be capable of carrying out all the tasks falling to them under this
-Regulation with the highest degree of professional integrity and t
-he requisite competence
-in the specific field, whether those tasks are carried out by notified bodies themselves or on
-their behalf and under their responsibility.
-10.
-Notified bodies shall have sufficient internal competences to be able to effectively eva
-luate
-the tasks conducted by external parties on their behalf. The notified body shall have
-permanent availability of sufficient administrative, technical, legal and scientific personnel
-who possess experience and knowledge relating to the relevant artific
-ial intelligence
-technologies, data and data computing and to the
-requirements set out in Chapter 2 of this
-Title
+2. Notified bodies shall satisfy the organisational, quality management, resources and process requirements that are necessary to fulfil their tasks
+as well as the minimum cybersecurity requirements set out for public administration entities identified as operators of essential services pursuant to Directive (EU 2022/2555
 .
-14954/22
-RB/ek
-118
-TREE.2.B
-LIMITE
-EN
-11.
-Notified bodies shall participate in coordination activities as referred to in Article 38. They
-shall also take part directly or be repr
-esented in European standardisation organisations, or
-ensure that they are aware and up to date in respect of relevant standards.
-12.
-[deleted]
+4. Notified bodies shall be independent of the provider of a high-risk AI system in relation to which it performs conformity assessment activities. Notified bodies shall also be independent of any other operator having an economic interest in the high-risk AI system that is assessed, as well as of any competitors of the provider.
+This shall not preclude the use of assessed AI systems that are necessary for the operations of the conformity assessment body or the use of such systems for personal purposes.
+4 a.
+A conformity assessment pursuant to paragraph 1 shall be performed by employees of notified bodies who have not provided any other other service related to the matter assessed than the conformity assessment to the provider of a high-risk AI system nor to any legal person connected to that provider in the 12 months’ period before the assessment and have committed to not providing them with such services in the 12 month period following the completion of the assessment.
+6. Notified bodies shall have documented procedures in place ensuring that their personnel, committees, subsidiaries, subcontractors and any associated body or personnel of external bodies respect the confidentiality of the information which comes into their possession during the performance of conformity assessment activities, except when disclosure is required by law. The staff of notified bodies shall be bound to observe professional secrecy with regard to all information obtained in carrying out their tasks under this Regulation, except in relation to the notifying authorities of the Member State in which their activities are carried out.
+Any information and documentation obtained by notified bodies pursuant to the provisions of this Article shall be treated in compliance with the confidentiality obligations set out in Article 70.
+its intended purpose, the
+name of the provider
+and the version of the system
+reflecting its relation to previous and, where applicable, more recent, versions in the succession of revisions
+;
+its intended purpose, the
+person/s developing the system the date
+and the version of the system;
+its intended purpose, the
+name of the provider
+and the version of the system
+reflecting its relation to previous and, where applicable, more recent, versions in the succession of revisions
+;

@@ -1,32 +1,26 @@
 # Recital (27)
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
 - **Akoma Ntoso eId**: `rct_27`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Author**: European Parliament `<parliament@europa.eu>`
 
-(27)
-High
--
-risk AI systems should only be placed on the Union market or pu
-t into service if they
-comply with certain mandatory requirements. Those requirements should ensure that high
--
-risk AI systems available in the Union or whose output is otherwise used in the Union do not
-pose unacceptable risks to important Union public int
-erests
-as recognised and protected by
-Union law
-. AI systems identified as high
--
-risk should be limited to those that have a
-significant harmful impact on the health, safety and fundamental rights of persons in the
-Union and such limitation minimises any pot
-ential restriction to international trade, if any.
-14954/22
-RB/ek
-32
-TREE.2.B
-LIMITE
-EN
+High-risk AI systems should only be placed on the Union market, put into service
+or used
+if they comply with certain mandatory requirements. Those requirements should ensure that high-risk AI systems available in the Union or whose output is otherwise used in the Union do not pose unacceptable risks to important Union public interests as recognised and protected by Union law
+, including fundamental rights, democracy, the rule or law or the environment. In order to ensure alignment with sectoral legislation and avoid duplications, requirements for high-risk AI systems should take into account sectoral legislation laying down requirements for high-risk AI systems included in the scope of this Regulation, such as Regulation (EU) 2017/745 on Medical Devices and Regulation (EU) 2017/746 on In Vitro Diagnostic Devices or Directive 2006/42/EC on Machinery
+. AI systems identified as high-risk should be limited to those that have a significant harmful impact on the health, safety and fundamental rights of persons in the Union and such limitation minimises any potential restriction to international trade, if any.
+Given the rapid pace of technological development, as well as the potential changes in the use of AI systems, the list of high-risk areas and use-cases in Annex III should nonetheless be subject to permanent review through the exercise of regular assessment.
+High-risk AI systems should only be placed on the Union market
+or
+put into service if they comply with certain mandatory requirements. Those requirements should ensure that high-risk AI systems available in the Union or whose output is otherwise used in the Union do not pose unacceptable risks to important Union public interests as recognised and protected by Union law. AI systems identified as high-risk should be limited to those that have a significant harmful impact on the health, safety and fundamental rights of persons in the Union and such limitation minimises any potential restriction to international trade, if any.
+High-risk AI systems should only be placed on the Union market, put into service
+or used
+if they comply with certain mandatory requirements. Those requirements should ensure that high-risk AI systems available in the Union or whose output is otherwise used in the Union do not pose unacceptable risks to important Union public interests as recognised and protected by Union law
+, including fundamental rights, democracy, the rule or law or the environment. In order to ensure alignment with sectoral legislation and avoid duplications, requirements for high-risk AI systems should take into account sectoral legislation laying down requirements for high-risk AI systems included in the scope of this Regulation, such as Regulation (EU) 2017/745 on Medical Devices and Regulation (EU) 2017/746 on In Vitro Diagnostic Devices or Directive 2006/42/EC on Machinery
+. AI systems identified as high-risk should be limited to those that have a significant harmful impact on the health, safety and fundamental rights of persons in the Union and such limitation minimises any potential restriction to international trade, if any.
+Given the rapid pace of technological development, as well as the potential changes in the use of AI systems, the list of high-risk areas and use-cases in Annex III should nonetheless be subject to permanent review through the exercise of regular assessment.
+High-risk AI systems should only be placed on the Union market
+or
+put into service if they comply with certain mandatory requirements. Those requirements should ensure that high-risk AI systems available in the Union or whose output is otherwise used in the Union do not pose unacceptable risks to important Union public interests as recognised and protected by Union law. AI systems identified as high-risk should be limited to those that have a significant harmful impact on the health, safety and fundamental rights of persons in the Union and such limitation minimises any potential restriction to international trade, if any.

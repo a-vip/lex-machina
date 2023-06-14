@@ -1,97 +1,42 @@
-# Article 70 — Confiden
+# Article 70 — Parliament Mandate Amendments — Article 70
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_70`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-tiality
 1.
-National competent authorities, notified bodies, the Commission, the Board, and any other
-natural or legal person involved in the application of this Regulation shall, in accordance
-with Union or national law, put appropriate technical and
-organisational measures in place
-to ensure the confidentiality of information and data obtained in carrying out their tasks
-and activities in such a manner as to protect, in particular:
-(a) intellectual property rights, and confidential business informat
-ion or trade secrets of a
-natural or legal person, including source code, except the cases referred to in Article 5 of
-Directive 2016/943 on the protection of undisclosed know
--
-how and business information
-(trade secrets) against their unlawful acquisition,
-use and disclosure apply.
-(b) the effective implementation of this Regulation, in particular for the purpose of
-inspections, investigations or audits;
-(c) public and national security interests;
-(d) integrity of criminal or administrative proceedings
-;
-(e) the integrity of information classified in accordance with
-Union or national law
-.
-14954/22
-RB/ek
-177
-TREE.2.B
-LIMITE
-EN
+The Commission,
+national competent authorities and notified bodies
+, the AI Office and any other natural or legal person
+involved in the application of this Regulation shall respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular;
+intellectual property rights, and confidential business information or trade secrets of a natural or legal person
+, in accordance with the provisions of Directives 2004/48/EC and 2016/943/EC
+, including source code, except the cases referred to in Article 5 of Directive 2016/943 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure apply;
+intellectual property rights, and confidential business information or trade secrets of a natural or legal person, including source code, except the cases referred to in Article 5 of Directive 2016/943 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure apply.
+intellectual property rights, and confidential business information or trade secrets of a natural or legal person
+, in accordance with the provisions of Directives 2004/48/EC and 2016/943/EC
+, including source code, except the cases referred to in Article 5 of Directive 2016/943 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure apply;
+intellectual property rights, and confidential business information or trade secrets of a natural or legal person, including source code, except the cases referred to in Article 5 of Directive 2016/943 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure apply.
+public and national security interests
+public and national security interests
+public and national security interests
+1 a.
+The authorities involved in the application of this Regulation pursuant to paragraph 1 shall minimise the quantity of data requested for disclosure to the data that is strictly necessary for the perceived risk and the assessment of that risk. They shall delete the data as soon as it is no longer needed for the purpose it was requested for. They shall put in place adequate and effective cybersecurity, technical and organisational measures to protect the security and confidentiality of the information and data obtained in carrying out their tasks and activities;
 2.
-Without prejudice to paragraph 1, information exchanged on a confidential basis between
-the national competent authorities and between national competent authorit
-ies and the
-Commission shall not be disclosed without the prior consultation of the originating
-national competent authority and the user when high
--
-risk AI systems referred to in points
-1, 6 and 7 of Annex III are used by law enforcement,
-border control,
-immigration or
-asylum authorities, when such disclosure would jeopardise public and national security
-interests.
-This obligation
-to exchange information
-shall not cover sensitive operational
-data
-in relation to the activities of
-law enforcement,
-border co
-ntrol,
-immigration or asylum
-authorities
-.
-When the law enforcement, immigration or asylum authorities are providers of high
--
-risk
-AI systems referred to in points 1, 6 and 7 of Annex III, the technical documentation
-referred to in Annex IV shall remain with
-in the premises of those authorities. Those
-authorities shall ensure that the market surveillance authorities referred to in Article 63(5)
-and (6), as applicable, can, upon request, immediately access the documentation or obtain a
-copy thereof.
-Only staff
-of the market surveillance authority holding the appropriate level
-of security clearance shall be allowed to access that documentation or any copy thereof.
-3.
-Paragraphs 1 and 2 shall not affect the rights and obligations of the Commission, Member
-States
-a
-nd their relevant authorities, as well as
-notified bodies
-,
-with regard to the exchange
-of information and the dissemination of warnings,
-including in the context of cross
--
-border
-cooperation,
-nor the obligations of the parties concerned to provide informati
-on under
-criminal law of the Member States.
-14954/22
-RB/ek
-178
-TREE.2.B
-LIMITE
-EN
+Without prejudice to paragraphs 1 and 1a
+, information exchanged on a confidential basis between the national competent authorities and between national competent authorities and the Commission shall not be disclosed without the prior consultation of the originating national competent authority and the
+deployer
+when high-risk AI systems referred to in points 1, 6 and 7 of Annex III are used by law enforcement, immigration or asylum authorities, when such disclosure would jeopardise public
+or
+national security.
+3. Paragraphs 1
+, 1a
+and 2 shall not affect the rights and obligations of the Commission, Member States and notified bodies with regard to the exchange of information and the dissemination of warnings, nor the obligations of the parties concerned to provide information under criminal law of the Member States;
+4. The Commission and Member States may exchange, where
+strictly
+necessary
+and in accordance with relevant provisions of international and trade agreements
+, confidential information with regulatory authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements guaranteeing an adequate level of confidentiality.

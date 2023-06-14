@@ -1,168 +1,124 @@
-# Article 29 — Obligations of users of high
+# Article 29 — Parliament Mandate Amendments — Article 29
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_29`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
--
-risk AI systems
+result in the AI system presenting a risk within the meaning of Article65(1); or
 1.
-Users of high
--
-risk AI systems shall use such systems in accordance with the instructions of
-use accompanying the systems, pursuant to paragraphs 2 and 5 of t
-his Article.
-1a.
-Users shall assign human oversight to natural persons who have the necessary competence,
-training and authority.
-2.
-The obligations in paragraph 1 and 1a are without prejudice to other user obligations under
-Union or national law and to
-the user’s discretion in organising its own resources and
-activities for the purpose of implementing the human oversight measures indicated by the
-provider.
-3.
-Without prejudice to paragraph 1, to the extent the user exercises control over the input
-data,
-that user shall ensure that input data is relevant in view of the intended purpose of the
-high
--
-risk AI system.
-14954/22
-RB/ek
-112
-TREE.2.B
-LIMITE
-EN
+Deployers
+of high-risk AI systems shall
+take appropriate technical and organisational measures to ensure they
+use such systems in accordance with the instructions of use accompanying the systems, pursuant to paragraphs 2 and 5
+of this Article
+.
+1 a.
+To the extent deployers exercise control over the high-risk AI system, they shall
+implement human oversight according to the requirements laid down in this Regulation
+implement human oversight according to the requirements laid down in this Regulation
+ensure that the natural persons assigned to ensure human oversight of the high-risk AI systems are competent, properly qualified and trained, and have the necessary resources in order to ensure the effective supervision of the AI system in accordance with Article 14
+ensure that the natural persons assigned to ensure human oversight of the high-risk AI systems are competent, properly qualified and trained, and have the necessary resources in order to ensure the effective supervision of the AI system in accordance with Article 14
+ensure that relevant and appropriate robustness and cybersecurity measures are regularly monitored for effectiveness and are regularly adjusted or updated.
+ensure that relevant and appropriate robustness and cybersecurity measures are regularly monitored for effectiveness and are regularly adjusted or updated.
+2. The obligations in paragraph 1 and
+1a,
+are without prejudice to other
+deployer
+obligations under Union or national law and to the
+deployer’s
+discretion in organising its own resources and activities for the purpose of implementing the human oversight measures indicated by the provider.
+3. Without prejudice to paragraph 1
+and 1a,
+to the extent the
+deployer
+exercises control over the input data, that
+deployer
+shall ensure that input data is relevant
+and sufficiently representative
+in view of the intended purpose of the high-risk AI system.
 4.
-Users shall
-implement human oversight and
-monitor the operation of the high
--
-risk AI
-system on the basis of the instructions of use. When the
-y have reasons to consider that the
-use in accordance with the instructions of use may result in the AI system presenting a risk
-within the meaning of Article 65(1) they shall inform the provider or distributor and
-suspend the use of the system. They shall
-also inform the provider or distributor when they
-have identified any serious incident and interrupt the use of the AI system. In case the user
+Deployers
+shall monitor the operation of the high-risk AI system on the basis of the instructions of use
+and when relevant, inform providers in accordance with Article 61
+. When they have reasons to consider that the use in accordance with the instructions of use may result in the AI system presenting a risk within the meaning of Article 65(1) they shall
+, without undue delay,
+inform the provider or distributor
+and relevant national supervisory authorities
+and suspend the use of the system. They shall also
+immediately
+inform
+first
+the provider
+, and then the importer
+or distributor
+and relevant national supervisory authorities
+when they have identified any serious incident or any malfunctioning within the meaning of Article 62 and interrupt the use of the AI system. If the
+deployer
 is not able to reach the provider, Article 62 shall apply mutatis mutandis.
-This obligation
-shall not cover se
-nsitive operational data of users of AI systems which are law enforcement
-authorities.
-For users that are financial institutions subject to requirements regarding their internal
-governance, arrangements or processes under Union financial services legislati
-on, the
-monitoring obligation set out in the first subparagraph shall be deemed to be fulfilled by
-complying with the rules on internal governance arrangements, processes and mechanisms
-pursuant to the relevant financial service legislation.
+For
+deployers
+that are credit institutions regulated by Directive 2013/36/EU, the monitoring obligation set out in the first subparagraph shall be deemed to be fulfilled by complying with the rules on internal governance arrangements, processes and mechanisms pursuant to Article 74 of that Directive.
 5.
-Users of hi
-gh
--
-risk AI systems shall keep the logs, referred to in Article 12(1),
-automatically generated by that high
--
-risk AI system, to the extent such logs are under their
-control
+Deployers
+of high-risk AI systems shall keep the logs automatically generated by that high-risk AI system, to the extent
+that
+such logs are under their control
+and are required for ensuring and demonstrating compliance with this Regulation, for ex-post audits of any reasonably foreseeable malfunction, incidents or misuses of the system, or for ensuring and monitoring for the proper functioning of the system throughout its lifecycle
 .
-They shall keep them for a period of at least six months, unless provided otherwise
-in applicable Union or national law, in particular in Union law on the protection of
-personal data.
-Users that are financial institutions subject to requirements regarding their internal
-governance, arrangements or processes under Union financial services
-legislation shall
-maintain the logs as part of the documentation kept pursuant to the relevant Union
-financial service legislation
-.
-5a.
-Users of high
--
-risk AI systems that are public authorities, agencies or bodies
-, with the
-exception of law enforcement,
-bo
-rder control
-,
-im
-migration or asylum
-authorities
-,
-shall
-comply with the registration obligations referred to in Article 51. When they find that the
-system that they envisage to use has not been registered in the EU database referred to in
-Article 60 they shall not use that system and shall inform the pro
-vider or
-the
-distributor.
-14954/22
-RB/ek
-113
-TREE.2.B
-LIMITE
-EN
+Without prejudice to applicable Union or national law,
+the logs shall be kept for a period
+of at least six months. The retention period shall be in accordance with industry standards and
+appropriate
+to
+the intended purpose of the high-risk AI system.
+Deployers
+that are credit institutions regulated by Directive 2013/36/EU shall maintain the logs as part of the documentation concerning internal governance arrangements, processes and mechanisms pursuant to Article 74 of that Directive.
+5 a.
+Prior to putting into service or use a high-risk AI system at the workplace, deployers shall consult workers representatives with a view to reaching an agreement in accordance with Directive 2002/14/EC and inform the affected employees that they will be subject to the system.
+5 b.
+Deployers of high-risk AI systems that are public authorities or Union institutions, bodies, offices and agencies or undertakings referred to in Article 51(1a)(b) shall comply with the registration obligations referred to in Article 51.
 6.
-Users of high
--
-risk AI systems shall use the information provided under Article 13 to
-comply with their obligation to carry out a data protection impact assessment under Article
-35 of Regulation (EU) 2016/679 or Article 27 of D
-irective (EU) 2016/680, where
-applicable.
-6a.
-Users shall cooperate with national competent authorities on any action those authorities
-take in relation to an AI system, of which they are the user.
-C
-HAPTER
-4
-NOTIFIYING AUTHORITI
-ES AND NOTIFIED BODI
-ES
-Arti
-cle 30
-Notifying authorities
-1.
-Each Member State shall designate or establish
-at least one
-notifying authority responsible
-for setting up and carrying out the necessary procedures for the assessment, designation
-and notification of conformity assessment b
-odies and for their monitoring.
+Where applicable, deployers
+of high-risk AI systems shall use the information provided under Article 13 to comply with their obligation to carry out a data protection impact assessment under Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680,
+a summary of which shall be published, having regard to the specific use and the specific context in which the AI system is intended to operate
+.
+Deployers may revert in part to those data protection impact assessments for fulfilling some of the obligations set out in this article, insofar as the data protection impact assesment fulfill those obligations.
+6 a.
+Without prejudice to Article 52, deployers of high-risk AI systems referred to in Annex III, which make decisions or assist in making decisions related to natural persons, shall inform the natural persons that they are subject to the use of the high-risk AI system. This information shall include the intended purpose and the type of decisions it makes. The deployer shall also inform the natural person about its right to an explanation referred to in Article 68c.
+6 b.
+Deployers shall cooperate with the relevant national competent authorities on any action those authorities take in relation with the high-risk system in order to implement this Regulation.
+Article 29 a
+Fundamental rights impact assessment for high-risk AI systems
+Prior to putting a high-risk AI system as defined in Article 6(2) into use, with the exception of AI systems intended to be used in area 2 of Annex III, deployers shall conduct an assessment of the systems’ impact in the specific context of use. This assessment shall include, at a minimum, the following elements:
+a clear outline of the intended purpose for which the system will be used;
+a clear outline of the intended purpose for which the system will be used;
+a clear outline of the intended geographic and temporal scope of the system’s use;
+a clear outline of the intended geographic and temporal scope of the system’s use;
+categories of natural persons and groups likely to be affected by the use of the system;
+categories of natural persons and groups likely to be affected by the use of the system;
+verification that the use of the system is compliant with relevant Union and national law on fundamental rights;
+verification that the use of the system is compliant with relevant Union and national law on fundamental rights;
+the reasonably foreseeable impact on fundamental rights of putting the high-risk AI system into use;
+the reasonably foreseeable impact on fundamental rights of putting the high-risk AI system into use;
+specific risks of harm likely to impact marginalised persons or vulnerable groups;
+specific risks of harm likely to impact marginalised persons or vulnerable groups;
+the reasonably foreseeable adverse impact of the use of the system on the environment;
+the reasonably foreseeable adverse impact of the use of the system on the environment;
+a detailed plan as to how the harms and the negative impact on fundamental rights identified will be mitigated.
+a detailed plan as to how the harms and the negative impact on fundamental rights identified will be mitigated.
+the governance system the deployer will put in place, including human oversight, complaint-handling and redress.
+the governance system the deployer will put in place, including human oversight, complaint-handling and redress.
 2.
-Member States may decide that the assessment and monitoring referred to in paragraph 1
-shall be carried out by a national accreditation body within the meaning of and in
-accordance with Regulation (EC) No 765/2008.
+If a detailed plan to mitigate the risks outlined in the course of the assessment outlined in paragraph 1 cannot be identified, the deployer shall refrain from putting the high-risk AI system into use and inform the provider and the National supervisory authority without undue delay. National supervisory authorities, pursuant to Articles 65 and 67, shall take this information into account when investigating systems which present a risk at national level.
 3.
-No
-tifying authorities shall be established, organised and operated in such a way that no
-conflict of interest arises with conformity assessment bodies and the objectivity and
-impartiality of their activities are safeguarded.
-14954/22
-RB/ek
-114
-TREE.2.B
-LIMITE
-EN
+The obligation outlined under paragraph 1 applies for the first use of the high-risk AI system. The deployer may, in similar cases, draw back on previously conducted fundamental rights impact assessment or existing assessment carried out by providers. If, during the use of the high-risk AI system, the deployer considers that the criteria listed in paragraph 1 are not longer met, it shall conduct a new fundamental rights impact assessment.
 4.
-Notifying authorities shall b
-e organised in such a way that decisions relating to the
-notification of conformity assessment bodies are taken by competent persons different
-from those who carried out the assessment of those bodies.
+In the course of the impact assessment, the deployer, with the exception of SMEs, shall shall notify national supervisory authority and relevant stakeholders and shall, to best extent possible, involve representatives of the persons or groups of persons that are likely to be affected by the high-risk AI system, as identified in paragraph 1, including but not limited to: equality bodies, consumer protection agencies, social partners and data protection agencies, with a view to receiving input into the impact assessment. The deployer shall allow a period of six weeks for bodies to respond. SMEs may voluntarily apply the provisions laid down in this paragraph.
+In the case referred to in Article 47(1), public authorities may be exempted from this obligations.
 5.
-Notifying authorities shall not offer or provide
-any activities that conformity assessment
-bodies perform or any consultancy services on a commercial or competitive basis.
+The deployer that is a public authority or an undertaking referred to in Article 51(1a) (b) shall publish a summary of the results of the impact assessment as part of the registration of use pursuant to their obligation under Article 51(2).
 6.
-Notifying authorities shall safeguard the confidentiality of the information they obtain in
-accordance with Article 70.
-7.
-Notifyi
-ng authorities shall have an adequate number of competent personnel at their
-disposal for the proper performance of their tasks.
-8.
-[deleted]
+Where the deployer is already required to carry out a data protection impact assessment under Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680, the fundamental rights impact assessment referred to in paragraph 1 shall be conducted in conjunction with the data protection impact assessment. The data protection impact assessment shall be published as an addendum.

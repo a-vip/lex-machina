@@ -1,30 +1,48 @@
-# Article 1 — Subject matter
+# Article 1 — Parliament Mandate Amendments — Article 1
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_1`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-This Regulation lays down:
-(a) harmonised rules for the placing on the market, the putting into service and the use of
-artificial intelligence systems (‘AI systems’) in the Union;
-(a) prohibitions of certain artificial i
-ntelligence practices;
-(b) specific requirements for high
--
-risk AI systems and obligations for operators of such
-systems;
-14954/22
-RB/ek
-69
-TREE.2.B
-LIMITE
-EN
-(c)
-harmonised transparency rules for certain AI systems;
-(d) rules on market monitoring, market surveillance and governance
+The purpose of this Regulation is to promote the uptake of human-centric and trustworthy artificial intelligence and to ensure a high level of protection of health, safety, fundamental rights, democracy and the rule of law, and the environment from harmful effects of artificial intelligence systems in the Union while supporting innovation;
+The purpose of this Regulation is to promote the uptake of human-centric and trustworthy artificial intelligence and to ensure a high level of protection of health, safety, fundamental rights, democracy and the rule of law, and the environment from harmful effects of artificial intelligence systems in the Union while supporting innovation;
+The purpose of this Regulation is to promote the uptake of human-centric and trustworthy artificial intelligence and to ensure a high level of protection of health, safety, fundamental rights, democracy and the rule of law, and the environment from harmful effects of artificial intelligence systems in the Union while supporting innovation;
+harmonised transparency rules for
+certain
+AI systems;
+harmonised transparency rules for
+AI systems intended to interact with natural persons, emotion recognition systems and biometric categorisation systems, and
+AI systems
+used to generate or manipulate image, audio or video content
 ;
-(e) meas
-ures in support of innovation.
+harmonised transparency rules for
+certain
+AI systems;
+harmonised transparency rules for
+AI systems intended to interact with natural persons, emotion recognition systems and biometric categorisation systems, and
+AI systems
+used to generate or manipulate image, audio or video content
+;
+rules on market monitoring
+, market
+surveillance
+governance and enforcement;
+rules on market monitoring
+and
+surveillance.
+rules on market monitoring
+, market
+surveillance
+governance and enforcement;
+rules on market monitoring
+and
+surveillance.
+measures to support innovation, with a particular focus on SMEs and start-ups, including on setting up regulatory sandboxes and targeted measures to reduce the regulatory burden on SMEs’s and start-ups;
+measures to support innovation, with a particular focus on SMEs and start-ups, including on setting up regulatory sandboxes and targeted measures to reduce the regulatory burden on SMEs’s and start-ups;
+measures to support innovation, with a particular focus on SMEs and start-ups, including on setting up regulatory sandboxes and targeted measures to reduce the regulatory burden on SMEs’s and start-ups;
+rules for the establishment and functioning of the Union’s Artificial Intelligence Office (AI Office).
+rules for the establishment and functioning of the Union’s Artificial Intelligence Office (AI Office).
+rules for the establishment and functioning of the Union’s Artificial Intelligence Office (AI Office).

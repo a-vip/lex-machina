@@ -1,22 +1,14 @@
 # Recital (62)
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
 - **Akoma Ntoso eId**: `rct_62`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Author**: European Parliament `<parliament@europa.eu>`
 
-(62)
-In order to ensure a high level of trustworthiness of high
--
-risk AI systems, those systems
-should be subject to a conformity assessment prior to their placing
-on the market or putting
-into service.
-14954/22
-RB/ek
-5
-2
-TREE.2.B
-LIMITE
-EN
+In order to ensure a high level of trustworthiness of high-risk AI systems, those systems should be subject to a conformity assessment prior to their placing on the market or putting into service.
+To increase the trust in the value chain and to give certainty to businesses about the performance of their systems, third-parties that supply AI components may voluntarily apply for a third-party conformity assessment.
+In order to ensure a high level of trustworthiness of high-risk AI systems, those systems should be subject to a conformity assessment prior to their placing on the market or putting into service.
+In order to ensure a high level of trustworthiness of high-risk AI systems, those systems should be subject to a conformity assessment prior to their placing on the market or putting into service.
+To increase the trust in the value chain and to give certainty to businesses about the performance of their systems, third-parties that supply AI components may voluntarily apply for a third-party conformity assessment.
+In order to ensure a high level of trustworthiness of high-risk AI systems, those systems should be subject to a conformity assessment prior to their placing on the market or putting into service.

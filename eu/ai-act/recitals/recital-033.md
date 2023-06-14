@@ -1,33 +1,14 @@
 # Recital (33)
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
 - **Akoma Ntoso eId**: `rct_33`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Author**: European Parliament `<parliament@europa.eu>`
 
-(33)
-Technical inaccuracies of AI systems intended for the
-remote
-biometric identificatio
-n of
-natural persons can lead to biased results and entail discriminatory effects. This is
-particularly relevant when it comes to age, ethnicity, race, sex or disabilities. Therefore,
-‘real
--
-time’ and ‘post’
-remote
-biometric identification systems should be
-classified as high
--
-risk. In view of the risks that they pose, both types of
-remote
-biometric identification
-systems should be subject to specific requirements on logging capabilities and human
-oversight.
-14954/22
-RB/ek
-36
-TREE.2.B
-LIMITE
-EN
+deleted
+Technical inaccuracies of AI systems intended for the remote biometric identification of natural persons can lead to biased results and entail discriminatory effects. This is particularly relevant when it comes to age, ethnicity, sex or disabilities. Therefore, ‘real-time’ and ‘post’ remote biometric identification systems should be classified as high-risk. In view of the risks that they pose, both types of remote biometric identification systems should be subject to specific requirements on logging capabilities and human oversight.
+Technical inaccuracies of AI systems intended for the remote biometric identification of natural persons can lead to biased results and entail discriminatory effects. This is particularly relevant when it comes to age, ethnicity, sex or disabilities. Therefore, ‘real-time’ and ‘post’ remote biometric identification systems should be classified as high-risk. In view of the risks that they pose, both types of remote biometric identification systems should be subject to specific requirements on logging capabilities and human oversight.
+As biometric data constitute a special category of sensitive personal data in accordance with Regulation 2016/679, it is appropriate to classify as high-risk several critical use-cases of biometric and biometrics-based systems. AI systems intended to be used for biometric identification of natural persons and AI systems intended to be used to make inferences about personal characteristics of natural persons on the basis of biometric or biometrics-based data, including emotion recognition systems, with the exception of those which are prohibited under this Regulation should therefore be classified as high-risk. This should not include AI systems intended to be used for biometric verification, which includes authentication, whose sole purpose is to confirm that a specific natural person is the person he or she claims to be and to confirm the identity of a natural person for the sole purpose of having access to a service, a device or premises (one-to-one verification). Biometric and biometrics-based systems which are provided for under Union law to enable cybersecurity and personal data protection measures should not be considered as posing a significant risk of harm to the health, safety and fundamental rights.
+As biometric data constitute a special category of sensitive personal data in accordance with Regulation 2016/679, it is appropriate to classify as high-risk several critical use-cases of biometric and biometrics-based systems. AI systems intended to be used for biometric identification of natural persons and AI systems intended to be used to make inferences about personal characteristics of natural persons on the basis of biometric or biometrics-based data, including emotion recognition systems, with the exception of those which are prohibited under this Regulation should therefore be classified as high-risk. This should not include AI systems intended to be used for biometric verification, which includes authentication, whose sole purpose is to confirm that a specific natural person is the person he or she claims to be and to confirm the identity of a natural person for the sole purpose of having access to a service, a device or premises (one-to-one verification). Biometric and biometrics-based systems which are provided for under Union law to enable cybersecurity and personal data protection measures should not be considered as posing a significant risk of harm to the health, safety and fundamental rights.
+As biometric data constitute a special category of sensitive personal data in accordance with Regulation 2016/679, it is appropriate to classify as high-risk several critical use-cases of biometric and biometrics-based systems. AI systems intended to be used for biometric identification of natural persons and AI systems intended to be used to make inferences about personal characteristics of natural persons on the basis of biometric or biometrics-based data, including emotion recognition systems, with the exception of those which are prohibited under this Regulation should therefore be classified as high-risk. This should not include AI systems intended to be used for biometric verification, which includes authentication, whose sole purpose is to confirm that a specific natural person is the person he or she claims to be and to confirm the identity of a natural person for the sole purpose of having access to a service, a device or premises (one-to-one verification). Biometric and biometrics-based systems which are provided for under Union law to enable cybersecurity and personal data protection measures should not be considered as posing a significant risk of harm to the health, safety and fundamental rights.

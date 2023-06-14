@@ -1,111 +1,122 @@
-# Article 54 — Further processing of personal data
+# Article 54 — Parliament Mandate Amendments — Article 54
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_54`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-for developing certain AI systems in the public interest in the
-AI regulatory sandbox
-1.
-In the AI regulatory sandbox personal data lawfully collected for other purposes may be
-processed for the purposes of developing, testing and training of innovative AI
-systems in
-the sandbox under the following cumulative conditions:
-(a) the innovative AI systems shall be developed for safeguarding substantial public
-interest by a public authority or another natural or legal person governed by public
-law or by private l
-aw and in one or more of the following areas:
-(i) [deleted]
-(ii)
-public safety and health, including prevention, control and treatment of disease
-and improvement of health care systems;
-(iii) protection and improvement of the quality of the environment, including green
-transition, climate change mitigation and adaptation;
-(iv) energy sustainability, transport and mobility;
-(v) efficiency and quality of public administration and public service
-s;
-(vi) cybersecurity and resilience of critical infrastructure.
-(b) the data processed are necessary for complying with one or more of the requirements
-referred to in Title III, Chapter 2 where those requirements cannot be effectively
-fulfilled by process
-ing anonymised, synthetic or other non
--
-personal data;
-14954/22
-RB/ek
-143
-TREE.2.B
-LIMITE
-EN
-(c)
+Further processing of data for developing certain AI systems in the public interest in the AI regulatory sandbox
+1. In the AI regulatory sandbox personal data lawfully collected for other purposes
+may
+be processed
+solely
+for the purposes of developing and testing certain AI systems in the sandbox
+when all of
+the following conditions
+are met
+:
+AI systems shall be developed for safeguarding substantial public interest in one or more of the following areas:
+the innovative
+AI systems shall be developed for safeguarding substantial public interest in one or more of the following areas:
+AI systems shall be developed for safeguarding substantial public interest in one or more of the following areas:
+public safety and public health, including disease detection, diagnosis prevention, control and treatment;
+public safety and public health, including disease detection, diagnosis prevention, control and treatment;
+public safety and public health, including disease detection, diagnosis prevention, control and treatment;
+a high level of protection and improvement of the quality of the environment, protection of biodiversity, pollution as well as climate change mitigation and adaptation;
+a high level of protection and improvement of the quality of the environment, protection of biodiversity, pollution as well as climate change mitigation and adaptation;
+a high level of protection and improvement of the quality of the environment, protection of biodiversity, pollution as well as climate change mitigation and adaptation;
+safety and resilience of transport systems, critical infrastructure and networks.
+safety and resilience of transport systems, critical infrastructure and networks.
+safety and resilience of transport systems, critical infrastructure and networks.
+the innovative
+AI systems shall be developed for safeguarding substantial public interest in one or more of the following areas:
+deleted
+the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, under the control and responsibility of the competent authorities. The processing shall be based on Member State or Union law;
+the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, under the control and responsibility of the competent authorities. The processing shall be based on Member State or Union law;
 there are effective monitoring mechanisms to identify if any high risks to the rights
-and freedoms of the data subjects, as referred to in Article 35 of Regulation (EU)
-2016/679 and in Article
-39
-o
-f Regulation (EU) 2018/1725, may arise during the
-sandbox experimentation as well as response mechanism to promptly mitigate those
-risks and, where necessary, stop the processing;
-(d) any personal data to be processed in the context of the sandbox are in
-a functionally
-separate, isolated and protected data processing environment under the control of the
-participants and only authorised persons have access to that data;
-(e) any personal data processed are not to be transmitted, transferred or otherwise
-acc
-essed by other parties that are not participants in the sandbox, unless such
-disclosure occurs in compliance with
-Regulation (EU) 2016/679
-or, where
-applicable, Regulation 2018/725, and all participants have agreed to it;
-(f) any processing of personal da
-ta in the context of the sandbox
-shall not affect the
-application of the rights of the data subjects as provided for under Union law on the
-protection of personal data, in particular in Article 22 of Regulation (EU) 2016/679
-and Article 24 of Regulation (E
-U) 2018/1725;
-(g) any personal data processed in the context of the sandbox are protected by means of
-appropriate technical and organisational measures and deleted once the participation
-in the sandbox has terminated or the personal data has reached the en
-d of its retention
-period;
-(h) the logs of the processing of personal data in the context of the sandbox are kept for
-the duration of the participation in the sandbox
-, unless provided otherwise by Union
-or national law
+and freedoms
+of the data subjects
+, as referred to in Article 35 of Regulation (EU) 2016/679 and in Article 35 of Regulation (EU) 2018/1725
+may arise during the sandbox experimentation as well as response mechanism to promptly mitigate those risks and, where necessary, stop the processing;
+there are effective monitoring mechanisms to identify if any high risks to the
+fundamental
+rights of the data subjects may arise during the sandbox experimentation as well as response mechanism to promptly mitigate those risks and, where necessary, stop the processing;
+there are effective monitoring mechanisms to identify if any high risks to the rights
+and freedoms
+of the data subjects
+, as referred to in Article 35 of Regulation (EU) 2016/679 and in Article 35 of Regulation (EU) 2018/1725
+may arise during the sandbox experimentation as well as response mechanism to promptly mitigate those risks and, where necessary, stop the processing;
+there are effective monitoring mechanisms to identify if any high risks to the
+fundamental
+rights of the data subjects may arise during the sandbox experimentation as well as response mechanism to promptly mitigate those risks and, where necessary, stop the processing;
+any personal data to be processed in the context of the sandbox are in a functionally separate, isolated and protected data processing environment under the control of the
+prospective provider
+and only authorised persons have access to that
+those
+data;
+any personal data to be processed in the context of the sandbox are in a functionally separate, isolated and protected data processing environment under the control of the
+participants
+and only authorised persons have access to that data;
+any personal data to be processed in the context of the sandbox are in a functionally separate, isolated and protected data processing environment under the control of the
+prospective provider
+and only authorised persons have access to that
+those
+data;
+any personal data to be processed in the context of the sandbox are in a functionally separate, isolated and protected data processing environment under the control of the
+participants
+and only authorised persons have access to that data;
+any processing of personal data in the context of the sandbox do not lead to measures or decisions affecting the data subjects
+nor affect the application of their rights laid down in Union law on the protection of personal data
 ;
-(i) complete and detailed descripti
-on of the process and rationale behind the training,
-testing and validation of the AI system is kept together with the testing results as part
-of the technical documentation in Annex IV;
-14954/22
-RB/ek
-144
-TREE.2.B
-LIMITE
-EN
-(j)
-a short summary of the AI project developed in the sandbox, its
-objectives and
-expected results published on the website of the competent authorities.
-This
-obligation shall not cover sensitive operational data in relation to the activities of law
-enforcement, border control, immigration or asylum authorities.
-1a.
-For t
-he purpose of prevention, investigation, detection or prosecution of criminal offences
-or the execution of criminal penalties, including the safeguarding against and the
-prevention of threats to public security, under the control and responsibility of law
-enforcement authorities, the processing of personal data in AI regulatory sandboxes shall
-be based on a specific Member State or Union law and subject to the same cumulative
-conditions as referred to in paragraph 1.
-2.
-Paragraph 1 is without prejudice to
-Union or Member States laws laying down the basis for
-the processing of personal data which is necessary for the purpose of developing, testing
-and training of innovative AI systems or any other legal basis, in compliance with Union
-law on the protection o
-f personal data.
+any processing of personal data in the context of the sandbox do not lead to measures or decisions affecting the data subjects;
+any processing of personal data in the context of the sandbox do not lead to measures or decisions affecting the data subjects
+nor affect the application of their rights laid down in Union law on the protection of personal data
+;
+any processing of personal data in the context of the sandbox do not lead to measures or decisions affecting the data subjects;
+any personal data processed in the context of the sandbox are
+protected by means of appropriate technical and organisational measures and
+deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period;
+any personal data processed in the context of the sandbox are deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period;
+any personal data processed in the context of the sandbox are
+protected by means of appropriate technical and organisational measures and
+deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period;
+any personal data processed in the context of the sandbox are deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period;
+the logs of the processing of personal data in the context of the sandbox are kept for the duration of the participation in the sandbox;
+the logs of the processing of personal data in the context of the sandbox are kept for the duration of the participation in the sandbox
+and 1 year after its termination, solely for the purpose of and only as long as necessary for fulfilling accountability and documentation obligations under this Article or other application Union or Member States legislation
+;
+the logs of the processing of personal data in the context of the sandbox are kept for the duration of the participation in the sandbox;
+the logs of the processing of personal data in the context of the sandbox are kept for the duration of the participation in the sandbox
+and 1 year after its termination, solely for the purpose of and only as long as necessary for fulfilling accountability and documentation obligations under this Article or other application Union or Member States legislation
+;
+a short summary of the AI
+system
+developed in the sandbox, its objectives
+, hypotheses,
+and expected results, published on the website of the competent authorities;
+a short summary of the AI
+project
+developed in the sandbox, its objectives and expected results published on the website of the competent authorities.
+a short summary of the AI
+system
+developed in the sandbox, its objectives
+, hypotheses,
+and expected results, published on the website of the competent authorities;
+a short summary of the AI
+project
+developed in the sandbox, its objectives and expected results published on the website of the competent authorities.
+Article 54 a
+Promotion of AI research and development in support of socially and environmentally beneficial outcomes
+1.
+Member States shall promote research and development of AI solutions which support socially and environmentally beneficial outcomes, including but not limited to development of AI-based solutions to increase accessibility for persons with disabilities, tackle socio-economic inequalities, and meet sustainability and environmental targets, by:
+providing relevant projects with priority access to the AI regulatory sandboxes to the extent that they fulfil the eligibility conditions;
+providing relevant projects with priority access to the AI regulatory sandboxes to the extent that they fulfil the eligibility conditions;
+earmarking public funding, including from relevant EU funds, for AI research and development in support of socially and environmentally beneficial outcomes;
+earmarking public funding, including from relevant EU funds, for AI research and development in support of socially and environmentally beneficial outcomes;
+organising specific awareness raising activities about the application of this Regulation, the availability of and application procedures for dedicated funding, tailored to the needs of those projects;
+organising specific awareness raising activities about the application of this Regulation, the availability of and application procedures for dedicated funding, tailored to the needs of those projects;
+where appropriate, establishing accessible dedicated channels, including within the sandboxes, for communication with projects to provide guidance and respond to queries about the implementation of this Regulation.
+where appropriate, establishing accessible dedicated channels, including within the sandboxes, for communication with projects to provide guidance and respond to queries about the implementation of this Regulation.
+Member States shall support civil society and social stakeholders to lead or participate in such projects;

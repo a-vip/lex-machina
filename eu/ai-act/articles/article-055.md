@@ -1,65 +1,95 @@
-# Article 55 — Support measures for operators, in particular SMEs, including start
+# Article 55 — Parliament Mandate Amendments — Article 55
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_55`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
--
-ups
-1.
-Member States shall undertake the following actions:
-(a) prov
-ide SMEs, including start
--
-ups, with priority access to the AI regulatory
-sandboxes to the extent that they fulfil the eligibility and selection criteria;
-(b) organise specific awareness raising and training activities about the application of
-this Regulati
-on tailored to the needs of the SMEs,
-including start
--
-ups, and, as
-appropriate, local public authorities;
-14954/22
-RB/ek
-149
-TREE.2.B
-LIMITE
-EN
-(c)
-where appropriate, establish a dedicated channel for communication with SMEs,
-including start
--
-ups and, as appropriate, local public authorities t
-o provide advice and
-respond to queries about the implementation of this Regulation
-, including as regards
-participation in AI regulatory sandboxes.
-2.
-The specific interests and needs of the SME providers, including start
--
-ups, shall be taken
-into account w
-hen setting the fees for conformity assessment under Article 43, reducing
-those fees proportionately to their size, market size and other relevant indicators.
-3.
-The Commission shall undertake the following actions:
-(a) upon request of the AI Board, provide st
-andardised templates for the areas covered
-by this Regulation;
-(b) develop and maintain a single information platform providing easy to use
-information in relation to this Regulation for all operators across the Union;
-(c) organise appropriate communication campai
-gns to raise awareness about the
-obligations arising from this Regulation;
-(d) evaluate and promote the convergence of best practices in public procurement
-procedures in relation to AI systems.
-14954/22
-RB/ek
-150
-TREE.2.B
-LIMITE
-EN
+Measures for
+SMEs, start-ups
+and users
+provide
+SMEs
+and start-ups
+, established in the Union,
+with priority access to the AI regulatory sandboxes, to the extent that they fulfil the eligibility conditions;
+provide
+small-scale providers
+and start-ups with priority access to the AI regulatory sandboxes to the extent that they fulfil the eligibility conditions;
+provide
+SMEs
+and start-ups
+, established in the Union,
+with priority access to the AI regulatory sandboxes, to the extent that they fulfil the eligibility conditions;
+provide
+small-scale providers
+and start-ups with priority access to the AI regulatory sandboxes to the extent that they fulfil the eligibility conditions;
+organise specific awareness raising
+and enhanced digital skills development
+activities
+on
+the application of this Regulation tailored to the needs of
+SMEs, start-ups
+and users;
+organise specific awareness raising activities
+about
+the application of this Regulation tailored to the needs of
+the small-scale providers
+and users;
+organise specific awareness raising
+and enhanced digital skills development
+activities
+on
+the application of this Regulation tailored to the needs of
+SMEs, start-ups
+and users;
+organise specific awareness raising activities
+about
+the application of this Regulation tailored to the needs of
+the small-scale providers
+and users;
+utilise existing dedicated channels and
+where appropriate, establish
+new
+dedicated
+channels
+for communication with
+SMEs, start-ups, users
+and other innovators to provide guidance and respond to queries about the implementation of this Regulation;
+where appropriate, establish
+a
+dedicated
+channel
+for communication with
+small-scale providers and user
+and other innovators to provide guidance and respond to queries about the implementation of this Regulation.
+utilise existing dedicated channels and
+where appropriate, establish
+new
+dedicated
+channels
+for communication with
+SMEs, start-ups, users
+and other innovators to provide guidance and respond to queries about the implementation of this Regulation;
+where appropriate, establish
+a
+dedicated
+channel
+for communication with
+small-scale providers and user
+and other innovators to provide guidance and respond to queries about the implementation of this Regulation.
+foster the participation of SMEs and other relevant stakeholders in the standardisation development process.
+foster the participation of SMEs and other relevant stakeholders in the standardisation development process.
+foster the participation of SMEs and other relevant stakeholders in the standardisation development process.
+2. The specific interests and needs of the
+SMEs, start-ups and users
+shall be taken into account when setting the fees for conformity assessment under Article 43, reducing those fees proportionately to
+development stage,
+their
+size, market
+size and market
+demand
+.
+The Commission shall regularly assess the certification and compliance costs for SMEs and start-ups, including through transparent consultations with SMEs, start-ups and users and shall work with Member States to lower such costs where possible. The Commission shall report on these findings to the European Parliament and to the Council as part of the report on the evaluation and review of this Regulation provided for in Article 84(2).

@@ -1,25 +1,26 @@
 # Recital (83)
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
 - **Akoma Ntoso eId**: `rct_83`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Author**: European Parliament `<parliament@europa.eu>`
 
-(83)
-In order to ensure trustful and constructive cooperation of competent authorities on Union
-and national level,
-all parties involved in the application of this Regulation should respect
+In order to ensure trustful and constructive cooperation of competent authorities on Union and national level, all parties involved in the application of this Regulation should
+aim for transparency and openness while respecting
 the confidentiality of information and data obtained in carrying out their tasks
-, in accordance
-with Union or national law
+by putting in place technical and organisational measures to protect the security and confidentiality of the information obtained carrying out their activities including for intellectual property rights and public and national security interests
 .
-28
-Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on general product
-safety (OJ L 11, 15.1.2002, p. 4).
-14954/22
-RB/ek
-66
-TREE.2.B
-LIMITE
-EN
+Where the activities of the Commission, national competent authorities and notified bodies pursuant to this Regulation results in a breach of intellectual property rights, Member States should provide for adequate measures and remedies to ensure the enforcement of intellectual property rights in application of Directive 2004/48/EC.
+In order to ensure trustful and constructive cooperation of competent authorities on Union and national level, all parties involved in the application of this Regulation should
+respect
+the confidentiality of information and data obtained in carrying out their tasks.
+In order to ensure trustful and constructive cooperation of competent authorities on Union and national level, all parties involved in the application of this Regulation should
+aim for transparency and openness while respecting
+the confidentiality of information and data obtained in carrying out their tasks
+by putting in place technical and organisational measures to protect the security and confidentiality of the information obtained carrying out their activities including for intellectual property rights and public and national security interests
+.
+Where the activities of the Commission, national competent authorities and notified bodies pursuant to this Regulation results in a breach of intellectual property rights, Member States should provide for adequate measures and remedies to ensure the enforcement of intellectual property rights in application of Directive 2004/48/EC.
+In order to ensure trustful and constructive cooperation of competent authorities on Union and national level, all parties involved in the application of this Regulation should
+respect
+the confidentiality of information and data obtained in carrying out their tasks.

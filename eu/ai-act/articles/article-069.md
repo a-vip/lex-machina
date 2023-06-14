@@ -1,65 +1,56 @@
-# Article 69 — Codes of conduct for voluntary application of specific requirements
+# Article 69 — Parliament Mandate Amendments — Article 69
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_69`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-1.
-The Commission, and the Member States shall facilitate the drawing up of codes of
-conduct intended to encourage the voluntary application to
-AI systems other than high
--
-risk
-AI systems of one or more of the requirements set out in Title III, Chapter 2 of this
-Regulation to the best extent possible, taking into account the available, technical solutions
-allowing for the application of such requi
-rements.
-2.
-The Commission and the Member States shall facilitate the drawing up of codes of conduct
-intended to encourage the voluntary application to all AI systems of specific requirements
-related, for example, to environmental sustainability,
-includin
-g as regards
-energy
--
-efficient
-programming,
-accessibility for persons with a disability, stakeholders participation in the
-design and development of the AI systems and diversity of development teams on the basis
-of clear objectives and key performance
-indicators to measure the achievement of those
-objectives. The Commission and the Member States shall also facilitate, where appropriate,
-the drawing of codes of conduct applicable on a voluntary basis with regard to users'
-obligations in relation to AI sy
-stems.
-3.
-Codes of conduct applicable on a voluntary basis may be drawn up by individual providers
-of AI systems or by organisations representing them or by both, including with the
-involvement of users and any interested stakeholders and their representat
-ive
-organisations, or, where appropriate, by users with regard to their obligations. Codes of
-conduct may cover one or more AI systems taking into account the similarity of the
-intended purpose of the relevant systems.
-4.
-The Commission and the
-Member Stat
-es
-shall take into account the specific interests and
-needs of SME providers, including start
--
-ups, when encouraging and facilitating the
-drawing up of codes of conduct referred to in this Article.
-14954/22
-RB/ek
-176
-TREE.2.B
-LIMITE
-EN
-TITLE
-X
-CONFIDENTIALITY
-AND
-PENALTIES
+procedures, processes and administrative requirements for application, selection, participation and exiting the sandbox are simple, easily intelligible, clearly communicated in order to facilitate the participation of SMEs and start-ups with limited legal and administrative capacities and are streamlined across the Union, in order to avoid fragmentation and that participation in a regulatory sandbox established by a Member State, by the Commission, or by the EDPS is mutually and uniformly recognised and carries the same legal effects across the Union;
+assist authorities in the establishment and development of regulatory sandboxes and to facilitate cooperation among regulatory sandboxes;
+1. The Commission,
+the AI Office
+and the Member States shall encourage and facilitate the drawing up of codes of conduct intended
+, including where they are drawn up in order to demonstrate how AI systems respect the principles set out in Article 4a and can thereby be considered trustworthy,
+to foster the voluntary application to AI systems other than high-risk AI systems of the requirements set out in Title III, Chapter 2 on the basis of technical specifications and solutions that are appropriate means of ensuring compliance with such requirements in light of the intended purpose of the systems.
+2. Codes of
+conduct
+intended to foster the voluntary
+compliance with the principles underpinning trustworthy AI systems, shall, in particular:
+aim for a sufficient level of AI literacy among their staff and other persons dealing with the operation and use of
+AI systems
+in order to observe such principles;
+aim for a sufficient level of AI literacy among their staff and other persons dealing with the operation and use of
+AI systems
+in order to observe such principles;
+assess to what extent their AI systems may affect vulnerable persons or groups of persons, including children, the elderly, migrants and persons with disabilities or whether measures could be put in place in order to increase accessibility, or otherwise support such persons or groups of persons;
+assess to what extent their AI systems may affect vulnerable persons or groups of persons, including children, the elderly, migrants and persons with disabilities or whether measures could be put in place in order to increase accessibility, or otherwise support such persons or groups of persons;
+consider the way in which the use of their AI systems may have an impact or can increase diversity, gender balance and equality;
+consider the way in which the use of their AI systems may have an impact or can increase diversity, gender balance and equality;
+have regard to whether their AI systems can be used in a way that, directly or indirectly, may residually or significantly reinforce existing biases or inequalities;
+have regard to whether their AI systems can be used in a way that, directly or indirectly, may residually or significantly reinforce existing biases or inequalities;
+reflect on the need and relevance of having in place diverse development teams in view of securing an inclusive design of their systems;
+reflect on the need and relevance of having in place diverse development teams in view of securing an inclusive design of their systems;
+give careful consideration to whether their systems can have a negative societal impact, notably concerning political institutions and democratic processes;
+give careful consideration to whether their systems can have a negative societal impact, notably concerning political institutions and democratic processes;
+evaluate how AI systems can contribute
+to environmental sustainability
+and in particular to the Union’s commitments under the European Green Deal and the European Declaration on Digital Rights and Principles
+.
+evaluate how AI systems can contribute
+to environmental sustainability
+and in particular to the Union’s commitments under the European Green Deal and the European Declaration on Digital Rights and Principles
+.
+3. Codes of conduct may be drawn up by individual providers of AI systems or by organisations representing them or by both, including with the involvement of users and any interested stakeholders
+, including scientific researchers,
+and their representative
+organisations, in particular trade unions, and consumer
+organisations. Codes of conduct may cover one or more AI systems taking into account the similarity of the intended purpose of the relevant systems.
+Providers adopting codes of conduct will designate at least one natural person responsible for internal monitoring.
+4. The Commission and the
+AI Office
+shall take into account the specific interests and needs of
+SMEs
+and start-ups when encouraging and facilitating the drawing up of codes of conduct.
+the relationship of this Regulation with other relevant Union law, including as regards consistency in their enforcement.

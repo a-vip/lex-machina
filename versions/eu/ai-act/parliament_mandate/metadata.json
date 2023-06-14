@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "52023AP0236",
+  "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+  "document_symbol": "P9_TA(2023)0236",
+  "stage": "parliament_mandate",
+  "stage_label": "European Parliament Negotiating Mandate",
+  "published_date": "2023-06-14",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "European Parliament",
+    "email": "parliament@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/9dda0989-b992-11ee-b164-01aa75ed71a1.0006.03/DOC_1",
+  "summary": "European Parliament plenary mandate expanding Article 5 bans (biometric categorisation, predictive policing, untargeted facial scraping, workplace emotion recognition), adding foundation model Article 28b and FRIA Article 29a.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "4c274f5c0ac749eeda3e0207a163c81450c1b8f339ec1bdd59ecac2cd20c0bb4",
+    "final_url": "http://publications.europa.eu/resource/cellar/9dda0989-b992-11ee-b164-01aa75ed71a1.0006.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+    "celex": "52023AP0236",
+    "http_status": 200,
+    "http_etag": "\"Con-20240123051615000\"",
+    "bytes_fetched": 2686714,
+    "fetched_utc": "2026-11-23T14:23:30Z",
+    "sha256_normalized_full_text": "d96ed2aadaa3b93493e04f3c036a5e74679b01897ee28ea64416a053695fd784"
+  },
+  "counts": {
+    "recitals": 79,
+    "articles": 83,
+    "annexes": 0
+  }
+}

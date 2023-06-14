@@ -1,0 +1,68 @@
+# Recital (76)
+
+- **Instrument**: EU AI Act
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Akoma Ntoso eId**: `rct_76`
+- **Provenance Mode**: `full_primary_html`
+- **Author**: European Parliament `<parliament@europa.eu>`
+
+In order to
+avoid fragmentation, to ensure the optimal functioning of the Single market
+,
+to ensure
+effective and harmonised implementation of this Regulation
+, to achieve a high level of trustworthiness and of protection of health and safety, fundamental rights, the environment, democracy and the rule of law across the Union with regards to
+AI
+systems, to actively support national supervisory authorities, Union institutions, bodies, offices and agencies in matters pertaining to this Regulation, and to increase the uptake of artificial intelligence throughout the Union, an European Union Artificial Intelligence Office
+should be established. The
+AI Office should have legal personality, should act in full independence,
+should be responsible for a number of advisory
+and coordination
+tasks, including issuing opinions, recommendations, advice or guidance on matters related to the implementation of this Regulation
+and should be adequately funded and staffed. Member States should provide the strategic direction and control of the AI Office through the management board of the AI Office, alongside the Commission, the EDPS, the FRA, and ENISA. An executive director should be responsible for managing the activities of the secretariat of the AI office and for representing the AI office. Stakeholders should formally participate in the work of the AI Office through an advisory forum that should ensure varied and balanced stakeholder representation and should advise the AI Office on matters pertaining to this Regulation. In case the establishment of the AI Office prove not to be sufficient to ensure a fully consistent application of
+this Regulation
+at Union level as well as efficient cross-border enforcement measures, the creation of an AI agency should be considered
+.
+In order to
+facilitate a smooth
+, effective and harmonised implementation of this Regulation
+a European
+Artificial Intelligence
+Board
+should be established. The
+Board
+should be responsible for a number of advisory tasks, including issuing opinions, recommendations, advice or guidance on matters related to the implementation of this Regulation
+, including on technical specifications or existing standards regarding the requirements established in
+this Regulation
+and providing advice to and assisting the Commission on specific questions related to artificial intelligence
+.
+In order to
+avoid fragmentation, to ensure the optimal functioning of the Single market
+,
+to ensure
+effective and harmonised implementation of this Regulation
+, to achieve a high level of trustworthiness and of protection of health and safety, fundamental rights, the environment, democracy and the rule of law across the Union with regards to
+AI
+systems, to actively support national supervisory authorities, Union institutions, bodies, offices and agencies in matters pertaining to this Regulation, and to increase the uptake of artificial intelligence throughout the Union, an European Union Artificial Intelligence Office
+should be established. The
+AI Office should have legal personality, should act in full independence,
+should be responsible for a number of advisory
+and coordination
+tasks, including issuing opinions, recommendations, advice or guidance on matters related to the implementation of this Regulation
+and should be adequately funded and staffed. Member States should provide the strategic direction and control of the AI Office through the management board of the AI Office, alongside the Commission, the EDPS, the FRA, and ENISA. An executive director should be responsible for managing the activities of the secretariat of the AI office and for representing the AI office. Stakeholders should formally participate in the work of the AI Office through an advisory forum that should ensure varied and balanced stakeholder representation and should advise the AI Office on matters pertaining to this Regulation. In case the establishment of the AI Office prove not to be sufficient to ensure a fully consistent application of
+this Regulation
+at Union level as well as efficient cross-border enforcement measures, the creation of an AI agency should be considered
+.
+In order to
+facilitate a smooth
+, effective and harmonised implementation of this Regulation
+a European
+Artificial Intelligence
+Board
+should be established. The
+Board
+should be responsible for a number of advisory tasks, including issuing opinions, recommendations, advice or guidance on matters related to the implementation of this Regulation
+, including on technical specifications or existing standards regarding the requirements established in
+this Regulation
+and providing advice to and assisting the Commission on specific questions related to artificial intelligence
+.

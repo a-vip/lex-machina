@@ -1,85 +1,28 @@
-# Article 58 — Tasks of the Board
+# Article 58 — Parliament Mandate Amendments — Article 58
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_58`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-The Board shall advice and assist the Commission and the Member States i
-n order to facilitate the
-consistent and effective application of this Regulation. For this purpose the Board may in particular:
-(a) collect and share technical and regulatory expertise and best practices among Member
-States;
-(b) contribute to the
-harmonisation of administrative practices in the Member States, including
-in relation to the derogation from the conformity assessment procedures referred to in
-Article 47, the functioning of regulatory sandboxes and testing in real world conditions
-referr
-ed to in Article 53, 54 and 54a;
-(c) upon the request of the Commission or on its own initiative,
-issue
-recommendations and
-written opinions on any relevant matters related to the implementation of this Regulation
-and to its consistent and effective applic
-ation, including:
-(i) on technical specifications or existing standards regarding the requirements set out in
-Title III, Chapter 2,
-(ii) on the use of harmonised standards or common specifications referred to in Articles
-40 and 41,
-14954/22
-RB/ek
-154
-TREE.2.B
-LIMITE
-EN
-(iii)
-on the preparat
-ion of guidance documents, including the guidelines concerning the
-setting of administrative fines referred to in Article 71;
-(d) advise the Commission on the potential need for amendment of Annex III in accordance with
-Articles 4 and 7, taking into accoun
-t relevant available evidence and the latest develoments in
-technology
-;
-(e) advise the Commission during the preparation of delegated or implementing act pursuant to
-this Regulation;
-f)
-cooperate, as appropriate, with relevant EU bodies, experts groups and
-networks in particular
-in the fields of product safety, cybersecurity, competition, digital and
-media services,
-financial services, cryptocurrencies, consumer protection, data and fundamental rights
-protection;
-g)
-contribute and provide relevant advice to
-the Commission in the development of the guidance
-referred to in Article 58a or request the development of such guidance;
-(
-h)
-to assist the work of market surveillance authorities and, in cooperation and subject to
-agreement of the concerned market surve
-illance authorities, promote and support cross
--
-border
-market surveillance investigations
-,
-including
-with respect to the emergence of risks of
-systemic nature that may stem from AI systems;
-(i) contribute to the assessment of training needs for staff of M
-ember States involved in
-implementing this Regulation;
-(j) advise the Commission in relation to international matters on artificial intelligence.
-14954/22
-RB/ek
-155
-TREE.2.B
-LIMITE
-EN
-CHAPTER
-1
-A
-GUIDELINES FROM THE
-COMMISSION
+Advisory Forum
+The advisory forum
+shall
+provide the AI Office with stakeholder input in matters relating to this Regulation,
+in particular
+with regard to the tasks set out in Article 56b point (l).
+The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society, the social partners and academia. The membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regards to SMEs and other undertakings.
+The management board shall appoint the members of the advisory forum in accordance with the selection procedure established in the AI Office’s rules of procedure and taking into account the need for transparency and in accordance with the criteria set out in paragraph 2;
+The term of office of the members of the advisory forum shall be two years, which may be extended by up to no more than four years.
+The European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI) shall be permanent members of the Advisory Forum. The Joint Research Centre shall be permanent member, without voting rights.
+The advisory forum shall draw up its rules of procedure. It shall elect two co-Chairs from among its members, in accordance with criteria set out in paragraph 2. The term of office of the co-Chairs shall be two years, renewable once.
+The advisory forum shall hold meetings at least four times a year. The advisory forum may invite experts and other stakeholders to its meetings. The executive director may attend, ex officio, the meetings of the advisory forum.
+In fulfilling its role as set out in paragraph 1, the advisory forum may prepare opinions, recommendations and written contributions.
+The advisory forum may establish standing or temporary subgroups as appropriate for the purpose of examining specific questions related to the objectives of this Regulation.
+The advisory forum shall prepare an annual report of its activities. That report shall be made publicly available.
+European Authorities on benchmarking
+Article 58 a
+Benchmarking
+The European authorities on benchmarking referred to in Article 15 (1a) and the AI Office shall, in close cooperation with international partners, jointly develop cost-effective guidance and capabilities to measure and benchmark aspects of AI systems and AI components, and in particular of foundation models relevant to the compliance and enforcement of this Regulation based on the generally acknowledged state of the art, including as reflected in relevant harmonized standards.

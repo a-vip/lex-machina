@@ -1,75 +1,42 @@
-# Article 41 — Common specifications
+# Article 41 — Parliament Mandate Amendments — Article 41
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_41`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-1.
-The Commission is empowered to adopt, a
-fter consulting the AI Board referred to in
-Article 56, implementing acts
-in accordance with the examination procedure referred to in
-Article 74(2)
-establishing common technical specifications for the requirements set out in
-Chapter 2 of this Title, or, as
-applicable, with requirements set out in Article 4a and Article
-4b, where the following conditions have been fulfilled:
-(a) no reference to harmonised standards covering the relevant essential safety or
-fundamental right concerns is published in the Offi
-cial Journal of the European Union
-in accordance with Regulation (EU) No 1025/2012;
-(b) the Commission has requested, pursuant to Article 10(1) of Regulation 1025/2012, one
-or more European standardisation organisations to draft a harmonised standard for t
-he
-requirements set out in Chapter 2 of this Title;
-(c) the request referred to in point
-(b) has not been accepted by any of the European
-standardisation organisations or the harmonised standards addressing that request are
-not delivered within the deadlin
-e set in accordance with article 10(1) of Regulation
-1025/2012 or those standards do not comply with the request.
-1a.
-Before preparing a draft implementing act, the Commission shall inform the committee
-referred to in Article 22 of Regulation EU (No)
-1025/2012 that it considers that the
-conditions in paragraph 1 are fulfilled.
-2.
-In the early preparation of the draft implementing act establishing the common
-specification, the Commission
-shall fulfil the objectives referred to in Article 40(2) and
-gather the views of relevant bodies or expert groups established under relevant sectorial
-Union law. Based on that consultation, the Commission shall prepare the draft
-implementing act.
-14954/22
-RB/ek
-127
-TREE.2.B
-LIMITE
-EN
-3.
-High
--
-risk AI systems or general purpose AI systems which are in c
-onformity with the
-common specifications referred to in paragraph 1 shall be presumed to be in conformity
-with the requirements set out in Chapter 2 of this Title or, as applicable, with requirements
-set out in Article 4a and Article 4b, to the extent thos
-e common specifications cover those
-requirements.
-4.
-When references of a harmonised standard are published in the Official Journal of the
-European Union, implementing acts referred to in paragraph 1, which cover the
-requirements set out in Chapter 2 of th
-is Title or requirements set out in Article 4a and
-Article 4b, shall be repealed, as applicable.
-5.
-When a Member State considers that a common specification does not entirely satisfy the
-requirements set out in Chapter 2 of this Title or requirements set
-out in Article 4a and
-Article 4b, as applicable, it shall inform the Commission thereof with a detailed
-explanation and the Commission shall assess that information and, if appropriate, amend
-the implementing act establishing the common specification in qu
-estion.
+deleted
+1 a.
+The Commission may, by means of implementing act adopted in accordance with the examination procedure referred to in Article 74(2) and after consulting the AI Office and the AI Advisory Forum, adopt common specifications in respect of the requirements set out in Chapter 2 of this Title or Article 28b wherein all of the following conditions are fulfilled:
+there is no reference to harmonised standards already published in the Official Journal of the European Union related to the essential requirement(s), unless the harmonised standard in question is an existing standard that must be revised;
+there is no reference to harmonised standards already published in the Official Journal of the European Union related to the essential requirement(s), unless the harmonised standard in question is an existing standard that must be revised;
+the Commission has requested one or more European standardisation organisations to draft a harmonised standard for the essential requirement(s) set out in Chapter 2;
+the Commission has requested one or more European standardisation organisations to draft a harmonised standard for the essential requirement(s) set out in Chapter 2;
+the request referred to in point (b) has not been accepted by any of the European standardisation organisations; or there are undue delays in the establishment of an appropriate harmonised standard; or the standard provided does not satisfy the requirements of the relevant Union law, or does not comply with the request of the Commission.
+the request referred to in point (b) has not been accepted by any of the European standardisation organisations; or there are undue delays in the establishment of an appropriate harmonised standard; or the standard provided does not satisfy the requirements of the relevant Union law, or does not comply with the request of the Commission.
+1 b.
+Where the Commission considers there to be a need to address specific fundamental rights concerns, common specifications adopted by the Commission in accordance with paragraph 1a shall also address those specific fundamental rights concerns.
+1 c.
+The Commission shall develop common specifications for the methodology to fulfil the reporting and documentation requirement on the consumption of energy and resources during development, training and deployment of the high risk AI system.
+2. The Commission
+shall, throughout the whole process of drafting
+the common specifications referred to in
+paragraphs 1a and 1b
+,
+regularly consult the AI Office and the Advisory Forum, the European standardisation organisations and bodies or expert groups established under
+relevant
+sectorial Union law as well as other relevant stakeholders. The Commission shall fulfil the objectives referred to in Article 40 (1c) and duly justify why it decided to resort to common specifications.
+Where the Commission intends to adopt common specifications pursuant to paragraph 1a of this Article, it shall also clearly identify the specific fundamental rights concern to be addressed.
+When adopting common specifications pursuant to paragraphs 1a and 1b of this Article, the Commission shall take into account the opinion issued by the AI Office referred to in Article 56e(b) of this Regulation. Where the Commission decides not to follow the opinion of the AI Office, it shall provide a reasoned explanation to the AI Office.
+3. High-risk AI systems which are in conformity with the common specifications referred to in paragraph
+1a and 1b
+shall be presumed to be in conformity with the requirements set out in Chapter 2 of this Title, to the extent those common specifications cover those requirements
+3 a.
+Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the publication of its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012. When reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal acts referred to in paragraph 1 and 1b, or parts thereof which cover the same requirements set out in Chapter 2 of this Title.
+4. Where providers
+of high-risk AI systems
+do not comply with the common specifications referred to in paragraph 1, they shall duly justify that they have adopted technical solutions that
+meet the requirements referred to in Chapter II to a level
+at least equivalent thereto;

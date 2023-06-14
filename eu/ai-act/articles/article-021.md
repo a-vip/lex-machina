@@ -1,30 +1,25 @@
-# Article 21 — Corrective actions
+# Article 21 — Parliament Mandate Amendments — Article 21
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_21`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-Providers of high
--
-risk AI systems which consider o
-r have reason to consider that a high
--
-risk AI
-system which they have plac
-ed on the market or put into service is not in conformity with this
-Regulation shall immediately investigate, where applicable, the causes in collaboration with the
-reporting user and take the necessary corrective actions to bring that system into conformi
-ty, to
-withdraw it or to recall it, as appropriate. They shall inform the distributors of the high
--
-risk AI
-system in question and, where applicable, the authorised representative and importers accordingly.
-14954/22
-RB/ek
-105
-TREE.2.B
-LIMITE
-EN
+take the necessary corrective actions
+as referred to in Article 21 and provide information in that regard
+;
+Providers of high-risk AI systems which consider or have reason to consider that a high-risk AI system which they have placed on the market or put into service is not in conformity with this Regulation shall immediately take the necessary corrective actions to bring that system into conformity, to withdraw it
+, to disable it
+or to recall it, as appropriate.
+In the cases referred to in the first paragraph, providers shall immediately inform:
+the distributors;
+the distributors;
+the importers;
+the importers;
+the national competent authorities of the Member States in which they made the AI system available or put it into service; and
+the national competent authorities of the Member States in which they made the AI system available or put it into service; and
+where possible, the deployer.
+where possible, the deployer.
+The providers shall also inform the authorised representative, if one was appointed in accordance with Article 25, and the notified body if the high-risk AI system had to undergo a third-party conformity assessment in accordance with Article 43. Where applicable, they shall also investigate the causes in collaboration with the deployer.

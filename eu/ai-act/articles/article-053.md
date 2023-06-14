@@ -1,247 +1,109 @@
-# Article 53 — AI regulatory sandboxes
+# Article 53 — Parliament Mandate Amendments — Article 53
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_53`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
--
-1a.
-National competent authorities may establish AI regulatory sandboxes for the
-development, training, testing and validation of innovative AI systems
-under the direct
-supervision, guidance and support by t
-he national competent authority
-, before those
-systems are placed on the market or put into service. Such regulatory sandboxes may
-include testing in real world conditions supervised by the national competent authorities
-.
-14954/22
-RB/ek
-138
-TREE.2.B
-LIMITE
-EN
--
-1b.
-[deleted]
--
-1c
-Where appropria
-te, national competent authorities shall cooperate with other relevant
-authorities and may allow for the involvement of other actors within the AI ecosystem.
--
-1d.
-This Article
-shall not affect other regulatory sandboxes established under national or Union
-law
-,
-including in cases where the products or services that are tested in them are linked to
-the
-use
-of innovative
-AI
-systems.
-Member States shall ensure an appropriate level of
-cooperation between the authorities supervising those other sandboxes and the
-national
-competent authorities.
 1.
-[deleted]
-1a.
-[deleted]
-1b.
-The establishment of AI regulatory sandboxes under this Regulation shall aim to contribute
-to one or more of the following objectives:
-a)
-foster innovation and competi
-ti
-veness and facilitate
-the development of an AI
-ecosystem;
-b)
-facilitate and accelerate access to the Union market for AI systems, in particular when
-provided by small and medium enterprises (SMEs), including start
--
-ups;
-c)
-improve legal certainty and contribute to the sharing of best
-practices through
-cooperation with the authorities involved in the AI regulatory sandbox with a view to
-ensuring future compliance with this Regulation and, where appropriate, with other
-Union and Member States legislation;
-d)
-contribute to evidence
--
-based reg
-ulatory learning
-.
+Member States shall establish at least one
+AI regulatory
+sandbox at national level, which
+shall
+be operational at the latest
+on the
+day of the entry into application
+of this Regulation
+This sandbox can also be established jointly with one or several
+other Member States;
+1 a.
+Additional AI regulatory sandboxes at regional or local levels or jointly with other Member States may also be established;
+1 b.
+The Commission and the European Data Protection Supervisor, on their own, jointly or in collaboration with one or more Member States may also establish AI regulatory sandboxes at Union level;
+1 c.
+Establishing authorities shall allocate sufficient resources to comply with this Article effectively and in a timely manner;
+1 d.
+AI regulatory sandboxes shall, in accordance with criteria set out in Article 53a, provide for a controlled environment that fosters innovation and facilitates the development, testing and validation of innovative AI systems for a limited time before their placement on the market or putting into service pursuant to a specific plan agreed between the prospective providers and the establishing authority;
+1 e.
+The establishment of AI regulatory sandboxes shall aim to contribute to the following objectives:
+for the competent authorities to provide guidance to AI systems prospective providers providers to achieve regulatory compliance with this Regulation or where relevant other applicable Union and Member States legislation;
+for the competent authorities to provide guidance to AI systems prospective providers providers to achieve regulatory compliance with this Regulation or where relevant other applicable Union and Member States legislation;
+for the prospective providers to allow and facilitate the testing and development of innovative solutions related to AI systems;
+for the prospective providers to allow and facilitate the testing and development of innovative solutions related to AI systems;
+regulatory learning in a controlled environment.
+regulatory learning in a controlled environment.
+1 f.
+Establishing authorities shall provide guidance and supervision within the sandbox with a view to identify risks, in particular to fundamental rights, democracy and rule of law, health and safety and the environment, test and demonstrate mitigation measures for identified risks, and their effectiveness and ensure compliance with the requirements of this Regulation and, where relevant, other Union and Member States legislation;
+1 g.
+Establishing authorities shall provide sandbox prospective providers who develop high-risk AI systems with guidance and supervision on how to fulfil the requirements set out in this Regulation, so that the AI systems may exit the sandbox being in presumption of conformity with the specific requirements of this Regulation that were assessed within the sandbox. Insofar as the AI system complies with the requirements when exiting the sandbox, it shall be presumed to be in conformity with this regulation. In this regard, the exit reports created by the establishing authority shall be taken into account by market surveillance authorities or notified bodies, as applicable, in the context of conformity assessment procedures or market surveillance checks;
 2.
-[deleted]
-14954/22
-RB/ek
-139
-TREE.2.B
-LIMITE
-EN
-2a.
-Access to the AI regulatory sandboxes shall be open to any provider or prospective
-provider of an AI system who fulfils the eligibility and selection criteria referred to in
-paragraph 6(a) and who has been selected by t
-he national competent authorities following
-the selection procedure referred to in paragraph 6(b). Providers or prospective providers
-may also submit applications in partnership with users or any other relevant third parties.
-Participation in the AI regul
-atory sandbox shall be limited to a period that is appropriate to
-the complexity and scale of the project. This period may be extended by the national
-competent authority.
-Participation in the AI regulatory sandbox shall be based on a specific plan refe
-rred to in
-paragraph 6 of this Article that shall be agreed between the participant(s) and the national
-competent authoritie(s), as applicable.
-3.
-The participation in the AI regulatory sandboxes shall not affect the supervisory and
-corrective powers of
-the authorities supervising the sandbox. Those authorities shall
-exercice their supervisory powers in a flexible manner within the limits of the relevant
-legislation, using their discretionary powers when implementing legal provisions to a
-specific AI sand
-box project, with the objective of supporting innovation in AI in the
-Union
-.
-Provided that the participant(s) respect the sandbox plan and
-the terms and conditions for
-their participation as referred to in paragraph 6(c) and follow in good faith the guid
-ance
-given by the authorities, no administrative fines shall be imposed by the authorities for
-infringement of applicable Union or Member State legislation
-relating to the AI system
-supervised in the sandbox
-, including the provisions of this Regulation.
-4
-.
-The p
-articipants remain liable under applicable Union and Member States liability
-legislation for any damage caused in the course of their participation in an AI regulatory
-sandbox
-.
-14954/22
-RB/ek
-140
-TREE.2.B
-LIMITE
-EN
-4a.
-Upon request of the provider or prospective provider of the AI
-system, the national
-competent authority shall provide, where applicable, a written proof of the activities
-successfully carried out in the sandbox. The national competent authority
-shall also
-provide an exit report detailing the activities carried out in
-the sandbox and the related
-results and learning outcomes. Such written proof and exit report could be taken into
-account by market surveillance authorities or notified bodies, as applicable, in the context
-of conformity assessment procedures or market sur
-veillance checks.
-Subject to the confidentiality provisions in Article 70 and with the agreement of the
-sandbox participants, the European Commission and the AI Board shall be authorised to
-access the exit reports
-and shall
-take them into account, as app
-ropriate,
-when exercising
-their tasks under this Regulation.
-If both the participant and the national competent
-authority explicitly agree to this, the exit report can be made publicly available through the
-single information platform referred to in articl
-e 55(3)(b).
-4b.
-The AI
-regulatory sandboxes shall be designed and implemented in such a way that, where
-relevant, they facilitate cross
--
-border cooperation between the national competent
-authorities.
+Establishing authorities
+shall ensure that, to the extent the innovative AI systems involve the processing of personal data or otherwise fall under the supervisory remit of other national authorities or competent authorities providing or supporting access to
+personal
+data, the national data protection authorities
+, or in cases referred to in paragraph 1b the EDPS,
+and those other national authorities are associated to the operation of the AI regulatory sandbox
+and involved in the supervision of those aspects to the full extent of their respective tasks and powers;
+3. The AI regulatory sandboxes shall not affect the supervisory and corrective powers of the competent authorities
+, including at regional or local level
+. Any significant risks to fundamental rights
+, democracy and rule of law, health and safety or the environment
+identified during the development and testing of such
+AI
+systems shall result in immediate
+and adequate
+mitigation
+. Competent authorities shall have the power to temporarily or permanently suspend the
+testing process
+, or participation in the sandbox if no effective
+mitigation
+is possible and inform the AI office of such decision;
+4.
+Prospective providers
+in the AI regulatory sandbox shall remain liable under applicable Union and Member States liability legislation for any harm inflicted on third parties as a result
+of
+the experimentation taking place in the sandbox.
+However, provided that the prospective provider(s) respect the specific plan referred to in paragraph 1c and the terms and conditions for their participation and follow in good faith the guidance given by the establishing authorities, no administrative fines shall be imposed by the authorities for infringements of this Regulation;
 5.
-National competent authorities shall make publicly a
-vailable annual reports on the
-implementation of the AI regulatory sandboxes, including good practices, lessons learnt
-and recommendations on their setup and, where relevant, on the application of this
-Regulation and other Union legislation supervised with
-in the sandbox. Those annual
-reports shall be submitted to the AI Board which shall make publicly available a summary
-of all good practices, lessons learnt and recommendations
-.
-This obligation to make annual
-reports publicly available shall not cover sensi
-tive operational data in relation to the
-activities of law enforcement, border control, immigration or asylum authorities.
-The
-Commission and the AI Board shall, where appropriate, take the annual reports into
-account
-when
-exerc
-i
-sing their tasks
-under this
-Regulation
-.
-14954/22
-RB/ek
-141
-TREE.2.B
-LIMITE
-EN
-5b.
-The Commission shall ensure that information about AI regulatory sandboxes, including
-about those established under this Article, is available through
-the single information
-platform referred to in Article 55(3)(b).
-6.
-The modalities and
-the conditions for the establishment and operation of the AI regulatory
-sandboxes under this Regulation shall be adopted through implementing acts in accordance
-with the examination procedure referred to in Article 74(2).
-The modalities and conditions sha
-ll to the best extent possible support flexibility for
-national competent authorities to establish and operate their AI regulatory sandboxes,
-foster innovation and regulatory learning and shall particularly take into account the
-special circumstances and c
-apacities of participating SMEs
-, including start
--
-ups
-.
-Those implementing acts shall include common main principles on the following issues:
-a)
-eligibility and selection for participation in the AI regulatory sandbox;
-b)
-procedure for the application, participa
-tion, monitoring, exiting from and
-termination of the AI regulatory sandbox,
-including the
-sandbox
-plan and the exit
-report
-;
-c)
-the terms and conditions applicable to the participants
-.
-7.
-When national competent authorities consider authorising testing in r
-eal world conditions
-supervised within the framework of an AI regulatory sandbox established under this
-Article, they shall specifically agree with the participants on the terms and conditions of
-such testing and in particular on the appropriate safeguards
-with the view to protect
-fundamental rights, health and safety
-. Where appropriate, they shall cooperate with other
-national competent authorities with a view to ensure consistent practices across the Union.
-14954/22
-RB/ek
-142
-TREE.2.B
-LIMITE
-EN
+Establishing
+authorities shall coordinate their activities and cooperate within the framework of the
+AI office;
+5 a.
+Establishing authorities shall inform the AI Office of the establishment of a sandbox and may ask for support and guidance. A list of planned and existing sandboxes shall be made publicly available by the AI office and kept up to date in order to encourage more interaction in the regulatory sandboxes and transnational cooperation;
+5 b.
+Establishing authorities shall submit to the AI office and, unless the Commission is the sole establishing authority, to the Commission, annual reports, starting one year after the establishment of the sandbox and then every year until its termination and a final report. Those reports shall provide information on the progress and results of the implementation of those sandboxes, including best practices, incidents, lessons learnt and recommendations on their setup and, where relevant, on the application and possible revision of this Regulation and other Union law supervised within the sandbox. Those annual reports or abstracts thereof shall be made available to the public, online;
+6. The
+Commission shall develop a single and dedicated interface containing all relevant information related to sandboxes, together with a single contact point at Union level to interact with the
+regulatory sandboxes
+and to allow stakeholders to raise enquiries with competent authorities, and to seek non-binding guidance on the conformity of innovative products, services, business models embedding AI technologies;
+The Commission
+shall
+proactively coordinate with national, regional and also local authorities, where relevant;
+6 a.
+For the purpose of paragraph 1 and 1a, the Commission shall play a complementary role, enabling Member States to build on their expertise and, on the other hand, assisting and providing technical understanding and resources to those Member States that seek guidance on the set-up and running of these regulatory sandboxes;
+Article 53 a
+Modalities and functioning of AI regulatory sandboxes
+1.
+In order to avoid fragmentation across the Union, the Commission, in consultation with the AI office, shall adopt a delegated act detailing the modalities for the establishment, development, implementation, functioning and supervision of the AI regulatory sandboxes, including the eligibility criteria and the procedure for the application, selection, participation and exiting from the sandbox, and the rights and obligations of the participants based on the provisions set out in this Article;
+2.
+The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 73, no later than 12 months following the entry into force of this Regulation and shall ensure that:
+regulatory sandboxes are open to any applying prospective provider of an AI system who fulfils eligibility and selection criteria. The criteria for accessing to the regulatory sandbox are transparent and fair and establishing authorities inform applicants of their decision within 3 months of the application;
+regulatory sandboxes are open to any applying prospective provider of an AI system who fulfils eligibility and selection criteria. The criteria for accessing to the regulatory sandbox are transparent and fair and establishing authorities inform applicants of their decision within 3 months of the application;
+regulatory sandboxes allow broad and equal access and keep up with demand for participation;
+regulatory sandboxes allow broad and equal access and keep up with demand for participation;
+access to the AI regulatory sandboxes is free of charge for SMEs and start-ups without prejudice to exceptional costs that establishing authorities may recover in a fair and proportionate manner;
+access to the AI regulatory sandboxes is free of charge for SMEs and start-ups without prejudice to exceptional costs that establishing authorities may recover in a fair and proportionate manner;
+regulatory sandboxes facilitate the involvement of other relevant actors within the AI ecosystem, such as notified bodies and standardisation organisations (SMEs, start-ups, enterprises, innovators, testing and experimentation facilities, research and experimentation labs and digital innovation hubs, centers of excellence, individual researchers), in order to allow and facilitate cooperation with the public and private sector;
+regulatory sandboxes facilitate the involvement of other relevant actors within the AI ecosystem, such as notified bodies and standardisation organisations (SMEs, start-ups, enterprises, innovators, testing and experimentation facilities, research and experimentation labs and digital innovation hubs, centers of excellence, individual researchers), in order to allow and facilitate cooperation with the public and private sector;
+they allow prospective providers to to fulfil, in a controlled environment, the conformity assessment obligations of this Regulation or the voluntary application of the codes of conduct referred to in Article 69;
+they allow prospective providers to to fulfil, in a controlled environment, the conformity assessment obligations of this Regulation or the voluntary application of the codes of conduct referred to in Article 69;
+procedures, processes and administrative requirements for application, selection, participation and exiting the sandbox are simple, easily intelligible, clearly communicated in order to facilitate the participation of SMEs and start-ups with limited legal and administrative capacities and are streamlined across the Union, in order to avoid fragmentation and that participation in a regulatory sandbox established by a Member State, by the Commission, or by the EDPS is mutually and uniformly recognised and carries the same legal effects across the Union;
+procedures, processes and administrative requirements for application, selection, participation and exiting the sandbox are simple, easily intelligible, clearly communicated in order to facilitate the participation of SMEs and start-ups with limited legal and administrative capacities and are streamlined across the Union, in order to avoid fragmentation and that participation in a regulatory sandbox established by a Member State, by the Commission, or by the EDPS is mutually and uniformly recognised and carries the same legal effects across the Union;
+participation in the AI regulatory sandbox is limited to a period that is appropriate to the complexity and scale of the project.
+participation in the AI regulatory sandbox is limited to a period that is appropriate to the complexity and scale of the project.
+the sandboxes shall facilitate the development of tools and infrastructure for testing, benchmarking, assessing and explaining dimensions of AI systems relevant to sandboxes, such as accuracy, robustness and cybersecurity as well as minimisation of risks to fundamental rights, environment and the society at large
+the sandboxes shall facilitate the development of tools and infrastructure for testing, benchmarking, assessing and explaining dimensions of AI systems relevant to sandboxes, such as accuracy, robustness and cybersecurity as well as minimisation of risks to fundamental rights, environment and the society at large
+3.
+Prospective providers in the sandboxes, in particular SMEs and start-ups, shall be facilitated access to pre-deployment services such as guidance on the implementation of this Regulation, to other value-adding services such as help with standardisation documents and certification and consultation, and to other Digital Single Market initiatives such as Testing & Experimentation Facilities, Digital Hubs, Centres of Excellence, and EU benchmarking capabilities;

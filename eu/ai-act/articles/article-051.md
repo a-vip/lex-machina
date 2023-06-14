@@ -1,93 +1,22 @@
-# Article 51 — Registration
+# Article 51 — Parliament Mandate Amendments — Article 51
 
 - **Instrument**: EU AI Act
-- **Stage**: Council of the EU General Approach (`2022-12-06`)
-- **Document Symbol**: `ST 14954/22`
+- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Document Symbol**: `P9_TA(2023)0236`
 - **Akoma Ntoso eId**: `art_51`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Council of the European Union `<council@consilium.europa.eu>`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: European Parliament `<parliament@europa.eu>`
 
-of relevant operators and of high
--
-risk AI systems
-listed in Annex III
-1.
-Before placing on the market or putting into service a high
--
-risk AI system listed in Annex
-III
-with the excep
-tion of high
--
-risk AI systems
-referred to in Annex III, points 1, 6 and 7
-in
-the areas of law enforcement
-,
-migration, asylum and border control management,
-and high
-risk AI systems referred to
-in
-Annex III point 2
-,
-the provider
-and
-where applicable, the
-aut
-horised representative shall register
-themselves
-in the EU database referred to in Article
-60.
-The provider or, where applicable the authorised representative, shall also register their
-systems in that database.
-2.
-Before using a high
--
-risk AI system
-listed
-in Annex III
-, users of high
--
-risk AI system
-s
-that
-are public authorities, agencies or bodies
-,
-or entities acting on their behalf,
-shall register
-themselves in the EU database referred to in Article 60 and select the system that they
-envisage to use.
-The
-obligations laid down in the previous subparagraph shall not apply to law
-enforcement, border control, immigration or asylum authorities
-, agencies or bodies
-and
-authorities
-, agencies or bodies
-using high
--
-risk AI systems referred to Annex III point 2, as
-w
-ell as to entities acting on
-their
-behalf
-.
-14954/22
-RB/ek
-136
-TREE.2.B
-LIMITE
-EN
-TITLE
-IV
-TRANSPARENCY
-OBLIGATIONS
-FOR
-PROVIDERS
-AN
-D
-USERS
-OF
-CERTAIN
-AI
-SYSTEMS
+Before placing on the market or putting into service a high-risk AI system referred to in Article 6(2) the provider or, where applicable, the authorised representative shall register that system in the EU database referred to in Article 60
+, in accordance with Article 60(2);
+Before putting into service or using a high-risk AI system in accordance with Article 6(2), the following categories of deployers shall register the use of that AI system in the EU database referred to in Article 60:
+deployers who are public authorities or Union institutions, bodies, offices or agencies or deployers acting on their behalf;
+deployers who are public authorities or Union institutions, bodies, offices or agencies or deployers acting on their behalf;
+deployers who are undertakings designated as a gatekeeper under Regulation (EU) 2022/1925.
+deployers who are undertakings designated as a gatekeeper under Regulation (EU) 2022/1925.
+Deployers who do not fall under subparagraph 1a. shall be entitled to voluntarily register the use of a high-risk AI system referred to in Article 6(2) in the EU database referred to in Article 60.
+An updated registration entry must be completed immediately following each substantial modification.
+Foundation model trade name and any additional unambiguous refernce allowing identification and traceability
+Foundation model trade name and any additional unambiguous refernce allowing identification and traceability
+the name, address and contact details of the deployer;
+the name, address and contact details of the person submitting information on behalf of the deployer;
