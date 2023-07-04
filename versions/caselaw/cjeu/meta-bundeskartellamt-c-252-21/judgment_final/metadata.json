@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "caselaw-cjeu-meta-bundeskartellamt",
+  "path": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+  "jurisdiction": "caselaw",
+  "domain": "ai",
+  "title": "CJEU Grand Chamber Judgment in Meta Platforms v Bundeskartellamt (Case C-252/21) — Profiling, AI Personalization & Competition",
+  "short_title": "CJEU Meta v BKA (C-252/21)",
+  "type": "judicial_precedent",
+  "celex": "62021CJ0252",
+  "eli": null,
+  "document_symbol": "Case C-252/21 (Meta Platforms)",
+  "stage": "judgment_final",
+  "stage_label": "CJEU Grand Chamber Judgment (ECLI:EU:C:2023:537)",
+  "published_date": "2023-07-04",
+  "in_force_date": "2023-07-04",
+  "status": "binding_precedent",
+  "institutional_author": {
+    "name": "Court of Justice of the European Union (CJEU Grand Chamber)",
+    "email": "cjeu@curia.europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/8e2539fb-1a3f-11ee-806b-01aa75ed71a1.0011.05/DOC_1",
+  "summary": "Grand Chamber ruling prohibiting dominant platforms from justifying personalized AI ad-profiling via contractual necessity and defining GDPR Article 9 sensitive-data limits.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "9830f7bca648233411960f3d82f63863bed804d507951f406f9eb9f78613c86f",
+    "final_url": "http://publications.europa.eu/resource/cellar/8e2539fb-1a3f-11ee-806b-01aa75ed71a1.0011.05/DOC_1",
+    "eli": null,
+    "celex": "62021CJ0252",
+    "http_status": 200,
+    "http_etag": "\"Con-20240826092313000\"",
+    "bytes_fetched": 220223,
+    "fetched_utc": "2026-11-23T14:23:33Z",
+    "sha256_normalized_full_text": "6cdfc2cbdb664e0654b8b898dfb81c037bf348ee330c7d6e7682d2193b023735"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 17,
+    "annexes": 0
+  }
+}

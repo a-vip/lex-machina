@@ -1,0 +1,11 @@
+# Article 8 — Question 2
+
+- **Instrument**: CJEU Meta v BKA (C-252/21)
+- **Stage**: CJEU Grand Chamber Judgment (ECLI:EU:C:2023:537) (`2023-07-04`)
+- **Document Symbol**: `Case C-252/21 (Meta Platforms)`
+- **Akoma Ntoso eId**: `cjeu_sec_8`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: Court of Justice of the European Union (CJEU Grand Chamber) `<cjeu@curia.europa.eu>`
+
+[64] By Question 2(a), the referring court asks, in essence, whether Article 9(1) of the GDPR must be interpreted as meaning that, where the user of an online social network visits websites or apps to which one or more of the categories referred to in that provision relate and, as the case may be, enters information into them when registering or when placing online orders, the processing of personal data by the operator of that online social network, which entails the collection – by means of integrated interfaces, cookies or similar storage technologies – of data from visits to those sites and apps and of the information entered by the user, the linking of all those data with the user’s social network account and the use of those data by that operator, must be regarded as ‘processing of special categories of personal data’ within the meaning of that provision, which is in principle prohibited, subject to the derogations provided for in Article 9(2).
+[65] If so, the referring court asks, in essence, by Question 2(b), whether Article 9(2)(e) of the GDPR must be interpreted as meaning that, where the user of an online social network visits websites or apps to which the categories set out in Article 9(1) of the GDPR relate, enters information into those sites or apps or clicks or taps on the buttons integrated into them, such as the ‘Like’ or ‘Share’ buttons or the buttons enabling the user to identify himself or herself on those sites or apps using the login credentials linked to his or her online social network user account, his or her telephone number or email address, the user is deemed to have manifestly made public, within the meaning of the first of those provisions, the data collected on that occasion by the operator of that online social network via cookies or similar storage technologies.

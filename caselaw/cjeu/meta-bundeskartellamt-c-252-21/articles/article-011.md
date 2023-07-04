@@ -1,0 +1,11 @@
+# Article 11 — Questions 3 to 5
+
+- **Instrument**: CJEU Meta v BKA (C-252/21)
+- **Stage**: CJEU Grand Chamber Judgment (ECLI:EU:C:2023:537) (`2023-07-04`)
+- **Document Symbol**: `Case C-252/21 (Meta Platforms)`
+- **Akoma Ntoso eId**: `cjeu_sec_11`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: Court of Justice of the European Union (CJEU Grand Chamber) `<cjeu@curia.europa.eu>`
+
+[86] By Questions 3 and 4, which it is appropriate to examine together, the referring court asks, in essence, whether and under what conditions points (b) and (f) of the first subparagraph of Article 6(1) of the GDPR must be interpreted as meaning that the processing of personal data by the operator of an online social network, which entails the collection of data of the users of such a network from other services of the group to which that operator belongs or from visits by those users to third-party websites or apps, the linking of those data with the social network account of those users and the use of such data, may be considered to be necessary for the performance of a contract to which the data subjects are party, within the meaning of point (b), or for the purposes of the legitimate interests pursued by the controller or by a third party, within the meaning of point (f). That court asks, in particular, whether, to that end, certain interests which it explicitly lists constitute ‘legitimate interests’ within the meaning of the latter provision.
+[87] By Question 5, the referring court asks, in essence, whether points (c) to (e) of the first subparagraph of Article 6(1) of the GDPR must be interpreted as meaning that such processing of personal data can be regarded as necessary for compliance with a legal obligation to which the controller is subject, within the meaning of point (c), in order to protect the vital interests of the data subject or of another natural person, within the meaning of point (d), or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller, within the meaning of point (e), where such processing is carried out, respectively, in order to respond to a legitimate request for certain data, to combat harmful behaviour and promote security, and to research for social good and promote safety, integrity and security.
