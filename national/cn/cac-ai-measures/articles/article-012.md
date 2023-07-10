@@ -1,10 +1,9 @@
-# Article 12 — Implicit Watermarking and Conspicuous Synthetic Content Labeling (Articles 16–17)
+# Article 12 — Synthetic Content Labeling and User Input Protection (Articles 11–12)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (`2022-11-25`)
-- **Document Symbol**: `CAC Order No. 12`
+- **Stage**: Interim Measures for the Management of Generative AI Services (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-1. Deep synthesis service providers shall take technical measures to add signs that do not affect user use (implicit watermarks/metadata logs) to information content generated or edited using their services, and store log information in accordance with laws and regulations.
-2. Where deep synthesis service providers provide intelligent dialogue, synthesized human voice, facial generation or replacement, or immersive realistic scenes that might cause confusion or misidentification by the public, they shall place conspicuous labels in reasonable positions on the generated or edited content to alert the public to the deep synthesis situation.
-3. No organization or individual may use technical means to delete, tamper with, or conceal the deep synthesis identification marks specified in Articles 16 and 17.
+1. Providers shall fulfill the obligation of protecting users' input information and usage records in accordance with the law, must not collect unnecessary personal information, must not illegally retain input information and usage records that can identify users, and must not illegally provide users' input information and usage records to others.
+2. Providers shall mark generated content such as pictures and videos in accordance with the Internet Information Service Deep Synthesis Management Provisions.

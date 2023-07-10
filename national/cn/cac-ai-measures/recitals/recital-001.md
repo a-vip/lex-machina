@@ -1,7 +1,7 @@
 # Recital (1)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (`2022-11-25`)
+- **Stage**: Interim Measures for the Management of Generative AI Services (`2023-07-10`)
 - **Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-(1) The Internet Information Service Deep Synthesis Management Provisions (CAC Order No. 12, promulgated 25 November 2022, effective 10 January 2023) extend China's algorithmic regulatory framework to deep learning and virtual reality synthesis technologies generating text, images, audio, video, and virtual scenes.
+(1) The Interim Measures for the Management of Generative Artificial Intelligence Services (CAC Order No. 15, jointly promulgated on 10 July 2023 by CAC, NDRC, MoE, MOST, MIIT, MPS, and NRTA, effective 15 August 2023) establish comprehensive lifecycle governance for public-facing foundation and generative AI services while introducing an explicit R&D/internal-use exemption and agile 'classified and graded' supervision.

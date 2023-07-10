@@ -1,9 +1,13 @@
-# Article 7 — Training Data Legitimacy and Biometric Editing Consent (Article 14)
+# Article 7 — Training Data Pre-Processing, IP Compliance, and Personal Data Consent
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (`2022-11-25`)
-- **Document Symbol**: `CAC Order No. 12`
+- **Stage**: Interim Measures for the Management of Generative AI Services (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-1. Deep synthesis service providers and technical supporters shall strengthen training data management, take necessary measures to ensure training data security, and where personal information is involved, comply with relevant provisions on personal information protection.
-2. Where deep synthesis service providers and technical supporters provide functions for editing biometric information such as faces and voices, they shall prompt deep synthesis service users to legally notify the edited individuals and obtain their separate consent.
+Providers of generative AI services ('providers') shall carry out pre-training, optimization training, and other training data processing activities in accordance with the law, and abide by the following provisions:
+(a) use data and foundation models with legitimate sources;
+(b) where intellectual property rights are involved, must not infringe upon intellectual property rights enjoyed by others in accordance with the law;
+(c) where personal information is involved, obtain the consent of the individual or comply with other circumstances prescribed by laws and administrative regulations;
+(d) take effective measures to improve the quality of training data and enhance the authenticity, accuracy, objectivity, and diversity of training data;
+(e) comply with the relevant provisions of the Cybersecurity Law, Data Security Law, and Personal Information Protection Law, as well as the basic scientific and technological safety requirements of relevant competent departments.
