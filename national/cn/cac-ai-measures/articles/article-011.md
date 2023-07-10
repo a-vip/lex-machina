@@ -1,10 +1,11 @@
-# Article 11 — CAC Order No. 12 — Article 11 (第十一条)
+# Article 11 — CAC Order No. 15 — Article 11 (第十一条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
-- **Document Symbol**: `CAC Order No. 12`
+- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
 - **Akoma Ntoso eId**: `cn_art_11`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第十一条 深度合成服务提供者应当建立健全辟谣机制，发现利用深度合成服务制作、复制、发布、传播虚假信息的，应当及时采取辟谣措施，保存有关记录，并向网信部门和有关主管部门报告。
+第十一条 提供者对使用者的输入信息和使用记录应当依法履行保护义务，不得收集非必要个人信息，不得非法留存能够识别使用者身份的输入信息和使用记录，不得非法向他人提供使用者的输入信息和使用记录。
+提供者应当依法及时受理和处理个人关于查阅、复制、更正、补充、删除其个人信息等的请求。

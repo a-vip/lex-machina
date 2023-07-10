@@ -1,10 +1,15 @@
-# Article 7 — CAC Order No. 12 — Article 7 (第七条)
+# Article 7 — CAC Order No. 15 — Article 7 (第七条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
-- **Document Symbol**: `CAC Order No. 12`
+- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
 - **Akoma Ntoso eId**: `cn_art_7`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第七条 深度合成服务提供者应当落实信息安全主体责任，建立健全用户注册、算法机制机理审核、科技伦理审查、信息发布审核、数据安全、个人信息保护、反电信网络诈骗、应急处置等管理制度，具有安全可控的技术保障措施。
+第七条 生成式人工智能服务提供者（以下称提供者）应当依法开展预训练、优化训练等训练数据处理活动，遵守以下规定：
+（一）使用具有合法来源的数据和基础模型；
+（二）涉及知识产权的，不得侵害他人依法享有的知识产权；
+（三）涉及个人信息的，应当取得个人同意或者符合法律、行政法规规定的其他情形；
+（四）采取有效措施提高训练数据质量，增强训练数据的真实性、准确性、客观性、多样性；
+（五）《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律、行政法规的其他有关规定和有关主管部门的相关监管要求。

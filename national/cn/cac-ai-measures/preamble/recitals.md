@@ -1,2 +1,2 @@
 # Preamble & Recitals — China CAC AI Regulations
-**Stage**: CAC Deep Synthesis Provisions (Order No. 12) (2022-11-25)
+**Stage**: Interim Measures for Generative AI Services (Order No. 15) (2023-07-10)

@@ -1,0 +1,12 @@
+# Article 2 — CAC Order No. 15 — Article 2 (第二条)
+
+- **Instrument**: China CAC AI Regulations
+- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
+- **Akoma Ntoso eId**: `cn_art_2`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
+
+第二条 利用生成式人工智能技术向中华人民共和国境内公众提供生成文本、图片、音频、视频等内容的服务（以下称生成式人工智能服务），适用本办法。
+国家对利用生成式人工智能服务从事新闻出版、影视制作、文艺创作等活动另有规定的，从其规定。
+行业组织、企业、教育和科研机构、公共文化机构、有关专业机构等研发、应用生成式人工智能技术，未向境内公众提供生成式人工智能服务的，不适用本办法的规定。

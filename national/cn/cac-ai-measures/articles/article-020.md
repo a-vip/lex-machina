@@ -1,10 +1,10 @@
-# Article 20 — CAC Order No. 12 — Article 20 (第二十条)
+# Article 20 — CAC Order No. 15 — Article 20 (第二十条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
-- **Document Symbol**: `CAC Order No. 12`
+- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
 - **Akoma Ntoso eId**: `cn_art_20`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第二十条 深度合成服务提供者开发上线具有舆论属性或者社会动员能力的新产品、新应用、新功能的，应当按照国家有关规定开展安全评估。
+第二十条 对来源于中华人民共和国境外向境内提供生成式人工智能服务不符合法律、行政法规和本办法规定的，国家网信部门应当通知有关机构采取技术措施和其他必要措施予以处置。

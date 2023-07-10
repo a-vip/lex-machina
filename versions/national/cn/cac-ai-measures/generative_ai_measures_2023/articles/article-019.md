@@ -1,0 +1,11 @@
+# Article 19 — CAC Order No. 15 — Article 19 (第十九条)
+
+- **Instrument**: China CAC AI Regulations
+- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
+- **Akoma Ntoso eId**: `cn_art_19`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
+
+第十九条 有关主管部门依据职责对生成式人工智能服务开展监督检查，提供者应当依法予以配合，按要求对训练数据来源、规模、类型、标注规则、算法机制机理等予以说明，并提供必要的技术、数据等支持和协助。
+参与生成式人工智能服务安全评估和监督检查的相关机构和人员对在履行职责中知悉的国家秘密、商业秘密、个人隐私和个人信息应当依法予以保密，不得泄露或者非法向他人提供。

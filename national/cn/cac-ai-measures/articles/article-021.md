@@ -1,11 +1,12 @@
-# Article 21 — CAC Order No. 12 — Article 21 (第二十一条)
+# Article 21 — CAC Order No. 15 — Article 21 (第二十一条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: CAC Deep Synthesis Provisions (Order No. 12) (`2022-11-25`)
-- **Document Symbol**: `CAC Order No. 12`
+- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
+- **Document Symbol**: `CAC Order No. 15`
 - **Akoma Ntoso eId**: `cn_art_21`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第二十一条 网信部门和电信主管部门、公安部门依据职责对深度合成服务开展监督检查。深度合成服务提供者和技术支持者应当依法予以配合，并提供必要的技术、数据等支持和协助。
-网信部门和有关主管部门发现深度合成服务存在较大信息安全风险的，可以按照职责依法要求深度合成服务提供者和技术支持者采取暂停信息更新、用户账号注册或者其他相关服务等措施。深度合成服务提供者和技术支持者应当按照要求采取措施，进行整改，消除隐患。
+第二十一条 提供者违反本办法规定的，由有关主管部门依照《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《中华人民共和国科学技术进步法》等法律、行政法规的规定予以处罚；法律、行政法规没有规定的，由有关主管部门依据职责予以警告、通报批评，责令限期改正；拒不改正或者情节严重的，责令暂停提供相关服务。
+构成违反治安管理行为的，依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。
+第五章 附　则
