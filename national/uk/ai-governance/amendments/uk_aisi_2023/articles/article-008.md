@@ -1,0 +1,18 @@
+# Article 8 — Definitions
+
+- **Instrument**: UK AI Governance & DUAA 2025
+- **Stage**: Introducing the UK AI Safety Institute (AISI) (`2023-11-02`)
+- **Document Symbol**: `UK DSIT AISI-2023`
+- **Akoma Ntoso eId**: `govuk_sec_8`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: UK AI Safety Institute (AISI) `<aisi@dsit.gov.uk>`
+
+There is debate and disagreement relating to several key terms used in this document. For the purpose of this document, we are using the following working definitions:
+Artificial Intelligence : The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages. Modern AI is usually built using machine learning algorithms. The algorithms find complex patterns in data which can be used to form rules.
+Machine Learning : Algorithms that allow computers to recognise patterns in data, understanding the relationship between the data they are given and the problem the algorithm designer is trying to solve, without the rules having to be explicitly programmed by a human. Machine Learning is a sub-field of AI .
+AI system : The complete hardware and software setup through which one or more machine learning models is developed, deployed and/or made available to downstream users.
+Advanced/frontier AI : The terms ‘advanced AI ’ and ‘frontier AI ’ are contested. The intention of this document, where both terms are used, is to capture the cutting edge of technological advancement in AI – therefore offering the most opportunities but also presenting new risks. The scope of the AI Safety Institute includes both highly capable general-purpose AI models and narrow AI that is designed to perform a specific task, if the narrow system has high potential for harm. This matches the scope of the 2023 Global AI Safety Summit. Ahead of the government’s response to the AI Regulation White Paper, we intend to work to define terms more clearly in the context of fast-paced research developments.
+AI safety : The understanding, prevention, and mitigation of harms from AI . These harms could be deliberate or accidental; caused to individuals, groups, organisations, nations or globally; and of many types, including but not limited to physical, psychological, social, or economic harms.
+AI security : Protecting AI models and systems containing AI components from attacks by malicious actors that may result in the disruption of, damage to, theft of, or unauthorised leaking of information about those systems and/or their related assets. This encompasses protecting AI systems from standard cybersecurity threats as well as those arising from novel vulnerabilities associated with AI workflows and supply chains (known as adversarial machine learning).
+Sociotechnical : Considering both technical and social aspects of an issue, and their interactions. For example, advanced AI systems can contain and magnify biases ingrained in the data they are trained on, or cheaply generate realistic content which can falsely portray people and events, with a risk of lowering societal trust in true information. Likewise, measures to improve safety, such as evaluating bias in AI systems or establishing a red teaming network, require multidisciplinary expertise beyond the technical.
+Evaluations : Systematic assessments of an AI system’s safety-relevant properties. This does not constitute a pass/fail test or mandates conditions for deployment, but aims to improve understanding of the system’s capabilities, behaviours, and safeguards.

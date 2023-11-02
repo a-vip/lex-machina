@@ -1,0 +1,15 @@
+# Article 4 — Mission and scope
+
+- **Instrument**: UK AI Governance & DUAA 2025
+- **Stage**: Introducing the UK AI Safety Institute (AISI) (`2023-11-02`)
+- **Document Symbol**: `UK DSIT AISI-2023`
+- **Akoma Ntoso eId**: `govuk_sec_4`
+- **Provenance Mode**: `full_primary_html`
+- **Institutional Author**: UK AI Safety Institute (AISI) `<aisi@dsit.gov.uk>`
+
+The Institute is the first state-backed organisation focused on advanced AI safety for the public interest. Its mission is to minimise surprise to the UK and humanity from rapid and unexpected advances in AI . It will work towards this by developing the sociotechnical infrastructure needed to understand the risks of advanced AI and enable its governance.
+This mission stems from our conviction that governments have a key role to play in providing publicly accountable evaluations of AI systems and supporting research. While developers of AI systems may undertake their own safety research, there is no common standard in quality or consistency. Beyond this, only governments can run evaluations on issues related to national security as they require access to very sensitive knowledge. Governments will only be able to develop effective policy and regulatory responses to AI if they understand the technology better than they do today. By building a body of evidence on the risks from advanced AI , the Institute will lay the foundations for technically grounded international governance.
+The Institute will focus on the most advanced current AI capabilities and any future developments, aiming to ensure that the UK and the world are not caught off guard by progress at the frontier of AI in a field that is highly uncertain. It will consider open-source systems as well as those deployed with various forms of access controls. Both AI safety and security are in scope.
+The research of the AI Safety Institute will inform UK and international policymaking and provide technical tools for governance and regulation. Possible examples of technical tools include secure methods to fine-tune systems with sensitive data, platforms to solicit collective input and participation in model training and risk assessment, or techniques to analyse training data for bias (see Box 2 ).
+The Institute is not a regulator and will not determine government regulation. It will collaborate with existing organisations within government, academia, civil society, and the private sector to avoid duplication, ensuring that activity is both informing and complementing the UK’s regulatory approach to AI as set out in the AI Regulation white paper . It will provide foundational insights to our governance regime and be a leading player in ensuring that the UK takes an evidence-based, proportionate response to regulating the risks of AI .
+The Institute will establish the UK as a global hub for safety research, deepening the UK’s stake in this strategically important technology. By improving the safety of advanced AI , the Institute will pave the way for increased adoption of advanced AI in this country, so that the UK is well-placed to seize these benefits.

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-uk-ai-governance",
+  "path": "national/uk/ai-governance",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "United Kingdom AI Governance: DSIT AI White Paper, UK AI Safety Institute (AISI) & Data (Use and Access) Act 2025 (c. 18)",
+  "short_title": "UK AI Governance & DUAA 2025",
+  "type": "national_framework",
+  "celex": "UK_AI_DUAA_2025",
+  "eli": null,
+  "document_symbol": "UK DSIT AISI-2023",
+  "stage": "uk_aisi_2023",
+  "stage_label": "Introducing the UK AI Safety Institute (AISI)",
+  "published_date": "2023-11-02",
+  "in_force_date": "2025-06-19",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "UK AI Safety Institute (AISI)",
+    "email": "aisi@dsit.gov.uk"
+  },
+  "source_url": "https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute",
+  "summary": "Official founding policy paper establishing the UK AI Safety Institute (now AI Security Institute) for frontier model pre-deployment safety evaluations.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "0a6041e43806047f6f531a5f7d40c8be1d7e37f980899ba78d78beaba5535152",
+    "final_url": "https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute",
+    "http_status": 200,
+    "http_etag": "W/\"0a6041e43806047f6f531a5f7d40c8be\"",
+    "bytes_fetched": 161542,
+    "fetched_utc": "2026-11-23T14:31:53Z",
+    "sha256_normalized_full_text": "32745b2993fb685ecc3691f3617f47b9c8780c4dad9af25c95973b2724e3f9d5"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 8,
+    "annexes": 0
+  }
+}
