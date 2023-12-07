@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "caselaw-cjeu-schufa",
+  "path": "caselaw/cjeu/schufa-c-634-21",
+  "jurisdiction": "caselaw",
+  "domain": "ai",
+  "title": "CJEU Judgment in OQ v Land Hessen / SCHUFA Holding (Case C-634/21) — Automated Decision-Making & AI Scoring",
+  "short_title": "CJEU SCHUFA (C-634/21)",
+  "type": "judicial_precedent",
+  "celex": "62021CJ0634",
+  "eli": "http://data.europa.eu/eli/case/2021/634/oj",
+  "document_symbol": "Case C-634/21 (SCHUFA)",
+  "stage": "judgment_final",
+  "stage_label": "CJEU First Chamber Judgment (ECLI:EU:C:2023:957)",
+  "published_date": "2023-12-07",
+  "in_force_date": "2023-12-07",
+  "status": "binding_precedent",
+  "institutional_author": {
+    "name": "Court of Justice of the European Union (CJEU)",
+    "email": "cjeu@curia.europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/acd82fb9-94e3-11ee-b164-01aa75ed71a1.0010.05/DOC_1",
+  "summary": "Landmark binding CJEU judgment interpreting GDPR Article 22(1) to cover third-party algorithmic credit scoring where downstream decision-makers draw strongly on the probability score.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "0fbf6c7975cf557d587aedcba8808626d2789296c9441d0b91f51558d813542f",
+    "final_url": "http://publications.europa.eu/resource/cellar/acd82fb9-94e3-11ee-b164-01aa75ed71a1.0010.05/DOC_1",
+    "eli": "http://data.europa.eu/eli/case/2021/634/oj",
+    "celex": "62021CJ0634",
+    "http_status": 200,
+    "http_etag": "\"Con-20240105064045000\"",
+    "bytes_fetched": 100664,
+    "fetched_utc": "2026-11-23T14:23:35Z",
+    "sha256_normalized_full_text": "c114c476a61760f1030f4e7815d59be29aec7d6b93a016d4319a4ade4f413cd9"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 10,
+    "annexes": 0
+  }
+}
