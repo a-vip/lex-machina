@@ -1,25 +1,27 @@
-# Article 30 — Effects of the Convention
+# Article 30 — Signature and entry into force
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Revised Zero Draft (`2023-01-06`)
-- **Document Symbol**: `CAI(2023)01`
+- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
+- **Document Symbol**: `CAI(2023)28`
 - **Akoma Ntoso eId**: `art_30`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
 
-1. If two or more Parties have already concluded an agreement or treaty on the matters dealt
-with in this Convention or have otherwise established their relations on such matters, or
-should they in future do so, they shall also be entitled to apply that agreement or treaty or to
-regulate those relations accordingly. However, where Parties establish their relations in
-CAI(2023)01
-11/13
-respect of the matters dealt with in the present Convention other than as regulated therein,
-they shall do so in a manner that is not inconsistent with the Convention’s objective and
-principles.
-2. Parties which are members of the European Union shall, in their mutual relations, apply
-Community and European Union rules in so far as there are Community or European Union
-rules governing the particular subject concerned and applicable to the specific case, without
-prejudice to the object and purpose of the present Convention and without prejudice to its full
-application with other Parties.
-3. Nothing in this Convention shall affect other rights, obligations and responsibilities of a Party
-and individuals under international law.
+1. This Convention shall be open for signature by the member States of the Council of
+Europe, the non-member States which have participated in its elaboration and the
+European Union.
+2. This Convention is subject to ratification, acceptance or approval. Instruments of
+ratification, acceptance or approval shall be deposited with the Secretary General of
+the Council of Europe.
+3. This Convention shall enter into force on the first day of the month following the
+expiration of a period of three months after the date on which five Signatories, including
+at least three member States of the Council of Europe, have expressed their consent
+to be bound by the Convention in accordance with the provisions of paragraph 23.
+4. In respect of any Signatory which subsequently expresses its consent to be bound by
+it, the Convention shall enter into force on the first day of the month following the
+3 The question of how to count the number of signatures in the case of the European Union signing will be examined and
+revised at a later stage.
+CAI(2023)28
+15
+expiration of a period of three months after the date of the deposit of its instrument of
+ratification, acceptance or approval.

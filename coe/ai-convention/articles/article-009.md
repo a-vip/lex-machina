@@ -1,14 +1,15 @@
-# Article 9 — Preservation of individual freedom, human dignity and autonomy
+# Article 9 — Equality and non-discrimination
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Revised Zero Draft (`2023-01-06`)
-- **Document Symbol**: `CAI(2023)01`
+- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
+- **Document Symbol**: `CAI(2023)28`
 - **Akoma Ntoso eId**: `art_9`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
 
-Each Party shall take the necessary measures to preserve individual freedom, human dignity and
-autonomy and in particular the ability to reach informed decisions free from undue influence,
-manipulation or detrimental effects which may adversely affect the right to freedom of expression
-and assembly, democratic participation and the exercise of other relevant human rights and
-fundamental freedoms as a result of the inappropriate application of an artificial intelligence system.
+1. Each Party shall adopt or maintain measures with a view to ensuring that activities related
+to the lifecycle of artificial intelligence systems respect equality, including gender equality, and
+the prohibition of discrimination, as provided under applicable international and domestic law.
+2. Each Party undertakes to adopt measures aimed at overcoming inequalities to achieve fair,
+just and equitable outcomes, in line with its applicable domestic and international human rights
+obligations.

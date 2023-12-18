@@ -1,17 +1,17 @@
-# Article 29 — National supervisory authorities
+# Article 29 — Dispute settlement
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Revised Zero Draft (`2023-01-06`)
-- **Document Symbol**: `CAI(2023)01`
+- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
+- **Document Symbol**: `CAI(2023)28`
 - **Akoma Ntoso eId**: `art_29`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
 
-1. Parties shall establish or designate national supervisory authorities tasked, in particular, with
-overseeing and supervising compliance with the requirements of the risk and impact
-assessment of artificial intelligence systems, in accordance with Articles 24 and 25.
-2. Parties shall ensure the national supervisory authorities have sufficient resources and
-properly trained personnel to carry out their activities.
-3. The national supervisory authorities shall be independent and impartial in the exercise of
-their duties.
-Chapter VIII: Final provisions
+[In the event of a dispute between Parties as to the interpretation or application of this
+Convention which cannot be resolved by the Conference of the Parties, as provided for in
+Article 24, paragraph 1, e, they shall seek a settlement of the dispute through negotiation or
+any other peaceful means of their choice.
+The European Union and its members States in their relations with each other shall not avail
+themselves of Article 29 of the Convention. Nor shall the member States of the European
+Union avail themselves of that Article of the Convention insofar as a dispute between them
+concerns the interpretation or application of European Union law.]

@@ -1,18 +1,22 @@
-# Article 5 — Obligations relating to public authorities
+# Article 5 — Integrity of democratic processes and respect for rule of law
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Revised Zero Draft (`2023-01-06`)
-- **Document Symbol**: `CAI(2023)01`
+- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
+- **Document Symbol**: `CAI(2023)28`
 - **Akoma Ntoso eId**: `art_5`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
 
-Each Party shall, within its respective jurisdiction, ensure that:
-a. the application of an artificial intelligence system substantially informing decision-making by
-a public authority in the exercise of its function, or any private entity acting on its behalf, is
-fully compatible with its obligations to respect human rights and fundamental freedoms as
-guaranteed under its domestic law or under any relevant applicable international law;
-b. any interference with human rights and fundamental freedoms by a public authority or any
-private entity acting on its behalf resulting from such application of an artificial intelligence
-system is compatible with core values of democratic societies, in accordance with the law
-and necessary in a democratic society in pursuit of a legitimate public interest.
+1. Each Party shall adopt or maintain measures that seek to ensure that artificial
+intelligence systems are not used to undermine the integrity, independence and effectiveness
+of democratic institutions and processes, including the principle of separation of powers,
+respect for judicial independence, and access to justice.
+2. Each Party shall adopt or maintain measures that seek to protect [individuals’]
+participation in democratic processes, fair access to public debate [, and the ability of
+individuals to reach decisions free from undue / [harmful and malicious external] influence or
+manipulation,] in the context of activities within the lifecycle of artificial intelligence systems.
+Chapter III: Principles related to activities within the lifecycle of
+artificial intelligence systems
+[This Chapter sets forth general common principles that each Party shall implement in regards
+to [incorporate in the lifecycle of] artificial intelligence systems in a manner appropriate to its
+domestic legal system and the other obligations of this Convention.]

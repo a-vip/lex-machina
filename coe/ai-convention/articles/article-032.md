@@ -1,15 +1,22 @@
-# Article 32 — Dispute settlement
+# Article 32 — Territorial application
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Revised Zero Draft (`2023-01-06`)
-- **Document Symbol**: `CAI(2023)01`
+- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
+- **Document Symbol**: `CAI(2023)28`
 - **Akoma Ntoso eId**: `art_32`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
 
-In the event of a dispute between Parties as to the interpretation or application of this Convention
-which cannot be resolved by the Consultation of the Parties, as provided for in Article 27 , paragraph
-1, d, they shall seek a settlement of the dispute through negotiation or any other peaceful means of
-their choice, including submission of the dispute to an arbitral tribunal whose decisions shall be
-binding upon the Parties to the dispute, or to the International Court of Justice, as agreed upon by
-the Parties concerned.
+1. Any State or the European Union may, at the time of signature or when depositing its
+instrument of ratification, acceptance, approval or accession, specify the territory or
+territories to which this Convention shall apply.
+2. Any Party may, at a later date, by a declaration addressed to the Secretary General of
+the Council of Europe, extend the application of this Convention to any other territory
+specified in the declaration. In respect of such territory the Convention shall enter into
+force on the first day of the month following the expiration of a period of three months
+after the date of receipt of the declaration by the Secretary General.
+3. Any declaration made under the two preceding paragraphs may, in respect of any
+territory specified in such declaration, be withdrawn by a notification addressed to the
+Secretary General of the Council of Europe. The withdrawal shall become effective on
+the first day of the month following the expiration of a period of three months after the
+date of receipt of such notification by the Secretary General.

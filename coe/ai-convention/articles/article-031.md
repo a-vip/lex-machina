@@ -1,22 +1,20 @@
-# Article 31 — Amendments
+# Article 31 — Accession
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Revised Zero Draft (`2023-01-06`)
-- **Document Symbol**: `CAI(2023)01`
+- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
+- **Document Symbol**: `CAI(2023)28`
 - **Akoma Ntoso eId**: `art_31`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
 
-1. Amendments to this Convention may be proposed by any Party, the Committee of Ministers
-of the Council of Europe or the Consultation of the Parties.
-2. Any proposal for amendment shall be communicated by the Secretary General of the Council
-of Europe to the Parties.
-3. Moreover, any amendment proposed by a Party, or the Committee of Ministers, shall be
-communicated to the Consultation of the Parties, which shall submit to the Committee of
-Ministers its opinion on the proposed amendment.
-4. The Committee of Ministers shall consider the proposed amendment and any opinion
-submitted by the Consultation of the Parties and may approve the amendment.
-5. The text of any amendment approved by the Committee of Ministers in accordance with
-paragraph 4 shall be forwarded to the Parties for acceptance.
-6. Any amendment approved in accordance with paragraph 4 shall come into force on the
-thirtieth day after all Parties have informed the Secretary General of their acceptance thereof.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council
+of Europe may, after consulting the Parties to this Convention and obtaining their
+unanimous consent, invite any non-member State of the Council of Europe which has
+not participated in the elaboration of the Convention to accede to this Convention by a
+decision taken by the majority provided for in Article 20.d of the Statute of the Council
+of Europe, and by unanimous vote of the representatives of the Parties entitled to sit
+on the Committee of Ministers.
+2. In respect of any acceding State, the Convention shall enter into force on the first day
+of the month following the expiration of a period of three months after the date of
+deposit of the instrument of accession with the Secretary General of the Council of
+Europe.
