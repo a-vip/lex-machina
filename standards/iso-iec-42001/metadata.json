@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "standards-iso-iec-42001",
+  "path": "standards/iso-iec-42001",
+  "jurisdiction": "standards",
+  "domain": "ai",
+  "title": "ISO/IEC 42001:2023 — Information Technology — Artificial Intelligence Management System (AIMS) Crosswalk",
+  "short_title": "ISO/IEC 42001:2023 (AIMS)",
+  "type": "technical_standard_crosswalk",
+  "celex": "ISO_IEC_42001_2023",
+  "eli": null,
+  "document_symbol": "ISO/IEC 42001:2023",
+  "stage": "iso_42001_2023_crosswalk",
+  "stage_label": "ISO/IEC 42001:2023 Global Statutory Crosswalk Record",
+  "published_date": "2023-12-18",
+  "in_force_date": "2023-12-18",
+  "status": "active_international_standard",
+  "institutional_author": {
+    "name": "ISO/IEC JTC 1/SC 42",
+    "email": "sc42@iso.org"
+  },
+  "source_url": "https://www.iso.org/standard/81230.html",
+  "summary": "Normative legal crosswalk linking ISO/IEC 42001:2023 AI Management System controls to EU AI Act Articles 9 & 17, NIST AI RMF, US State AI safe harbors, South Korea AI Basic Act, and Singapore Agentic AI MGF.",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "5a4c14325f9c4a8c82fbae1c7ff5aec1dd084adffb49b9f757d826d3a60349d4",
+    "final_url": "https://www.iso.org/standard/81230.html",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "30a0c13961d995dcd6f8a2ba182c07e6e3dac5e3ef141a02eaac37918f5690ca"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 1,
+    "annexes": 0
+  }
+}
