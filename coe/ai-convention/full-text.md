@@ -1,37 +1,41 @@
 # Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225)
 
-- **Stage**: CAI Revised Zero Draft (`revised_zero_draft`)
-- **Document Symbol**: `CAI(2023)01`
-- **Date**: `2023-01-06`
+- **Stage**: CAI Consolidated Working Draft (`consolidated_working_draft`)
+- **Document Symbol**: `CAI(2023)28`
+- **Date**: `2023-12-18`
 - **Institutional Author**: `Committee on Artificial Intelligence (CAI) <cai@coe.int>`
-- **Source**: https://rm.coe.int/cai-2023-01-revised-zero-draft-framework-convention-public/1680aa193f
+- **Source**: https://rm.coe.int/cai-2023-28-draft-framework-convention/1680ade043
 
-> Revised Zero Draft of the [Framework] Convention on Artificial Intelligence, Human Rights, Democracy and the Rule of Law prepared by the Chair of the CAI.
+> Consolidated Working Draft of the Framework Convention following multi-stakeholder negotiations on public vs. private sector scope, national defense exemptions, and algorithmic risk and impact assessments.
 
 ## Preamble & Recitals
 
-(1) The member States of the Council of Europe and the other signatories hereto, considering that the aim of the Council of Europe is to achieve a greater unity between its members, based in particular on respect for human rights, democracy and the rule of law, recognise the need to establish a common legal framework for the design, development and application of artificial intelligence systems.
+(1) The member States of the Council of Europe and the other signatories hereto, recognising the value of fostering cooperation between the Parties to this Convention and of extending such cooperation to other States that share the same values, are conscious of the accelerating developments in science and technology and the profound changes brought about by activities within the lifecycle of artificial intelligence systems.
 
 ## Enacting Terms (Articles)
 
-### Article 1 — Purpose and object
+### Article 1 — Object and purpose
 
-1. The provisions of this Convention aim to ensure that the design, development and application of artificial intelligence systems are fully consistent with respect for human rights, the functioning of democracy and the observance of the rule of law.
-2. Each Party shall adopt such legislative, administrative or other measures as may be necessary to give effect to the provisions set out in this Convention.
+1. The provisions of this Convention aim to ensure that activities within the lifecycle of artificial intelligence systems are fully consistent with human rights, democracy and the rule of law.
+2. Each Party shall adopt or maintain appropriate legislative, administrative or other measures to give effect to the provisions set out in this Convention. These measures shall be graduated and differentiated as may be necessary in view of the severity and probability of occurrence of adverse impacts on human rights, democracy and the rule of law throughout the lifecycle of artificial intelligence systems.
 
 ### Article 3 — Scope
 
-1. This Convention applies to the design, development and application of artificial intelligence systems by public authorities and private actors.
-2. This Convention shall not apply to the design, development and application of artificial intelligence systems used exclusively for national defence purposes.
+1. The scope of this Convention covers the activities within the lifecycle of artificial intelligence systems that have the potential to interfere with human rights, democracy and the rule of law, as follows:
+(a) Each Party shall apply this Convention to the activities within the lifecycle of artificial intelligence systems undertaken by public authorities, or private actors acting on their behalf;
+(b) Each Party shall address risks and impacts arising from activities within the lifecycle of artificial intelligence systems by private actors to the extent not covered in subparagraph (a) in a manner conforming with the object and purpose of the Convention.
+2. A Party shall not be required to apply this Convention to activities within the lifecycle of artificial intelligence systems related to the protection of its national security interests, with the understanding that such activities are conducted in a manner consistent with applicable international law.
+3. This Convention shall not apply to research and development activities regarding artificial intelligence systems not yet made available for use, unless testing or similar activities are undertaken in such a way that they have the potential to interfere with human rights, democracy and the rule of law.
 
 ### Article 4 — Definition of Artificial Intelligence System
 
-For the purposes of this Convention, 'artificial intelligence system' means any algorithmic system or a combination of such systems that uses computational methods derived from statistics or other mathematical techniques to carry out functions that are commonly associated with, or would otherwise require, human intelligence and that generates outputs such as content, predictions, recommendations or decisions.
+For the purposes of this Convention, 'artificial intelligence system' means a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations or decisions that may influence physical or virtual environments. Different artificial intelligence systems vary in their levels of autonomy and adaptiveness after deployment.
 
 ### Article 11 — Transparency and oversight
 
-Each Party shall establish mechanisms to ensure that adequate transparency and human oversight are maintained throughout the lifecycle of artificial intelligence systems proportionate to the risks to human rights, democracy and the rule of law.
+Each Party shall adopt or maintain measures to ensure that adequate transparency and oversight mechanisms are in place in respect of activities within the lifecycle of artificial intelligence systems, including regarding the identification of content generated by artificial intelligence systems and notifying persons interacting with an artificial intelligence system.
 
-### Article 16 — Risk and impact assessment
+### Article 16 — Risk and impact management framework
 
-Each Party shall take measures to ensure that prior and iterative assessments of the potential impacts of artificial intelligence systems on human rights, democracy and the rule of law are conducted before deployment.
+1. Each Party shall, taking into account the principles set forth in Chapter III, adopt or maintain measures for the identification, assessment, prevention and mitigation of risks and impacts posed by artificial intelligence systems by considering actual and potential impacts to human rights, democracy and the rule of law.
+2. Such measures shall be graduated and differentiated, as appropriate, and take due account of the context and intended use of artificial intelligence systems.
