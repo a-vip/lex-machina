@@ -5,22 +5,22 @@
   "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
   "short_title": "EU AI Act",
   "type": "regulation",
-  "celex": "52023AP0236",
-  "document_symbol": "P9_TA(2023)0236",
-  "stage": "parliament_mandate",
-  "stage_label": "European Parliament Negotiating Mandate",
-  "published_date": "2023-06-14",
+  "celex": "ST_5662_2024_INIT",
+  "document_symbol": "5662/24",
+  "stage": "trilogue_provisional_agreement",
+  "stage_label": "Provisional Trilogue Agreement Text",
+  "published_date": "2024-01-26",
   "in_force_date": "2024-08-01",
   "status": "in_force",
   "institutional_author": {
-    "name": "European Parliament",
-    "email": "parliament@europa.eu"
+    "name": "EU Trilogue Negotiators",
+    "email": "trilogue@europa.eu"
   },
-  "source_url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html",
-  "summary": "European Parliament plenary negotiating mandate banning real-time remote biometric identification in publicly accessible spaces, biometric categorization, predictive policing, untargeted facial scraping, emotion recognition in workplaces/education, and introducing tiered obligations for foundation models and generative AI.",
+  "source_url": "https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf",
+  "summary": "Consolidated compromise text following political trilogue agreement between Parliament, Council, and Commission establishing Fundamental Rights Impact Assessments (Article 27), General-Purpose AI Models with systemic risk thresholds (10^25 FLOPs), and narrowly circumscribed law enforcement exceptions in Article 5.",
   "counts": {
     "recitals": 3,
-    "articles": 10,
+    "articles": 12,
     "annexes": 1
   }
 }

@@ -1,13 +1,13 @@
 # Article 3 — Definitions
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
-- **Document Symbol**: `P9_TA(2023)0236`
-- **Institutional Author**: European Parliament `<parliament@europa.eu>`
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Document Symbol**: `5662/24`
+- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-For the purpose of this Regulation, the following definitions apply:
-(1) 'artificial intelligence system' (AI system) means a machine-based system that is designed to operate with varying levels of autonomy and that can, for explicit or implicit objectives, generate outputs such as predictions, recommendations, or decisions, that influence physical or virtual environments;
-(1c) 'foundation model' means an AI system model that is trained on broad data at scale, is designed for generality of output, and can be adapted to a wide range of distinctive tasks;
-(1d) 'general purpose AI system' means an AI system that can be used in and adapted to a wide range of applications for which it was not intentionally and specifically designed;
-(2) 'provider' means a natural or legal person, public authority, agency or other body that develops an AI system or a foundation model or that has an AI system or a foundation model developed and places it on the market or puts it into service under its own name or trademark, whether for payment or free of charge;
-(4) 'deployer' means any natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity.
+For the purposes of this Regulation, the following definitions apply:
+(1) 'AI system' means a machine-based system designed to operate with varying levels of autonomy, that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;
+(2) 'risk' means the combination of the probability of an occurrence of harm and the severity of that harm;
+(3) 'provider' means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge;
+(4) 'deployer' means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
+(63) 'general-purpose AI model' means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are placed on the market.
