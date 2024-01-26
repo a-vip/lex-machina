@@ -1,140 +1,66 @@
 # Recital (6)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
 - **Akoma Ntoso eId**: `rct_6`
-- **Provenance Mode**: `full_primary_html`
-- **Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-The notion of AI system
-in this Regulation
-should be clearly defined
-and closely aligned with the work of international organisations working on artificial intelligence
-to ensure legal certainty
-, harmonization and wide acceptance
-, while providing the flexibility to accommodate
-the rapid
-technological developments
-in this field. Moreover, it
-should be based on
-key
-characteristics of
-artificial intelligence
-, such as
-its learning, reasoning or modelling capabilities, so as to distinguish it from simpler software systems or programming approaches
-. AI systems
-are
-designed to operate with varying levels of autonomy
-, meaning that they have at least some degree of independence of actions from human controls
-and
-of capabilities to operate
-without
-human intervention. The term ‘machine-based’ refers to the fact that AI systems run on machines. The reference to explicit or implicit objectives underscores that AI systems can operate according to explicit human-defined objectives or to implicit objectives. The objectives of the
-AI system
-may be different from the intended purpose of the AI system in a
-specific
-context. The reference to predictions includes content
-, which
-is considered in this Regulation a form of prediction as one of the possible outputs produced by an AI system. For the purposes of this Regulation, environments
-should be
-understood as the contexts in which the AI systems operate, whereas outputs generated
-by the
-AI system, meaning predictions, recommendations or decisions, respond to the objectives of the system, on the basis of inputs from said environment
-.
-Such output further influences said environment, even by merely introducing new information to it.
-The notion of AI system should be clearly defined to ensure legal certainty, while providing the flexibility to accommodate
-future
-technological developments
-. The definition
-should be based on
-the key functional
-characteristics of
-the software
-,
-in particular the ability, for a given set of human-defined objectives, to generate outputs
-such as
-content, predictions, recommendations, or decisions which influence the environment with which the system interacts, be it in a physical or digital dimension
-. AI systems
-can be
-designed to operate with varying levels of autonomy and
-be used on a stand-alone basis or as a component of a product, irrespective of whether the system is physically integrated into the product (embedded) or serve the functionality of the product
-without
-being integrated therein (non-embedded). The definition of
-AI system
-should be complemented by a list of
-specific
-techniques and approaches used for its development
-, which should be
-kept up-to–date in the light of market and technological developments through the adoption of delegated acts
-by the
-Commission to amend that list
-.
-The notion of AI system
-in this Regulation
-should be clearly defined
-and closely aligned with the work of international organisations working on artificial intelligence
-to ensure legal certainty
-, harmonization and wide acceptance
-, while providing the flexibility to accommodate
-the rapid
-technological developments
-in this field. Moreover, it
-should be based on
-key
-characteristics of
-artificial intelligence
-, such as
-its learning, reasoning or modelling capabilities, so as to distinguish it from simpler software systems or programming approaches
-. AI systems
-are
-designed to operate with varying levels of autonomy
-, meaning that they have at least some degree of independence of actions from human controls
-and
-of capabilities to operate
-without
-human intervention. The term ‘machine-based’ refers to the fact that AI systems run on machines. The reference to explicit or implicit objectives underscores that AI systems can operate according to explicit human-defined objectives or to implicit objectives. The objectives of the
-AI system
-may be different from the intended purpose of the AI system in a
-specific
-context. The reference to predictions includes content
-, which
-is considered in this Regulation a form of prediction as one of the possible outputs produced by an AI system. For the purposes of this Regulation, environments
-should be
-understood as the contexts in which the AI systems operate, whereas outputs generated
-by the
-AI system, meaning predictions, recommendations or decisions, respond to the objectives of the system, on the basis of inputs from said environment
-.
-Such output further influences said environment, even by merely introducing new information to it.
-The notion of AI system should be clearly defined to ensure legal certainty, while providing the flexibility to accommodate
-future
-technological developments
-. The definition
-should be based on
-the key functional
-characteristics of
-the software
-,
-in particular the ability, for a given set of human-defined objectives, to generate outputs
-such as
-content, predictions, recommendations, or decisions which influence the environment with which the system interacts, be it in a physical or digital dimension
-. AI systems
-can be
-designed to operate with varying levels of autonomy and
-be used on a stand-alone basis or as a component of a product, irrespective of whether the system is physically integrated into the product (embedded) or serve the functionality of the product
-without
-being integrated therein (non-embedded). The definition of
-AI system
-should be complemented by a list of
-specific
-techniques and approaches used for its development
-, which should be
-kept up-to–date in the light of market and technological developments through the adoption of delegated acts
-by the
-Commission to amend that list
-.
-AI systems often have machine learning capacities that allow them to adapt and perform new tasks autonomously. Machine learning refers to the computational process of optimizing the parameters of a model from data, which is a mathematical construct generating an output based on input data. Machine learning approaches include, for instance, supervised, unsupervised and reinforcement learning, using a variety of methods including deep learning with neural networks. This Regulation is aimed at addressing new potential risks that may arise by delegating control to AI systems, in particular to those AI systems that can evolve after deployment. The function and outputs of many of these AI systems are based on abstract mathematical relationships that are difficult for humans to understand, monitor and trace back to specific inputs. These complex and opaque characteristics (black box element) impact accountability and explainability. Comparably simpler techniques such as knowledge-based approaches, Bayesian estimation or decision-trees may also lead to legal gaps that need to be addressed by this Regulation, in particular when they are used in combination with machine learning approaches in hybrid systems.
-AI systems often have machine learning capacities that allow them to adapt and perform new tasks autonomously. Machine learning refers to the computational process of optimizing the parameters of a model from data, which is a mathematical construct generating an output based on input data. Machine learning approaches include, for instance, supervised, unsupervised and reinforcement learning, using a variety of methods including deep learning with neural networks. This Regulation is aimed at addressing new potential risks that may arise by delegating control to AI systems, in particular to those AI systems that can evolve after deployment. The function and outputs of many of these AI systems are based on abstract mathematical relationships that are difficult for humans to understand, monitor and trace back to specific inputs. These complex and opaque characteristics (black box element) impact accountability and explainability. Comparably simpler techniques such as knowledge-based approaches, Bayesian estimation or decision-trees may also lead to legal gaps that need to be addressed by this Regulation, in particular when they are used in combination with machine learning approaches in hybrid systems.
-AI systems often have machine learning capacities that allow them to adapt and perform new tasks autonomously. Machine learning refers to the computational process of optimizing the parameters of a model from data, which is a mathematical construct generating an output based on input data. Machine learning approaches include, for instance, supervised, unsupervised and reinforcement learning, using a variety of methods including deep learning with neural networks. This Regulation is aimed at addressing new potential risks that may arise by delegating control to AI systems, in particular to those AI systems that can evolve after deployment. The function and outputs of many of these AI systems are based on abstract mathematical relationships that are difficult for humans to understand, monitor and trace back to specific inputs. These complex and opaque characteristics (black box element) impact accountability and explainability. Comparably simpler techniques such as knowledge-based approaches, Bayesian estimation or decision-trees may also lead to legal gaps that need to be addressed by this Regulation, in particular when they are used in combination with machine learning approaches in hybrid systems.
-AI systems can be used as stand-alone software system, integrated into a physical product (embedded), used to serve the functionality of a physical product without being integrated therein (non-embedded) or used as an AI component of a larger system. If this larger system would not function without the AI component in question, then the entire larger system should be considered as one single AI system under this Regulation.
-AI systems can be used as stand-alone software system, integrated into a physical product (embedded), used to serve the functionality of a physical product without being integrated therein (non-embedded) or used as an AI component of a larger system. If this larger system would not function without the AI component in question, then the entire larger system should be considered as one single AI system under this Regulation.
-AI systems can be used as stand-alone software system, integrated into a physical product (embedded), used to serve the functionality of a physical product without being integrated therein (non-embedded) or used as an AI component of a larger system. If this larger system would not function without the AI component in question, then the entire larger system should be considered as one single AI system under this Regulation.
+(6)
+The notion of AI system in this Regulation should be clearly defined and closely aligned
+with the work of international organisations working on artificial intelligence to ensure
+legal certainty, facilitate in
+ternational convergence and wide acceptance, while providing
+the flexibility to accommodate the rapid technological developments in this field.
+Moreover, it should be based on key characteristics of artificial intelligence systems, that
+distinguish it fro
+m simpler traditional software systems or programming approaches and
+should not cover systems that are based on the rules defined solely by natural persons to
+automatically execute operations. A key characteristic of AI systems is their capability to
+infer
+. This inference refers to the process of obtaining the outputs, such as predictions,
+content, recommendations, or decisions, which can influence physical and virtual
+environments and to a capability of AI systems to derive models and/or algorithms from
+in
+puts/data. The techniques that enable inference while building an AI system include
+machine learning approaches that learn from data how to achieve certain objectives; and
+logic
+-
+and knowledge
+-
+based approaches that infer from encoded knowledge or symbolic
+representation of the task to be solved. The capacity of an AI system to infer goes beyond
+basic data processing, enable learning, reasoning or modelling. The term “machine
+-
+based”
+refers to the fact that AI systems run on machines. The reference to explici
+t or implicit
+objectives underscores that AI systems can operate according to explicit defined objectives
+or to implicit objectives. The objectives of the AI system may be different from the
+intended purpose of the AI system in a specific context. For the
+purposes of this
+Regulation, environments should be understood as the contexts in which the AI systems
+operate, whereas outputs generated by the AI system, reflect different functions performed
+by AI systems and include predictions, content, recommendation
+s or decisions. AI
+systems are designed to operate with varying levels of autonomy, meaning that they have
+some degree of independence of actions from human involvement and of capabilities to
+5662/24
+RB/ek
+17
+TREE.2.B
+LIMITE
+EN
+operate without human intervention. The adaptiveness that an AI
+system could exhibit after
+deployment, refers to self
+-
+learning capabilities, allowing the system to change while in use.
+AI systems can be used on a stand
+-
+alone basis or as a component of a product, irrespective
+of whether the system is physically integra
+ted into the product (embedded) or serve the
+functionality of the product without being integrated therein (non
+-
+embedded).

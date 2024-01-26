@@ -1,42 +1,41 @@
 # Recital (49)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
 - **Akoma Ntoso eId**: `rct_49`
-- **Provenance Mode**: `full_primary_html`
-- **Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-High-risk AI systems should perform consistently throughout their lifecycle and meet an appropriate level of accuracy, robustness and cybersecurity in accordance with the generally acknowledged state of the art.
-Performance metrics and their expected level should be defined with the primary objective to mitigate risks and negative impact of the AI system. The expected
-level of
-performance
-metrics should be communicated
-in a clear, transparent, easily understandable and intelligible way
-to the
-deployers
-.
-The declaration of performance metrics cannot be considered proof of future levels, but relevant methods need to be applied to ensure consistent levels during use While standardisation organisations exist to establish standards, coordination on benchmarking is needed to establish how these standardised requirements and characteristics of AI systems should be measured. The European Artificial Intelligence Office should bring together national and international metrology and benchmarking authorities and provide non-binding guidance to address the technical aspects of how to measure the appropriate levels of performance and robustness.
-High-risk AI systems should perform consistently throughout their lifecycle and meet an appropriate level of accuracy, robustness and cybersecurity in accordance with the generally acknowledged state of the art.
-The
-level of
-accuracy and accuracy
-metrics should be communicated to the
-users
-.
-High-risk AI systems should perform consistently throughout their lifecycle and meet an appropriate level of accuracy, robustness and cybersecurity in accordance with the generally acknowledged state of the art.
-Performance metrics and their expected level should be defined with the primary objective to mitigate risks and negative impact of the AI system. The expected
-level of
-performance
-metrics should be communicated
-in a clear, transparent, easily understandable and intelligible way
-to the
-deployers
-.
-The declaration of performance metrics cannot be considered proof of future levels, but relevant methods need to be applied to ensure consistent levels during use While standardisation organisations exist to establish standards, coordination on benchmarking is needed to establish how these standardised requirements and characteristics of AI systems should be measured. The European Artificial Intelligence Office should bring together national and international metrology and benchmarking authorities and provide non-binding guidance to address the technical aspects of how to measure the appropriate levels of performance and robustness.
-High-risk AI systems should perform consistently throughout their lifecycle and meet an appropriate level of accuracy, robustness and cybersecurity in accordance with the generally acknowledged state of the art.
-The
-level of
-accuracy and accuracy
-metrics should be communicated to the
-users
-.
+(49)
+High
+-
+risk AI systems should perform consistently throughout t
+heir lifecycle and meet an
+appropriate level of accuracy, robustness and cybersecurity, in the light of their intended
+purpose and in accordance with the generally acknowledged state of the art. The
+Commission and relevant organisations and stakeholders a
+re encouraged to take due
+consideration of mitigation of risks and negative impacts of the AI system. The expected
+level of performance metrics should be declared in the accompanying instructions of use.
+Providers are urged to communicate this information
+to deployers in a clear and easily
+understandable way, free of misunderstandings or misleading statements. The EU
+legislation on legal metrology, including on Measuring Instruments Directive (MID) and
+Non
+-
+automatic weighing instruments (NAWI) Directive, a
+ims to ensure the accuracy of
+5662/24
+RB/ek
+50
+TREE.2.B
+LIMITE
+EN
+measurements and to help the transparency and fairness of commercial transactions. In this
+context, in cooperation with relevant stakeholders and organisation, such as metrology and
+benchmarking authorities, the Commission sho
+uld encourage, as appropriate, the
+development of benchmarks and measurement methodologies for AI systems. In doing so,
+the Commission should take note and collaborate with international partners working on
+metrology and relevant measurement indicators rel
+ating to Artificial Intelligence.

@@ -1,34 +1,39 @@
 # Recital (58)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
 - **Akoma Ntoso eId**: `rct_58`
-- **Provenance Mode**: `full_primary_html`
-- **Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-Given the nature of AI systems and the risks to safety and fundamental rights possibly associated with their use, including as
-regards
-the need to ensure proper monitoring of the performance of an AI system in a real-life setting, it is appropriate to set specific responsibilities for
-deployers. Deployers
-should in particular use high-risk AI systems in accordance with the instructions of use and certain other obligations should be provided for with regard to monitoring of the functioning of the AI systems and with regard to record-keeping, as appropriate.
-Given the nature of AI systems and the risks to safety and fundamental rights possibly associated with their use, including as
-regard
-the need to ensure proper monitoring of the performance of an AI system in a real-life setting, it is appropriate to set specific responsibilities for
-users. Users
-should in particular use high-risk AI systems in accordance with the instructions of use and certain other obligations should be provided for with regard to monitoring of the functioning of the AI systems and with regard to record-keeping, as appropriate.
-Given the nature of AI systems and the risks to safety and fundamental rights possibly associated with their use, including as
-regards
-the need to ensure proper monitoring of the performance of an AI system in a real-life setting, it is appropriate to set specific responsibilities for
-deployers. Deployers
-should in particular use high-risk AI systems in accordance with the instructions of use and certain other obligations should be provided for with regard to monitoring of the functioning of the AI systems and with regard to record-keeping, as appropriate.
-Given the nature of AI systems and the risks to safety and fundamental rights possibly associated with their use, including as
-regard
-the need to ensure proper monitoring of the performance of an AI system in a real-life setting, it is appropriate to set specific responsibilities for
-users. Users
-should in particular use high-risk AI systems in accordance with the instructions of use and certain other obligations should be provided for with regard to monitoring of the functioning of the AI systems and with regard to record-keeping, as appropriate.
-Whilst risks related to AI systems can result from the way such systems are designed, risks can as well stem from how such AI systems are used. Deployers of high-risk AI system therefore play a critical role in ensuring that fundamental rights are protected, complementing the obligations of the provider when developing the AI system. Deployers are best placed to understand how the high-risk AI system will be used concretely and can therefore identify potential significant risks that were not foreseen in the development phase, due to a more precise knowledge of the context of use, the people or groups of people likely to be affected, including marginalised and vulnerable groups. Deployers should identify appropriate governance structures in that specific context of use, such as arrangements for human oversight, complaint-handling procedures and redress procedures, because choices in the governance structures can be instrumental in mitigating risks to fundamental rights in concrete use-cases. In order to efficiently ensure that
-fundamental rights are protected, the deployer of high-risk AI systems should therefore carry out a fundamental rights impact assessment prior to putting it into use. The impact assessment should be accompanied by a detailed plan describing the measures or tools that will help mitigating the risks to fundamental rights identified at the latest from the time of putting it into use. If such plan cannot be identified, the deployer should refrain from putting the system into use. When performing this impact assessment, the deployer should notify the national supervisory authority and, to the best extent possible relevant stakeholders as well as representatives of groups of persons likely to be affected by the AI system in order to collect relevant information which is deemed necessary to perform the impact assessment and are encouraged to make the summary of their fundamental rights impact assessment publicly available on their online website. This obligations should not apply to SMEs which, given the lack of resrouces, might find it difficult to perform such consultation. Nevertheless, they should also strive to invole such representatives when carrying out their fundamental rights impact assessment.In addition, given the potential impact and the need for democratic oversight and scrutiny, deployers of high-risk AI systems that are public authorities or Union institutions, bodies, offices and agencies, as well deployers who are undertakings designated as a gatekeeper under Regulation (EU) 2022/1925 should be required to register the use of any high-risk AI system in a public database. Other deployers may voluntarily register.
-Whilst risks related to AI systems can result from the way such systems are designed, risks can as well stem from how such AI systems are used. Deployers of high-risk AI system therefore play a critical role in ensuring that fundamental rights are protected, complementing the obligations of the provider when developing the AI system. Deployers are best placed to understand how the high-risk AI system will be used concretely and can therefore identify potential significant risks that were not foreseen in the development phase, due to a more precise knowledge of the context of use, the people or groups of people likely to be affected, including marginalised and vulnerable groups. Deployers should identify appropriate governance structures in that specific context of use, such as arrangements for human oversight, complaint-handling procedures and redress procedures, because choices in the governance structures can be instrumental in mitigating risks to fundamental rights in concrete use-cases. In order to efficiently ensure that
-fundamental rights are protected, the deployer of high-risk AI systems should therefore carry out a fundamental rights impact assessment prior to putting it into use. The impact assessment should be accompanied by a detailed plan describing the measures or tools that will help mitigating the risks to fundamental rights identified at the latest from the time of putting it into use. If such plan cannot be identified, the deployer should refrain from putting the system into use. When performing this impact assessment, the deployer should notify the national supervisory authority and, to the best extent possible relevant stakeholders as well as representatives of groups of persons likely to be affected by the AI system in order to collect relevant information which is deemed necessary to perform the impact assessment and are encouraged to make the summary of their fundamental rights impact assessment publicly available on their online website. This obligations should not apply to SMEs which, given the lack of resrouces, might find it difficult to perform such consultation. Nevertheless, they should also strive to invole such representatives when carrying out their fundamental rights impact assessment.In addition, given the potential impact and the need for democratic oversight and scrutiny, deployers of high-risk AI systems that are public authorities or Union institutions, bodies, offices and agencies, as well deployers who are undertakings designated as a gatekeeper under Regulation (EU) 2022/1925 should be required to register the use of any high-risk AI system in a public database. Other deployers may voluntarily register.
-Whilst risks related to AI systems can result from the way such systems are designed, risks can as well stem from how such AI systems are used. Deployers of high-risk AI system therefore play a critical role in ensuring that fundamental rights are protected, complementing the obligations of the provider when developing the AI system. Deployers are best placed to understand how the high-risk AI system will be used concretely and can therefore identify potential significant risks that were not foreseen in the development phase, due to a more precise knowledge of the context of use, the people or groups of people likely to be affected, including marginalised and vulnerable groups. Deployers should identify appropriate governance structures in that specific context of use, such as arrangements for human oversight, complaint-handling procedures and redress procedures, because choices in the governance structures can be instrumental in mitigating risks to fundamental rights in concrete use-cases. In order to efficiently ensure that
-fundamental rights are protected, the deployer of high-risk AI systems should therefore carry out a fundamental rights impact assessment prior to putting it into use. The impact assessment should be accompanied by a detailed plan describing the measures or tools that will help mitigating the risks to fundamental rights identified at the latest from the time of putting it into use. If such plan cannot be identified, the deployer should refrain from putting the system into use. When performing this impact assessment, the deployer should notify the national supervisory authority and, to the best extent possible relevant stakeholders as well as representatives of groups of persons likely to be affected by the AI system in order to collect relevant information which is deemed necessary to perform the impact assessment and are encouraged to make the summary of their fundamental rights impact assessment publicly available on their online website. This obligations should not apply to SMEs which, given the lack of resrouces, might find it difficult to perform such consultation. Nevertheless, they should also strive to invole such representatives when carrying out their fundamental rights impact assessment.In addition, given the potential impact and the need for democratic oversight and scrutiny, deployers of high-risk AI systems that are public authorities or Union institutions, bodies, offices and agencies, as well deployers who are undertakings designated as a gatekeeper under Regulation (EU) 2022/1925 should be required to register the use of any high-risk AI system in a public database. Other deployers may voluntarily register.
+(58)
+Given the nature of AI systems and the risks to safety and fundame
+ntal rights possibly
+associated with their use, including as regards the need to ensure proper monitoring of the
+performance of an AI system in a real
+-
+life setting, it is appropriate to set specific
+responsibilities for deployers. Deployers should in parti
+cular take appropriate technical and
+5662/24
+RB/ek
+56
+TREE.2.B
+LIMITE
+EN
+organisational measures to ensure they use high
+-
+risk AI systems in accordance with the
+instructions of use and certain other obligations should be provided for with regard to
+monitoring of the functioning of the AI syst
+ems and with regard to record
+-
+keeping, as
+appropriate. Furthermore, deployers should ensure that the persons assigned to implement
+the instructions for use and human oversight as set out in this Regulation have the
+necessary competence, in particular an a
+dequate level of AI literacy, training and authority
+to properly fulfil those tasks. These obligations should be without prejudice to other
+deployer obligations in relation to high
+-
+risk AI systems under Union or national law.

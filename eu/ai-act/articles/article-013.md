@@ -1,131 +1,91 @@
-# Article 13 — Parliament Mandate Amendments — Article 13
+# Article 13 — Transparency and provision of information to deployers
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
-- **Document Symbol**: `P9_TA(2023)0236`
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Document Symbol**: `ST 5662/24`
 - **Akoma Ntoso eId**: `art_13`
-- **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-provision of
-the required
-information pursuant to Article 13, and, where appropriate, training to
-deployers
-.
-Transparency and provision of information
-1. High-risk AI systems shall be designed and developed in such a way to ensure that their operation is sufficiently transparent to enable
-providers and
-users to
-reasonably understand
-the system’s
-functioning
-. Appropriate transparency shall be ensured
-in accordance with the intended purpose of the AI system
-, with a view to achieving compliance with the relevant obligations of the provider
-and user
+1.
+High
+-
+risk AI systems shall be designed and developed in such a way to ensur
+e that their
+operation is sufficiently transparent to enable deployers to interpret the system’s output and
+use it appropriately. An appropriate type and degree of transparency shall be ensured with
+a view to achieving compliance with the relevant obligati
+ons of the provider and deployer
 set out in Chapter 3 of this Title.
-Transparency shall thereby mean that, at the time the high-risk AI system is placed on the market, all technical means available in accordance with the generally acknowledged state of art are used to ensure that the AI system’s output is interpretable by the provider and the user. The user shall be enabled to understand and use the AI system appropriately by generally knowing how the AI system works and what data it processes, allowing the user to explain the decisions taken by the AI system to the affected person pursuant to Article 68(c).
-2. High-risk AI systems shall be accompanied by
-intelligible
-instructions for use in an appropriate digital format or
-made
-otherwise
-available in a durable medium
-that include concise,
-correct, clear and to the extent possible
-complete information that
-helps operating and maintaining the AI system as well as supporting informed decision-making by users and is reasonably
-relevant, accessible and comprehensible to users .
+2.
+High
+-
+risk AI systems shall be accompanied by instructions for use in an appropriate digital
+format or otherwise that include concise, complete, correct and clear information that is
+re
+levant, accessible and comprehensible to users.
 3.
-To achieve the outcomes referred to in paragraph 1,
-information referred to in paragraph 2 shall specify:
-the identity and the contact details of the provider and, where applicable, of its authorised
-representatives
-;
-the identity and the contact details of the provider and, where applicable, of its authorised
-representative
-;
-the identity and the contact details of the provider and, where applicable, of its authorised
-representatives
-;
-the identity and the contact details of the provider and, where applicable, of its authorised
-representative
-;
-where it is not the same as the provider, the identity and the contact details of the entity that carried out the conformity assessment and, where applicable, of its authorised representative;
-where it is not the same as the provider, the identity and the contact details of the entity that carried out the conformity assessment and, where applicable, of its authorised representative;
-where it is not the same as the provider, the identity and the contact details of the entity that carried out the conformity assessment and, where applicable, of its authorised representative;
-the characteristics, capabilities and limitations of performance of the high-risk AI system, including
-, where appropriate
-:
-the characteristics, capabilities and limitations of performance of the high-risk AI system, including:
-the characteristics, capabilities and limitations of performance of the high-risk AI system, including
-, where appropriate
-:
-the characteristics, capabilities and limitations of performance of the high-risk AI system, including:
-the level of accuracy, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any
-clearly
-known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity;
-the level of accuracy, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity;
-the level of accuracy, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any
-clearly
-known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity;
-the level of accuracy, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity;
-any
-clearly
-known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety, fundamental rights
-or the environment, including, where appropriate, illustrative examples of such limitations and of scenarios for which the system should not be used
-;
-any known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety
-or
-fundamental rights;
-any
-clearly
-known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety, fundamental rights
-or the environment, including, where appropriate, illustrative examples of such limitations and of scenarios for which the system should not be used
-;
-any known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety
-or
-fundamental rights;
-the degree to which the AI system can provide an explanation for decisions it takes;
-the degree to which the AI system can provide an explanation for decisions it takes;
-the degree to which the AI system can provide an explanation for decisions it takes;
-relevant information about user actions that may influence system performance, including type or quality of
-input data, or any other relevant information in terms of the training, validation and testing data sets used, taking into account the intended purpose of the AI system.
-when appropriate, specifications for the
-input data, or any other relevant information in terms of the training, validation and testing data sets used, taking into account the intended purpose of the AI system.
-relevant information about user actions that may influence system performance, including type or quality of
-input data, or any other relevant information in terms of the training, validation and testing data sets used, taking into account the intended purpose of the AI system.
-when appropriate, specifications for the
-input data, or any other relevant information in terms of the training, validation and testing data sets used, taking into account the intended purpose of the AI system.
-any necessary maintenance and care measures to ensure the proper functioning of that AI system, including as regards software updates
-, through its expected lifetime
-.
-the expected lifetime of the high-risk AI system and
-any necessary maintenance and care measures to ensure the proper functioning of that AI system, including as regards software updates.
-any necessary maintenance and care measures to ensure the proper functioning of that AI system, including as regards software updates
-, through its expected lifetime
-.
-the expected lifetime of the high-risk AI system and
-any necessary maintenance and care measures to ensure the proper functioning of that AI system, including as regards software updates.
-a description of the mechanisms included within the AI system that allows users to properly collect, store and interpret the logs in accordance with Article 12(1).
-a description of the mechanisms included within the AI system that allows users to properly collect, store and interpret the logs in accordance with Article 12(1).
-a description of the mechanisms included within the AI system that allows users to properly collect, store and interpret the logs in accordance with Article 12(1).
-The information shall be provided at least in the language of the country where the AI system is used.
-The information shall be provided at least in the language of the country where the AI system is used.
-The information shall be provided at least in the language of the country where the AI system is used.
-3a.
-In order to comply with the obligations laid down in this Article, providers and users shall ensure a sufficient level of AI literacy in line with Article 4b.
-instructions of use for the
-deployer in accordance with Article 13(2) and (3) as well as 14(4)(e)
-and, where applicable installation instructions;
-instructions of use for the
-user
-and, where applicable installation instructions;
-instructions of use for the
-deployer in accordance with Article 13(2) and (3) as well as 14(4)(e)
-and, where applicable installation instructions;
-instructions of use for the
-deployer in accordance with Article 13(2) and (3) as well as 14(4)(e)
-and, where applicable installation instructions;
-a detailed and easily intellegible description of the system’s main optimisation goal or goals;
-a detailed and easily intellegible description of the system’s main optimisation goal or goals;
+The instructions for use shall contain at least the following information:
+(a) the identity and the contact details of the provider and, where applicable, of its
+authorised representative;
+(b) the characte
+ristics, capabilities and limitations of performance of the high
+-
+risk AI
+system, including:
+(i) its intended purpose;
+(ii) the level of accuracy, including its metrics, robustness and cybersecurity
+referred to in Article 15 against which the high
+-
+risk AI s
+ystem has been tested
+and validated and which can be expected, and any known and foreseeable
+circumstances that may have an impact on that expected level of accuracy,
+robustness and cybersecurity;
+(iii) any known or foreseeable circumstance, related to the
+use of the high
+-
+risk AI
+system in accordance with its intended purpose or under conditions of
+reasonably foreseeable misuse, which may lead to risks to the health and safety
+or fundamental rights referred to in Article 9(2);
+5662/24
+RB/ek
+123
+TREE.2.B
+LIMITE
+EN
+(iiia)
+where applicable, the t
+echnical capabilities and characteristics of the AI system
+to provide information that is relevant to explain its output;
+(iv) when appropriate, its performance regarding specific persons or groups of
+persons on which the system is intended to be used;
+(v
+)
+when appropriate, specifications for the input data, or any other relevant
+information in terms of the training, validation and testing data sets used,
+taking into account the intended purpose of the AI system;
+(va) where applicable, information to enabl
+e deployers to interpret the system’s
+output and use it appropriately.
+(c) the changes to the high
+-
+risk AI system and its performance which have been pre
+-
+determined by the provider at the moment of the initial conformity assessment, if
+any;
+(d) the human o
+versight measures referred to in Article 14, including the technical
+measures put in place to facilitate the interpretation of the outputs of AI systems by
+the deployers;
+(e) the computational and hardware resources needed, the expected lifetime of the
+high
+-
+risk AI system and any necessary maintenance and care measures, including their
+frequency, to ensure the proper functioning of that AI system, including as regards
+software updates;
+(ea) where relevant, a description of the mechanisms included within
+the AI system that
+allows users to properly collect, store and interpret the logs in accordance with
+Article 12.

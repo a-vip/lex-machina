@@ -1,42 +1,60 @@
 # Recital (61)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
 - **Akoma Ntoso eId**: `rct_61`
-- **Provenance Mode**: `full_primary_html`
-- **Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-Standardisation should play a key role to provide technical solutions to providers to ensure compliance with this Regulation. Compliance with harmonised standards as defined in Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 54 ) should be a means for providers to demonstrate conformity with the requirements of this Regulation.
-To ensure the effectiveness of standards as policy tool for the Union and considering the importance of
-standards
-for ensuring conformity with the requirements of this Regulation and for the competitiveness of undertakings, it is necessary to ensure a balanced representation of interests by involving all relevant stakeholders in the development of standards
-.
-The standardisation process should be transparent in terms of legal and natural persons participating in the standardisation activities.
-Standardisation should play a key role to provide technical solutions to providers to ensure compliance with this Regulation. Compliance with harmonised standards as defined in Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 54 ) should be a means for providers to demonstrate conformity with the requirements of this Regulation.
-However, the Commission could adopt common technical specifications in areas where no harmonised
-standards
-exist or where they are insufficient
-.
-Standardisation should play a key role to provide technical solutions to providers to ensure compliance with this Regulation. Compliance with harmonised standards as defined in Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 54 ) should be a means for providers to demonstrate conformity with the requirements of this Regulation.
-To ensure the effectiveness of standards as policy tool for the Union and considering the importance of
-standards
-for ensuring conformity with the requirements of this Regulation and for the competitiveness of undertakings, it is necessary to ensure a balanced representation of interests by involving all relevant stakeholders in the development of standards
-.
-The standardisation process should be transparent in terms of legal and natural persons participating in the standardisation activities.
-Standardisation should play a key role to provide technical solutions to providers to ensure compliance with this Regulation. Compliance with harmonised standards as defined in Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 54 ) should be a means for providers to demonstrate conformity with the requirements of this Regulation.
-However, the Commission could adopt common technical specifications in areas where no harmonised
-standards
-exist or where they are insufficient
-.
-In order to facilitate compliance, the first standardisation requests should be issued by the Commission two months after the entry into force of this Regulation at the latest. This should serve to improve legal certainty, thereby promoting investment and innovation in AI, as well as competitiveness and growth of the Union market, while enhancing multistakeholder governance representing all relevant European stakeholders such as the AI Office, European standardisation organisations and bodies or experts groups established under relevant sectorial Union law as well as industry, SMEs, start-ups, civil society, researchers and social partners, and should ultimately facilitate global cooperation on standardisation in the field of AI in a manner consistent with Union values. When preparing the standardisation request, the Commission should consult the AI Office and the AI advisory Forum in order to collect relevant expertise.
-In order to facilitate compliance, the first standardisation requests should be issued by the Commission two months after the entry into force of this Regulation at the latest. This should serve to improve legal certainty, thereby promoting investment and innovation in AI, as well as competitiveness and growth of the Union market, while enhancing multistakeholder governance representing all relevant European stakeholders such as the AI Office, European standardisation organisations and bodies or experts groups established under relevant sectorial Union law as well as industry, SMEs, start-ups, civil society, researchers and social partners, and should ultimately facilitate global cooperation on standardisation in the field of AI in a manner consistent with Union values. When preparing the standardisation request, the Commission should consult the AI Office and the AI advisory Forum in order to collect relevant expertise.
-In order to facilitate compliance, the first standardisation requests should be issued by the Commission two months after the entry into force of this Regulation at the latest. This should serve to improve legal certainty, thereby promoting investment and innovation in AI, as well as competitiveness and growth of the Union market, while enhancing multistakeholder governance representing all relevant European stakeholders such as the AI Office, European standardisation organisations and bodies or experts groups established under relevant sectorial Union law as well as industry, SMEs, start-ups, civil society, researchers and social partners, and should ultimately facilitate global cooperation on standardisation in the field of AI in a manner consistent with Union values. When preparing the standardisation request, the Commission should consult the AI Office and the AI advisory Forum in order to collect relevant expertise.
-When AI systems are intended to be used at the workplace, harmonised standards should be limited to technical specifications and procedures.
-When AI systems are intended to be used at the workplace, harmonised standards should be limited to technical specifications and procedures.
-When AI systems are intended to be used at the workplace, harmonised standards should be limited to technical specifications and procedures.
-The Commission should be able to adopt common specifications under certain conditions, when no relevant harmonised standard exists or to address specific fundamental rights concerns. Through the whole drafting process, the Commission should regularly consult the AI Office and its advisory forum, the European standardisation organisations and bodies or expert groups established under relevant sectorial Union law as well as relevant stakeholders, such as industry, SMEs, start-ups, civil society, researchers and social partners.
-The Commission should be able to adopt common specifications under certain conditions, when no relevant harmonised standard exists or to address specific fundamental rights concerns. Through the whole drafting process, the Commission should regularly consult the AI Office and its advisory forum, the European standardisation organisations and bodies or expert groups established under relevant sectorial Union law as well as relevant stakeholders, such as industry, SMEs, start-ups, civil society, researchers and social partners.
-The Commission should be able to adopt common specifications under certain conditions, when no relevant harmonised standard exists or to address specific fundamental rights concerns. Through the whole drafting process, the Commission should regularly consult the AI Office and its advisory forum, the European standardisation organisations and bodies or expert groups established under relevant sectorial Union law as well as relevant stakeholders, such as industry, SMEs, start-ups, civil society, researchers and social partners.
-When adopting common specifications, the Commission should strive for regulatory alignment of AI with likeminded global partners, which is key to fostering innovation and cross-border partnerships within the field of AI, as coordination with likeminded partners in international standardisation bodies is of great importance.
-When adopting common specifications, the Commission should strive for regulatory alignment of AI with likeminded global partners, which is key to fostering innovation and cross-border partnerships within the field of AI, as coordination with likeminded partners in international standardisation bodies is of great importance.
-When adopting common specifications, the Commission should strive for regulatory alignment of AI with likeminded global partners, which is key to fostering innovation and cross-border partnerships within the field of AI, as coordination with likeminded partners in international standardisation bodies is of great importance.
+(61)
+Standardisation should play a key role to provide technical solutions to providers to ensure
+compliance with this Regulation, in line with the state of the art,
+to promote innovation as
+well as competitiveness and growth in the single market. Compliance with harmonised
+standards as defined in Regulation (EU) No 1025/2012 of the European Parliament and of
+the Council
+25
+, which are normally expected to reflect the sta
+te of the art, should be a means
+for providers to demonstrate conformity with the requirements of this Regulation. A
+balanced representation of interests involving all relevant stakeholders in the development
+of standards, in particular SME’s, consumer org
+anisations and environmental and social
+stakeholders in accordance with Article 5 and 6 of Regulation 1025/2012 should therefore
+be encouraged. In order to facilitate compliance, the standardisation requests should be
+issued by the Commission without undu
+e delay. When preparing the standardisation
+request, the Commission should consult the AI advisory Forum and the Board in order to
+25
+Regulation (
+EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on
+European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC,
+94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009
+/23/EC and 2009/105/EC of the
+European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No
+1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+5662/24
+RB/ek
+69
+TREE.2.B
+LIMITE
+EN
+collect relevant expertise. However, in the absence of relevant references to harmonised
+standards, the Commission should be
+able to establish, via implementing acts, and after
+consultation of the AI Advisory forum, common specifications for certain requirements
+under this Regulation. The common specification should be an exceptional fall back
+solution to facilitate the provider
+’s obligation to comply with the requirements of this
+Regulation, when the standardisation request has not been accepted by any of the European
+standardisation organisations, or when the relevant harmonized standards insufficiently
+address fundamental righ
+ts concerns, or when the harmonised standards do not comply
+with the request, or when there are delays in the adoption of an appropriate harmonised
+standard. If such delay in the adoption of a harmonised standard is due to the technical
+complexity of the s
+tandard in question, this should be considered by the Commission
+before contemplating the establishment of common specifications. When developing
+common specifications, the Commission is encouraged to cooperate with international
+partners and internation
+al standardisation bodies.

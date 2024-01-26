@@ -1,42 +1,87 @@
-# Article 41 — Parliament Mandate Amendments — Article 41
+# Article 41 — Common specifications
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
-- **Document Symbol**: `P9_TA(2023)0236`
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Document Symbol**: `ST 5662/24`
 - **Akoma Ntoso eId**: `art_41`
-- **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-deleted
-1 a.
-The Commission may, by means of implementing act adopted in accordance with the examination procedure referred to in Article 74(2) and after consulting the AI Office and the AI Advisory Forum, adopt common specifications in respect of the requirements set out in Chapter 2 of this Title or Article 28b wherein all of the following conditions are fulfilled:
-there is no reference to harmonised standards already published in the Official Journal of the European Union related to the essential requirement(s), unless the harmonised standard in question is an existing standard that must be revised;
-there is no reference to harmonised standards already published in the Official Journal of the European Union related to the essential requirement(s), unless the harmonised standard in question is an existing standard that must be revised;
-the Commission has requested one or more European standardisation organisations to draft a harmonised standard for the essential requirement(s) set out in Chapter 2;
-the Commission has requested one or more European standardisation organisations to draft a harmonised standard for the essential requirement(s) set out in Chapter 2;
-the request referred to in point (b) has not been accepted by any of the European standardisation organisations; or there are undue delays in the establishment of an appropriate harmonised standard; or the standard provided does not satisfy the requirements of the relevant Union law, or does not comply with the request of the Commission.
-the request referred to in point (b) has not been accepted by any of the European standardisation organisations; or there are undue delays in the establishment of an appropriate harmonised standard; or the standard provided does not satisfy the requirements of the relevant Union law, or does not comply with the request of the Commission.
-1 b.
-Where the Commission considers there to be a need to address specific fundamental rights concerns, common specifications adopted by the Commission in accordance with paragraph 1a shall also address those specific fundamental rights concerns.
-1 c.
-The Commission shall develop common specifications for the methodology to fulfil the reporting and documentation requirement on the consumption of energy and resources during development, training and deployment of the high risk AI system.
-2. The Commission
-shall, throughout the whole process of drafting
-the common specifications referred to in
-paragraphs 1a and 1b
-,
-regularly consult the AI Office and the Advisory Forum, the European standardisation organisations and bodies or expert groups established under
-relevant
-sectorial Union law as well as other relevant stakeholders. The Commission shall fulfil the objectives referred to in Article 40 (1c) and duly justify why it decided to resort to common specifications.
-Where the Commission intends to adopt common specifications pursuant to paragraph 1a of this Article, it shall also clearly identify the specific fundamental rights concern to be addressed.
-When adopting common specifications pursuant to paragraphs 1a and 1b of this Article, the Commission shall take into account the opinion issued by the AI Office referred to in Article 56e(b) of this Regulation. Where the Commission decides not to follow the opinion of the AI Office, it shall provide a reasoned explanation to the AI Office.
-3. High-risk AI systems which are in conformity with the common specifications referred to in paragraph
-1a and 1b
-shall be presumed to be in conformity with the requirements set out in Chapter 2 of this Title, to the extent those common specifications cover those requirements
-3 a.
-Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the publication of its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012. When reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal acts referred to in paragraph 1 and 1b, or parts thereof which cover the same requirements set out in Chapter 2 of this Title.
-4. Where providers
-of high-risk AI systems
-do not comply with the common specifications referred to in paragraph 1, they shall duly justify that they have adopted technical solutions that
-meet the requirements referred to in Chapter II to a level
-at least equivalent thereto;
+1.
+The Commission is empowered
+to adopt, after consulting the Advisory Forum referred to
+in Article 58a, implementing acts in accordance with the examination procedure referred to
+in Article 74(2) establishing common specifications for the requirements set out in Chapter
+2 of this Titl
+e or, as applicable, with requirements set out in Article [GPAI Chapter], for AI
+systems within the scope of this Regulation, where the following conditions have been
+fulfilled:
+(a) the Commission has requested, pursuant to Article 10(1) of Regulation 1025
+/2012,
+one or more European standardisation organisations to draft a harmonised standard
+for the requirements set out in Chapter 2 of this Title; and
+(i) the request has not been accepted by any of the European standardisation
+organisations; or
+(ii) th
+e harmonised standards addressing that request are not delivered within the
+deadline set in accordance with article 10(1) of Regulation 1025/2012; or
+(iii) the relevant harmonised standards insufficiently address fundamental rights
+concerns; or
+5662/24
+RB/ek
+155
+TREE.2.B
+LIMITE
+EN
+(iv) t
+he harmonised standards do not comply with the request; and
+(b)
+no reference to harmonised standards covering the requirements referred to in
+Chapter II of this Title has been published in the Official Journal of the European
+Union, in accordance with Regu
+lation (EU) No 1025/2012, and no such reference is
+expected to be published within a reasonable period.
+1a.
+Before preparing a draft implementing act, the Commission shall inform the committee
+referred to in Article 22 of Regulation EU (No) 1025/2012 that
+it considers that the
+conditions in paragraph 1 are fulfilled.
+3.
+High
+-
+risk AI systems which are in conformity with the common specifications referred to
+in paragraph 1, or parts thereof, shall be presumed to be in conformity with the
+requirements set out
+in Chapter 2 of this Title, to the extent those common specifications
+cover those requirements.
+3a.
+Where a harmonised standard is adopted by a European standardisation organisation and
+proposed to the Commission for the publication of its reference in the
+Official Journal of
+the European Union, the Commission shall assess the harmonised standard in accordance
+with Regulation (EU) No 1025/2012. When reference of a harmonised standard is
+published in the Official Journal of the European Union, the Commission
+shall repeal acts
+referred to in paragraph 1 and 1b, or parts thereof which cover the same requirements set
+out in Chapter 2 of this Title.
+4.
+Where providers of high
+-
+risk AI systems do not comply with the common specifications
+referred to in paragraph 1,
+they shall duly justify that they have adopted technical solutions
+that meet the requirements referred to in Chapter II to a level at least equivalent thereto.
+4b.
+When a Member State considers that a common specification does not entirely satisfy the
+req
+uirements set out in Chapter 2 of this Title, it shall inform the Commission thereof with
+a detailed explanation and the Commission shall assess that information and, if
+appropriate, amend the implementing act establishing the common specification in
+quest
+ion.
+5662/24
+RB/ek
+156
+TREE.2.B
+LIMITE
+EN

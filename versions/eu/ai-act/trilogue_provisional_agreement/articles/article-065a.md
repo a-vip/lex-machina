@@ -1,0 +1,79 @@
+# Article 65a — Procedure for dealing with AI systems classified by the pr
+
+- **Instrument**: EU AI Act
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Document Symbol**: `ST 5662/24`
+- **Akoma Ntoso eId**: `art_65a`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+
+ovider as a not high
+-
+risk in
+application of Annex III
+1.
+Where a market surveillance authority has sufficient reasons to consider that an AI system
+classified by the provider as non
+-
+high
+-
+risk in application of Annex III is high
+-
+risk, they
+market surveillan
+ce authority shall carry out an evaluation of the AI system concerned in
+respect of its classification as a high
+-
+risk AI system based on the conditions set out in
+Annex III and the Commission guidelines.
+2.
+Where, in the course of that evaluation, the mark
+et surveillance authority finds that the AI
+system concerned is high
+-
+risk, it shall without undue delay require the relevant provider to
+take all necessary actions to bring the AI system into compliance with the requirements
+and obligations laid down in th
+is Regulation as well as take appropriate corrective action
+within a period it may prescribe.
+3.
+Where the market surveillance authority considers that the use of the AI system concerned
+is not restricted to its national territory, it shall inform the Comm
+ission and the other
+Member States without undue delay of the results of the evaluation and of the actions
+which it has required the provider to take.
+4.
+The provider shall ensure that all necessary action is taken to bring the AI system into
+compliance w
+ith the requirements and obligations laid down in this Regulation. Where the
+provider of an AI system concerned does not bring the AI system into compliance with the
+requirements and obligations of this Regulation within the period referred to in paragraph
+2, the provider shall be subject to fines in accordance with Article 71.
+5662/24
+RB/ek
+212
+TREE.2.B
+LIMITE
+EN
+5.
+The provider shall ensure that all appropriate corrective action is taken in respect of all the
+AI systems concerned that it has made available on the market throughout the Union.
+6.
+Where the provider of the AI system concerned does not take adequate corrective action
+within the period referred to in paragraph 2, then the provisions of Article 65 paragraphs 5
+to 9 apply.
+7.
+Where, in the course of that evaluation pursuant to para
+graph 1, the market surveillance
+authority establishes that the AI system was misclassified by the provider as not high
+-
+risk
+to circumvent the application of requirements in Title III, Chapter 2, the provider shall be
+subject to fines in accordance with Ar
+ticle 71.
+8.
+In exercising their power to monitor the application of this article and in accordance with
+Article 11 of Regulation (EU) 2019/1020, market surveillance authorities may perform
+appropriate checks, taking into account in particular information
+stored in the EU database
+referred to in Article 60.

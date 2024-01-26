@@ -1,11 +1,16 @@
 # Recital (53)
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
 - **Akoma Ntoso eId**: `rct_53`
-- **Provenance Mode**: `full_primary_html`
-- **Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-As signatories to the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), the Union and the Member States are legally obliged to protect persons with disabilities from discrilmination and promote their equality, to ensure that persons with disabilities have access, on an equal basis wirh others, to information and communications technologies and systems, and to ensure respect for privacy for persons with disabilities. Given the growing importance and use of AI systems, the application of universal design principles to all new technologies and services should ensure full, equal, and unrestricted access for everyone potentially affected by or using AI technologies, including persons with disabilities, in a way that takes full account of their inherent dignity and diversity. It is therefore essential that Providers ensure full compliance with accessibility requirements, including Directive (EU) 2016/2102 and Directive (EU) 2019/882. Providers should ensure compliance with these requirements by design. Therefore, the necessary measures should be integrated as much as possible into the design of the high-risk AI system.
-As signatories to the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), the Union and the Member States are legally obliged to protect persons with disabilities from discrilmination and promote their equality, to ensure that persons with disabilities have access, on an equal basis wirh others, to information and communications technologies and systems, and to ensure respect for privacy for persons with disabilities. Given the growing importance and use of AI systems, the application of universal design principles to all new technologies and services should ensure full, equal, and unrestricted access for everyone potentially affected by or using AI technologies, including persons with disabilities, in a way that takes full account of their inherent dignity and diversity. It is therefore essential that Providers ensure full compliance with accessibility requirements, including Directive (EU) 2016/2102 and Directive (EU) 2019/882. Providers should ensure compliance with these requirements by design. Therefore, the necessary measures should be integrated as much as possible into the design of the high-risk AI system.
-As signatories to the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), the Union and the Member States are legally obliged to protect persons with disabilities from discrilmination and promote their equality, to ensure that persons with disabilities have access, on an equal basis wirh others, to information and communications technologies and systems, and to ensure respect for privacy for persons with disabilities. Given the growing importance and use of AI systems, the application of universal design principles to all new technologies and services should ensure full, equal, and unrestricted access for everyone potentially affected by or using AI technologies, including persons with disabilities, in a way that takes full account of their inherent dignity and diversity. It is therefore essential that Providers ensure full compliance with accessibility requirements, including Directive (EU) 2016/2102 and Directive (EU) 2019/882. Providers should ensure compliance with these requirements by design. Therefore, the necessary measures should be integrated as much as possible into the design of the high-risk AI system.
+(53)
+It is appropriate that a specific natural or legal person, defined as the provider, takes the
+responsibility for the placing on the market or putting into service of a high
+-
+r
+isk AI system,
+regardless of whether that natural or legal person is the person who designed or developed
+the system.

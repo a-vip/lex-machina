@@ -1,16 +1,40 @@
-# Article 8 — Parliament Mandate Amendments — Article 8
+# Article 8 — Compliance with the requirements
 
 - **Instrument**: EU AI Act
-- **Stage**: European Parliament Negotiating Mandate (`2023-06-14`)
-- **Document Symbol**: `P9_TA(2023)0236`
+- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Document Symbol**: `ST 5662/24`
 - **Akoma Ntoso eId**: `art_8`
-- **Provenance Mode**: `full_primary_html`
-- **Institutional Author**: European Parliament `<parliament@europa.eu>`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
 
-1 a.
-In complying with the requirement established in this Chapter, due account shall be taken of guidelines developed as referred to in Article 82b, the generally acknowledged state of the art, including as reflected in the relevant harmonised standards and common specifications as referred to in articles 40 and 41 or those already set out in Union harmonisation law;.
-2. The intended purpose of the high-risk AI system
-, the reasonably foreseeable misuses
-and the risk management system referred to in Article 9 shall be taken into account when ensuring compliance with those requirements.
-2 a.
-As long as the requirements of Title III, Chapters 2 and 3 or Title VIII, Chapters 1, 2 and 3 for high-risk AI systems are addressed by Union harmonisation law listed in Annex II, Section A, the requirements or obligations of those Chapters of this Regulation shall be deemed to be fulfilled, as long as they include the AI component. Requirements of Chapters 2 and 3 of Title III or Title VIII, Chapters 1, 2 and 3 for high-risk AI systems not addressed by Union harmonisation law listed in Annex II Section A, shall be incorporated into that Union harmonisation law, where applicable. The relevant conformity assessment shall be carried out as part of the procedures laid out under Union harmonisation law listed in Annex II, Section A.
+1.
+High
+-
+risk AI systems shall comply with the requirements established in this Chapter,
+taking into account its intended purpose
+as well as the generally acknowledged state of the
+art on AI and AI related technologies. The risk management system referred to in Article 9
+shall be taken into account when ensuring compliance with those requirements.
+2a.
+Where a product contains an
+artificial intelligence system, to which the requirements of
+this Regulation as well as requirements of the Union harmonisation legislation listed in
+Annex II, Section A apply, providers shall be responsible for ensuring that their product is
+fully complia
+nt with all applicable requirements required under the Union harmonisation
+legislation. In ensuring the compliance of high
+-
+risk AI systems referred in paragraph 1
+with the requirements set out in Chapter 2 of this Title, and in order to ensure consistency,
+avoid duplications and minimise additional burdens, providers shall have a choice to
+integrate, as appropriate, the necessary testing and reporting processes, information and
+documentation they provide with regard to their product into already existing
+do
+cumentation and procedures required under the Union harmonisation legislation listed in
+Annex II, Section A.
+5662/24
+RB/ek
+116
+TREE.2.B
+LIMITE
+EN

@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "ST_5662_2024_INIT",
+  "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+  "document_symbol": "ST 5662/24",
+  "stage": "trilogue_provisional_agreement",
+  "stage_label": "Provisional Trilogue Agreement Text",
+  "published_date": "2024-01-26",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "EU Trilogue Negotiators",
+    "email": "trilogue@europa.eu"
+  },
+  "source_url": "https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf",
+  "summary": "Four-column consolidated trilogue compromise establishing tiered GPAI systemic risk rules (10^25 FLOPs), Article 27 FRIA, Article 50 transparency, and narrowly bounded Article 5(1)(h) law enforcement carve-outs.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "85b17a7fa0bdfdde74748a26e98b5573623e5e25c03073210f734d1d16986880",
+    "final_url": "https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf",
+    "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+    "celex": "ST_5662_2024_INIT",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 1266130,
+    "fetched_utc": "2026-11-23T14:23:38Z",
+    "sha256_normalized_full_text": "2043200a0c3fd034eb94f3dce2dbd12e2da48f9f59994e6829d8158bc4a8a6b1"
+  },
+  "counts": {
+    "recitals": 166,
+    "articles": 108,
+    "annexes": 0
+  }
+}
