@@ -1,0 +1,26 @@
+{
+  "instrument_id": "un-ai-governance",
+  "path": "un/ai-governance",
+  "jurisdiction": "un",
+  "title": "United Nations General Assembly Global AI Governance Resolutions & Global Digital Compact",
+  "short_title": "UN Global AI Governance",
+  "type": "un_resolution",
+  "celex": "UNGA_AI_GOV",
+  "document_symbol": "A/RES/78/265",
+  "stage": "unga_res_78_265",
+  "stage_label": "UNGA Resolution A/RES/78/265",
+  "published_date": "2024-03-21",
+  "in_force_date": "2024-03-21",
+  "status": "adopted",
+  "institutional_author": {
+    "name": "United Nations General Assembly",
+    "email": "unga@un.org"
+  },
+  "source_url": "https://undocs.org/en/A/RES/78/265",
+  "summary": "Landmark consensus resolution 'Seizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development', adopted without a vote by all 193 UN Member States.",
+  "counts": {
+    "recitals": 1,
+    "articles": 3,
+    "annexes": 0
+  }
+}
