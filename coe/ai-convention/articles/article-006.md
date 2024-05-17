@@ -1,11 +1,12 @@
-# Article 6 — Human dignity and individual autonomy
+# Article 6 — General approach
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
-- **Document Symbol**: `CAI(2023)28`
+- **Stage**: Adopted Framework Convention (CETS 225) + Explanatory Report (`2024-05-17`)
+- **Document Symbol**: `CETS No. 225`
 - **Akoma Ntoso eId**: `art_6`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
+- **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-Each Party shall adopt or maintain measures to respect human dignity and individual
-autonomy related to activities within the lifecycle of artificial intelligence systems.
+This chapter sets forth general common principles that each Party shall implement in regard to
+artificial intelligence systems in a manner appropriate to its domestic legal system and the other
+obligations of this Convention.

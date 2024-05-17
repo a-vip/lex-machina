@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "coe-ai-convention",
+  "path": "coe/ai-convention",
+  "jurisdiction": "coe",
+  "domain": "ai",
+  "title": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225)",
+  "short_title": "CoE AI Convention (CETS 225)",
+  "type": "treaty",
+  "celex": "CETS_225",
+  "eli": null,
+  "document_symbol": "CETS No. 225",
+  "stage": "adopted_convention_cets_225",
+  "stage_label": "Adopted Framework Convention (CETS 225) + Explanatory Report",
+  "published_date": "2024-05-17",
+  "in_force_date": "2024-09-05",
+  "status": "signed_and_eu_concluded_2026",
+  "institutional_author": {
+    "name": "Council of Europe Committee of Ministers",
+    "email": "cm@coe.int"
+  },
+  "source_url": "https://rm.coe.int/1680afae3c",
+  "summary": "Adopted Framework Convention on Artificial Intelligence (CETS 225) and Explanatory Report, opened for signature in Vilnius on 5 September 2024.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "1ac6c8a85f55446cdb53697b57c6be3ce8757068043992955eda571e7fe52f23",
+    "final_url": "https://rm.coe.int/1680afae3c",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 362548,
+    "fetched_utc": "2026-11-23T14:31:57Z",
+    "sha256_normalized_full_text": "8f53b04f9c68290ef1fd7e445d8f2144191ea39058b328d0f4e627fbd2573432"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 36,
+    "annexes": 0
+  }
+}

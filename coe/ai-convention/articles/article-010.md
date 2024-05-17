@@ -1,16 +1,19 @@
-# Article 10 — Privacy and personal data protection
+# Article 10 — Equality and non-discrimination
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
-- **Document Symbol**: `CAI(2023)28`
+- **Stage**: Adopted Framework Convention (CETS 225) + Explanatory Report (`2024-05-17`)
+- **Document Symbol**: `CETS No. 225`
 - **Akoma Ntoso eId**: `art_10`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
+- **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-[Each Party shall adopt or maintain measures [that seek to] ensur[ing] that as regards activities
-within the lifecycle of artificial intelligence systems:
-a. the privacy of individuals is protected including through applicable domestic and
-international personal data protection and [data governance] laws, [and] standards, and
-frameworks;
-b. effective guarantees and safeguards have been put in place for [individuals] data
-subjects, if required under domestic and international legal obligations.]
+1 Each Party shall adopt or maintain measures with a view to ensuring that activities within the
+lifecycle of artificial intelligence systems respect equality, including gender equality, and the
+prohibition of discrimination, as provided under applicable international and domestic law.
+2 Each Party undertakes to adopt or maintain measures aimed at overcoming inequalities to
+achieve fair, just and equitable outcomes, in line with its applicable domestic and international
+human rights obligations, in relation to activities within the lifecycle of artificial intelligence
+systems.
+CETS 225 – Artificial Intelligence, 5.IX.2024
+__________________________________________________________________________________
+5

@@ -1,14 +1,12 @@
-# Article 12 — Reliability and trust
+# Article 12 — Reliability
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
-- **Document Symbol**: `CAI(2023)28`
+- **Stage**: Adopted Framework Convention (CETS 225) + Explanatory Report (`2024-05-17`)
+- **Document Symbol**: `CETS No. 225`
 - **Akoma Ntoso eId**: `art_12`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
+- **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-[Each Party shall take appropriate measures to [promote reliability, safety, validity and trust in
-artificial intelligence systems, which could include the establishment of requirements that seek
-to] ensure that adequate safety, security, accuracy, performance, quality, data quality, data
-integrity, data security, governance, cybersecurity and robustness requirements apply
-throughout the lifecycle of artificial intelligence systems.]
+Each Party shall take, as appropriate, measures to promote the reliability of artificial intelligence
+systems and trust in their outputs, which could include requirements related to adequate quality
+and security throughout the lifecycle of artificial intelligence systems.

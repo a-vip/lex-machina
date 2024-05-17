@@ -1,2 +1,2 @@
 # Preamble & Recitals — CoE AI Convention (CETS 225)
-**Stage**: CAI Consolidated Working Draft (2023-12-18)
+**Stage**: Adopted Framework Convention (CETS 225) + Explanatory Report (2024-05-17)

@@ -1,13 +1,13 @@
-# Article 22 — Relationship with other legal instruments
+# Article 22 — Wider protection
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
-- **Document Symbol**: `CAI(2023)28`
+- **Stage**: Adopted Framework Convention (CETS 225) + Explanatory Report (`2024-05-17`)
+- **Document Symbol**: `CETS No. 225`
 - **Akoma Ntoso eId**: `art_22`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
+- **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-Nothing in this Convention shall be construed as limiting, derogating from, or otherwise
-affecting [any of] the human rights or other [connected]1 legal rights and obligations which may
-be guaranteed under the laws of a Party or under any other international agreement to which
-it is a Party.
+None of the provisions of this Convention shall be interpreted as limiting or otherwise affecting
+the possibility for a Party to grant a wider measure of protection than is stipulated in this
+Convention.
+Chapter VII – Follow-up mechanism and co-operation

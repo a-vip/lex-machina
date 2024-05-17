@@ -1,12 +1,12 @@
-# Article 21 — Digital literacy and skills
+# Article 21 — Safeguard for existing human rights
 
 - **Instrument**: CoE AI Convention (CETS 225)
-- **Stage**: CAI Consolidated Working Draft (`2023-12-18`)
-- **Document Symbol**: `CAI(2023)28`
+- **Stage**: Adopted Framework Convention (CETS 225) + Explanatory Report (`2024-05-17`)
+- **Document Symbol**: `CETS No. 225`
 - **Akoma Ntoso eId**: `art_21`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: Committee on Artificial Intelligence (CAI) `<cai@coe.int>`
+- **Institutional Author**: Council of Europe Committee of Ministers `<cm@coe.int>`
 
-Each Party shall encourage and promote adequate digital literacy and digital skills for all
-segments of the population, including those responsible for the identification, assessment,
-prevention and mitigation of risks posed by artificial intelligence systems.
+Nothing in this Convention shall be construed as limiting, derogating from or otherwise affecting
+the human rights or other related legal rights and obligations which may be guaranteed under
+the relevant laws of a Party or any other relevant international agreement to which it is party.
