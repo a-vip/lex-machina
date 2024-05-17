@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-us-state-ai-laws",
+  "path": "national/us/state-ai-laws",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "United States Binding State AI Statutes (Texas TRAIGA HB 149, Colorado AI Act, California TFAIA & AB 2013)",
+  "short_title": "US State Binding AI Laws",
+  "type": "state_statute_collection",
+  "celex": "US_STATE_AI_2024_2026",
+  "eli": null,
+  "document_symbol": "CO SB 24-205 / SB 26-189 / CA AB 2013 / SB 53",
+  "stage": "colorado_sb24_205_2024",
+  "stage_label": "Colorado AI Act Initial Enactment (SB 24-205 -> SB 26-189) & California AB 2013 / SB 53",
+  "published_date": "2024-05-17",
+  "in_force_date": "2026-01-01",
+  "status": "in_force_phased",
+  "institutional_author": {
+    "name": "Colorado General Assembly & California Legislature",
+    "email": "state-legislatures@us.gov"
+  },
+  "source_url": "https://leg.colorado.gov/bills/sb24-205",
+  "summary": "Colorado's high-risk algorithmic discrimination statute (SB 24-205, subsequently refined via SB 26-189 following xAI v. Weiser) with NIST AI RMF / ISO 42001 safe harbor, plus California AB 2013 training-data transparency and SB 53 (TFAIA) frontier safety disclosures.",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "904755632fd7fc1d7f1ee7b0261fca6fb844a589d8411dbf8b15c316f0abfda2",
+    "final_url": "https://leg.colorado.gov/bills/sb24-205",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "1b60c9cc66b3cbabc9890a6208ad0e63e4143a29baa5026498b206a4ac6c870e"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 2,
+    "annexes": 0
+  }
+}
