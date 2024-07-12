@@ -1,38 +1,14 @@
 # Recital (78)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_78`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (78)
-In order to ensure that providers of high
--
-risk AI systems can take into account the
-experience on the use of high
--
-risk AI systems for improving their systems and th
-e design
-and development process or can take any possible corrective action in a timely manner, all
-providers should have a post
--
-market monitoring system in place. Where relevant, post
--
-market monitoring should include an analysis of the interaction with ot
-her AI systems
-including other devices and software. Post
--
-market monitoring should not cover sensitive
-operational data of deployers which are law enforcement authorities. This system is also
-key to ensure that the possible risks emerging from AI systems w
-hich continue to ‘learn’
-after being placed on the market or put into service can be more efficiently and timely
-addressed. In this context, providers should also be required to have a system in place to
-report to the relevant authorities any serious incid
-ents resulting from the use of their AI
-systems, meaning incident or malfunctioning leading to death or serious damage to health,
-serious and irreversible disruption of the management and operation of critical
-infrastructure, breaches of obligations under
-Union law intended to protect fundamental
-rights or serious damage to property or the environment.
+The conformity assessment procedure provided by this Regulation should apply in relation to the essential cybersecurity requirements of a product with digital elements covered by a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements and classified as a high-risk AI system under this Regulation. However, this rule should not result in reducing the necessary level of assurance for critical products with digital elements covered by a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements. Therefore, by way of derogation from this rule, high-risk AI systems that fall within the scope of this Regulation and are also qualified as important and critical products with digital elements pursuant to a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements and to which the conformity assessment procedure based on internal control set out in an annex to this Regulation applies, are subject to the conformity assessment provisions of a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements insofar as the essential cybersecurity requirements of that regulation are concerned. In this case, for all the other aspects covered by this Regulation the respective provisions on conformity assessment based on internal control set out in an annex to this Regulation should apply. Building on the knowledge and expertise of ENISA on the cybersecurity policy and tasks assigned to ENISA under the Regulation (EU) 2019/881 of the European Parliament and of the Council
+(
+37
+)
+, the Commission should cooperate with ENISA on issues related to cybersecurity of AI systems.

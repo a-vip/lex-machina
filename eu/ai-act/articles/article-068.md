@@ -1,42 +1,27 @@
-# Article 68 — Formal non
+# Article 68 — Scientific panel of independent experts
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_68`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
--
-compliance
-1.
-Where the market surveillance authority of a Member State makes one of the following
-findings, it shall require the relevant provider to put an end to the non
--
-compliance
-concerned, within a period it may prescribe:
-(a) the CE marking has been affixed in v
-iolation of Article 49;
-(b) the CE marking has not been affixed;
-(c) the EU declaration of conformity has not been drawn up;
-(d) the EU declaration of conformity has not been drawn up correctly;
-(ea) the registration in the EU database has not been carried
-out;
-(eb) where applicable, the authorised representative has not been appointed;
-(ec) the technical documentation is not available.
-2.
-Where the non
--
-compliance referred to in paragraph 1 persists, the market surveillance
-authority of the Member State con
-cerned shall take appropriate and proportionate measures
-to restrict or prohibit the high
--
-risk AI system being made available on the market or ensure
-that it is recalled or withdrawn from the market without delay.
-5662/24
-RB/ek
-215
-TREE.2.B
-LIMITE
-EN
+1. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the ‘scientific panel’) intended to support the enforcement activities under this Regulation. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+2. The scientific panel shall consist of experts selected by the Commission on the basis of up-to-date scientific or technical expertise in the field of AI necessary for the tasks set out in paragraph 3, and shall be able to demonstrate meeting all of the following conditions:
+(a) having particular expertise and competence and scientific or technical expertise in the field of AI;
+(b) independence from any provider of AI systems or general-purpose AI models;
+(c) an ability to carry out activities diligently, accurately and objectively.
+The Commission, in consultation with the Board, shall determine the number of experts on the panel in accordance with the required needs and shall ensure fair gender and geographical representation.
+3. The scientific panel shall advise and support the AI Office, in particular with regard to the following tasks:
+(a) supporting the implementation and enforcement of this Regulation as regards general-purpose AI models and systems, in particular by:
+(i) alerting the AI Office of possible systemic risks at Union level of general-purpose AI models, in accordance with Article 90;
+(ii) contributing to the development of tools and methodologies for evaluating capabilities of general-purpose AI models and systems, including through benchmarks;
+(iii) providing advice on the classification of general-purpose AI models with systemic risk;
+(iv) providing advice on the classification of various general-purpose AI models and systems;
+(v) contributing to the development of tools and templates;
+(b) supporting the work of market surveillance authorities, at their request;
+(c) supporting cross-border market surveillance activities as referred to in Article 74(11), without prejudice to the powers of market surveillance authorities;
+(d) supporting the AI Office in carrying out its duties in the context of the Union safeguard procedure pursuant to Article 81.
+4. The experts on the scientific panel shall perform their tasks with impartiality and objectivity, and shall ensure the confidentiality of information and data obtained in carrying out their tasks and activities. They shall neither seek nor take instructions from anyone when exercising their tasks under paragraph 3. Each expert shall draw up a declaration of interests, which shall be made publicly available. The AI Office shall establish systems and procedures to actively manage and prevent potential conflicts of interest.
+5. The implementing act referred to in paragraph 1 shall include provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue alerts, and to request the assistance of the AI Office for the performance of the tasks of the scientific panel.

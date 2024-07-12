@@ -1,26 +1,10 @@
 # Recital (56)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_56`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (56)
-To enable enforcement of this Regulation and create a level
--
-playing field for operators, and
-taking into account the different fo
-rms of making available of digital products, it is
-important to ensure that, under all circumstances, a person established in the Union can
-provide authorities with all the necessary information on the compliance of an AI system.
-Therefore, prior to making
-their AI systems available in the Union, providers established
-outside the Union shall, by written mandate, appoint an authorised representative
-established in the Union. This authorised representative plays a pivotal role in ensuring the
-compliance of t
-he high
--
-risk AI systems placed on the market or put into service in the
-Union by those providers who are not established in the Union and in serving as their
-contact person established in the Union.
+The deployment of AI systems in education is important to promote high-quality digital education and training and to allow all learners and teachers to acquire and share the necessary digital skills and competences, including media literacy, and critical thinking, to take an active part in the economy, society, and in democratic processes. However, AI systems used in education or vocational training, in particular for determining access or admission, for assigning persons to educational and vocational training institutions or programmes at all levels, for evaluating learning outcomes of persons, for assessing the appropriate level of education for an individual and materially influencing the level of education and training that individuals will receive or will be able to access or for monitoring and detecting prohibited behaviour of students during tests should be classified as high-risk AI systems, since they may determine the educational and professional course of a person’s life and therefore may affect that person’s ability to secure a livelihood. When improperly designed and used, such systems may be particularly intrusive and may violate the right to education and training as well as the right not to be discriminated against and perpetuate historical patterns of discrimination, for example against women, certain age groups, persons with disabilities, or persons of certain racial or ethnic origins or sexual orientation.

@@ -1,67 +1,14 @@
-# Article 48 — EU declaration of conformity
+# Article 48 — CE marking
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_48`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-The provider shall draw up a written machine readable, physical or electronically signed
-EU declaration of conformity for each high
--
-risk AI system and keep it at the disposal of
-5662/24
-RB/ek
-162
-TREE.2.B
-LIMITE
-EN
-the national competent authoriti
-es for 10 years after the AI high
--
-risk system has been
-placed on the market or put into service. The EU declaration of conformity shall identify
-the high
--
-risk AI system for which it has been drawn up. A copy of the EU declaration of
-conformity shall be sub
-mitted to the relevant national competent authorities upon request.
-2.
-The EU declaration of conformity shall state that the high
--
-risk AI system in question meets
-the requirements set out in Chapter 2 of this Title. The EU declaration of conformity shall
-contain the information set out in Annex V and shall be translated into a language that can
-be easily understood by the national competent authorities of the Member State(s) in which
-the high
--
-risk AI system is placed on the market or made available.
-3.
-Whe
-re high
--
-risk AI systems are subject to other Union harmonisation legislation which
-also requires an EU declaration of conformity, a single EU declaration of conformity shall
-be drawn up in respect of all Union legislations applicable to the high
--
-risk AI sy
-stem. The
-declaration shall contain all the information required for identification of the Union
-harmonisation legislation to which the declaration relates.
-4.
-By drawing up the EU declaration of conformity, the provider shall assume responsibility
-for co
-mpliance with the requirements set out in Chapter 2 of this Title. The provider shall
-keep the EU declaration of conformity up
--
-to
--
-date as appropriate.
-5.
-The Commission shall be empowered to adopt delegated acts in accordance with Article 73
-for the purpos
-e of updating the content of the EU declaration of conformity set out in
-Annex V in order to introduce elements that become necessary in light of technical
-progress.
+1. The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
+2. For high-risk AI systems provided digitally, a digital CE marking shall be used, only if it can easily be accessed via the interface from which that system is accessed or via an easily accessible machine-readable code or other electronic means.
+3. The CE marking shall be affixed visibly, legibly and indelibly for high-risk AI systems. Where that is not possible or not warranted on account of the nature of the high-risk AI system, it shall be affixed to the packaging or to the accompanying documentation, as appropriate.
+4. Where applicable, the CE marking shall be followed by the identification number of the notified body responsible for the conformity assessment procedures set out in Article 43. The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the provider or by the provider’s authorised representative. The identification number shall also be indicated in any promotional material which mentions that the high-risk AI system fulfils the requirements for CE marking.
+5. Where high-risk AI systems are subject to other Union law which also provides for the affixing of the CE marking, the CE marking shall indicate that the high-risk AI system also fulfil the requirements of that other law.

@@ -1,19 +1,10 @@
 # Recital (15)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_15`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (15)
-Aside from the many beneficial uses of artificial intelligence, that technology can also be
-misused and provide novel and powerful tools for manipulative, exploitative and social
-control
-practices. Such practices are particularly harmful and abusive and should be
-prohibited because they contradict Union values of respect for human dignity, freedom,
-equality, democracy and the rule of law and Union fundamental rights, including the right
-t
-o non
--
-discrimination, data protection and privacy and the rights of the child.
+The notion of ‘biometric identification’ referred to in this Regulation should be defined as the automated recognition of physical, physiological and behavioural human features such as the face, eye movement, body shape, voice, prosody, gait, posture, heart rate, blood pressure, odour, keystrokes characteristics, for the purpose of establishing an individual’s identity by comparing biometric data of that individual to stored biometric data of individuals in a reference database, irrespective of whether the individual has given its consent or not. This excludes AI systems intended to be used for biometric verification, which includes authentication, whose sole purpose is to confirm that a specific natural person is the person he or she claims to be and to confirm the identity of a natural person for the sole purpose of having access to a service, unlocking a device or having security access to premises.

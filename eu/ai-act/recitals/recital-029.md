@@ -1,91 +1,18 @@
 # Recital (29)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_29`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (29)
-As regards high
--
-risk AI systems that are safety components of products or systems, or
-which are themselves products or systems falling within the scope of Regulation (EC) No
-300/2008 of the European Parliament and of th
-e Council
-10
-, Regulation (EU) No 167/2013
-of the European Parliament and of the Council
-11
-, Regulation (EU) No 168/2013 of the
-European Parliament and of the Council
-12
-, Directive 2014/90/EU of the European
-Parliament and of the Council
-13
-, Directive (EU) 2016/797
-of the European Parliament and
-of the Council
-14
-, Regulation (EU) 2018/858 of the European Parliament and of the
-Council
-15
-, Regulation (EU) 2018/1139 of the European Parliament and of the Council
+AI-enabled manipulative techniques can be used to persuade persons to engage in unwanted behaviours, or to deceive them by nudging them into decisions in a way that subverts and impairs their autonomy, decision-making and free choices. The placing on the market, the putting into service or the use of certain AI systems with the objective to or the effect of materially distorting human behaviour, whereby significant harms, in particular having sufficiently important adverse impacts on physical, psychological health or financial interests are likely to occur, are particularly dangerous and should therefore be prohibited. Such AI systems deploy subliminal components such as audio, image, video stimuli that persons cannot perceive, as those stimuli are beyond human perception, or other manipulative or deceptive techniques that subvert or impair person’s autonomy, decision-making or free choice in ways that people are not consciously aware of those techniques or, where they are aware of them, can still be deceived or are not able to control or resist them. This could be facilitated, for example, by machine-brain interfaces or virtual reality as they allow for a higher degree of control of what stimuli are presented to persons, insofar as they may materially distort their behaviour in a significantly harmful manner. In addition, AI systems may also otherwise exploit the vulnerabilities of a person or a specific group of persons due to their age, disability within the meaning of Directive (EU) 2019/882 of the European Parliament and of the Council
+(
 16
-,
-10
-Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common
-rules in the field of civil
-aviation security and repealing Regulation (EC) No 2320/2002 (OJ L 97, 9.4.2008, p.
-72).
-11
-Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the
-approval and market surveillance of agricultural and forestry ve
-hicles (OJ L 60, 2.3.2013, p. 1).
-12
-Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the
-approval and market surveillance of two
--
-or three
--
-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
-13
-Directiv
-e 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment
-and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146).
-14
-Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on
-the
-interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
-15
-Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and
-market surveillance of motor vehicles and their tra
-ilers, and of systems, components and separate technical
-units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and
-repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).
-16
-Regulation (EU) 2018/1139 of the Europea
-n Parliament and of the Council of 4 July 2018 on common rules in
-the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending
-Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Di
-rectives
-2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC)
-5662/24
-RB/ek
-35
-TREE.2.B
-LIMITE
-EN
-and Regulation (EU) 2019/2144 of the European Parliament and
-of the Council
+)
+, or a specific social or economic situation that is likely to make those persons more vulnerable to exploitation such as persons living in extreme poverty, ethnic or religious minorities. Such AI systems can be placed on the market, put into service or used with the objective to or the effect of materially distorting the behaviour of a person and in a manner that causes or is reasonably likely to cause significant harm to that or another person or groups of persons, including harms that may be accumulated over time and should therefore be prohibited. It may not be possible to assume that there is an intention to distort behaviour where the distortion results from factors external to the AI system which are outside the control of the provider or the deployer, namely factors that may not be reasonably foreseeable and therefore not possible for the provider or the deployer of the AI system to mitigate. In any case, it is not necessary for the provider or the deployer to have the intention to cause significant harm, provided that such harm results from the manipulative or exploitative AI-enabled practices. The prohibitions for such AI practices are complementary to the provisions contained in Directive 2005/29/EC of the European Parliament and of the Council
+(
 17
-, it is
-appropriate to amend those acts to ensure that the Commission takes into account, on the
-basis of the technical and regulatory specificities of each sector, and without interfering
-with existing governance, conformity assessment and
-enforcement mechanisms and
-authorities established therein, the mandatory requirements for high
--
-risk AI systems laid
-down in this Regulation when adopting any relevant future delegated or implementing acts
-on the basis of those acts.
+)
+, in particular unfair commercial practices leading to economic or financial harms to consumers are prohibited under all circumstances, irrespective of whether they are put in place through AI systems or otherwise. The prohibitions of manipulative and exploitative practices in this Regulation should not affect lawful practices in the context of medical treatment such as psychological treatment of a mental disease or physical rehabilitation, when those practices are carried out in accordance with the applicable law and medical standards, for example explicit consent of the individuals or their legal representatives. In addition, common and legitimate commercial practices, for example in the field of advertising, that comply with the applicable law should not, in themselves, be regarded as constituting harmful manipulative AI-enabled practices.

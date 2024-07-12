@@ -1,53 +1,19 @@
-# Article 67 — Compliant AI systems which present a risk
+# Article 67 — Advisory forum
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_67`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-Where, having performed an evaluation under Article 65, after consulting the relevant
-national public authority referred to in Article 64(3), the market surveillance auth
-ority of a
-Member State finds that although a high
--
-risk AI system is in compliance with this
-Regulation, it presents a risk to the health or safety of persons, fundamental rights, or to
-other aspects of public interest protection, it shall require the rel
-evant operator to take all
-appropriate measures to ensure that the AI system concerned, when placed on the market
-or put into service, no longer presents that risk without undue delay, within a period it may
-prescribe.
-2.
-The provider or other relevant ope
-rators shall ensure that corrective action is taken in
-respect of all the AI systems concerned that they have made available on the market
-throughout the Union within the timeline prescribed by the market surveillance authority of
-the Member State referred
-to in paragraph 1.
-3.
-The Member States shall immediately inform the Commission and the other Member
-States. That information shall include all available details, in particular the data necessary
-for the identification of the AI system concerned, the ori
-gin and the supply chain of the AI
-system, the nature of the risk involved and the nature and duration of the national measures
-taken.
-5662/24
-RB/ek
-214
-TREE.2.B
-LIMITE
-EN
-4.
-The Commission shall without undue delay enter into consultation with the Member States
-concerned and the relevant ope
-rator and shall evaluate the national measures taken. On the
-basis of the results of that evaluation, the Commission shall decide whether the measure is
-justified or not and, where necessary, propose appropriate measures.
-5.
-The Commission shall immediatel
-y communicate its decision to the Member States
-concerned and to the relevant operators. It shall also inform of the decision all other
-Member States.
+1. An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under this Regulation.
+2. The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society and academia. The membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regard to SMEs and other undertakings.
+3. The Commission shall appoint the members of the advisory forum, in accordance with the criteria set out in paragraph 2, from amongst stakeholders with recognised expertise in the field of AI.
+4. The term of office of the members of the advisory forum shall be two years, which may be extended by up to no more than four years.
+5. The Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI) shall be permanent members of the advisory forum.
+6. The advisory forum shall draw up its rules of procedure. It shall elect two co-chairs from among its members, in accordance with criteria set out in paragraph 2. The term of office of the co-chairs shall be two years, renewable once.
+7. The advisory forum shall hold meetings at least twice a year. The advisory forum may invite experts and other stakeholders to its meetings.
+8. The advisory forum may prepare opinions, recommendations and written contributions at the request of the Board or the Commission.
+9. The advisory forum may establish standing or temporary sub-groups as appropriate for the purpose of examining specific questions related to the objectives of this Regulation.
+10. The advisory forum shall prepare an annual report on its activities. That report shall be made publicly available.

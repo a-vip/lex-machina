@@ -1,22 +1,10 @@
 # Recital (51)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_51`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (51)
-Cybersecurity plays a crucial role in ensuring that AI systems are resilient against attempts
-to alter their use, behaviour, performance or compromise their security properties by
-malicious third parties exploiting the
-system’s vulnerabilities. Cyberattacks against AI
-systems can leverage AI specific assets, such as training data sets (e.g. data poisoning) or
-trained models (e.g. adversarial attacks or membership inference), or exploit vulnerabilities
-in the AI system’s
-digital assets or the underlying ICT infrastructure. To ensure a level of
-cybersecurity appropriate to the risks, suitable measures, such as security controls, should
-therefore be taken by the providers of high
--
-risk AI systems, also taking into account as
-appropriate the underlying ICT infrastructure.
+The classification of an AI system as high-risk pursuant to this Regulation should not necessarily mean that the product whose safety component is the AI system, or the AI system itself as a product, is considered to be high-risk under the criteria established in the relevant Union harmonisation legislation that applies to the product. This is, in particular, the case for Regulations (EU) 2017/745 and (EU) 2017/746, where a third-party conformity assessment is provided for medium-risk and high-risk products.

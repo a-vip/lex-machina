@@ -1,34 +1,26 @@
 # Recital (46)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_46`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (46)
-Having comprehensible information on how high
--
-risk AI systems have been developed
-and how they perform throughout their lifetime is essential t
-o enable traceability of those
-systems, verify compliance with the requirements under this Regulation, as well as
-monitoring of their operations and post market monitoring. This requires keeping records
-and the availability of a technical documentation, co
-ntaining information which is
-necessary to assess the compliance of the AI system with the relevant requirements and
-5662/24
-RB/ek
-48
-TREE.2.B
-LIMITE
-EN
-facilitate post market monitoring. Such information should include the general
-characteristics, capabilities and limitations of the system,
-algorithms, data, training, testing
-and validation processes used as well as documentation on the relevant risk management
-system and drawn in a clear and comprehensive form. The technical documentation should
-be kept up to date, appropriately throughout
-the lifetime of the AI system. Furthermore,
-high risk AI systems should technically allow for automatic recording of events (logs) over
-the duration of the lifetime of the system.
+High-risk AI systems should only be placed on the Union market, put into service or used if they comply with certain mandatory requirements. Those requirements should ensure that high-risk AI systems available in the Union or whose output is otherwise used in the Union do not pose unacceptable risks to important Union public interests as recognised and protected by Union law. On the basis of the New Legislative Framework, as clarified in the Commission notice ‘The “Blue Guide” on the implementation of EU product rules 2022’
+(
+20
+)
+, the general rule is that more than one legal act of Union harmonisation legislation, such as Regulations (EU) 2017/745
+(
+21
+)
+and (EU) 2017/746
+(
+22
+)
+of the European Parliament and of the Council or Directive 2006/42/EC of the European Parliament and of the Council
+(
+23
+)
+, may be applicable to one product, since the making available or putting into service can take place only when the product complies with all applicable Union harmonisation legislation. To ensure consistency and avoid unnecessary administrative burdens or costs, providers of a product that contains one or more high-risk AI systems, to which the requirements of this Regulation and of the Union harmonisation legislation listed in an annex to this Regulation apply, should have flexibility with regard to operational decisions on how to ensure compliance of a product that contains one or more AI systems with all applicable requirements of the Union harmonisation legislation in an optimal manner. AI systems identified as high-risk should be limited to those that have a significant harmful impact on the health, safety and fundamental rights of persons in the Union and such limitation should minimise any potential restriction to international trade.

@@ -1,52 +1,16 @@
-# Article 46 — Information oblig
+# Article 46 — Derogation from conformity assessment procedure
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_46`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-ations of notified bodies
-1.
-Notified bodies shall inform the notifying authority of the following:
-(a) any Union technical documentation assessment certificates, any supplements to those
-certificates, quality management system approvals issued in accorda
-nce with the
-requirements of Annex VII;
-(b) any refusal, restriction, suspension or withdrawal of a Union technical
-documentation assessment certificate or a quality management system approval
-issued in accordance with the requirements of Annex VII;
-(c) a
-ny circumstances affecting the scope of or conditions for notification;
-(d) any request for information which they have received from market surveillance
-authorities regarding conformity assessment activities;
-(e) on request, conformity assessment activiti
-es performed within the scope of their
-notification and any other activity performed, including cross
--
-border activities and
-subcontracting.
-5662/24
-RB/ek
-160
-TREE.2.B
-LIMITE
-EN
-2.
-Each notified body shall inform the other notified bodies of:
-(a) quality management system approvals which it
-has refused, suspended or withdrawn,
-and, upon request, of quality system approvals which it has issued;
-(b) EU technical documentation assessment certificates or any supplements thereto
-which it has refused, withdrawn, suspended or otherwise restricted, a
-nd, upon
-request, of the certificates and/or supplements thereto which it has issued.
-3.
-Each notified body shall provide the other notified bodies carrying out similar conformity
-assessment activities covering the same types of AI systems with relevant in
-formation on
-issues relating to negative and, on request, positive conformity assessment results.
-3a.
-The obligations referred to in paragraphs 1 to 3 shall be complied with in accordance with
-Article 70.
+1. By way of derogation from Article 43 and upon a duly justified request, any market surveillance authority may authorise the placing on the market or the putting into service of specific high-risk AI systems within the territory of the Member State concerned, for exceptional reasons of public security or the protection of life and health of persons, environmental protection or the protection of key industrial and infrastructural assets. That authorisation shall be for a limited period while the necessary conformity assessment procedures are being carried out, taking into account the exceptional reasons justifying the derogation. The completion of those procedures shall be undertaken without undue delay.
+2. In a duly justified situation of urgency for exceptional reasons of public security or in the case of specific, substantial and imminent threat to the life or physical safety of natural persons, law-enforcement authorities or civil protection authorities may put a specific high-risk AI system into service without the authorisation referred to in paragraph 1, provided that such authorisation is requested during or after the use without undue delay. If the authorisation referred to in paragraph 1 is refused, the use of the high-risk AI system shall be stopped with immediate effect and all the results and outputs of such use shall be immediately discarded.
+3. The authorisation referred to in paragraph 1 shall be issued only if the market surveillance authority concludes that the high-risk AI system complies with the requirements of Section 2. The market surveillance authority shall inform the Commission and the other Member States of any authorisation issued pursuant to paragraphs 1 and 2. This obligation shall not cover sensitive operational data in relation to the activities of law-enforcement authorities.
+4. Where, within 15 calendar days of receipt of the information referred to in paragraph 3, no objection has been raised by either a Member State or the Commission in respect of an authorisation issued by a market surveillance authority of a Member State in accordance with paragraph 1, that authorisation shall be deemed justified.
+5. Where, within 15 calendar days of receipt of the notification referred to in paragraph 3, objections are raised by a Member State against an authorisation issued by a market surveillance authority of another Member State, or where the Commission considers the authorisation to be contrary to Union law, or the conclusion of the Member States regarding the compliance of the system as referred to in paragraph 3 to be unfounded, the Commission shall, without delay, enter into consultations with the relevant Member State. The operators concerned shall be consulted and have the possibility to present their views. Having regard thereto, the Commission shall decide whether the authorisation is justified. The Commission shall address its decision to the Member State concerned and to the relevant operators.
+6. Where the Commission considers the authorisation unjustified, it shall be withdrawn by the market surveillance authority of the Member State concerned.
+7. For high-risk AI systems related to products covered by Union harmonisation legislation listed in Section A of Annex I, only the derogations from the conformity assessment established in that Union harmonisation legislation shall apply.

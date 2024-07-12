@@ -1,27 +1,10 @@
 # Recital (25)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_25`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (25)
-In accordance with Article 6a of Protocol No 21 on the position of the United Kingdom
-and Ireland in respect of the area of freedom, security and ju
-stice, as annexed to the TEU
-and to the TFEU, Ireland is not bound by the rules laid down in Article 5(1), point (d), (2),
-(3), (3a),
-(4) and (5), Article 5(1)(ba) to the extent it applies to the use of biometric
-categorisation systems for activities in th
-e field of police cooperation and judicial
-cooperation in criminal matters, Article 5(1)(da) to the extent it applies to the use of AI
-systems covered by that provision and Article 29(6a) of this Regulation adopted on the
-basis of Article 16 of the TFEU wh
-ich relate to the processing of personal data by the
-Member States when carrying out activities falling within the scope of Chapter 4 or
-Chapter 5 of Title V of Part Three of the TFEU, where Ireland is not bound by the rules
-governing the forms of judicial
-cooperation in criminal matters or police cooperation
-which require compliance with the provisions laid down on the basis of Article 16 of the
-TFEU.
+This Regulation should support innovation, should respect freedom of science, and should not undermine research and development activity. It is therefore necessary to exclude from its scope AI systems and models specifically developed and put into service for the sole purpose of scientific research and development. Moreover, it is necessary to ensure that this Regulation does not otherwise affect scientific research and development activity on AI systems or models prior to being placed on the market or put into service. As regards product-oriented research, testing and development activity regarding AI systems or models, the provisions of this Regulation should also not apply prior to those systems and models being put into service or placed on the market. That exclusion is without prejudice to the obligation to comply with this Regulation where an AI system falling into the scope of this Regulation is placed on the market or put into service as a result of such research and development activity and to the application of provisions on AI regulatory sandboxes and testing in real world conditions. Furthermore, without prejudice to the exclusion of AI systems specifically developed and put into service for the sole purpose of scientific research and development, any other AI system that may be used for the conduct of any research and development activity should remain subject to the provisions of this Regulation. In any event, any research and development activity should be carried out in accordance with recognised ethical and professional standards for scientific research and should be conducted in accordance with applicable Union law.

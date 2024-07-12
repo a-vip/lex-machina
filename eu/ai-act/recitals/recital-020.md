@@ -1,41 +1,10 @@
 # Recital (20)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_20`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (20)
-In order to ensure that thos
-e systems are used in a responsible and proportionate manner, it
-is also important to establish that, in each of those exhaustively listed and narrowly
-defined situations, certain elements should be taken into account, in particular as regards
-the nature
-of the situation giving rise to the request and the consequences of the use for the
-rights and freedoms of all persons concerned and the safeguards and conditions provided
-for with the use. In addition, the use of ‘real
--
-time’ remote biometric identificatio
-n systems
-in publicly accessible spaces for the purpose of law enforcement should only be deployed
-to confirm the specifically target individual’s identity and should be limited to what is
-strictly necessary concerning the period of time as well as geograp
-hic and personal scope,
-having regard in particular to the evidence or indications regarding the threats, the victims
-or perpetrator. The use of the ‘real
--
-time’ remote biometric identification system in publicly
-accessible spaces should only be authorised
-if the law enforcement authority has completed
-a fundamental rights impact assessment and, unless provided otherwise in this Regulation,
-has registered the system in the database as set out in this Regulation. The reference
-5662/24
-RB/ek
-29
-TREE.2.B
-LIMITE
-EN
-database of persons should be ap
-propriate for each use case in each of the situations
-mentioned above.
+In order to obtain the greatest benefits from AI systems while protecting fundamental rights, health and safety and to enable democratic control, AI literacy should equip providers, deployers and affected persons with the necessary notions to make informed decisions regarding AI systems. Those notions may vary with regard to the relevant context and can include understanding the correct application of technical elements during the AI system’s development phase, the measures to be applied during its use, the suitable ways in which to interpret the AI system’s output, and, in the case of affected persons, the knowledge necessary to understand how decisions taken with the assistance of AI will have an impact on them. In the context of the application this Regulation, AI literacy should provide all relevant actors in the AI value chain with the insights required to ensure the appropriate compliance and its correct enforcement. Furthermore, the wide implementation of AI literacy measures and the introduction of appropriate follow-up actions could contribute to improving working conditions and ultimately sustain the consolidation, and innovation path of trustworthy AI in the Union. The European Artificial Intelligence Board (the ‘Board’) should support the Commission, to promote AI literacy tools, public awareness and understanding of the benefits, risks, safeguards, rights and obligations in relation to the use of AI systems. In cooperation with the relevant stakeholders, the Commission and the Member States should facilitate the drawing up of voluntary codes of conduct to advance AI literacy among persons dealing with the development, operation and use of AI.

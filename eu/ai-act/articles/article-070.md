@@ -1,94 +1,18 @@
-# Article 70 — Confidentiality
+# Article 70 — Designation of national competent authorities and single points of contact
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_70`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-The Commission, market surveillance authorities and notified bodies and any other natural
-or legal person involved in the application of this Regulation
-shall, in accordance with
-Union or national law, respect the confidentiality of information and data obtained in
-carrying out their tasks and activities in such a manner as to protect, in particular:
-(a) intellectual property rights, and confidential busi
-ness information or trade secrets of
-a natural or legal person, including source code, except the cases referred to in
-Article 5 of Directive 2016/943 on the protection of undisclosed know
--
-how and
-business information (trade secrets) against their unlawful
-acquisition, use and
-disclosure apply;
-(b) the effective implementation of this Regulation, in particular for the purpose of
-inspections, investigations or audits;
-(ba) public and national security interests;
-5662/24
-RB/ek
-224
-TREE.2.B
-LIMITE
-EN
-(c)
-integrity of criminal or administrative
-proceedings;
-(da) the integrity of information classified in accordance with Union or national law.
-1a.
-The authorities involved in the application of this Regulation pursuant to paragraph 1 shall
-only request data that is strictly necessary for the asse
-ssment of the risk posed by the AI
-system and for the exercise of their powers in compliance with this Regulation and
-Regulation 2019/1020. They shall put in place adequate and effective cybersecurity
-measures to protect the security and confidentiality o
-f the information and data obtained
-and shall delete the data collected as soon as it is no longer needed for the purpose it was
-requested for, in accordance with applicable national or European legislation.
-2.
-Without prejudice to paragraph 1 and 1a, in
-formation exchanged on a confidential basis
-between the national competent authorities and between national competent authorities and
-the Commission shall not be disclosed without the prior consultation of the originating
-national competent authority and t
-he deployer when high
--
-risk AI systems referred to in
-points 1, 6 and 7 of Annex III are used by law enforcement, border control, immigration or
-asylum authorities, when such disclosure would jeopardise public and national security
-interests. This exchange
-of information shall not cover sensitive operational data in relation
-to the activities of law enforcement, border control, immigration or asylum authorities.
-When the law enforcement, immigration or asylum authorities are providers of high
--
-risk
-AI system
-s referred to in points 1, 6 and 7 of Annex III, the technical documentation
-referred to in Annex IV shall remain within the premises of those authorities. Those
-authorities shall ensure that the market surveillance authorities referred to in Article 63(5)
-and (6), as applicable, can, upon request, immediately access the documentation or obtain a
-copy thereof. Only staff of the market surveillance authority holding the appropriate level
-of security clearance shall be allowed to access that documentation or
-any copy thereof.
-3.
-Paragraphs 1, [1a] and 2 shall not affect the rights and obligations of the Commission,
-Member States and their relevant authorities, as well as notified bodies, with regard to the
-exchange of information and the dissemination of warni
-ngs, including in the context of
-cross
--
-border cooperation, nor the obligations of the parties concerned to provide
-information under criminal law of the Member States.
-4.
-The Commission and Member States may exchange, where necessary and in accordance
-with
-relevant provisions of international and trade agreements, confidential information
-5662/24
-RB/ek
-225
-TREE.2.B
-LIMITE
-EN
-with regulatory authorities of third countries with which they have concluded bilateral or
-multilateral confidentiality arrangements guaranteeing an adequate level of conf
-identiality.
+1. Each Member State shall establish or designate as national competent authorities at least one notifying authority and at least one market surveillance authority for the purposes of this Regulation. Those national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the objectivity of their activities and tasks, and to ensure the application and implementation of this Regulation. The members of those authorities shall refrain from any action incompatible with their duties. Provided that those principles are observed, such activities and tasks may be performed by one or more designated authorities, in accordance with the organisational needs of the Member State.
+2. Member States shall communicate to the Commission the identity of the notifying authorities and the market surveillance authorities and the tasks of those authorities, as well as any subsequent changes thereto. Member States shall make publicly available information on how competent authorities and single points of contact can be contacted, through electronic communication means by 2 August 2025. Member States shall designate a market surveillance authority to act as the single point of contact for this Regulation, and shall notify the Commission of the identity of the single point of contact. The Commission shall make a list of the single points of contact publicly available.
+3. Member States shall ensure that their national competent authorities are provided with adequate technical, financial and human resources, and with infrastructure to fulfil their tasks effectively under this Regulation. In particular, the national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of AI technologies, data and data computing, personal data protection, cybersecurity, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements. Member States shall assess and, if necessary, update competence and resource requirements referred to in this paragraph on an annual basis.
+4. National competent authorities shall take appropriate measures to ensure an adequate level of cybersecurity.
+5. When performing their tasks, the national competent authorities shall act in accordance with the confidentiality obligations set out in Article 78.
+6. By 2 August 2025, and once every two years thereafter, Member States shall report to the Commission on the status of the financial and human resources of the national competent authorities, with an assessment of their adequacy. The Commission shall transmit that information to the Board for discussion and possible recommendations.
+7. The Commission shall facilitate the exchange of experience between national competent authorities.
+8. National competent authorities may provide guidance and advice on the implementation of this Regulation, in particular to SMEs including start-ups, taking into account the guidance and advice of the Board and the Commission, as appropriate. Whenever national competent authorities intend to provide guidance and advice with regard to an AI system in areas covered by other Union law, the national competent authorities under that Union law shall be consulted, as appropriate.
+9. Where Union institutions, bodies, offices or agencies fall within the scope of this Regulation, the European Data Protection Supervisor shall act as the competent authority for their supervision.

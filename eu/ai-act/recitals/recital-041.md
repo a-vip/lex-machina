@@ -1,25 +1,11 @@
 # Recital (41)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_41`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (41)
-The
-fact that an AI system is classified as a high
--
-risk AI system under this Regulation
-should not be interpreted as indicating that the use of the system is lawful under other acts
-of Union law or under national law compatible with Union law, such as on the
-protection
-of personal data, on the use of polygraphs and similar tools or other systems to detect the
-emotional state of natural persons. Any such use should continue to occur solely in
-accordance with the applicable requirements resulting from the Charte
-r and from the
-applicable acts of secondary Union law and national law. This Regulation should not be
-understood as providing for the legal ground for processing of personal data, including
-special categories of personal data, where relevant, unless it is
-specifically provided for
-otherwise in this Regulation.
+In accordance with Articles 2 and 2a of Protocol No 22 on the position of Denmark, annexed to the TEU and to the TFEU, Denmark is not bound by rules laid down in Article 5(1), first subparagraph, point (g), to the extent it applies to the use of biometric categorisation systems for activities in the field of police cooperation and judicial cooperation in criminal matters, Article 5(1), first subparagraph, point (d), to the extent it applies to the use of AI systems covered by that provision, Article 5(1), first subparagraph, point (h),
+(2) to (6) and Article 26(10) of this Regulation adopted on the basis of Article 16 TFEU, or subject to their application, which relate to the processing of personal data by the Member States when carrying out activities falling within the scope of Chapter 4 or Chapter 5 of Title V of Part Three of the TFEU.

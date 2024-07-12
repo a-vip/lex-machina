@@ -1,27 +1,10 @@
 # Recital (18)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_18`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (18)
-The use of AI systems for ‘real
--
-time’ remote biometric identification of natural persons in
-publicly accessible spaces for the purpose of law enforcement is particularly intrusive to
-the rights and freedoms of the concerned perso
-ns, to the extent that it may affect the
-private life of a large part of the population, evoke a feeling of constant surveillance and
-indirectly dissuade the exercise of the freedom of assembly and other fundamental rights.
-Technical inaccuracies of AI sy
-stems intended for the remote biometric identification of
-natural persons can lead to biased results and entail discriminatory effects. This is
-particularly relevant when it comes to age, ethnicity, race, sex or disabilities. In addition,
-the immediacy of
-the impact and the limited opportunities for further checks or corrections
-in relation to the use of such systems operating in ‘real
--
-time’ carry heightened risks for the
-rights and freedoms of the persons that are concerned by law enforcement activities.
+The notion of ‘emotion recognition system’ referred to in this Regulation should be defined as an AI system for the purpose of identifying or inferring emotions or intentions of natural persons on the basis of their biometric data. The notion refers to emotions or intentions such as happiness, sadness, anger, surprise, disgust, embarrassment, excitement, shame, contempt, satisfaction and amusement. It does not include physical states, such as pain or fatigue, including, for example, systems used in detecting the state of fatigue of professional pilots or drivers for the purpose of preventing accidents. This does also not include the mere detection of readily apparent expressions, gestures or movements, unless they are used for identifying or inferring emotions. Those expressions can be basic facial expressions, such as a frown or a smile, or gestures such as the movement of hands, arms or head, or characteristics of a person’s voice, such as a raised voice or whispering.

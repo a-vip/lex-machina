@@ -1,40 +1,10 @@
 # Recital (35)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_35`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (35)
-Deployment of AI systems in education is important to promote high
--
-quality digital
-education and training and to allow all learners and teachers to acquire and share the
-necessary digita
-l skills and competences, including media literacy, and critical thinking, to
-take an active part in the economy, society, and in democratic processes. However, AI
-systems used in education or vocational training, notably for determining access or
-admissi
-on, for assigning persons to educational and vocational training institutions or
-5662/24
-RB/ek
-39
-TREE.2.B
-LIMITE
-EN
-programmes at all levels, for evaluating learning outcomes of persons, for assessing the
-appropriate level of education for an individual and materially influencing the lev
-el of
-education and training that individuals will receive or be able to access or for monitoring
-and detecting prohibited behaviour of students during tests should be classified as high
--
-risk
-AI systems, since they may determine the educational and profess
-ional course of a
-person’s life and therefore affect their ability to secure their livelihood. When improperly
-designed and used, such systems can be particularly intrusive and may violate the right to
-education and training as well as the right not to be
-discriminated against and perpetuate
-historical patterns of discrimination, for example against women, certain age groups,
-persons with disabilities, or persons of certain racial or ethnic origins or sexual orientation.
+Each use of a ‘real-time’ remote biometric identification system in publicly accessible spaces for the purpose of law enforcement should be subject to an express and specific authorisation by a judicial authority or by an independent administrative authority of a Member State whose decision is binding. Such authorisation should, in principle, be obtained prior to the use of the AI system with a view to identifying a person or persons. Exceptions to that rule should be allowed in duly justified situations on grounds of urgency, namely in situations where the need to use the systems concerned is such as to make it effectively and objectively impossible to obtain an authorisation before commencing the use of the AI system. In such situations of urgency, the use of the AI system should be restricted to the absolute minimum necessary and should be subject to appropriate safeguards and conditions, as determined in national law and specified in the context of each individual urgent use case by the law enforcement authority itself. In addition, the law enforcement authority should in such situations request such authorisation while providing the reasons for not having been able to request it earlier, without undue delay and at the latest within 24 hours. If such an authorisation is rejected, the use of real-time biometric identification systems linked to that authorisation should cease with immediate effect and all the data related to such use should be discarded and deleted. Such data includes input data directly acquired by an AI system in the course of the use of such system as well as the results and outputs of the use linked to that authorisation. It should not include input that is legally acquired in accordance with another Union or national law. In any case, no decision producing an adverse legal effect on a person should be taken based solely on the output of the remote biometric identification system.

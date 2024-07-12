@@ -1,22 +1,10 @@
 # Recital (63)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_63`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (63)
-It is appropriate that, in order to minimise the burden o
-n operators and avoid any possible
-duplication, for high
--
-risk AI systems related to products which are covered by existing
-Union harmonisation legislation following the New Legislative Framework approach, the
-compliance of those AI systems with the require
-ments of this Regulation should be
-assessed as part of the conformity assessment already foreseen under that legislation. The
-applicability of the requirements of this Regulation should thus not affect the specific
-logic, methodology or general structure o
-f conformity assessment under the relevant
-specific New Legislative Framework legislation.
+The fact that an AI system is classified as a high-risk AI system under this Regulation should not be interpreted as indicating that the use of the system is lawful under other acts of Union law or under national law compatible with Union law, such as on the protection of personal data, on the use of polygraphs and similar tools or other systems to detect the emotional state of natural persons. Any such use should continue to occur solely in accordance with the applicable requirements resulting from the Charter and from the applicable acts of secondary Union law and national law. This Regulation should not be understood as providing for the legal ground for processing of personal data, including special categories of personal data, where relevant, unless it is specifically otherwise provided for in this Regulation.

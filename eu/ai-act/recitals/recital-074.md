@@ -1,24 +1,18 @@
 # Recital (74)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_74`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (74)
-In pa
-rticular, in order to minimise the risks to implementation resulting from lack of
-knowledge and expertise in the market as well as to facilitate compliance of providers,
-notably SMEs, including start
--
-ups, and notified bodies with their obligations under th
-is
-Regulation, the AI
--
-on demand platform, the European Digital Innovation Hubs and the
-Testing and Experimentation Facilities established by the Commission and the Member
-States at national or EU level should contribute to the implementation of this Regul
-ation.
-Within their respective mission and fields of competence, they may provide in particular
-technical and scientific support to providers and notified bodies.
+High-risk AI systems should perform consistently throughout their lifecycle and meet an appropriate level of accuracy, robustness and cybersecurity, in light of their intended purpose and in accordance with the generally acknowledged state of the art. The Commission and relevant organisations and stakeholders are encouraged to take due consideration of the mitigation of risks and the negative impacts of the AI system. The expected level of performance metrics should be declared in the accompanying instructions of use. Providers are urged to communicate that information to deployers in a clear and easily understandable way, free of misunderstandings or misleading statements. Union law on legal metrology, including Directives 2014/31/EU
+(
+35
+)
+and 2014/32/EU
+(
+36
+)
+of the European Parliament and of the Council, aims to ensure the accuracy of measurements and to help the transparency and fairness of commercial transactions. In that context, in cooperation with relevant stakeholders and organisation, such as metrology and benchmarking authorities, the Commission should encourage, as appropriate, the development of benchmarks and measurement methodologies for AI systems. In doing so, the Commission should take note and collaborate with international partners working on metrology and relevant measurement indicators relating to AI.

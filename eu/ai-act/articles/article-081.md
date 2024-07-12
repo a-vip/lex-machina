@@ -1,69 +1,12 @@
-# Article 81 — Amendment to Regulation (EU) 2018/1139
+# Article 81 — Union safeguard procedure
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_81`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-Regulation (EU) 2018/1139 is amended as follows:
-(1) In Article 17, the following paragraph is added:
-“3.
-“Without prejudice to pa
-ragraph 2, when adopting implementing acts pursuant to
-paragraph 1 concerning Artificial Intelligence systems which are safety components in
-the meaning of Regulation (EU) YYY/XX [on Artificial Intelligence] of the European
-Parliament and of the Council*,
-the requirements set out in Title III, Chapter 2 of that
-Regulation shall be taken into account.
-* Regulation (EU) YYY/XX [on Artificial Intelligence] (OJ …).”
-__________”
-(2)
-In Article 19, the following paragraph is added:
-“4.
-When adopting delegated
-acts pursuant to paragraphs 1 and 2 concerning
-Artificial Intelligence systems which are safety components in the meaning of
-Regulation (EU) YYY/XX [on Artificial Intelligence], the requirements set out
-in Title III, Chapter 2 of that Regulation shall be
-taken into account.”
-(3)
-In Article 43, the following paragraph is added:
-“4.
-When adopting implementing acts pursuant to paragraph 1 concerning
-Artificial Intelligence systems which are safety components in the meaning of
-Regulation (EU) YYY/XX [on Artifi
-cial Intelligence], the requirements set out
-in Title III, Chapter 2 of that Regulation shall be taken into account.”
-(4)
-In Article 47, the following paragraph is added:
-“3.
-When adopting delegated acts pursuant to paragraphs 1 and 2 concerning
-Artificial
-Intelligence systems which are safety components in the meaning of
-5662/24
-RB/ek
-236
-TREE.2.B
-LIMITE
-EN
-Regulation (EU) YYY/XX [on Artificial Intelligence], the requirements set out
-in Title III, Chapter 2 of that Regulation shall be taken into account.”
-(5)
-In Article 57, the following
-paragraph is added:
-“
-When adopting those implementing acts concerning Artificial Intelligence
-systems which are safety components in the meaning of Regulation (EU)
-YYY/XX [on Artificial Intelligence], the requirements set out in Title III,
-Chapter 2 of t
-hat Regulation shall be taken into account.”
-(6)
-In Article 58, the following paragraph is added:
-“3.
-When adopting delegated acts pursuant to paragraphs 1 and 2 concerning
-Artificial Intelligence systems which are safety components in the meaning of
-Regul
-ation (EU) YYY/XX [on Artificial Intelligence] , the requirements set
-out in Title III, Chapter 2 of that Regulation shall be taken into account..”
+1. Where, within three months of receipt of the notification referred to in Article 79(5), or within 30 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, objections are raised by the market surveillance authority of a Member State to a measure taken by another market surveillance authority, or where the Commission considers the measure to be contrary to Union law, the Commission shall without undue delay enter into consultation with the market surveillance authority of the relevant Member State and the operator or operators, and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall, within six months, or within 60 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, starting from the notification referred to in Article 79(5), decide whether the national measure is justified and shall notify its decision to the market surveillance authority of the Member State concerned. The Commission shall also inform all other market surveillance authorities of its decision.
+2. Where the Commission considers the measure taken by the relevant Member State to be justified, all Member States shall ensure that they take appropriate restrictive measures in respect of the AI system concerned, such as requiring the withdrawal of the AI system from their market without undue delay, and shall inform the Commission accordingly. Where the Commission considers the national measure to be unjustified, the Member State concerned shall withdraw the measure and shall inform the Commission accordingly.
+3. Where the national measure is considered justified and the non-compliance of the AI system is attributed to shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.

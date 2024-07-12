@@ -1,17 +1,10 @@
 # Recital (87)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_87`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (87)
-Since the objective of this Regulation cannot be sufficiently achieved by the Member
-States and can rather, by reason of the scale or
-effects of the action, be better achieved at
-Union level, the Union may adopt measures in accordance with the principle of
-subsidiarity as set out in Article 5 TEU. In accordance with the principle of proportionality
-as set out in that Article, this Regula
-tion does not go beyond what is necessary in order to
-achieve that objective.
+In addition, where a high-risk AI system that is a safety component of a product which falls within the scope of Union harmonisation legislation based on the New Legislative Framework is not placed on the market or put into service independently from the product, the product manufacturer defined in that legislation should comply with the obligations of the provider established in this Regulation and should, in particular, ensure that the AI system embedded in the final product complies with the requirements of this Regulation.

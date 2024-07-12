@@ -1,27 +1,10 @@
 # Recital (14)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_14`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (14)
-In order to introduce a proportionate and effective set of binding rules for AI systems, a
-clearly defined risk
--
-based approach should be followed. That approach should tailor the
-type and content of such rules to the intensity and scope
-of the risks that AI systems can
-generate. It is therefore necessary to prohibit certain unacceptable artificial intelligence
-5662/24
-RB/ek
-24
-TREE.2.B
-LIMITE
-EN
-practices, to lay down requirements for high
--
-risk AI systems and obligations for the
-relevant operators, and to lay down transpar
-ency obligations for certain AI systems.
+The notion of ‘biometric data’ used in this Regulation should be interpreted in light of the notion of biometric data as defined in Article 4, point (14) of Regulation (EU) 2016/679, Article 3, point (18) of Regulation (EU) 2018/1725 and Article 3, point (13) of Directive (EU) 2016/680. Biometric data can allow for the authentication, identification or categorisation of natural persons and for the recognition of emotions of natural persons.

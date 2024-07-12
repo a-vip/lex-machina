@@ -1,39 +1,10 @@
 # Recital (52)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_52`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (52)
-As part of Union harmonisation legislation, rules applicable to the
-placing on the market,
-putting into service and use of high
--
-risk AI systems should be laid down consistently with
-Regulation (EC) No 765/2008 of the European Parliament and of the Council
-22
-setting out
-the requirements for accreditation and the market surv
-eillance of products, Decision No
-22
-Regulation (E
-C) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the
-requirements for accreditation and market surveillance relating to the marketing of products and repealing
-Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
-5662/24
-RB/ek
-52
-TREE.2.B
-LIMITE
-EN
-768/2008/EC of the European Parliament and of the Council
-23
-on a common framework
-for the marketing of products and Regulation (EU) 2019/1020 of the European Parliament
-and of the Council
-24
-on market surveillance and complia
-nce of products (‘New Legislative
-Framework for the marketing of products’).
+As regards stand-alone AI systems, namely high-risk AI systems other than those that are safety components of products, or that are themselves products, it is appropriate to classify them as high-risk if, in light of their intended purpose, they pose a high risk of harm to the health and safety or the fundamental rights of persons, taking into account both the severity of the possible harm and its probability of occurrence and they are used in a number of specifically pre-defined areas specified in this Regulation. The identification of those systems is based on the same methodology and criteria envisaged also for any future amendments of the list of high-risk AI systems that the Commission should be empowered to adopt, via delegated acts, to take into account the rapid pace of technological development, as well as the potential changes in the use of AI systems.

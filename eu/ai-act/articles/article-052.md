@@ -1,117 +1,16 @@
-# Article 52 — Transparency obligations for providers and users
+# Article 52 — Procedure
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_52`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-of certain AI systems and GPAI models
-1.
-Providers shall ensure that AI systems intended to directly interact with natural persons are
-designed and developed in such a way that the concerned natural persons are informed that
-they are interacting with an AI
-system, unless this is obvious from the point of view of a
-natural person who is reasonably well
--
-informed, observant and circumspect, taking into
-account the circumstances and the context of use. This obligation shall not apply to AI
-systems authorised by
-law to detect, prevent, investigate and prosecute criminal offences,
-subject to appropriate safeguards for the rights and freedoms of third parties unless those
-systems are available for the public to report a criminal offence.
-1a.
-Providers of AI system
-s, including GPAI systems, generating synthetic audio, image,
-video or text content, shall ensure the outputs of the AI system are marked in a machine
--
-readable format and detectable as artificially generated or manipulated. Providers shall
-ensure their tec
-hnical solutions are effective, interoperable, robust and reliable as far as this
-5662/24
-RB/ek
-165
-TREE.2.B
-LIMITE
-EN
-is technically feasible, taking into account specificities and limitations of different types of
-content, costs of implementation and the generally acknowledged state
--
-of
--
-the
--
-art, as may
-be reflected in relevant technical standards. This obligation shall not apply to the extent the
-AI systems perform an assistive function for standard editing or do not substantially alter
-the input data provided by the deployer or the semantics
-thereof, or where authorised by
-law to detect, prevent, investigate and prosecute criminal offences.
-2.
-Deployers of an emotion recognition system or a biometric categorisation system shall
-inform of the operation of the system the natural persons expose
-d thereto and process the
-personal data in accordance with Regulation (EU) 2016/679, Regulation (EU) 2016/1725
-and Directive (EU) 2016/280, as applicable. This obligation shall not apply to AI systems
-used for biometric categorization and emotion recogniti
-on, which are permitted by law to
-detect, prevent and investigate criminal offences, subject to appropriate safeguards for the
-rights and freedoms of third parties, and in compliance with Union law.
-3.
-Deployers of an AI system that generates or manipulate
-s image, audio or video content
-constituting a deep fake, shall disclose that the content has been artificially generated or
-manipulated. This obligation shall not apply where the use is authorised by law to detect,
-prevent, investigate and prosecute crim
-inal offence. Where the content forms part of an
-evidently artistic, creative, satirical, fictional analogous work or programme, the
-transparency obligations set out in this paragraph are limited to disclosure of the existence
-of such generated or manipula
-ted content in an appropriate manner that does not hamper
-the display or enjoyment of the work.
-Deployers of an AI system that generates or manipulates text which is published with the
-purpose of informing the public on matters of public interest shall d
-isclose that the text has
-been artificially generated or manipulated. This obligation shall not apply where the use is
-authorised by law to detect, prevent, investigate and prosecute criminal offences or where
-the AI
--
-generated content has undergone a proce
-ss of human review or editorial control and
-where a natural or legal person holds editorial responsibility for the publication of the
-content.
-3a.
-The information referred to in paragraphs 1 to 3 shall be provided to the concerned natural
-persons in a clea
-r and distinguishable manner at the latest at the time of the first interaction
-or exposure. The information shall respect the applicable accessibility requirements.
-5662/24
-RB/ek
-166
-TREE.2.B
-LIMITE
-EN
-4.
-Paragraphs 1, 2 and 3 shall not affect the requirements and obligations set out in Titl
-e III of
-this Regulation and shall be without prejudice to other transparency obligations for users of
-AI systems laid down in Union or national law.
-4a.
-The AI Office shall encourage and facilitate the drawing up of codes of practice at Union
-level to fa
-cilitate the effective implementation of the obligations regarding the detection
-and labelling of artificially generated or manipulated content. The Commission is
-empowered to adopt implementing acts to approve these codes of practice in accordance
-with th
-e procedure laid down in Article 52e paragraphs 6
--
-8. If it deems the code is not
-adequate, the Commission is empowered to adopt an implementing act specifying the
-common rules for the implementation of those obligations in accordance with the
-examination p
-rocedure laid down in Article 73 paragraph 2.
-TITLE VIIIA
-GENERAL PURPOSE AI MODELS
-Chapter 1
-CLASSIFICATION RULES
+1. Where a general-purpose AI model meets the condition referred to in Article 51(1), point (a), the relevant provider shall notify the Commission without delay and in any event within two weeks after that requirement is met or it becomes known that it will be met. That notification shall include the information necessary to demonstrate that the relevant requirement has been met. If the Commission becomes aware of a general-purpose AI model presenting systemic risks of which it has not been notified, it may decide to designate it as a model with systemic risk.
+2. The provider of a general-purpose AI model that meets the condition referred to in Article 51(1), point (a), may present, with its notification, sufficiently substantiated arguments to demonstrate that, exceptionally, although it meets that requirement, the general-purpose AI model does not present, due to its specific characteristics, systemic risks and therefore should not be classified as a general-purpose AI model with systemic risk.
+3. Where the Commission concludes that the arguments submitted pursuant to paragraph 2 are not sufficiently substantiated and the relevant provider was not able to demonstrate that the general-purpose AI model does not present, due to its specific characteristics, systemic risks, it shall reject those arguments, and the general-purpose AI model shall be considered to be a general-purpose AI model with systemic risk.
+4. The Commission may designate a general-purpose AI model as presenting systemic risks, ex officio or following a qualified alert from the scientific panel pursuant to Article 90(1), point (a), on the basis of criteria set out in Annex XIII.
+The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex XIII by specifying and updating the criteria set out in that Annex.
+5. Upon a reasoned request of a provider whose model has been designated as a general-purpose AI model with systemic risk pursuant to paragraph 4, the Commission shall take the request into account and may decide to reassess whether the general-purpose AI model can still be considered to present systemic risks on the basis of the criteria set out in Annex XIII. Such a request shall contain objective, detailed and new reasons that have arisen since the designation decision. Providers may request reassessment at the earliest six months after the designation decision. Where the Commission, following its reassessment, decides to maintain the designation as a general-purpose AI model with systemic risk, providers may request reassessment at the earliest six months after that decision.
+6. The Commission shall ensure that a list of general-purpose AI models with systemic risk is published and shall keep that list up to date, without prejudice to the need to observe and protect intellectual property rights and confidential business information or trade secrets in accordance with Union and national law.

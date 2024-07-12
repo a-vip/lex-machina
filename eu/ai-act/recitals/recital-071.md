@@ -1,38 +1,10 @@
 # Recital (71)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_71`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (71)
-Artificial int
-elligence is a rapidly developing family of technologies that requires
-regulatory oversight and a safe and controlled space for experimentation, while ensuring
-responsible innovation and integration of appropriate safeguards and risk mitigation
-measures. T
-o ensure a legal framework that promotes innovation, is future
--
-proof and
-resilient to disruption, Member States should ensure that their national competent
-authorities establish at least one artificial intelligence regulatory sandbox at national level
-to f
-acilitate the development and testing of innovative AI systems under strict regulatory
-oversight before these systems are placed on the market or otherwise put into service.
-Member States could also fulfil this obligation through participating in already e
-xisting
-regulatory sandboxes or establishing jointly a sandbox with one or several Member States’
-competent authorities, insofar as this participation provides equivalent level of national
-coverage for the participating Member States. Regulatory sandboxes
-could be established
-in physical, digital or hybrid form and may accommodate physical as well as digital
-5662/24
-RB/ek
-76
-TREE.2.B
-LIMITE
-EN
-products. Establishing authorities should also ensure that the regulatory sandboxes have the
-adequate resources for their functioning, including financ
-ial and human resources.
+Having comprehensible information on how high-risk AI systems have been developed and how they perform throughout their lifetime is essential to enable traceability of those systems, verify compliance with the requirements under this Regulation, as well as monitoring of their operations and post market monitoring. This requires keeping records and the availability of technical documentation, containing information which is necessary to assess the compliance of the AI system with the relevant requirements and facilitate post market monitoring. Such information should include the general characteristics, capabilities and limitations of the system, algorithms, data, training, testing and validation processes used as well as documentation on the relevant risk-management system and drawn in a clear and comprehensive form. The technical documentation should be kept up to date, appropriately throughout the lifetime of the AI system. Furthermore, high-risk AI systems should technically allow for the automatic recording of events, by means of logs, over the duration of the lifetime of the system.

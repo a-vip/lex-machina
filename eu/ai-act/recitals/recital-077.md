@@ -1,32 +1,10 @@
 # Recital (77)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_77`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (77)
-Member States hold a key role in the application and enforcement of this Regulation. In
-this respect, each Member State should designate at least one notifying authority and at
-5662/24
-RB/ek
-83
-TREE.2.B
-LIMITE
-EN
-least one mark
-et surveillance authority as national competent authorities for the purpose of
-supervising the application and implementation of this Regulation. Member States may
-decide to appoint any kind of public entity to perform the tasks of the national competent
-a
-uthorities within the meaning of this Regulation, in accordance with their specific national
-organisational characteristics and needs. In order to increase organisation efficiency on the
-side of Member States and to set a single point of contact vis
--
-à
--
-vis
-the public and other
-counterparts at Member State and Union levels, each Member State should designate a
-market surveillance authority to act as single point of contact.
+Without prejudice to the requirements related to robustness and accuracy set out in this Regulation, high-risk AI systems which fall within the scope of a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements, in accordance with that regulation may demonstrate compliance with the cybersecurity requirements of this Regulation by fulfilling the essential cybersecurity requirements set out in that regulation. When high-risk AI systems fulfil the essential requirements of a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements, they should be deemed compliant with the cybersecurity requirements set out in this Regulation in so far as the achievement of those requirements is demonstrated in the EU declaration of conformity or parts thereof issued under that regulation. To that end, the assessment of the cybersecurity risks, associated to a product with digital elements classified as high-risk AI system according to this Regulation, carried out under a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements, should consider risks to the cyber resilience of an AI system as regards attempts by unauthorised third parties to alter its use, behaviour or performance, including AI specific vulnerabilities such as data poisoning or adversarial attacks, as well as, as relevant, risks to fundamental rights as required by this Regulation.

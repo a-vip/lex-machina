@@ -1,85 +1,14 @@
-# Article 72 — Administrative fines on Union institutions, agencies and bodies
+# Article 72 — Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_72`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-The European Data Protection Supervisor may impose administrative fines on Union
-institutio
-ns, agencies and bodies falling within the scope of this Regulation. When deciding
-whether to impose an administrative fine and deciding on the amount of the administrative
-fine in each individual case, all relevant circumstances of the specific situation
-shall be
-taken into account and due regard shall be given to the following:
-(a) the nature, gravity and duration of the infringement and of its consequences, taking
-into account the purpose of the AI system concerned as well as the number of
-affected perso
-ns and the level of damage suffered by them, and any relevant previous
-infringement;
-(aa) the degree of responsibility of the Union institution, agency or body, taking into
-account technical and organisational measures implemented by them;
-(ab) any action
-taken by the Union institution, agency or body to mitigate the damage
-suffered by affected persons;
-(b) the degree of cooperation with the European Data Protection Supervisor in order to
-remedy the infringement and mitigate the possible adverse effects of
-the
-infringement, including compliance with any of the measures previously ordered by
-the European Data Protection Supervisor against the Union institution or agency or
-body concerned with regard to the same subject matter;
-(c) any similar previous infring
-ements by the Union institution, agency or body;
-(ca) the manner in which the infringement became known to the European Data
-Protection Supervisor, in particular whether, and if so to what extent, the Union
-institution or body notified the infringement;
-(c
-b)
-the annual budget of the body.
-2.
-Non
--
-compliance with the prohibition of the artificial intelligence practices referred to in
-Article 5 shall be subject to administrative fines of up to EUR 1 500 000.
-5662/24
-RB/ek
-229
-TREE.2.B
-LIMITE
-EN
-3.
-Non
--
-compliance of the AI system with any requirem
-ents or obligations under this
-Regulation, other than those laid down in Articles 5, shall be subject to administrative fines
-of up to EUR 750 000.
-4.
-Before taking decisions pursuant to this Article, the European Data Protection Supervisor
-shall give the
-Union institution, agency or body which is the subject of the proceedings
-conducted by the European Data Protection Supervisor the opportunity of being heard on
-the matter regarding the possible infringement. The European Data Protection Supervisor
-shall b
-ase his or her decisions only on elements and circumstances on which the parties
-concerned have been able to comment. Complainants, if any, shall be associated closely
-with the proceedings.
-5.
-The rights of defence of the parties concerned shall be fully r
-espected in the proceedings.
-They shall be entitled to have access to the European Data Protection Supervisor’s file,
-subject to the legitimate interest of individuals or undertakings in the protection of their
-personal data or business secrets.
-6.
-Funds c
-ollected by imposition of fines in this Article shall contribute to the general budget
-of the Union. The fines shall not affect the effective operation of the Union institution,
-body or agency fined.
-6a.
-The European Data Protection Supervisor shall, on an
-annual basis, notify the Commission
-of the administrative fines it has imposed pursuant to this Article and any litigation or
-judicial proceedings.
+1. Providers shall establish and document a post-market monitoring system in a manner that is proportionate to the nature of the AI technologies and the risks of the high-risk AI system.
+2. The post-market monitoring system shall actively and systematically collect, document and analyse relevant data which may be provided by deployers or which may be collected through other sources on the performance of high-risk AI systems throughout their lifetime, and which allow the provider to evaluate the continuous compliance of AI systems with the requirements set out in Chapter III, Section 2. Where relevant, post-market monitoring shall include an analysis of the interaction with other AI systems. This obligation shall not cover sensitive operational data of deployers which are law-enforcement authorities.
+3. The post-market monitoring system shall be based on a post-market monitoring plan. The post-market monitoring plan shall be part of the technical documentation referred to in Annex IV. The Commission shall adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan by 2 February 2026. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+4. For high-risk AI systems covered by the Union harmonisation legislation listed in Section A of Annex I, where a post-market monitoring system and plan are already established under that legislation, in order to ensure consistency, avoid duplications and minimise additional burdens, providers shall have a choice of integrating, as appropriate, the necessary elements described in paragraphs 1, 2 and 3 using the template referred in paragraph 3 into systems and plans already existing under that legislation, provided that it achieves an equivalent level of protection.
+The first subparagraph of this paragraph shall also apply to high-risk AI systems referred to in point 5 of Annex III placed on the market or put into service by financial institutions that are subject to requirements under Union financial services law regarding their internal governance, arrangements or processes.

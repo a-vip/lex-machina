@@ -1,0 +1,10 @@
+# Recital (36)
+
+- **Instrument**: EU AI Act
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Akoma Ntoso eId**: `rct_36`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
+
+(36)
+In order to carry out their tasks in accordance with the requirements set out in this Regulation as well as in national rules, the relevant market surveillance authority and the national data protection authority should be notified of each use of the real-time biometric identification system. Market surveillance authorities and the national data protection authorities that have been notified should submit to the Commission an annual report on the use of real-time biometric identification systems.

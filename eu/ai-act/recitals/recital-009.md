@@ -1,55 +1,26 @@
 # Recital (9)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_9`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (9)
-For the purposes of this Regulation the notion of publicly accessible space should be
-understood as referring to any physical place that is accessible to an undetermi
-ned number
-of natural persons, and irrespective of whether the place in question is privately or publicly
-owned and irrespective of the activity for which the place may be used, such as commerce
-(for instance, shops, restaurants, cafés), services (for inst
-ance, banks, professional
-activities, hospitality), sport (for instance, swimming pools, gyms, stadiums), transport (for
-instance, bus, metro and railway stations, airports, means of transport ), entertainment (for
-instance, cinemas, theatres, museums, con
-cert and conference halls) leisure or otherwise
-(for instance, public roads and squares, parks, forests, playgrounds). A place should be
-classified as publicly accessible also if, regardless of potential capacity or security
-5662/24
-RB/ek
-20
-TREE.2.B
-LIMITE
-EN
-restrictions, access is subject
-to certain predetermined conditions, which can be fulfilled by
-an undetermined number of persons, such as purchase of a ticket or title of transport, prior
-registration or having a certain age. By contrast, a place should not be considered publicly
-access
-ible if access is limited to specific and defined natural persons through either Union
-or national law directly related to public safety or security or through the clear
-manifestation of will by the person having the relevant authority on the place. The fa
-ctual
-possibility of access alone (e.g. an unlocked door, an open gate in a fence) does not imply
-that the place is publicly accessible in the presence of indications or circumstances
-suggesting the contrary (e.g. signs prohibiting or restricting access).
-Company and factory
-premises as well as offices and workplaces that are intended to be accessed only by
-relevant employees and service providers are places that are not publicly accessible.
-Publicly accessible spaces should not include prisons or border co
-ntrol. Some other areas
-may be composed of both not publicly accessible and publicly accessible areas, such as the
-hallway of a private residential building necessary to access a doctor's office or an airport.
-Online spaces are not covered either, as they
-are not physical spaces. Whether a given
-space is accessible to the public should however be determined on a case
--
-by
--
-case basis,
-having regard to the specificities of the individual situation at hand.
+Harmonised rules applicable to the placing on the market, the putting into service and the use of high-risk AI systems should be laid down consistently with Regulation (EC) No 765/2008 of the European Parliament and of the Council
+(
+7
+)
+, Decision No 768/2008/EC of the European Parliament and of the Council
+(
+8
+)
+and Regulation (EU) 2019/1020 of the European Parliament and of the Council
+(
+9
+)
+(New Legislative Framework). The harmonised rules laid down in this Regulation should apply across sectors and, in line with the New Legislative Framework, should be without prejudice to existing Union law, in particular on data protection, consumer protection, fundamental rights, employment, and protection of workers, and product safety, to which this Regulation is complementary. As a consequence, all rights and remedies provided for by such Union law to consumers, and other persons on whom AI systems may have a negative impact, including as regards the compensation of possible damages pursuant to Council Directive 85/374/EEC
+(
+10
+)
+remain unaffected and fully applicable. Furthermore, in the context of employment and protection of workers, this Regulation should therefore not affect Union law on social policy and national labour law, in compliance with Union law, concerning employment and working conditions, including health and safety at work and the relationship between employers and workers. This Regulation should also not affect the exercise of fundamental rights as recognised in the Member States and at Union level, including the right or freedom to strike or to take other action covered by the specific industrial relations systems in Member States as well as the right to negotiate, to conclude and enforce collective agreements or to take collective action in accordance with national law. This Regulation should not affect the provisions aiming to improve working conditions in platform work laid down in a Directive of the European Parliament and of the Council on improving working conditions in platform work. Moreover, this Regulation aims to strengthen the effectiveness of such existing rights and remedies by establishing specific requirements and obligations, including in respect of the transparency, technical documentation and record-keeping of AI systems. Furthermore, the obligations placed on various operators involved in the AI value chain under this Regulation should apply without prejudice to national law, in compliance with Union law, having the effect of limiting the use of certain AI systems where such law falls outside the scope of this Regulation or pursues legitimate public interest objectives other than those pursued by this Regulation. For example, national labour law and law on the protection of minors, namely persons below the age of 18, taking into account the UNCRC General Comment No 25 (2021) on children’s rights in relation to the digital environment, insofar as they are not specific to AI systems and pursue other legitimate public interest objectives, should not be affected by this Regulation.

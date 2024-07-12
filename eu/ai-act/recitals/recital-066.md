@@ -1,24 +1,10 @@
 # Recital (66)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_66`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (66)
-In line with the commonly established n
-otion of substantial modification for products
-regulated by Union harmonisation legislation, it is appropriate that whenever a change
-occurs which may affect the compliance of a high risk AI system with this Regulation (e.g.
-change of operating system or s
-oftware architecture), or when the intended purpose of the
-system changes, that AI system should be considered a new AI system which should
-undergo a new conformity assessment. However, changes occurring to the algorithm and
-the performance of AI systems w
-hich continue to ‘learn’ after being placed on the market
-or put into service (i.e. automatically adapting how functions are carried out) should not
-constitute a substantial modification, provided that those changes have been pre
--
-determined by the provider
-and assessed at the moment of the conformity assessment.
+Requirements should apply to high-risk AI systems as regards risk management, the quality and relevance of data sets used, technical documentation and record-keeping, transparency and the provision of information to deployers, human oversight, and robustness, accuracy and cybersecurity. Those requirements are necessary to effectively mitigate the risks for health, safety and fundamental rights. As no other less trade restrictive measures are reasonably available those requirements are not unjustified restrictions to trade.

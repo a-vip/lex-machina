@@ -1,57 +1,19 @@
-# Article 49 — CE marking of conformity
+# Article 49 — Registration
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_49`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-The CE marking of conformity shall be subject to th
-e general principles set out in Article
-30 of Regulation (EC) No 765/2008.
-1a.
-For high
--
-risk AI systems provided digitally, a digital CE marking shall be used, only if it
-can be easily accessed via the interface from which the AI system is accessed or via
-an
-easily accessible machine
--
-readable code or other electronic means.
-5662/24
-RB/ek
-163
-TREE.2.B
-LIMITE
-EN
-2.
-The CE marking shall be affixed visibly, legibly and indelibly for high
--
-risk AI systems.
-Where that is not possible or not warranted on account of the nature of the high
--
-risk AI
-syst
-em, it shall be affixed to the packaging or to the accompanying documentation, as
-appropriate.
-3.
-Where applicable, the CE marking shall be followed by the identification number of the
-notified body responsible for the conformity assessment procedures set
-out in Article 43.
-The identification number of the notified body shall be affixed by the body itself or, under
-its instructions, by the provider or by its authorised representative. The identification
-number shall also be indicated in any promotional mate
-rial which mentions that the high
--
-risk AI system fulfils the requirements for CE marking.
-3a.
-Where high
--
-risk AI systems are subject to other Union law which also provides for the
-affixing of the CE marking, the CE marking shall indicate that the
-high
--
-risk AI system also
-fulfil the requirements of that other law.
+1. Before placing on the market or putting into service a high-risk AI system listed in Annex III, with the exception of high-risk AI systems referred to in point 2 of Annex III, the provider or, where applicable, the authorised representative shall register themselves and their system in the EU database referred to in Article 71.
+2. Before placing on the market or putting into service an AI system for which the provider has concluded that it is not high-risk according to Article 6(3), that provider or, where applicable, the authorised representative shall register themselves and that system in the EU database referred to in Article 71.
+3. Before putting into service or using a high-risk AI system listed in Annex III, with the exception of high-risk AI systems listed in point 2 of Annex III, deployers that are public authorities, Union institutions, bodies, offices or agencies or persons acting on their behalf shall register themselves, select the system and register its use in the EU database referred to in Article 71.
+4. For high-risk AI systems referred to in points 1, 6 and 7 of Annex III, in the areas of law enforcement, migration, asylum and border control management, the registration referred to in paragraphs 1, 2 and 3 of this Article shall be in a secure non-public section of the EU database referred to in Article 71 and shall include only the following information, as applicable, referred to in:
+(a) Section A, points 1 to 10, of Annex VIII, with the exception of points 6, 8 and 9;
+(b) Section B, points 1 to 5, and points 8 and 9 of Annex VIII;
+(c) Section C, points 1 to 3, of Annex VIII;
+(d) points 1, 2, 3 and 5, of Annex IX.
+Only the Commission and national authorities referred to in Article 74(8) shall have access to the respective restricted sections of the EU database listed in the first subparagraph of this paragraph.
+5. High-risk AI systems referred to in point 2 of Annex III shall be registered at national level.

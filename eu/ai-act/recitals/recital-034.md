@@ -1,31 +1,10 @@
 # Recital (34)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_34`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (34)
-As regards the management and operation of critical infrastructure, it is appropriate to
-classify as high
--
-risk the AI systems intended to be used as safety components in the
-management and operation of critical digital infrastructure as listed in Anne
-x I point 8 of
-the Directive on the resilience of critical entities, road traffic and the supply of water, gas,
-heating and electricity, since their failure or malfunctioning may put at risk the life and
-health of persons at large scale and lead to appreci
-able disruptions in the ordinary conduct
-of social and economic activities. Safety components of critical infrastructure, including
-critical digital infrastructure, are systems used to directly protect the physical integrity of
-critical infrastructure or h
-ealth and safety of persons and property but which are not
-necessary in order for the system to function. Failure or malfunctioning of such
-components might directly lead to risks to the physical integrity of critical infrastructure
-and thus to risks to he
-alth and safety of persons and property. Components intended to be
-used solely for cybersecurity purposes should not qualify as safety components. Examples
-of safety components of such critical infrastructure may include systems for monitoring
-water pressu
-re or fire alarm controlling systems in cloud computing centres.
+In order to ensure that those systems are used in a responsible and proportionate manner, it is also important to establish that, in each of those exhaustively listed and narrowly defined situations, certain elements should be taken into account, in particular as regards the nature of the situation giving rise to the request and the consequences of the use for the rights and freedoms of all persons concerned and the safeguards and conditions provided for with the use. In addition, the use of ‘real-time’ remote biometric identification systems in publicly accessible spaces for the purpose of law enforcement should be deployed only to confirm the specifically targeted individual’s identity and should be limited to what is strictly necessary concerning the period of time, as well as the geographic and personal scope, having regard in particular to the evidence or indications regarding the threats, the victims or perpetrator. The use of the real-time remote biometric identification system in publicly accessible spaces should be authorised only if the relevant law enforcement authority has completed a fundamental rights impact assessment and, unless provided otherwise in this Regulation, has registered the system in the database as set out in this Regulation. The reference database of persons should be appropriate for each use case in each of the situations mentioned above.

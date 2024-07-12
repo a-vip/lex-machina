@@ -1,67 +1,16 @@
-# Article 55 — Measures for providers and deployers, i
+# Article 55 — Obligations of providers of general-purpose AI models with systemic risk
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_55`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-n particular SMEs, including start
--
-ups
-1.
-Member States shall undertake the following actions:
-(a) provide SMEs, including start
--
-ups, having a registered office or a branch in the
-Union, with priority access to the AI regulatory sandboxes, to the extent that they
-fulfil the eligibility conditions and selection criteria. The priority access shall not
-pr
-eclude other SMEs including start
--
-ups other than those referred to in the first
-subparagraph to access to the AI regulatory sandbox, provided that they fulfil the
-eligibility conditions and selection criteria;
-(b) organise specific awareness raising and t
-raining activities on the application of this
-Regulation tailored to the needs of SMEs including start
--
-ups, users and, as
-appropriate, local public authorities;
-(c) utilise existing dedicated channels and where appropriate, establish new ones for
-communica
-tion with SMEs including start
--
-ups, users, other innovators and, as
-appropriate, local public authorities to provide advice and respond to queries about
-the implementation of this Regulation, including as regards participation in AI
-regulatory sandboxes;
-(ca) facilitate the participation of SMEs and other relevant stakeholders in the
-standardisation development process.
-2.
-The specific interests and needs of the SME providers, including start
--
-ups, shall be taken
-into account when setting the fees for confo
-rmity assessment under Article 43, reducing
-those fees proportionately to their size, market size and other relevant indicators.
-2a.
-The AI Office shall undertake the following actions:
-(a) upon request of the AI Board, provide standardised templates for t
-he areas covered
-by this Regulation;
-(b) develop and maintain a single information platform providing easy to use
-information in relation to this Regulation for all operators across the Union;
-5662/24
-RB/ek
-188
-TREE.2.B
-LIMITE
-EN
-(c)
-organise appropriate communication campaigns to raise awar
-eness about the
-obligations arising from this Regulation;
-(d) evaluate and promote the convergence of best practices in public procurement
-procedures in relation to AI systems.
+1. In addition to the obligations listed in Articles 53 and 54, providers of general-purpose AI models with systemic risk shall:
+(a) perform model evaluation in accordance with standardised protocols and tools reflecting the state of the art, including conducting and documenting adversarial testing of the model with a view to identifying and mitigating systemic risks;
+(b) assess and mitigate possible systemic risks at Union level, including their sources, that may stem from the development, the placing on the market, or the use of general-purpose AI models with systemic risk;
+(c) keep track of, document, and report, without undue delay, to the AI Office and, as appropriate, to national competent authorities, relevant information about serious incidents and possible corrective measures to address them;
+(d) ensure an adequate level of cybersecurity protection for the general-purpose AI model with systemic risk and the physical infrastructure of the model.
+2. Providers of general-purpose AI models with systemic risk may rely on codes of practice within the meaning of Article 56 to demonstrate compliance with the obligations set out in paragraph 1 of this Article, until a harmonised standard is published. Compliance with European harmonised standards grants providers the presumption of conformity to the extent that those standards cover those obligations. Providers of general-purpose AI models with systemic risks who do not adhere to an approved code of practice or do not comply with a European harmonised standard shall demonstrate alternative adequate means of compliance for assessment by the Commission.
+3. Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78.

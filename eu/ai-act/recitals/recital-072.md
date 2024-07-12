@@ -1,70 +1,10 @@
 # Recital (72)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_72`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (72)
-The objectives of the AI regulatory sandboxes should be to foster AI innovation by
-establishing a controlled experimentation and testing environment in the development and
-pre
--
-marketing phase with a view to ensuring compliance
-of the innovative AI systems with
-this Regulation and other relevant Union and Member States legislation, to enhance legal
-certainty for innovators and the competent authorities’ oversight and understanding of the
-opportunities, emerging risks and the imp
-acts of AI use, to facilitate regulatory learning for
-authorities and companies, including with a view to future adaptions of the legal
-framework, to support cooperation and the sharing of best practices with the authorities
-involved in the AI regulatory
-sandbox, and to accelerate access to markets, including by
-removing barriers for small and medium enterprises (SMEs), including start
--
-ups.
-Regulatory sandboxes should be widely available throughout the Union, and particular
-attention should be given to the
-ir accessibility for SMEs, including startups. The
-participation in the AI regulatory sandbox should focus on issues that raise legal
-uncertainty for providers and prospective providers to innovate, experiment with AI in the
-Union and contribute to evidenc
-e
--
-based regulatory learning. The supervision of the AI
-systems in the AI regulatory sandbox should therefore cover their development, training,
-testing and validation before the systems are placed on the market or put into service, as
-well as the notion an
-d occurrence of substantial modification that may require a new
-conformity assessment procedure. Any significant risks identified during the development
-and testing of such AI systems should result in adequate mitigation and, failing that, in the
-suspensio
-n of the development and testing process Where appropriate, national competent
-authorities establishing AI regulatory sandboxes should cooperate with other relevant
-authorities, including those supervising the protection of fundamental rights,, and could
-allow for the involvement of other actors within the AI ecosystem such as national or
-European standardisation organisations, notified bodies, testing and experimentation
-facilities, research and experimentation labs, European Digital innovation hubs and
-r
-elevant stakeholder and civil society organisations. To ensure uniform implementation
-across the Union and economies of scale, it is appropriate to establish common rules for
-the regulatory sandboxes’ implementation and a framework for cooperation between
-the
-relevant authorities involved in the supervision of the sandboxes. AI regulatory sandboxes
-established under this Regulation should be without prejudice to other legislation allowing
-for the establishment of other sandboxes aiming at ensuring complianc
-e with legislation
-5662/24
-RB/ek
-77
-TREE.2.B
-LIMITE
-EN
-other that this Regulation. Where appropriate, relevant competent authorities in charge of
-those other regulatory sandboxes should consider the benefits of using those sandboxes
-also for the purpose of ensuring compliance of AI systems w
-ith this Regulation. Upon
-agreement between the national competent authorities and the participants in the AI
-regulatory sandbox, testing in real world conditions may also be operated and supervised in
-the framework of the AI regulatory sandbox.
+To address concerns related to opacity and complexity of certain AI systems and help deployers to fulfil their obligations under this Regulation, transparency should be required for high-risk AI systems before they are placed on the market or put it into service. High-risk AI systems should be designed in a manner to enable deployers to understand how the AI system works, evaluate its functionality, and comprehend its strengths and limitations. High-risk AI systems should be accompanied by appropriate information in the form of instructions of use. Such information should include the characteristics, capabilities and limitations of performance of the AI system. Those would cover information on possible known and foreseeable circumstances related to the use of the high-risk AI system, including deployer action that may influence system behaviour and performance, under which the AI system can lead to risks to health, safety, and fundamental rights, on the changes that have been pre-determined and assessed for conformity by the provider and on the relevant human oversight measures, including the measures to facilitate the interpretation of the outputs of the AI system by the deployers. Transparency, including the accompanying instructions for use, should assist deployers in the use of the system and support informed decision making by them. Deployers should, inter alia, be in a better position to make the correct choice of the system that they intend to use in light of the obligations applicable to them, be educated about the intended and precluded uses, and use the AI system correctly and as appropriate. In order to enhance legibility and accessibility of the information included in the instructions of use, where appropriate, illustrative examples, for instance on the limitations and on the intended and precluded uses of the AI system, should be included. Providers should ensure that all documentation, including the instructions for use, contains meaningful, comprehensive, accessible and understandable information, taking into account the needs and foreseeable knowledge of the target deployers. Instructions for use should be made available in a language which can be easily understood by target deployers, as determined by the Member State concerned.

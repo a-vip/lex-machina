@@ -1,63 +1,10 @@
 # Recital (44)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_44`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (44)
-High quality data and access to high quality data plays a vital role in providin
-g structure
-and in ensuring the performance of many AI systems, especially when techniques
-involving the training of models are used, with a view to ensure that the high
--
-risk AI
-system performs as intended and safely and it does not become a source of disc
-rimination
-prohibited by Union law. High quality datasets for training, validation and testing require
-5662/24
-RB/ek
-46
-TREE.2.B
-LIMITE
-EN
-the implementation of appropriate data governance and management practices. Datasets for
-training, validation and testing, including the labels, should b
-e relevant, sufficiently
-representative, and to the best extent possible free of errors and complete in view of the
-intended purpose of the system. In order to facilitate compliance with EU data protection
-law, such as Regulation (EU) 2016/679, data gove
-rnance and management practices
-should include, in the case of personal data, transparency about the original purpose of the
-data collection, The datasets should also have the appropriate statistical properties,
-including as regards the persons or groups
-of persons in relation to whom the high
--
-risk AI
-system is intended to be used, with specific attention to the mitigation of possible biases in
-the datasets, that are likely to affect the health and safety of persons, negatively impact
-fundamental rights o
-r lead to discrimination prohibited under Union law, especially where
-data outputs influence inputs for future operations (‘feedback loops’) . Biases can for
-example be inherent in underlying datasets, especially when historical data is being used,
-or gene
-rated when the systems are implemented in real world settings. Results provided by
-AI systems could be influenced by such inherent biases that are inclined to gradually
-increase and thereby perpetuate and amplify existing discrimination, in particular for
-persons belonging to certain vulnerable groups including racial or ethnic groups. The
-requirement for the datasets to be to the best extent possible complete and free of errors
-should not affect the use of privacy
--
-preserving techniques in the context of th
-e
-development and testing of AI systems. In particular, datasets should take into account, to
-the extent required by their intended purpose, the features, characteristics or elements that
-are particular to the specific geographical, contextual, behavioural
-or functional setting
-which the AI system is intended to be used. The requirements related to data governance
-can be complied with by having recourse to third parties that offer certified compliance
-services including verification of data governance, data
-set integrity, and data training,
-validation and testing practices, as far as compliance with the data requirements of this
-Regulation are ensured.
+There are serious concerns about the scientific basis of AI systems aiming to identify or infer emotions, particularly as expression of emotions vary considerably across cultures and situations, and even within a single individual. Among the key shortcomings of such systems are the limited reliability, the lack of specificity and the limited generalisability. Therefore, AI systems identifying or inferring emotions or intentions of natural persons on the basis of their biometric data may lead to discriminatory outcomes and can be intrusive to the rights and freedoms of the concerned persons. Considering the imbalance of power in the context of work or education, combined with the intrusive nature of these systems, such systems could lead to detrimental or unfavourable treatment of certain natural persons or whole groups thereof. Therefore, the placing on the market, the putting into service, or the use of AI systems intended to be used to detect the emotional state of individuals in situations related to the workplace and education should be prohibited. That prohibition should not cover AI systems placed on the market strictly for medical or safety reasons, such as systems intended for therapeutical use.

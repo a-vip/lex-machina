@@ -1,99 +1,27 @@
-# Article 59 — Designation of national competent authorities and single point of contact
+# Article 59 — Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_59`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-2.
-Each Member State sha
-ll establish or designate at least one notifying authority and at least
-one market surveillance authority for the purpose of this Regulation as national competent
-authorities. These national competent authorities shall exercise their powers independently,
-impartially and without bias so as to safeguard the principles of objectivity of their
-activities and tasks and to ensure the application and implementation of this Regulation.
-The members of these authorities shall refrain from any action incompatible wit
-h their
-duties. Provided that those principles are respected, such activities and tasks may be
-performed by one or several designated authorities, in accordance with the organisational
-needs of the Member State.
-3.
-Member States shall communicate to the C
-ommission the identity of the notifying
-authorities and the market surveillance authorities and the tasks of those authorities and as
-well as any subsequent changes thereto. Member States shall make publicly available
-information on how competent authoriti
-es and single point of contact can be contacted,
-through electronic communication means by… [12 months after the date of entry into force
-of this Regulation]. Member States shall designate a market surveillance authority to act as
-single point of contact f
-or this Regulation and notify the Commission of the identity of the
-single point of contact. The Commission shall make a list of the single points of contact
-publicly available.
-4.
-Member States shall ensure that the national competent authority is provide
-d with adequate
-technical, financial and human resources, and infrastructure to fulfil their tasks effectively
-under this Regulation. In particular, the national competent authority shall have a sufficient
-number of personnel permanently available whose co
-mpetences and expertise shall include
-an in
--
-depth understanding of artificial intelligence technologies, data and data computing,
-personal data protection, cybersecurity, fundamental rights, health and safety risks and
-knowledge of existing standards and l
-egal requirements. Member States shall assess and, if
-5662/24
-RB/ek
-198
-TREE.2.B
-LIMITE
-EN
-deemed necessary, update competence and resource requirements referred to in this
-paragraph on an annual basis.
-4a.
-National competent authorities shall satisfy an adequate level of cybersecurity measur
-es.
-4c.
-When performing their tasks, the national competent authorities shall act in compliance
-with the confidentiality obligations set out in Article 70.
-5.
-By one year after entry into force of this Regulation and once every two years thereafter
-Member
-States shall report to the Commission on the status of the financial and human
-resources of the national competent authorities with an assessment of their adequacy. The
-Commission shall transmit that information to the Board for discussion and possible
-rec
-ommendations.
-6.
-The Commission shall facilitate the exchange of experience between national competent
-authorities.
-7.
-National competent authorities may provide guidance and advice on the implementation of
-this Regulation, in particular to SMEs including
-start
--
-ups, taking into account the Board's
-and the Commission’s guidance and advice, as appropriate. Whenever national competent
-authorities intend to provide guidance and advice with regard to an AI system in areas
-covered by other Union legislation, the
-competent national authorities under that Union
-legislation shall be consulted, as appropriate.
-8.
-When Union institutions, agencies and bodies fall within the scope of this Regulation, the
-European Data Protection Supervisor shall act as the competent aut
-hority for their
-supervision.
-5662/24
-RB/ek
-199
-TREE.2.B
-LIMITE
-EN
-TITLE VII
-EU DATABASE FOR HIGH
--
-RISK AI SYSTEMS LISTED IN
-ANNEX III
+1. In the AI regulatory sandbox, personal data lawfully collected for other purposes may be processed solely for the purpose of developing, training and testing certain AI systems in the sandbox when all of the following conditions are met:
+(a) AI systems shall be developed for safeguarding substantial public interest by a public authority or another natural or legal person and in one or more of the following areas:
+(i) public safety and public health, including disease detection, diagnosis prevention, control and treatment and improvement of health care systems;
+(ii) a high level of protection and improvement of the quality of the environment, protection of biodiversity, protection against pollution, green transition measures, climate change mitigation and adaptation measures;
+(iii) energy sustainability;
+(iv) safety and resilience of transport systems and mobility, critical infrastructure and networks;
+(v) efficiency and quality of public administration and public services;
+(b) the data processed are necessary for complying with one or more of the requirements referred to in Chapter III, Section 2 where those requirements cannot effectively be fulfilled by processing anonymised, synthetic or other non-personal data;
+(c) there are effective monitoring mechanisms to identify if any high risks to the rights and freedoms of the data subjects, as referred to in Article 35 of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, may arise during the sandbox experimentation, as well as response mechanisms to promptly mitigate those risks and, where necessary, stop the processing;
+(d) any personal data to be processed in the context of the sandbox are in a functionally separate, isolated and protected data processing environment under the control of the prospective provider and only authorised persons have access to those data;
+(e) providers can further share the originally collected data only in accordance with Union data protection law; any personal data created in the sandbox cannot be shared outside the sandbox;
+(f) any processing of personal data in the context of the sandbox neither leads to measures or decisions affecting the data subjects nor does it affect the application of their rights laid down in Union law on the protection of personal data;
+(g) any personal data processed in the context of the sandbox are protected by means of appropriate technical and organisational measures and deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period;
+(h) the logs of the processing of personal data in the context of the sandbox are kept for the duration of the participation in the sandbox, unless provided otherwise by Union or national law;
+(i) a complete and detailed description of the process and rationale behind the training, testing and validation of the AI system is kept together with the testing results as part of the technical documentation referred to in Annex IV;
+(j) a short summary of the AI project developed in the sandbox, its objectives and expected results is published on the website of the competent authorities; this obligation shall not cover sensitive operational data in relation to the activities of law enforcement, border control, immigration or asylum authorities.
+2. For the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and preventing threats to public security, under the control and responsibility of law enforcement authorities, the processing of personal data in AI regulatory sandboxes shall be based on a specific Union or national law and subject to the same cumulative conditions as referred to in paragraph 1.
+3. Paragraph 1 is without prejudice to Union or national law which excludes processing of personal data for other purposes than those explicitly mentioned in that law, as well as to Union or national law laying down the basis for the processing of personal data which is necessary for the purpose of developing, testing or training of innovative AI systems or any other legal basis, in compliance with Union law on the protection of personal data.

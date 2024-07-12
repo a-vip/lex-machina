@@ -1,31 +1,10 @@
 # Recital (32)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_32`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (32)
-As regards stand
--
-alone AI systems, meaning high
--
-risk AI systems other than those that are
-safety components of products, or which are themselves products, it is appropriate to
-classify them as high
--
-risk if, in the light of their intended purpose, they pose a high risk of
-harm to the health and safety or the fundamental rights of persons, taking into account both
-the severity of the possible harm and its probability of occurrence
-and they are used in a
-number of specifically pre
--
-defined areas specified in the Regulation. The identification of
-those systems is based on the same methodology and criteria envisaged also for any future
-amendments of the list of high
--
-risk AI systems tha
-t the Commission should be empowered
-to adopt, via delegated acts, to take into account the rapid pace of technological
-development, as well as the potential changes in the use of AI systems.
+The use of AI systems for ‘real-time’ remote biometric identification of natural persons in publicly accessible spaces for the purpose of law enforcement is particularly intrusive to the rights and freedoms of the concerned persons, to the extent that it may affect the private life of a large part of the population, evoke a feeling of constant surveillance and indirectly dissuade the exercise of the freedom of assembly and other fundamental rights. Technical inaccuracies of AI systems intended for the remote biometric identification of natural persons can lead to biased results and entail discriminatory effects. Such possible biased results and discriminatory effects are particularly relevant with regard to age, ethnicity, race, sex or disabilities. In addition, the immediacy of the impact and the limited opportunities for further checks or corrections in relation to the use of such systems operating in real-time carry heightened risks for the rights and freedoms of the persons concerned in the context of, or impacted by, law enforcement activities.

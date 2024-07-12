@@ -1,55 +1,32 @@
-# Article 66 — Union safeguard procedure
+# Article 66 — Tasks of the Board
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_66`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-Where, within three months of receipt of the notification referred to in Article 65(5), or 30
-days in the case of non
--
-compliance with the prohibition of the artifi
-cial intelligence
-practices referred to in Article 5, objections are raised by the market surveillance authority
-of a Member State against a measure taken by another market surveillance authority, or
-where the Commission considers the measure to be contrar
-y to Union law, the Commission
-shall without undue delay enter into consultation with the market surveillance authority of
-the relevant Member State and operator or operators and shall evaluate the national
-measure. On the basis of the results of that eval
-uation, the Commission shall decide
-whether the national measure is justified or not within six months, or 60 days in the case of
-non
--
-compliance with the prohibition of the artificial intelligence practices referred to in
-Article 5, starting from the notif
-ication referred to in Article 65(5) and notify such decision
-to the market surveillance authority of the Member State concerned. The Commission shall
-also inform all other market surveillance authorities of such decision.
-5662/24
-RB/ek
-213
-TREE.2.B
-LIMITE
-EN
-2.
-If the measure taken by the r
-elevant Member States is considered justified by the
-Commission, all Member States shall ensure that appropriate restrictive measures are taken
-in respect of the AI system concerned, such as withdrawal of the AI system from their
-market without undue delay
-, and shall inform the Commission accordingly. If the national
-measure is considered unjustified by the Commission, the Member State concerned shall
-withdraw the measure and inform the Commission accordingly.
-3.
-Where the national measure is considered jus
-tified and the non
--
-compliance of the AI
-system is attributed to shortcomings in the harmonised standards or common specifications
-referred to in Articles 40 and 41 of this Regulation, the Commission shall apply the
-procedure provided for in Article 11 of R
-egulation (EU) No 1025/2012.
+The Board shall advise and assist the Commission and the Member States in order to facilitate the consistent and effective application of this Regulation. To that end, the Board may in particular:
+(a) contribute to the coordination among national competent authorities responsible for the application of this Regulation and, in cooperation with and subject to the agreement of the market surveillance authorities concerned, support joint activities of market surveillance authorities referred to in Article 74(11);
+(b) collect and share technical and regulatory expertise and best practices among Member States;
+(c) provide advice on the implementation of this Regulation, in particular as regards the enforcement of rules on general-purpose AI models;
+(d) contribute to the harmonisation of administrative practices in the Member States, including in relation to the derogation from the conformity assessment procedures referred to in Article 46, the functioning of AI regulatory sandboxes, and testing in real world conditions referred to in Articles 57, 59 and 60;
+(e) at the request of the Commission or on its own initiative, issue recommendations and written opinions on any relevant matters related to the implementation of this Regulation and to its consistent and effective application, including:
+(i) on the development and application of codes of conduct and codes of practice pursuant to this Regulation, as well as of the Commission’s guidelines;
+(ii) the evaluation and review of this Regulation pursuant to Article 112, including as regards the serious incident reports referred to in Article 73, and the functioning of the EU database referred to in Article 71, the preparation of the delegated or implementing acts, and as regards possible alignments of this Regulation with the Union harmonisation legislation listed in Annex I;
+(iii) on technical specifications or existing standards regarding the requirements set out in Chapter III, Section 2;
+(iv) on the use of harmonised standards or common specifications referred to in Articles 40 and 41;
+(v) trends, such as European global competitiveness in AI, the uptake of AI in the Union, and the development of digital skills;
+(vi) trends on the evolving typology of AI value chains, in particular on the resulting implications in terms of accountability;
+(vii) on the potential need for amendment to Annex III in accordance with Article 7, and on the potential need for possible revision of Article 5 pursuant to Article 112, taking into account relevant available evidence and the latest developments in technology;
+(f) support the Commission in promoting AI literacy, public awareness and understanding of the benefits, risks, safeguards and rights and obligations in relation to the use of AI systems;
+(g) facilitate the development of common criteria and a shared understanding among market operators and competent authorities of the relevant concepts provided for in this Regulation, including by contributing to the development of benchmarks;
+(h) cooperate, as appropriate, with other Union institutions, bodies, offices and agencies, as well as relevant Union expert groups and networks, in particular in the fields of product safety, cybersecurity, competition, digital and media services, financial services, consumer protection, data and fundamental rights protection;
+(i) contribute to effective cooperation with the competent authorities of third countries and with international organisations;
+(j) assist national competent authorities and the Commission in developing the organisational and technical expertise required for the implementation of this Regulation, including by contributing to the assessment of training needs for staff of Member States involved in implementing this Regulation;
+(k) assist the AI Office in supporting national competent authorities in the establishment and development of AI regulatory sandboxes, and facilitate cooperation and information-sharing among AI regulatory sandboxes;
+(l) contribute to, and provide relevant advice on, the development of guidance documents;
+(m) advise the Commission in relation to international matters on AI;
+(n) provide opinions to the Commission on the qualified alerts regarding general-purpose AI models;
+(o) receive opinions by the Member States on qualified alerts regarding general-purpose AI models, and on national experiences and practices on the monitoring and enforcement of AI systems, in particular systems integrating the general-purpose AI models.

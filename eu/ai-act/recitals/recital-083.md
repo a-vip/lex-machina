@@ -1,18 +1,10 @@
 # Recital (83)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_83`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (83)
-In order to ensure trustful and constructive cooperation of competent authorities on Union
-and national level, all parties involved in the application of this Regulation should respect
-the confidentia
-lity of information and data obtained in carrying out their tasks, in
-accordance with Union or national law. They should carry out their tasks and activities in
-such a manner as to protect, in particular, intellectual property rights, confidential business
-information and trade secrets, the effective implementation of this Regulation, public and
-national security interests, the integrity of criminal or administrative proceedings, and the
-integrity of classified information.
+In light of the nature and complexity of the value chain for AI systems and in line with the New Legislative Framework, it is essential to ensure legal certainty and facilitate the compliance with this Regulation. Therefore, it is necessary to clarify the role and the specific obligations of relevant operators along that value chain, such as importers and distributors who may contribute to the development of AI systems. In certain situations those operators could act in more than one role at the same time and should therefore fulfil cumulatively all relevant obligations associated with those roles. For example, an operator could act as a distributor and an importer at the same time.

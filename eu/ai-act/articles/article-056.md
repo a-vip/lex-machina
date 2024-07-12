@@ -1,89 +1,24 @@
-# Article 56 — Establishment and structure of the European Artificial Intelligence Board
+# Article 56 — Codes of practice
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_56`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-A ‘European Artificial Intelligence Board’ (the ‘Board’) is established.
-2.
-The Board shall be composed of one representative per Member State. The European Data
-Protection Supervisor shall participate as observer. The AI Office shall also attend the
-Board’s meetings without taking part in the votes. Other national and Union a
-uthorities,
-bodies or experts may be invited to the meetings by the Board on a case by case basis,
-where the issues discussed are of relevance for them.
-2a.
-Each representative shall be designated by their Member State for a period of 3 years,
-renewable once.
-2b.
-Member States shall ensure that their representatives in the Board:
-(a) have the relevant competences and powers in their Member State so as to
-contribute
-actively to the achievement of the Board’s tasks referred to in Article 58;
-(b) are designated as a single contact point vis
--
-à
--
-vis the Board and, where appropriate,
-taking into account Member States’ needs, as a single contact point for
-stakeholders;
-(c) are empowered to facilitate consistency and coordination between national
-competent
-authorities in their Member State as regards the implementation of
-this Regulation,
-including through the collection of relevant data and informa
-tion for
-the purpose of
-fulfilling their tasks on the Board.
-5662/24
-RB/ek
-190
-TREE.2.B
-LIMITE
-EN
-3.
-The designated representatives of the Member States shall adopt the Board’s rules of
-procedure by a two
--
-thirds majority. The rules of procedure shall, in particular, lay down
-procedures for
-the selection process, duration of mandate and specifications of the tasks of
-the Chair, the voting modalities, and the organisation of the Board’s activities and its sub
--
-groups.
-3a.
-The Board shall establish two standing sub
--
-groups to provide a platform
-for cooperation
-and exchange among market surveillance authorities and notifying authorities on issues
-related to market surveillance and notified bodies respectively.
-The standing sub
--
-group for market surveillance should act as the Administrative
-Cooper
-ation Group (ADCO) for this Regulation in the meaning of Article 30 of Regulation
-(EU) 2019/1020.
-The Board may establish other standing or temporary sub
--
-groups as appropriate for the
-purpose of examining specific issues. Where appropriate, representative
-s of the advisory
-forum as referred to in Article 58a may be invited to such sub
--
-groups or to specific
-meetings of those subgroups in the capacity of observers.
-3b.
-The Board shall be organised and operated so as to safeguard the objectivity and
-impartiali
-ty of its activities.
-4.
-The Board shall be chaired by one of the representatives of the Member States. The
-European AI Office shall provide the Secretariat for the Board, convene the meetings upon
-request of the Chair and prepare the agenda in accordance
-with the tasks of the Board
-pursuant to this Regulation and its rules of procedure.
+1. The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level in order to contribute to the proper application of this Regulation, taking into account international approaches.
+2. The AI Office and the Board shall aim to ensure that the codes of practice cover at least the obligations provided for in Articles 53 and 55, including the following issues:
+(a) the means to ensure that the information referred to in Article 53(1), points (a) and (b), is kept up to date in light of market and technological developments;
+(b) the adequate level of detail for the summary about the content used for training;
+(c) the identification of the type and nature of the systemic risks at Union level, including their sources, where appropriate;
+(d) the measures, procedures and modalities for the assessment and management of the systemic risks at Union level, including the documentation thereof, which shall be proportionate to the risks, take into consideration their severity and probability and take into account the specific challenges of tackling those risks in light of the possible ways in which such risks may emerge and materialise along the AI value chain.
+3. The AI Office may invite all providers of general-purpose AI models, as well as relevant national competent authorities, to participate in the drawing-up of codes of practice. Civil society organisations, industry, academia and other relevant stakeholders, such as downstream providers and independent experts, may support the process.
+4. The AI Office and the Board shall aim to ensure that the codes of practice clearly set out their specific objectives and contain commitments or measures, including key performance indicators as appropriate, to ensure the achievement of those objectives, and that they take due account of the needs and interests of all interested parties, including affected persons, at Union level.
+5. The AI Office shall aim to ensure that participants to the codes of practice report regularly to the AI Office on the implementation of the commitments and the measures taken and their outcomes, including as measured against the key performance indicators as appropriate. Key performance indicators and reporting commitments shall reflect differences in size and capacity between various participants.
+6. The AI Office and the Board shall regularly monitor and evaluate the achievement of the objectives of the codes of practice by the participants and their contribution to the proper application of this Regulation. The AI Office and the Board shall assess whether the codes of practice cover the obligations provided for in Articles 53 and 55, and shall regularly monitor and evaluate the achievement of their objectives. They shall publish their assessment of the adequacy of the codes of practice.
+The Commission may, by way of an implementing act, approve a code of practice and give it a general validity within the Union. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+7. The AI Office may invite all providers of general-purpose AI models to adhere to the codes of practice. For providers of general-purpose AI models not presenting systemic risks this adherence may be limited to the obligations provided for in Article 53, unless they declare explicitly their interest to join the full code.
+8. The AI Office shall, as appropriate, also encourage and facilitate the review and adaptation of the codes of practice, in particular in light of emerging standards. The AI Office shall assist in the assessment of available standards.
+9. Codes of practice shall be ready at the latest by 2 May 2025. The AI Office shall take the necessary steps, including inviting providers pursuant to paragraph 7.
+If, by 2 August 2025, a code of practice cannot be finalised, or if the AI Office deems it is not adequate following its assessment under paragraph 6 of this Article, the Commission may provide, by means of implementing acts, common rules for the implementation of the obligations provided for in Articles 53 and 55, including the issues set out in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).

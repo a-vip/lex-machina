@@ -1,41 +1,42 @@
 # Recital (49)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_49`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (49)
-High
--
-risk AI systems should perform consistently throughout t
-heir lifecycle and meet an
-appropriate level of accuracy, robustness and cybersecurity, in the light of their intended
-purpose and in accordance with the generally acknowledged state of the art. The
-Commission and relevant organisations and stakeholders a
-re encouraged to take due
-consideration of mitigation of risks and negative impacts of the AI system. The expected
-level of performance metrics should be declared in the accompanying instructions of use.
-Providers are urged to communicate this information
-to deployers in a clear and easily
-understandable way, free of misunderstandings or misleading statements. The EU
-legislation on legal metrology, including on Measuring Instruments Directive (MID) and
-Non
--
-automatic weighing instruments (NAWI) Directive, a
-ims to ensure the accuracy of
-5662/24
-RB/ek
-50
-TREE.2.B
-LIMITE
-EN
-measurements and to help the transparency and fairness of commercial transactions. In this
-context, in cooperation with relevant stakeholders and organisation, such as metrology and
-benchmarking authorities, the Commission sho
-uld encourage, as appropriate, the
-development of benchmarks and measurement methodologies for AI systems. In doing so,
-the Commission should take note and collaborate with international partners working on
-metrology and relevant measurement indicators rel
-ating to Artificial Intelligence.
+As regards high-risk AI systems that are safety components of products or systems, or which are themselves products or systems falling within the scope of Regulation (EC) No 300/2008 of the European Parliament and of the Council
+(
+24
+)
+, Regulation (EU) No 167/2013 of the European Parliament and of the Council
+(
+25
+)
+, Regulation (EU) No 168/2013 of the European Parliament and of the Council
+(
+26
+)
+, Directive 2014/90/EU of the European Parliament and of the Council
+(
+27
+)
+, Directive (EU) 2016/797 of the European Parliament and of the Council
+(
+28
+)
+, Regulation (EU) 2018/858 of the European Parliament and of the Council
+(
+29
+)
+, Regulation (EU) 2018/1139 of the European Parliament and of the Council
+(
+30
+)
+, and Regulation (EU) 2019/2144 of the European Parliament and of the Council
+(
+31
+)
+, it is appropriate to amend those acts to ensure that the Commission takes into account, on the basis of the technical and regulatory specificities of each sector, and without interfering with existing governance, conformity assessment and enforcement mechanisms and authorities established therein, the mandatory requirements for high-risk AI systems laid down in this Regulation when adopting any relevant delegated or implementing acts on the basis of those acts.

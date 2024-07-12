@@ -1,52 +1,14 @@
-# Article 30 — Notifying authorities
+# Article 30 — Notification procedure
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_30`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-Each Member State shall designate or establish at least one notifying authority responsible
-for setting up and carrying out the necessary pr
-ocedures for the assessment, designation
-and notification of conformity assessment bodies and for their monitoring. These
-procedures shall be developed in cooperation between the notifying authorities of all
-Member States.
-2.
-Member States may decide that
-the assessment and monitoring referred to in paragraph 1
-shall be carried out by a national accreditation body within the meaning of and in
-accordance with Regulation (EC) No 765/2008.
-3.
-Notifying authorities shall be established, organised and operated i
-n such a way that no
-conflict of interest arises with conformity assessment bodies and the objectivity and
-impartiality of their activities are safeguarded.
-4.
-Notifying authorities shall be organised in such a way that decisions relating to the
-notificati
-on of conformity assessment bodies are taken by competent persons different
-from those who carried out the assessment of those bodies.
-5662/24
-RB/ek
-143
-TREE.2.B
-LIMITE
-EN
-5.
-Notifying authorities shall not offer or provide any activities that conformity assessment
-bodies perform or any consu
-ltancy services on a commercial or competitive basis.
-6.
-Notifying authorities shall safeguard the confidentiality of the information they obtain in
-accordance with Article 70.
-7.
-Notifying authorities shall have an adequate number of competent personnel a
-t their
-disposal for the proper performance of their tasks. Competent personnel shall have the
-necessary expertise, where applicable, for their function, in fields such as information
-technologies, artificial intelligence and law, including the supervision
-of fundamental
-rights.
+1. Notifying authorities may notify only conformity assessment bodies which have satisfied the requirements laid down in Article 31.
+2. Notifying authorities shall notify the Commission and the other Member States, using the electronic notification tool developed and managed by the Commission, of each conformity assessment body referred to in paragraph 1.
+3. The notification referred to in paragraph 2 of this Article shall include full details of the conformity assessment activities, the conformity assessment module or modules, the types of AI systems concerned, and the relevant attestation of competence. Where a notification is not based on an accreditation certificate as referred to in Article 29(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the competence of the conformity assessment body and to the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 31.
+4. The conformity assessment body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of a notification by a notifying authority where it includes an accreditation certificate referred to in Article 29(2), or within two months of a notification by the notifying authority where it includes documentary evidence referred to in Article 29(3).
+5. Where objections are raised, the Commission shall, without delay, enter into consultations with the relevant Member States and the conformity assessment body. In view thereof, the Commission shall decide whether the authorisation is justified. The Commission shall address its decision to the Member State concerned and to the relevant conformity assessment body.

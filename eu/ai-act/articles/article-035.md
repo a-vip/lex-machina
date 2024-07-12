@@ -1,19 +1,11 @@
-# Article 35 — Identification numbers and lists of notified bodies designated under this Regulation
+# Article 35 — Identification numbers and lists of notified bodies
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_35`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-The Commission shall assign an identification number to notified bodies. It shall assign a
-single number, even where a body
-is notified under several Union acts.
-2.
-The Commission shall make publicly available the list of the bodies notified under this
-Regulation, including the identification numbers that have been assigned to them and the
-activities for which they have been no
-tified. The Commission shall ensure that the list is
-kept up to date.
+1. The Commission shall assign a single identification number to each notified body, even where a body is notified under more than one Union act.
+2. The Commission shall make publicly available the list of the bodies notified under this Regulation, including their identification numbers and the activities for which they have been notified. The Commission shall ensure that the list is kept up to date.

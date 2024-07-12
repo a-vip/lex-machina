@@ -1,29 +1,10 @@
 # Recital (84)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_84`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (84)
-Compliance with this Regulat
-ion should be enforceable by means of the imposition of
-penalties and other enforcement measures. Member States should take all necessary
-measures to ensure that the provisions of this Regulation are implemented, including by
-laying down effective, proport
-ionate and dissuasive penalties for their infringement, and in
-respect of the ne bis in idem principle. In order to strengthen and harmonise administrative
-penalties for infringement of this Regulation, the upper limits for setting the administrative
-fines
-for certain specific infringements should be laid down. When assessing the amount of
-the fines, Member States should, in each individual case, take into account all relevant
-circumstances of the specific situation, with due regard in particular to the nat
-ure, gravity
-and duration of the infringement and of its consequences and to the provider’s size, in
-particular if the provider is an SME including a start
--
-up. The European Data Protection
-Supervisor should have the power to impose fines on Union instituti
-ons, agencies and
-bodies falling within the scope of this Regulation.
+To ensure legal certainty, it is necessary to clarify that, under certain specific conditions, any distributor, importer, deployer or other third-party should be considered to be a provider of a high-risk AI system and therefore assume all the relevant obligations. This would be the case if that party puts its name or trademark on a high-risk AI system already placed on the market or put into service, without prejudice to contractual arrangements stipulating that the obligations are allocated otherwise. This would also be the case if that party makes a substantial modification to a high-risk AI system that has already been placed on the market or has already been put into service in a way that it remains a high-risk AI system in accordance with this Regulation, or if it modifies the intended purpose of an AI system, including a general-purpose AI system, which has not been classified as high-risk and has already been placed on the market or put into service, in a way that the AI system becomes a high-risk AI system in accordance with this Regulation. Those provisions should apply without prejudice to more specific provisions established in certain Union harmonisation legislation based on the New Legislative Framework, together with which this Regulation should apply. For example, Article 16(2) of Regulation (EU) 2017/745, establishing that certain changes should not be considered to be modifications of a device that could affect its compliance with the applicable requirements, should continue to apply to high-risk AI systems that are medical devices within the meaning of that Regulation.

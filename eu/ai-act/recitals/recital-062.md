@@ -1,21 +1,14 @@
 # Recital (62)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_62`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (62)
-In
-order to ensure a high level of trustworthiness of high
--
-risk AI systems, those systems
-should be subject to a conformity assessment prior to their placing on the market or putting
-into service.
-5662/24
-RB/ek
-70
-TREE.2.B
-LIMITE
-EN
+Without prejudice to the rules provided for in Regulation (EU) 2024/900 of the European Parliament and of the Council
+(
+34
+)
+, and in order to address the risks of undue external interference with the right to vote enshrined in Article 39 of the Charter, and of adverse effects on democracy and the rule of law, AI systems intended to be used to influence the outcome of an election or referendum or the voting behaviour of natural persons in the exercise of their vote in elections or referenda should be classified as high-risk AI systems with the exception of AI systems whose output natural persons are not directly exposed to, such as tools used to organise, optimise and structure political campaigns from an administrative and logistical point of view.

@@ -1,32 +1,10 @@
 # Recital (68)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_68`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (68)
-Under certain conditions, rapid availability of innovative technologies may be crucial for
-health and
-safety of persons, the protection of the environment and climate change and for
-society as a whole. It is thus appropriate that under exceptional reasons of public security
-or protection of life and health of natural persons, environmental protection and
-the
-protection of key industrial and infrastructural assets,
-m
-arket
-s
-urveillance
-a
-uthorities could
-authorise the placing on the market or putting into service of AI systems which have not
-undergone a conformity assessment. In a duly justified situations as
-provided under this
-regulations, law enforcement authorities or civil protection authorities may put a specific
-high
--
-risk AI system into service without the authorisation of the market surveillance
-authority, provided that such authorisation is requested
-during or after the use without
-undue delay.
+For the development and assessment of high-risk AI systems, certain actors, such as providers, notified bodies and other relevant entities, such as European Digital Innovation Hubs, testing experimentation facilities and researchers, should be able to access and use high-quality data sets within the fields of activities of those actors which are related to this Regulation. European common data spaces established by the Commission and the facilitation of data sharing between businesses and with government in the public interest will be instrumental to provide trustful, accountable and non-discriminatory access to high-quality data for the training, validation and testing of AI systems. For example, in health, the European health data space will facilitate non-discriminatory access to health data and the training of AI algorithms on those data sets, in a privacy-preserving, secure, timely, transparent and trustworthy manner, and with an appropriate institutional governance. Relevant competent authorities, including sectoral ones, providing or supporting the access to data may also support the provision of high-quality data for the training, validation and testing of AI systems.

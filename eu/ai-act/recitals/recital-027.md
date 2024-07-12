@@ -1,44 +1,10 @@
 # Recital (27)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_27`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (27)
-Hig
-h
--
-risk AI systems should only be placed on the Union market, put into service or used
-if they comply with certain mandatory requirements. Those requirements should ensure
-that high
--
-risk AI systems available in the Union or whose output is otherwise used in
-the
-Union do not pose unacceptable risks to important Union public interests as recognised and
-protected by Union law. Following the New Legislative Framework approach, as clarified
-in Commission notice the ‘Blue Guide’ on the implementation of EU product
-rules 2022
-(C/2022/3637) the general rule is that several pieces of the EU legislation, such as
-Regulation (EU) 2017/745 on Medical Devices and Regulation (EU) 2017/746 on In Vitro
-Diagnostic Devices or Directive 2006/42/EC on Machinery, may have to be ta
-ken into
-consideration for one product, since the making available or putting into service can only
-take place when the product complies with all applicable Union harmonisation legislation.
-To ensure consistency and avoid unnecessary administrative burden
-or costs, providers of a
-product that contains one or more high
--
-risk artificial intelligence system, to which the
-requirements of this Regulation as well as requirements of the Union harmonisation
-legislation listed in Annex II, Section A apply, should hav
-e a flexibility on operational
-decisions on how to ensure compliance of a product that contains one or more artificial
-intelligence systems with all applicable requirements of the Union harmonised legislation
-in a best way. AI systems identified as high
--
-ri
-sk should be limited to those that have a
-significant harmful impact on the health, safety and fundamental rights of persons in the
-Union and such limitation minimises any potential restriction to international trade, if any.
+While the risk-based approach is the basis for a proportionate and effective set of binding rules, it is important to recall the 2019 Ethics guidelines for trustworthy AI developed by the independent AI HLEG appointed by the Commission. In those guidelines, the AI HLEG developed seven non-binding ethical principles for AI which are intended to help ensure that AI is trustworthy and ethically sound. The seven principles include human agency and oversight; technical robustness and safety; privacy and data governance; transparency; diversity, non-discrimination and fairness; societal and environmental well-being and accountability. Without prejudice to the legally binding requirements of this Regulation and any other applicable Union law, those guidelines contribute to the design of coherent, trustworthy and human-centric AI, in line with the Charter and with the values on which the Union is founded. According to the guidelines of the AI HLEG, human agency and oversight means that AI systems are developed and used as a tool that serves people, respects human dignity and personal autonomy, and that is functioning in a way that can be appropriately controlled and overseen by humans. Technical robustness and safety means that AI systems are developed and used in a way that allows robustness in the case of problems and resilience against attempts to alter the use or performance of the AI system so as to allow unlawful use by third parties, and minimise unintended harm. Privacy and data governance means that AI systems are developed and used in accordance with privacy and data protection rules, while processing data that meets high standards in terms of quality and integrity. Transparency means that AI systems are developed and used in a way that allows appropriate traceability and explainability, while making humans aware that they communicate or interact with an AI system, as well as duly informing deployers of the capabilities and limitations of that AI system and affected persons about their rights. Diversity, non-discrimination and fairness means that AI systems are developed and used in a way that includes diverse actors and promotes equal access, gender equality and cultural diversity, while avoiding discriminatory impacts and unfair biases that are prohibited by Union or national law. Social and environmental well-being means that AI systems are developed and used in a sustainable and environmentally friendly manner as well as in a way to benefit all human beings, while monitoring and assessing the long-term impacts on the individual, society and democracy. The application of those principles should be translated, when possible, in the design and use of AI models. They should in any case serve as a basis for the drafting of codes of conduct under this Regulation. All stakeholders, including industry, academia, civil society and standardisation organisations, are encouraged to take into account, as appropriate, the ethical principles for the development of voluntary best practices and standards.

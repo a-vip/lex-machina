@@ -1,91 +1,20 @@
-# Article 27 — Obligations of distributors
+# Article 27 — Fundamental rights impact assessment for high-risk AI systems
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_27`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-Before making a high
--
-risk AI system available on the market, distributors shall verify that
-the high
--
-ris
-k AI system bears the required CE conformity marking, that it is accompanied
-by a copy of EU declaration of conformity and instruction of use, and that the provider and
-5662/24
-RB/ek
-135
-TREE.2.B
-LIMITE
-EN
-the importer of the system, as applicable, have complied with their obligations set out
-in
-Article 16, point (aa) and (b) and 26(3) respectively.
-2.
-Where a distributor considers or has reason to consider, on the basis of the information in
-its possession, that a high
--
-risk AI system is not in conformity with the requirements set out
-in Chapt
-er 2 of this Title, it shall not make the high
--
-risk AI system available on the market
-until that system has been brought into conformity with those requirements. Furthermore,
-where the system presents a risk within the meaning of Article 65(1), the distrib
-utor shall
-inform the provider or the importer of the system, as applicable, to that effect.
-3.
-Distributors shall ensure that, while a high
--
-risk AI system is under their responsibility,
-where applicable, storage or transport conditions do not jeopardise
-the compliance of the
-system with the requirements set out in Chapter 2 of this Title.
-4.
-A distributor that considers or has reason to consider, on the basis of the information in its
-possession, that a high
--
-risk AI system which it has made available on t
-he market is not in
-conformity with the requirements set out in Chapter 2 of this Title shall take the corrective
-actions necessary to bring that system into conformity with those requirements, to
-withdraw it or recall it or shall ensure that the provider,
-the importer or any relevant
-operator, as appropriate, takes those corrective actions. Where the high
--
-risk AI system
-presents a risk within the meaning of Article 65(1), the distributor shall immediately
-inform the provider or importer of the system and t
-he national competent authorities of the
-Member States in which it has made the product available to that effect, giving details, in
-particular, of the non
--
-compliance and of any corrective actions taken.
-5.
-Upon a reasoned request from a national competen
-t authority, distributors of the high
--
-risk
-AI system shall provide that authority with all the information and documentation
-regarding its activities as described in paragraph 1 to 4 necessary to demonstrate the
-conformity of a high
--
-risk system with the re
-quirements set out in Chapter 2 of this Title.
-5a.
-Distributors shall cooperate with national competent authorities on any action those
-authorities take in relation to an AI system, of which they are the distributor, in particular
-to reduce or mitigate th
-e risk posed by the high
--
-risk AI system.
-5662/24
-RB/ek
-136
-TREE.2.B
-LIMITE
-EN
+1. Prior to deploying a high-risk AI system referred to in Article 6(2), with the exception of high-risk AI systems intended to be used in the area listed in point 2 of Annex III, deployers that are bodies governed by public law, or are private entities providing public services, and deployers of high-risk AI systems referred to in points 5 (b) and (c) of Annex III, shall perform an assessment of the impact on fundamental rights that the use of such system may produce. For that purpose, deployers shall perform an assessment consisting of:
+(a) a description of the deployer’s processes in which the high-risk AI system will be used in line with its intended purpose;
+(b) a description of the period of time within which, and the frequency with which, each high-risk AI system is intended to be used;
+(c) the categories of natural persons and groups likely to be affected by its use in the specific context;
+(d) the specific risks of harm likely to have an impact on the categories of natural persons or groups of persons identified pursuant to point (c) of this paragraph, taking into account the information given by the provider pursuant to Article 13;
+(e) a description of the implementation of human oversight measures, according to the instructions for use;
+(f) the measures to be taken in the case of the materialisation of those risks, including the arrangements for internal governance and complaint mechanisms.
+2. The obligation laid down in paragraph 1 applies to the first use of the high-risk AI system. The deployer may, in similar cases, rely on previously conducted fundamental rights impact assessments or existing impact assessments carried out by provider. If, during the use of the high-risk AI system, the deployer considers that any of the elements listed in paragraph 1 has changed or is no longer up to date, the deployer shall take the necessary steps to update the information.
+3. Once the assessment referred to in paragraph 1 of this Article has been performed, the deployer shall notify the market surveillance authority of its results, submitting the filled-out template referred to in paragraph 5 of this Article as part of the notification. In the case referred to in Article 46(1), deployers may be exempt from that obligation to notify.
+4. If any of the obligations laid down in this Article is already met through the data protection impact assessment conducted pursuant to Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680, the fundamental rights impact assessment referred to in paragraph 1 of this Article shall complement that data protection impact assessment.
+5. The AI Office shall develop a template for a questionnaire, including through an automated tool, to facilitate deployers in complying with their obligations under this Article in a simplified manner.

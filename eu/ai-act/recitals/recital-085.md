@@ -1,59 +1,10 @@
 # Recital (85)
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
 - **Akoma Ntoso eId**: `rct_85`
-- **Provenance Mode**: `full_primary_pdf`
-- **Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
 (85)
-In order to ensure that the regulatory framework can be adapted
-where necessary, the
-power to adopt acts in accordance with Article 290 TFEU should be delegated to the
-Commission to amend the Union harmonisation legislation listed in Annex II, the high
--
-risk
-AI systems listed in Annex III, the provisions regarding tech
-nical documentation listed in
-Annex IV, the content of the EU declaration of conformity in Annex V, the provisions
-regarding the conformity assessment procedures in Annex VI and VII, the provisions
-establishing the high
--
-risk AI systems to which the conform
-ity assessment procedure based
-on assessment of the quality management system and assessment of the technical
-documentation should apply, the threshold as well as to supplement benchmarks and
-5662/24
-RB/ek
-91
-TREE.2.B
-LIMITE
-EN
-indicators in the rules for classification of general
--
-purpose AI
-models with systemic risk,
-the criteria for the designation of general
--
-purpose AI models with systemic risk in Annex
-IXc, the technical documentation for providers of general
--
-purpose AI models in Annex
-VIIIb and the transparency information for providers
-of general
--
-purpose AI models in
-Annex VIIIc. It is of particular importance that the Commission carry out appropriate
-consultations during its preparatory work, including at expert level, and that those
-consultations be conducted in accordance with the pri
-nciples laid down in the
-Interinstitutional Agreement of 13 April 2016 on Better Law
--
-Making
-1
-. In particular, to
-ensure equal participation in the preparation of delegated acts, the European Parliament
-and the Council receive all documents at the same time
-as Member States’ experts, and
-their experts systematically have access to meetings of Commission expert groups dealing
-with the preparation of delegated acts.
+General-purpose AI systems may be used as high-risk AI systems by themselves or be components of other high-risk AI systems. Therefore, due to their particular nature and in order to ensure a fair sharing of responsibilities along the AI value chain, the providers of such systems should, irrespective of whether they may be used as high-risk AI systems as such by other providers or as components of high-risk AI systems and unless provided otherwise under this Regulation, closely cooperate with the providers of the relevant high-risk AI systems to enable their compliance with the relevant obligations under this Regulation and with the competent authorities established under this Regulation.

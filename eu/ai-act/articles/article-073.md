@@ -1,54 +1,22 @@
-# Article 73 — Exercise of the delegation
+# Article 73 — Reporting of serious incidents
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `ST 5662/24`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
 - **Akoma Ntoso eId**: `art_73`
-- **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1.
-The power to adopt delegated acts is conferred on the Commission subject to the
-conditions laid down in this Article.
-2
-.
-The power to adopt delegated acts referred to in [Article 4, Article 7(1), Article 11(3),
-Article 43(5) and (6) and Article 48(5)] shall be conferred on the Commission for a period
-of five years from … [the date of entry into force of the Regulation].The
-Commission shall
-draw up a report in respect of the delegation of power not later than 9 months before the
-end of the five
--
-year period. The delegation of power shall be tacitly extended for periods of
-an identical duration, unless the European Parliament
-or the Council opposes such
-extension not later than three months before the end of each period.
-3.
-The delegation of power referred to in {Article 7(1), Article 7(3), Article 11(3), Article
-43(5) and (6) and Article 48(5)] may be revoked at any time by th
-e European Parliament or
-by the Council. A decision of revocation shall put an end to the delegation of power
-specified in that decision. It shall take effect the day following that of its publication in the
-Official Journal of the European Union
-or at a l
-ater date specified therein. It shall not
-affect the validity of any delegated acts already in force.
-4.
-As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the
-European Parliament and to the Council.
-5.
-Any delegated act
-adopted pursuant to [Article 4], Article 7(1), Article 11(3), Article 43(5)
-and (6) and Article 48(5) shall enter into force only if no objection has been expressed by
-either the European Parliament or the Council within a period of three months of
-notifi
-cation of that act to the European Parliament and the Council or if, before the expiry
-of that period, the European Parliament and the Council have both informed the
-Commission that they will not object. That period shall be extended by three months at the
-initiative of the European Parliament or of the Council.
-5662/24
-RB/ek
-232
-TREE.2.B
-LIMITE
-EN
+1. Providers of high-risk AI systems placed on the Union market shall report any serious incident to the market surveillance authorities of the Member States where that incident occurred.
+2. The report referred to in paragraph 1 shall be made immediately after the provider has established a causal link between the AI system and the serious incident or the reasonable likelihood of such a link, and, in any event, not later than 15 days after the provider or, where applicable, the deployer, becomes aware of the serious incident.
+The period for the reporting referred to in the first subparagraph shall take account of the severity of the serious incident.
+3. Notwithstanding paragraph 2 of this Article, in the event of a widespread infringement or a serious incident as defined in Article 3, point (49)(b), the report referred to in paragraph 1 of this Article shall be provided immediately, and not later than two days after the provider or, where applicable, the deployer becomes aware of that incident.
+4. Notwithstanding paragraph 2, in the event of the death of a person, the report shall be provided immediately after the provider or the deployer has established, or as soon as it suspects, a causal relationship between the high-risk AI system and the serious incident, but not later than 10 days after the date on which the provider or, where applicable, the deployer becomes aware of the serious incident.
+5. Where necessary to ensure timely reporting, the provider or, where applicable, the deployer, may submit an initial report that is incomplete, followed by a complete report.
+6. Following the reporting of a serious incident pursuant to paragraph 1, the provider shall, without delay, perform the necessary investigations in relation to the serious incident and the AI system concerned. This shall include a risk assessment of the incident, and corrective action.
+The provider shall cooperate with the competent authorities, and where relevant with the notified body concerned, during the investigations referred to in the first subparagraph, and shall not perform any investigation which involves altering the AI system concerned in a way which may affect any subsequent evaluation of the causes of the incident, prior to informing the competent authorities of such action.
+7. Upon receiving a notification related to a serious incident referred to in Article 3, point (49)(c), the relevant market surveillance authority shall inform the national public authorities or bodies referred to in Article 77(1). The Commission shall develop dedicated guidance to facilitate compliance with the obligations set out in paragraph 1 of this Article. That guidance shall be issued by 2 August 2025, and shall be assessed regularly.
+8. The market surveillance authority shall take appropriate measures, as provided for in Article 19 of Regulation (EU) 2019/1020, within seven days from the date it received the notification referred to in paragraph 1 of this Article, and shall follow the notification procedures as provided in that Regulation.
+9. For high-risk AI systems referred to in Annex III that are placed on the market or put into service by providers that are subject to Union legislative instruments laying down reporting obligations equivalent to those set out in this Regulation, the notification of serious incidents shall be limited to those referred to in Article 3, point (49)(c).
+10. For high-risk AI systems which are safety components of devices, or are themselves devices, covered by Regulations (EU) 2017/745 and (EU) 2017/746, the notification of serious incidents shall be limited to those referred to in Article 3, point (49)(c) of this Regulation, and shall be made to the national competent authority chosen for that purpose by the Member States where the incident occurred.
+11. National competent authorities shall immediately notify the Commission of any serious incident, whether or not they have taken action on it, in accordance with Article 20 of Regulation (EU) 2019/1020.
