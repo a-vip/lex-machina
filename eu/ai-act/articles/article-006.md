@@ -1,9 +1,9 @@
 # Article 6 — Classification rules for high-risk AI systems
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `5662/24`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
 1. Irrespective of whether an AI system is placed on the market or put into service independently from the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:
 (a) the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I;

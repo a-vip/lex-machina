@@ -1,20 +1,20 @@
 # Regulation (EU) 2024/1689 — Artificial Intelligence Act
 
-- **Stage**: Provisional Trilogue Agreement Text (`trilogue_provisional_agreement`)
-- **Document Symbol**: `5662/24`
-- **Date**: `2024-01-26`
-- **Institutional Author**: `EU Trilogue Negotiators <trilogue@europa.eu>`
-- **Source**: https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf
+- **Stage**: Final Official Journal Publication (`official_journal_final`)
+- **Document Symbol**: `OJ L, 2024/1689`
+- **Date**: `2024-07-12`
+- **Institutional Author**: `European Union Official Journal <oj@europa.eu>`
+- **Source**: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689
 
-> Consolidated compromise text following political trilogue agreement between Parliament, Council, and Commission establishing Fundamental Rights Impact Assessments (Article 27), General-Purpose AI Models with systemic risk thresholds (10^25 FLOPs), and narrowly circumscribed law enforcement exceptions in Article 5.
+> Lawyer-linguist finalized Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence, published in the Official Journal of the European Union (180 recitals, 113 articles, 13 annexes).
 
 ## Preamble & Recitals
 
-(1) The purpose of this Regulation is to improve the functioning of the internal market by laying down a uniform legal framework in particular for the development, the placing on the market, the putting into service and the use of artificial intelligence systems (AI systems) in the Union, in accordance with Union values, to promote the uptake of human centric and trustworthy artificial intelligence while ensuring a high level of protection of health, safety, fundamental rights as enshrined in the Charter of Fundamental Rights of the European Union, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union, and to support innovation.
+(1) The purpose of this Regulation is to improve the functioning of the internal market by laying down a uniform legal framework in particular for the development, the placing on the market, the putting into service and the use of artificial intelligence systems (AI systems) in the Union, in accordance with Union values, to promote the uptake of human centric and trustworthy artificial intelligence while ensuring a high level of protection of health, safety, fundamental rights as enshrined in the Charter of Fundamental Rights of the European Union (the 'Charter'), including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union, and to support innovation. This Regulation ensures the free movement, cross-border, of AI-based goods and services, thus preventing Member States from imposing restrictions on the development, marketing and use of AI systems, unless explicitly authorised by this Regulation.
 
-(18) The use of AI systems for 'real-time' remote biometric identification of natural persons in publicly accessible spaces for the purpose of law enforcement is particularly intrusive to the rights and freedoms of the concerned persons. It should therefore be prohibited, except in three exhaustively listed and narrowly defined situations, where the use is strictly necessary to achieve a substantial public interest, the importance of which outweighs the risks, subject to a prior fundamental rights impact assessment, registration in the EU database, and prior authorisation by a judicial authority or an independent administrative authority whose decision is binding.
+(18) The use of AI systems for 'real-time' remote biometric identification of natural persons in publicly accessible spaces for the purpose of law enforcement is particularly intrusive to the rights and freedoms of the concerned persons, to the extent that it may affect the private life of a large part of the population, evoke a feeling of constant surveillance and indirectly dissuade the exercise of the freedom of assembly and other fundamental rights. Technical inaccuracies of AI systems intended for the remote biometric identification of natural persons can lead to biased results and entail discriminatory effects. The use of those systems for the purpose of law enforcement should therefore be prohibited, except in exhaustively listed and narrowly defined situations, where the use is strictly necessary to achieve a substantial public interest, the importance of which outweighs the risks.
 
-(60m) General-purpose AI models could pose systemic risks which include, but are not limited to, any actual or reasonably foreseeable negative effects in relation to major accidents, disruptions of critical sectors and serious consequences to public health and safety; any actual or reasonably foreseeable negative effects on democratic processes, public and economic security; the dissemination of illegal, false, or discriminatory content. A general-purpose AI model should be classified as having systemic risk when the cumulative amount of compute used for its training measured in floating point operations (FLOPs) is greater than 10^25.
+(111) A general-purpose AI model should be classified as a general-purpose AI model with systemic risk if it has high-impact capabilities, evaluated on the basis of appropriate technical tools and methodologies, or if the Commission decides that it has capabilities or an impact equivalent to those high-impact capabilities. According to the state of the art at the time of entry into force of this Regulation, the cumulative amount of compute used for the training of the general-purpose AI model measured in floating point operations is one of the relevant approximations for model capabilities and should be set at 10^25 FLOPs.
 
 ## Enacting Terms (Articles)
 
@@ -23,7 +23,7 @@
 1. The purpose of this Regulation is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence, while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.
 2. This Regulation lays down:
 (a) harmonised rules for the placing on the market, the putting into service, and the use of artificial intelligence systems ('AI systems') in the Union;
-(b) prohibitions of certain artificial intelligence practices;
+(b) prohibitions of certain AI practices;
 (c) specific requirements for high-risk AI systems and obligations for operators of such systems;
 (d) harmonised transparency rules for certain AI systems;
 (e) harmonised rules for the placing on the market of general-purpose AI models;
@@ -43,7 +43,7 @@ This Regulation does not apply to AI systems where and in so far they are placed
 ### Article 3 — Definitions
 
 For the purposes of this Regulation, the following definitions apply:
-(1) 'AI system' means a machine-based system designed to operate with varying levels of autonomy, that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;
+(1) 'AI system' means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;
 (2) 'risk' means the combination of the probability of an occurrence of harm and the severity of that harm;
 (3) 'provider' means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge;
 (4) 'deployer' means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
@@ -53,12 +53,14 @@ For the purposes of this Regulation, the following definitions apply:
 
 Providers and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used.
 
-### Article 5 — Prohibited Artificial Intelligence Practices
+### Article 5 — Prohibited AI practices
 
 1. The following AI practices shall be prohibited:
-(a) the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person's consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of, materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing a person to take a decision that that person would not have otherwise taken in a manner that causes or is reasonably likely to cause that person, another person or group of persons significant harm;
+(a) the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person's consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of, materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing them to take a decision that they would not have otherwise taken in a manner that causes or is reasonably likely to cause that person, another person or group of persons significant harm;
 (b) the placing on the market, the putting into service or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation, with the objective, or the effect, of materially distorting the behaviour of that person or a person belonging to that group in a manner that causes or is reasonably likely to cause that person or another person significant harm;
-(c) the placing on the market, the putting into service or the use of AI systems for the evaluation or classification of natural persons or groups of persons over a certain period of time based on their social behaviour or known, inferred or predicted personal or personality characteristics, with the social score leading to detrimental or unfavourable treatment;
+(c) the placing on the market, the putting into service or the use of AI systems for the evaluation or classification of natural persons or groups of persons over a certain period of time based on their social behaviour or known, inferred or predicted personal or personality characteristics, with the social score leading to either or both of the following:
+(i) detrimental or unfavourable treatment of certain natural persons or groups of persons in social contexts that are unrelated to the contexts in which the data was originally generated or collected;
+(ii) detrimental or unfavourable treatment of certain natural persons or groups of persons that is unjustified or disproportionate to their social behaviour or its gravity;
 (d) the placing on the market, the putting into service for this specific purpose, or the use of an AI system for making risk assessments of natural persons in order to assess or predict the risk of a natural person committing a criminal offence, based solely on the profiling of a natural person or on assessing their personality traits and characteristics; this prohibition shall not apply to AI systems used to support the human assessment of the involvement of a person in a criminal activity, which is already based on objective and verifiable facts directly linked to a criminal activity;
 (e) the placing on the market, the putting into service for this specific purpose, or the use of AI systems that create or expand facial recognition databases through the untargeted scraping of facial images from the internet or CCTV footage;
 (f) the placing on the market, the putting into service for this specific purpose, or the use of AI systems to infer emotions of a natural person in the areas of workplace and education institutions, except where the use of the AI system is intended to be put in place or into the market for medical or safety reasons;
@@ -66,7 +68,7 @@ Providers and deployers of AI systems shall take measures to ensure, to their be
 (h) the use of 'real-time' remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement, unless and in so far as such use is strictly necessary for one of the following objectives:
 (i) the targeted search for specific victims of abduction, trafficking in human beings or sexual exploitation of human beings, as well as the search for missing persons;
 (ii) the prevention of a specific, substantial and imminent threat to the life or physical safety of natural persons or a genuine and present or genuine and foreseeable threat of a terrorist attack;
-(iii) the localisation or identification of a person suspected of having committed a criminal offence, for the purpose of conducting a criminal investigation or prosecution or executing a criminal penalty for offences referred to in Annex IIa and punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at least four years.
+(iii) the localisation or identification of a person suspected of having committed a criminal offence, for the purpose of conducting a criminal investigation or prosecution or executing a criminal penalty for offences referred to in Annex II and punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at least four years.
 
 ### Article 6 — Classification rules for high-risk AI systems
 
@@ -82,7 +84,7 @@ Providers and deployers of AI systems shall take measures to ensure, to their be
 2. The risk management system shall be understood as a continuous iterative process planned and run throughout the entire lifecycle of a high-risk AI system, requiring regular systematic review and updating. It shall comprise the following steps:
 (a) the identification and analysis of the known and the reasonably foreseeable risks that the high-risk AI system can pose to health, safety or fundamental rights when the high-risk AI system is used in accordance with its intended purpose;
 (b) the estimation and evaluation of the risks that may emerge when the high-risk AI system is used in accordance with its intended purpose, and under conditions of reasonably foreseeable misuse;
-(c) the evaluation of other Store/post-market risks possibly arising, based on the analysis of data gathered from the post-market monitoring system referred to in Article 72;
+(c) the evaluation of other risks possibly arising, based on the analysis of data gathered from the post-market monitoring system referred to in Article 72;
 (d) the adoption of appropriate and targeted risk management measures designed to address the risks identified pursuant to point (a).
 
 ### Article 27 — Fundamental rights impact assessment for high-risk AI systems
@@ -98,7 +100,7 @@ Providers and deployers of AI systems shall take measures to ensure, to their be
 ### Article 50 — Transparency obligations for providers and deployers of certain AI systems
 
 1. Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use.
-2. Providers of AI systems, including general-purpose AI systems, generating synthetic audio, image, video or text content, shall ensure that the outputs of the AI system are marked in a machine-readable format and detectable as artificially generated or manipulated.
+2. Providers of AI systems, including general-purpose AI systems, generating synthetic audio, image, video or text content, shall ensure that the outputs of the AI system are marked in a machine-readable format and detectable as artificially generated or manipulated. Providers shall ensure their technical solutions are effective, interoperable, robust and reliable as far as this is technically feasible.
 3. Deployers of an emotion recognition system or a biometric categorisation system shall inform the natural persons exposed thereto of the operation of the system, and shall process the personal data in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, as applicable.
 4. Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated. Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated.
 
@@ -130,13 +132,15 @@ Providers and deployers of AI systems shall take measures to ensure, to their be
 ### Annex III — High-Risk AI Systems Referred to in Article 6(2)
 
 1. Biometrics, in so far as their use is permitted under relevant Union or national law:
-(a) remote biometric identification systems (excluding biometric verification for the sole purpose of confirming a specific natural person's identity);
+(a) remote biometric identification systems. This shall not include AI systems intended to be used for biometric verification the sole purpose of which is to confirm that a specific natural person is the person he or she claims to be;
 (b) AI systems intended to be used for biometric categorisation, according to sensitive or protected attributes or characteristics based on the inference of those attributes or characteristics;
 (c) AI systems intended to be used for emotion recognition.
 2. Critical infrastructure: AI systems intended to be used as safety components in the management and operation of critical digital infrastructure, road traffic, or in the supply of water, gas, heating or electricity.
 3. Education and vocational training.
 4. Employment, workers management and access to self-employment.
-5. Access to and enjoyment of essential private services and essential public services and benefits (including creditworthiness, life and health insurance risk assessment and pricing, and emergency first response dispatch triage).
-6. Law enforcement.
-7. Migration, asylum and border control management.
-8. Administration of justice and democratic processes, including AI systems intended to be used for influencing the outcome of an election or referendum or the voting behaviour of natural persons in the exercise of their vote.
+5. Access to and enjoyment of essential private services and essential public services and benefits.
+6. Law enforcement, in so far as their use is permitted under relevant Union or national law.
+7. Migration, asylum and border control management, in so far as their use is permitted under relevant Union or national law.
+8. Administration of justice and democratic processes:
+(a) AI systems intended to be used by a judicial authority or on their behalf to assist a judicial authority in researching and interpreting facts and the law and in applying the law to a concrete set of facts, or to be used in a similar way in alternative dispute resolution;
+(b) AI systems intended to be used for influencing the outcome of an election or referendum or the voting behaviour of natural persons in the exercise of their vote in elections or referenda.

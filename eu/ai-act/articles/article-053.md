@@ -1,9 +1,9 @@
 # Article 53 — Obligations for providers of general-purpose AI models
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `5662/24`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
 1. Providers of general-purpose AI models shall:
 (a) draw up and keep up-to-date the technical documentation of the model, including its training and testing process and the results of its evaluation, which shall contain, at a minimum, the information set out in Annex XI for the purpose of providing it, upon request, to the AI Office and the national competent authorities;

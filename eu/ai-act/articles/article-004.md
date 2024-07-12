@@ -1,8 +1,8 @@
 # Article 4 — AI literacy
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `5662/24`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
 Providers and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used.

@@ -1,9 +1,9 @@
 # Article 51 — Classification of general-purpose AI models as general-purpose AI models with systemic risk
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `5662/24`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
 1. A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it meets any of the following conditions:
 (a) it has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks;

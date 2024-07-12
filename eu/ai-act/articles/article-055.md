@@ -1,9 +1,9 @@
 # Article 55 — Obligations for providers of general-purpose AI models with systemic risk
 
 - **Instrument**: EU AI Act
-- **Stage**: Provisional Trilogue Agreement Text (`2024-01-26`)
-- **Document Symbol**: `5662/24`
-- **Institutional Author**: EU Trilogue Negotiators `<trilogue@europa.eu>`
+- **Stage**: Final Official Journal Publication (`2024-07-12`)
+- **Document Symbol**: `OJ L, 2024/1689`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
 1. In addition to the obligations listed in Articles 53 and 54, providers of general-purpose AI models with systemic risk shall:
 (a) perform model evaluation in accordance with standardised protocols and tools reflecting the state of the art, including conducting and documenting adversarial testing of the model with a view to identifying and mitigating systemic risk;

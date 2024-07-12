@@ -5,19 +5,19 @@
   "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
   "short_title": "EU AI Act",
   "type": "regulation",
-  "celex": "ST_5662_2024_INIT",
-  "document_symbol": "5662/24",
-  "stage": "trilogue_provisional_agreement",
-  "stage_label": "Provisional Trilogue Agreement Text",
-  "published_date": "2024-01-26",
+  "celex": "32024R1689",
+  "document_symbol": "OJ L, 2024/1689",
+  "stage": "official_journal_final",
+  "stage_label": "Final Official Journal Publication",
+  "published_date": "2024-07-12",
   "in_force_date": "2024-08-01",
   "status": "in_force",
   "institutional_author": {
-    "name": "EU Trilogue Negotiators",
-    "email": "trilogue@europa.eu"
+    "name": "European Union Official Journal",
+    "email": "oj@europa.eu"
   },
-  "source_url": "https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf",
-  "summary": "Consolidated compromise text following political trilogue agreement between Parliament, Council, and Commission establishing Fundamental Rights Impact Assessments (Article 27), General-Purpose AI Models with systemic risk thresholds (10^25 FLOPs), and narrowly circumscribed law enforcement exceptions in Article 5.",
+  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689",
+  "summary": "Lawyer-linguist finalized Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence, published in the Official Journal of the European Union (180 recitals, 113 articles, 13 annexes).",
   "counts": {
     "recitals": 3,
     "articles": 12,
