@@ -1,142 +1,233 @@
-# Article 2 — Core Function 2 — MAP (nist_ai_rmf_1_0)
+# Article 2 — Core Function 2 — MAP (nist_ai_600_1_genai)
 
 - **Instrument**: US Federal AI & NIST RMF
-- **Stage**: NIST AI Risk Management Framework 1.0 (NIST AI 100-1) (`2023-01-26`)
-- **Document Symbol**: `NIST AI 100-1`
+- **Stage**: NIST AI 600-1 Generative AI Profile (`2024-07-26`)
+- **Document Symbol**: `NIST AI 600-1`
 - **Akoma Ntoso eId**: `nist_map`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: National Institute of Standards and Technology (NIST) `<ai-rmf@nist.gov>`
 
-MAP 1.6: System requirements (e.g., “the system shall respect
-the privacy of its users”) are elicited from and understood by rel-
-evant AI actors. Design decisions take socio-technical implica-
-tions into account to address AI risks.
-MAP 2:
-Categorization of
-the AI system is
-performed.
-MAP 2.1: The specific tasks and methods used to implement the
-tasks that the AI system will support are defined (e.g., classifiers,
+MAP 1.1: Intended purposes, potentially beneﬁcial uses, context speciﬁc laws, norms and expectations, and prospective settings in
+which the AI system will be deployed are understood and documented. Considerations include: the speciﬁc set or types of users
+along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations,
+society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or
+product AI lifecycle; and related TEVV and system metrics.
+Action ID Suggested Action GAI Risks
+MP-1.1-001
+When identifying intended purposes, consider factors such as internal vs.
+external use, narrow vs. broad application scope, ﬁne-tuning, and varieties of
+data sources (e.g., grounding, retrieval-augmented generation).
+Data Privacy; Intellectual
+Property
+23
+MP-1.1-002
+Determine and document the expected and acceptable GAI system context of
+use in collaboration with socio-cultural and other domain experts, by assessing:
+Assumptions and limitations; Direct value to the organization; Intended
+operational environment and observed usage patterns; Potential positive and
+negative impacts to individuals, public safety, groups, communities,
+organizations, democratic institutions, and the physical environment; Social
+norms and expectations.
+Harmful Bias and Homogenization
+MP-1.1-003
+Document risk measurement plans to address identiﬁed risks. Plans may
+include, as applicable: Individual and group cognitive biases (e.g., conﬁrmation
+bias, funding bias, groupthink) for AI Actors involved in the design,
+implementation, and use of GAI systems; Known past GAI system incidents and
+failure modes; In-context use and foreseeable misuse, abuse, and oﬀ-label use;
+Over reliance on quantitative metrics and methodologies without suﬃcient
+awareness of their limitations in the context(s) of use; Standard measurement
+and structured human feedback approaches; Anticipated human-AI
+conﬁgurations.
+Human-AI Conﬁguration; Harmful
+Bias and Homogenization;
+Dangerous, Violent, or Hateful
+Content
+MP-1.1-004 Identify and document foreseeable illegal uses or applications of the GAI system that surpass organizational risk tolerances.
+CBRN Information or Capabilities;
+Dangerous, Violent, or Hateful
+Content; Obscene, Degrading,
+and/or Abusive Content
+AI Actor Tasks: AI Deployment
+MAP 1.2: Interdisciplinary AI Actors, competencies, skills, and capacities for establishing context reﬂect demographic diversity and
+broad domain and user experience expertise, and their participation is documented. Opportunities for interdisciplinary
+collaboration are prioritized.
+Action ID Suggested Action GAI Risks
+MP-1.2-001
+Establish and empower interdisciplinary teams that reﬂect a wide range of
+capabilities, competencies, demographic groups, domain expertise, educational
+backgrounds, lived experiences, professions, and skills across the enterprise to
+inform and conduct risk measurement and management functions.
+Human-AI Conﬁguration; Harmful
+Bias and Homogenization
+MP-1.2-002
+Verify that data or benchmarks used in risk measurement, and users,
+participants, or subjects involved in structured GAI public feedback exercises
+are representative of diverse in-context user populations.
+Human-AI Conﬁguration; Harmful
+Bias and Homogenization
+AI Actor Tasks: AI Deployment
+24
+MAP 2.1: The speciﬁc tasks and methods used to implement the tasks that the AI system will support are deﬁned (e.g., classiﬁers,
 generative models, recommenders).
-MAP 2.2: Information about the AI system’s knowledge limits
-and how system output may be utilized and overseen by humans
-is documented. Documentation provides sufficient information
-to assist relevant AI actors when making decisions and taking
+Action ID Suggested Action GAI Risks
+MP-2.1-001 Establish known assumptions and practices for determining data origin and content lineage, for documentation and evaluation purposes. Information Integrity
+MP-2.1-002
+Institute test and evaluation for data and content ﬂows within the GAI system,
+including but not limited to, original data sources, data transformations, and
+decision-making criteria.
+Intellectual Property; Data Privacy
+AI Actor Tasks: TEVV
+MAP 2.2: Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is
+documented. Documentation provides suﬃcient information to assist relevant AI Actors when making decisions and taking
 subsequent actions.
-Categories Subcategories
-Continued on next page
-Page 26
-NIST AI 100-1 AI RMF 1.0
-Table 2: Categories and subcategories for the MAP function. (Continued)
-MAP 2.3: Scientific integrity and TEVV considerations are iden-
-tified and documented, including those related to experimental
-design, data collection and selection (e.g., availability, repre-
-sentativeness, suitability), system trustworthiness, and construct
-validation.
-MAP 3: AI
-capabilities, targeted
-usage, goals, and
-expected benefits
-and costs compared
-with appropriate
-benchmarks are
-understood.
-MAP 3.1: Potential benefits of intended AI system functionality
-and performance are examined and documented.
-MAP 3.2: Potential costs, including non-monetary costs, which
-result from expected or realized AI errors or system functionality
-and trustworthiness – as connected to organizational risk toler-
-ance – are examined and documented.
-MAP 3.3: Targeted application scope is specified and docu-
-mented based on the system’s capability, established context, and
-AI system categorization.
-MAP 3.4: Processes for operator and practitioner proficiency
-with AI system performance and trustworthiness – and relevant
-technical standards and certifications – are defined, assessed, and
-documented.
-MAP 3.5: Processes for human oversight are defined, assessed,
-and documented in accordance with organizational policies from
-the GOVERN function.
-MAP 4: Risks and
-benefits are mapped
-for all components
-of the AI system
-including third-party
-software and data.
-MAP 4.1: Approaches for mapping AI technology and legal risks
-of its components – including the use of third-party data or soft-
-ware – are in place, followed, and documented, as are risks of in-
-fringement of a third party’s intellectual property or other rights.
-MAP 4.2: Internal risk controls for components of the AI sys-
-tem, including third-party AI technologies, are identified and
-documented.
-MAP 5: Impacts to
-individuals, groups,
-communities,
-organizations, and
-society are
-characterized.
-MAP 5.1: Likelihood and magnitude of each identified impact
-(both potentially beneficial and harmful) based on expected use,
-past uses of AI systems in similar contexts, public incident re-
-ports, feedback from those external to the team that developed
-or deployed the AI system, or other data are identified and
-documented.
-Categories Subcategories
-Continued on next page
-Page 27
-NIST AI 100-1 AI RMF 1.0
-Table 2: Categories and subcategories for the MAP function. (Continued)
-MAP 5.2: Practices and personnel for supporting regular en-
-gagement with relevant AI actors and integrating feedback about
-positive, negative, and unanticipated impacts are in place and
-documented.
-Categories Subcategories
-5.3 Measure
-The MEASURE function employs quantitative, qualitative, or mixed-method tools, tech-
-niques, and methodologies to analyze, assess, benchmark, and monitor AI risk and related
-impacts. It uses knowledge relevant to AI risks identified in the MAP function and informs
-the MANAGE function. AI systems should be tested before their deployment and regu-
-larly while in operation. AI risk measurements include documenting aspects of systems’
-functionality and trustworthiness.
-Measuring AI risks includes tracking metrics for trustworthy characteristics, social impact,
-and human-AI configurations. Processes developed or adopted in the MEASURE function
-should include rigorous software testing and performance assessment methodologies with
-associated measures of uncertainty, comparisons to performance benchmarks, and formal-
-ized reporting and documentation of results. Processes for independent review can improve
-the effectiveness of testing and can mitigate internal biases and potential conflicts of inter-
-est.
-Where tradeoffs among the trustworthy characteristics arise, measurement provides a trace-
-able basis to inform management decisions. Options may include recalibration, impact
-mitigation, or removal of the system from design, development, production, or use, as well
-as a range of compensating, detective, deterrent, directive, and recovery controls.
-After completing the MEASURE function, objective, repeatable, or scalable test, evaluation,
-verification, and validation (TEVV) processes including metrics, methods, and methodolo-
-gies are in place, followed, and documented. Metrics and measurement methodologies
-should adhere to scientific, legal, and ethical norms and be carried out in an open and trans-
-parent process. New types of measurement, qualitative and quantitative, may need to be
-developed. The degree to which each measurement type provides unique and meaningful
-information to the assessment of AI risks should be considered. Framework users will en-
-hance their capacity to comprehensively evaluate system trustworthiness, identify and track
-existing and emergent risks, and verify efficacy of the metrics. Measurement outcomes will
-be utilized in the MANAGE function to assist risk monitoring and response efforts. It is in-
-cumbent on Framework users to continue applying the MEASURE function to AI systems
-as knowledge, methodologies, risks, and impacts evolve over time.
-Page 28
-NIST AI 100-1 AI RMF 1.0
-Practices related to measuring AI risks are described in the NIST AI RMF Playbook. Table
-3 lists the MEASURE function’s categories and subcategories.
-Table 3: Categories and subcategories for the MEASURE function.
-MEASURE 1:
-Appropriate
-methods and metrics
-are identified and
-applied.
-MEASURE 1.1: Approaches and metrics for measurement of AI
-risks enumerated during the MAP function are selected for imple-
-mentation starting with the most significant AI risks. The risks
-or trustworthiness characteristics that will not – or cannot – be
-measured are properly documented.
-MEASURE 1.2: Appropriateness of AI metrics and effectiveness
-of existing controls are regularly assessed and updated, including
-reports of errors and potential impacts on affected communities.
+Action ID Suggested Action GAI Risks
+MP-2.2-001
+Identify and document how the system relies on upstream data sources,
+including for content provenance, and if it serves as an upstream dependency for
+other systems.
+Information Integrity; Value Chain
+and Component Integration
+MP-2.2-002
+Observe and analyze how the GAI system interacts with external networks, and
+identify any potential for negative externalities, particularly where content
+provenance might be compromised.
+Information Integrity
+AI Actor Tasks: End Users
+MAP 2.3: Scientiﬁc integrity and TEVV considerations are identiﬁed and documented, including those related to experimental
+design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct
+validation
+Action ID Suggested Action GAI Risks
+MP-2.3-001
+Assess the accuracy, quality, reliability, and authenticity of GAI output by
+comparing it to a set of known ground truth data and by using a variety of
+evaluation methods (e.g., human oversight and automated evaluation, proven
+cryptographic techniques, review of content inputs).
+Information Integrity
+25
+MP-2.3-002 Review and document accuracy, representativeness, relevance, suitability of data
+used at diﬀerent stages of AI life cycle.
+Harmful Bias and Homogenization;
+Intellectual Property
+MP-2.3-003
+Deploy and document fact-checking techniques to verify the accuracy and
+veracity of information generated by GAI systems, especially when the
+information comes from multiple (or unknown) sources.
+Information Integrity
+MP-2.3-004 Develop and implement testing techniques to identify GAI produced content (e.g., synthetic media) that might be indistinguishable from human-generated content. Information Integrity
+MP-2.3-005 Implement plans for GAI systems to undergo regular adversarial testing to identify vulnerabilities and potential manipulation or misuse. Information Security
+AI Actor Tasks: AI Development, Domain Experts, TEVV
+MAP 3.4: Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant
+technical standards and certiﬁcations – are deﬁned, assessed, and documented.
+Action ID Suggested Action GAI Risks
+MP-3.4-001 Evaluate whether GAI operators and end-users can accurately understand content lineage and origin. Human-AI Conﬁguration; Information Integrity
+MP-3.4-002 Adapt existing training programs to include modules on digital content transparency. Information Integrity
+MP-3.4-003 Develop certiﬁcation programs that test proﬁciency in managing GAI risks and interpreting content provenance, relevant to speciﬁc industry and context. Information Integrity
+MP-3.4-004 Delineate human proﬁciency tests from tests of GAI capabilities. Human-AI Conﬁguration
+MP-3.4-005 Implement systems to continually monitor and track the outcomes of human-GAI conﬁgurations for future reﬁnement and improvements. Human-AI Conﬁguration; Information Integrity
+MP-3.4-006
+Involve the end-users, practitioners, and operators in GAI system in prototyping
+and testing activities. Make sure these tests cover various scenarios, such as crisis
+situations or ethically sensitive contexts.
+Human-AI Conﬁguration;
+Information Integrity; Harmful Bias
+and Homogenization; Dangerous,
+Violent, or Hateful Content
+AI Actor Tasks: AI Design, AI Development, Domain Experts, End-Users, Human Factors, Operation and Monitoring
+26
+MAP 4.1: Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or
+software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other
+rights.
+Action ID Suggested Action GAI Risks
+MP-4.1-001 Conduct periodic monitoring of AI-generated content for privacy risks; address any possible instances of PII or sensitive data exposure. Data Privacy
+MP-4.1-002 Implement processes for responding to potential intellectual property infringement claims or other rights. Intellectual Property
+MP-4.1-003
+Connect new GAI policies, procedures, and processes to existing model, data,
+software development, and IT governance and to legal, compliance, and risk
+management activities.
+Information Security; Data Privacy
+MP-4.1-004 Document training data curation policies, to the extent possible and according to applicable laws and policies. Intellectual Property; Data Privacy; Obscene, Degrading, and/or Abusive Content
+MP-4.1-005
+Establish policies for collection, retention, and minimum quality of data, in
+consideration of the following risks: Disclosure of inappropriate CBRN information;
+Use of Illegal or dangerous content; Oﬀensive cyber capabilities; Training data
+imbalances that could give rise to harmful biases; Leak of personally identiﬁable
+information, including facial likenesses of individuals.
+CBRN Information or Capabilities;
+Intellectual Property; Information
+Security; Harmful Bias and
+Homogenization; Dangerous,
+Violent, or Hateful Content; Data
+Privacy
+MP-4.1-006 Implement policies and practices deﬁning how third-party intellectual property and training data will be used, stored, and protected. Intellectual Property; Value Chain and Component Integration
+MP-4.1-007 Re-evaluate models that were ﬁne-tuned or enhanced on top of third-party models. Value Chain and Component Integration
+MP-4.1-008
+Re-evaluate risks when adapting GAI models to new domains. Additionally,
+establish warning systems to determine if a GAI system is being used in a new
+domain where previous assumptions (relating to context of use or mapped risks
+such as security, and safety) may no longer hold.
+CBRN Information or Capabilities;
+Intellectual Property; Harmful Bias
+and Homogenization; Dangerous,
+Violent, or Hateful Content; Data
+Privacy
+MP-4.1-009 Leverage approaches to detect the presence of PII or sensitive data in generated output text, image, video, or audio. Data Privacy
+27
+MP-4.1-010
+Conduct appropriate diligence on training data use to assess intellectual property,
+and privacy, risks, including to examine whether use of proprietary or sensitive
+training data is consistent with applicable laws.
+Intellectual Property; Data Privacy
+AI Actor Tasks: Governance and Oversight, Operation and Monitoring, Procurement, Third-party entities
+MAP 5.1: Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past
+uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed
+the AI system, or other data are identiﬁed and documented.
+Action ID Suggested Action GAI Risks
+MP-5.1-001 Apply TEVV practices for content provenance (e.g., probing a system's synthetic data generation capabilities for potential misuse or vulnerabilities. Information Integrity; Information Security
+MP-5.1-002
+Identify potential content provenance harms of GAI, such as misinformation or
+disinformation, deepfakes, including NCII, or tampered content. Enumerate and
+rank risks based on their likelihood and potential impact, and determine how well
+provenance solutions address speciﬁc risks and/or harms.
+Information Integrity; Dangerous,
+Violent, or Hateful Content;
+Obscene, Degrading, and/or
+Abusive Content
+MP-5.1-003
+Consider disclosing use of GAI to end users in relevant contexts, while considering
+the objective of disclosure, the context of use, the likelihood and magnitude of the
+risk posed, the audience of the disclosure, as well as the frequency of the
+disclosures.
+Human-AI Conﬁguration
+MP-5.1-004 Prioritize GAI structured public feedback processes based on risk assessment estimates.
+Information Integrity; CBRN
+Information or Capabilities;
+Dangerous, Violent, or Hateful
+Content; Harmful Bias and
+Homogenization
+MP-5.1-005 Conduct adversarial role-playing exercises, GAI red-teaming, or chaos testing to identify anomalous or unforeseen failure modes. Information Security
+MP-5.1-006
+Proﬁle threats and negative impacts arising from GAI systems interacting with,
+manipulating, or generating content, and outlining known and potential
+vulnerabilities and the likelihood of their occurrence.
+Information Security
+AI Actor Tasks: AI Deployment, AI Design, AI Development, AI Impact Assessment, Aﬀected Individuals and Communities, End-
+Users, Operation and Monitoring
+28
+MAP 5.2: Practices and personnel for supporting regular engagement with relevant AI Actors and integrating feedback about
+positive, negative, and unanticipated impacts are in place and documented.
+Action ID Suggested Action GAI Risks
+MP-5.2-001
+Determine context-based measures to identify if new impacts are present due to
+the GAI system, including regular engagements with downstream AI Actors to
+identify and quantify new contexts of unanticipated impacts of GAI systems.
+Human-AI Conﬁguration; Value
+Chain and Component Integration
+MP-5.2-002
+Plan regular engagements with AI Actors responsible for inputs to GAI systems,
+including third-party data and algorithms, to review and evaluate unanticipated
+impacts.
+Human-AI Conﬁguration; Value
+Chain and Component Integration
+AI Actor Tasks: AI Deployment, AI Design, AI Impact Assessment, Aﬀected Individuals and Communities, Domain Experts, End-
+Users, Human Factors, Operation and Monitoring

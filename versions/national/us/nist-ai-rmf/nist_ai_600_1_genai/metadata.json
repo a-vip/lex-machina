@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-us-nist-ai-rmf",
+  "path": "national/us/nist-ai-rmf",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "United States Federal AI Governance: NIST AI RMF 1.0, AI 600-1, and Executive Order Trajectory (2023-2026)",
+  "short_title": "US Federal AI & NIST RMF",
+  "type": "national_framework",
+  "celex": "US_NIST_AI_RMF",
+  "eli": null,
+  "document_symbol": "NIST AI 600-1",
+  "stage": "nist_ai_600_1_genai",
+  "stage_label": "NIST AI 600-1 Generative AI Profile",
+  "published_date": "2024-07-26",
+  "in_force_date": "2023-01-26",
+  "status": "active_voluntary_post_eo14110_revocation",
+  "institutional_author": {
+    "name": "National Institute of Standards and Technology (NIST)",
+    "email": "ai-rmf@nist.gov"
+  },
+  "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+  "summary": "Companion Generative AI Profile addressing 12 GenAI risk categories (CBRN, confabulation, cyber, IP, information integrity, value chain) and >200 operational actions.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "final_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "http_status": 200,
+    "http_etag": "\"37d1e58af09cdb1:0\"",
+    "bytes_fetched": 1174643,
+    "fetched_utc": "2026-11-23T14:31:59Z",
+    "sha256_normalized_full_text": "f919aebc3cef2492e9b686564607f82db5f155c148b4aaf06f9a5252d405aef9"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 4,
+    "annexes": 0
+  }
+}

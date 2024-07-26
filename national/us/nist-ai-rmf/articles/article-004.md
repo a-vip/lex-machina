@@ -1,291 +1,324 @@
-# Article 4 — Core Function 4 — MANAGE (nist_ai_rmf_1_0)
+# Article 4 — Core Function 4 — MANAGE (nist_ai_600_1_genai)
 
 - **Instrument**: US Federal AI & NIST RMF
-- **Stage**: NIST AI Risk Management Framework 1.0 (NIST AI 100-1) (`2023-01-26`)
-- **Document Symbol**: `NIST AI 100-1`
+- **Stage**: NIST AI 600-1 Generative AI Profile (`2024-07-26`)
+- **Document Symbol**: `NIST AI 600-1`
 - **Akoma Ntoso eId**: `nist_manage`
 - **Provenance Mode**: `full_primary_pdf`
 - **Institutional Author**: National Institute of Standards and Technology (NIST) `<ai-rmf@nist.gov>`
 
-MANAGE 1.4: Negative residual risks (defined as the sum of all
-unmitigated risks) to both downstream acquirers of AI systems
-and end users are documented.
-MANAGE 2:
-Strategies to
-maximize AI
-benefits and
-minimize negative
-impacts are planned,
-prepared,
-implemented,
-documented, and
-informed by input
-from relevant AI
-actors.
-MANAGE 2.1: Resources required to manage AI risks are taken
-into account – along with viable non-AI alternative systems, ap-
-proaches, or methods – to reduce the magnitude or likelihood of
-potential impacts.
-MANAGE 2.2: Mechanisms are in place and applied to sustain
-the value of deployed AI systems.
-MANAGE 2.3: Procedures are followed to respond to and recover
-from a previously unknown risk when it is identified.
-MANAGE 2.4: Mechanisms are in place and applied, and respon-
-sibilities are assigned and understood, to supersede, disengage, or
-deactivate AI systems that demonstrate performance or outcomes
-inconsistent with intended use.
-MANAGE 3: AI
-risks and benefits
-from third-party
-entities are
-managed.
-MANAGE 3.1: AI risks and benefits from third-party resources
-are regularly monitored, and risk controls are applied and
-documented.
-MANAGE 3.2: Pre-trained models which are used for develop-
-ment are monitored as part of AI system regular monitoring and
-maintenance.
-Categories Subcategories
-Continued on next page
-Page 32
-NIST AI 100-1 AI RMF 1.0
-Table 4: Categories and subcategories for the MANAGE function. (Continued)
-MANAGE 4: Risk
-treatments,
-including response
-and recovery, and
-communication
-plans for the
-identified and
-measured AI risks
-are documented and
-monitored regularly.
-MANAGE 4.1: Post-deployment AI system monitoring plans
-are implemented, including mechanisms for capturing and eval-
-uating input from users and other relevant AI actors, appeal
-and override, decommissioning, incident response, recovery, and
-change management.
-MANAGE 4.2: Measurable activities for continual improvements
-are integrated into AI system updates and include regular engage-
-ment with interested parties, including relevant AI actors.
-MANAGE 4.3: Incidents and errors are communicated to relevant
-AI actors, including affected communities. Processes for track-
-ing, responding to, and recovering from incidents and errors are
-followed and documented.
-Categories Subcategories
-6. AI RMF Profiles
-AI RMF use-case profiles are implementations of the AI RMF functions, categories, and
-subcategories for a specific setting or application based on the requirements, risk tolerance,
-and resources of the Framework user: for example, an AI RMF hiring profile or an AI
-RMF fair housing profile. Profiles may illustrate and offer insights into how risk can be
-managed at various stages of the AI lifecycle or in specific sector, technology, or end-use
-applications. AI RMF profiles assist organizations in deciding how they might best manage
-AI risk that is well-aligned with their goals, considers legal/regulatory requirements and
-best practices, and reflects risk management priorities.
-AI RMF temporal profiles are descriptions of either the current state or the desired, target
-state of specific AI risk management activities within a given sector, industry, organization,
-or application context. An AI RMF Current Profile indicates how AI is currently being
-managed and the related risks in terms of current outcomes. A Target Profile indicates the
-outcomes needed to achieve the desired or target AI risk management goals.
-Comparing Current and Target Profiles likely reveals gaps to be addressed to meet AI risk
-management objectives. Action plans can be developed to address these gaps to fulfill
-outcomes in a given category or subcategory. Prioritization of gap mitigation is driven by
-the user’s needs and risk management processes. This risk-based approach also enables
-Framework users to compare their approaches with other approaches and to gauge the
-resources needed (e.g., staffing, funding) to achieve AI risk management goals in a cost-
-effective, prioritized manner.
-Page 33
-NIST AI 100-1 AI RMF 1.0
-AI RMF cross-sectoral profiles cover risks of models or applications that can be used across
-use cases or sectors. Cross-sectoral profiles can also cover how to govern, map, measure,
-and manage risks for activities or business processes common across sectors such as the
-use of large language models, cloud-based services or acquisition.
-This Framework does not prescribe profile templates, allowing for flexibility in implemen-
-tation.
-Page 34
-NIST AI 100-1 AI RMF 1.0
-Appendix A:
-Descriptions of AI Actor Tasks from Figures 2 and 3
-AI Design tasks are performed during the Application Context and Data and Input phases
-of the AI lifecycle in Figure 2. AI Design actors create the concept and objectives of AI
-systems and are responsible for the planning, design, and data collection and processing
-tasks of the AI system so that the AI system is lawful and fit-for-purpose. Tasks include ar-
-ticulating and documenting the system’s concept and objectives, underlying assumptions,
-context, and requirements; gathering and cleaning data; and documenting the metadata
-and characteristics of the dataset. AI actors in this category include data scientists, do-
-main experts, socio-cultural analysts, experts in the field of diversity, equity, inclusion,
-and accessibility, members of impacted communities, human factors experts (e.g., UX/UI
-design), governance experts, data engineers, data providers, system funders, product man-
-agers, third-party entities, evaluators, and legal and privacy governance.
-AI Development tasks are performed during the AI Model phase of the lifecycle in Figure
-2. AI Development actors provide the initial infrastructure of AI systems and are responsi-
-ble for model building and interpretation tasks, which involve the creation, selection, cali-
-bration, training, and/or testing of models or algorithms. AI actors in this category include
-machine learning experts, data scientists, developers, third-party entities, legal and privacy
-governance experts, and experts in the socio-cultural and contextual factors associated with
-the deployment setting.
-AI Deployment tasks are performed during the Task and Output phase of the lifecycle in
-Figure 2. AI Deployment actors are responsible for contextual decisions relating to how
-the AI system is used to assure deployment of the system into production. Related tasks
-include piloting the system, checking compatibility with legacy systems, ensuring regu-
-latory compliance, managing organizational change, and evaluating user experience. AI
-actors in this category include system integrators, software developers, end users, oper-
-ators and practitioners, evaluators, and domain experts with expertise in human factors,
-socio-cultural analysis, and governance.
-Operation and Monitoring tasks are performed in the Application Context/Operate and
-Monitor phase of the lifecycle in Figure 2. These tasks are carried out by AI actors who are
-responsible for operating the AI system and working with others to regularly assess system
-output and impacts. AI actors in this category include system operators, domain experts, AI
-designers, users who interpret or incorporate the output of AI systems, product developers,
-evaluators and auditors, compliance experts, organizational management, and members of
-the research community.
-Test, Evaluation, Verification, and Validation (TEVV) tasks are performed throughout
-the AI lifecycle. They are carried out by AI actors who examine the AI system or its
-components, or detect and remediate problems. Ideally, AI actors carrying out verification
-Page 35
-NIST AI 100-1 AI RMF 1.0
-and validation tasks are distinct from those who perform test and evaluation actions. Tasks
-can be incorporated into a phase as early as design, where tests are planned in accordance
-with the design requirement.
-• TEVV tasks for design, planning, and data may center on internal and external vali-
-dation of assumptions for system design, data collection, and measurements relative
-to the intended context of deployment or application.
-• TEVV tasks for development (i.e., model building) include model validation and
-assessment.
-• TEVV tasks for deployment include system validation and integration in production,
-with testing, and recalibration for systems and process integration, user experience,
-and compliance with existing legal, regulatory, and ethical specifications.
-• TEVV tasks for operations involve ongoing monitoring for periodic updates, testing,
-and subject matter expert (SME) recalibration of models, the tracking of incidents
-or errors reported and their management, the detection of emergent properties and
-related impacts, and processes for redress and response.
-Human Factors tasks and activities are found throughout the dimensions of the AI life-
-cycle. They include human-centered design practices and methodologies, promoting the
-active involvement of end users and other interested parties and relevant AI actors, incor-
-porating context-specific norms and values in system design, evaluating and adapting end
-user experiences, and broad integration of humans and human dynamics in all phases of the
-AI lifecycle. Human factors professionals provide multidisciplinary skills and perspectives
-to understand context of use, inform interdisciplinary and demographic diversity, engage
-in consultative processes, design and evaluate user experience, perform human-centered
-evaluation and testing, and inform impact assessments.
-Domain Expert tasks involve input from multidisciplinary practitioners or scholars who
-provide knowledge or expertise in – and about – an industry sector, economic sector, con-
-text, or application area where an AI system is being used. AI actors who are domain
-experts can provide essential guidance for AI system design and development, and inter-
-pret outputs in support of work performed by TEVV and AI impact assessment teams.
-AI Impact Assessment tasks include assessing and evaluating requirements for AI system
-accountability, combating harmful bias, examining impacts of AI systems, product safety,
-liability, and security, among others. AI actors such as impact assessors and evaluators
-provide technical, human factor, socio-cultural, and legal expertise.
-Procurement tasks are conducted by AI actors with financial, legal, or policy management
-authority for acquisition of AI models, products, or services from a third-party developer,
-vendor, or contractor.
-Governance and Oversight tasks are assumed by AI actors with management, fiduciary,
-and legal authority and responsibility for the organization in which an AI system is de-
-Page 36
-NIST AI 100-1 AI RMF 1.0
-signed, developed, and/or deployed. Key AI actors responsible for AI governance include
-organizational management, senior leadership, and the Board of Directors. These actors
-are parties that are concerned with the impact and sustainability of the organization as a
+MANAGE 1.3: Responses to the AI risks deemed high priority, as identiﬁed by the MAP function, are developed, planned, and
+documented. Risk response options can include mitigating, transferring, avoiding, or accepting.
+Action ID Suggested Action GAI Risks
+MG-1.3-001
+Document trade-oﬀs, decision processes, and relevant measurement and
+feedback results for risks that do not surpass organizational risk tolerance, for
+example, in the context of model release: Consider diﬀerent approaches for
+model release, for example, leveraging a staged release approach. Consider
+release approaches in the context of the model and its projected use cases.
+Mitigate, transfer, or avoid risks that surpass organizational risk tolerances.
+Information Security
+MG-1.3-002
+Monitor the robustness and eﬀectiveness of risk controls and mitigation plans
+(e.g., via red-teaming, ﬁeld testing, participatory engagements, performance
+assessments, user feedback mechanisms).
+Human-AI Conﬁguration
+AI Actor Tasks: AI Development, AI Deployment, AI Impact Assessment, Operation and Monitoring
+MANAGE 2.2: Mechanisms are in place and applied to sustain the value of deployed AI systems.
+Action ID Suggested Action GAI Risks
+MG-2.2-001
+Compare GAI system outputs against pre-deﬁned organization risk tolerance,
+guidelines, and principles, and review and test AI-generated content against
+these guidelines.
+CBRN Information or Capabilities;
+Obscene, Degrading, and/or
+Abusive Content; Harmful Bias and
+Homogenization; Dangerous,
+Violent, or Hateful Content
+MG-2.2-002 Document training data sources to trace the origin and provenance of AI- generated content. Information Integrity
+MG-2.2-003
+Evaluate feedback loops between GAI system content provenance and human
+reviewers, and update where needed. Implement real-time monitoring systems
+to aﬃrm that content provenance protocols remain eﬀective.
+Information Integrity
+MG-2.2-004
+Evaluate GAI content and data for representational biases and employ
+techniques such as re-sampling, re-ranking, or adversarial training to mitigate
+biases in the generated content.
+Information Security; Harmful Bias
+and Homogenization
+MG-2.2-005 Engage in due diligence to analyze GAI output for harmful content, potential misinformation, and CBRN-related or NCII content.
+CBRN Information or Capabilities;
+Obscene, Degrading, and/or
+Abusive Content; Harmful Bias and
+Homogenization; Dangerous,
+Violent, or Hateful Content
+41
+MG-2.2-006 Use feedback from internal and external AI Actors, users, individuals, and communities, to assess impact of AI-generated content. Human-AI Conﬁguration
+MG-2.2-007 Use real-time auditing tools where they can be demonstrated to aid in the tracking and validation of the lineage and authenticity of AI-generated data. Information Integrity
+MG-2.2-008
+Use structured feedback mechanisms to solicit and capture user input about AI-
+generated content to detect subtle shifts in quality or alignment with
+community and societal values.
+Human-AI Conﬁguration; Harmful
+Bias and Homogenization
+MG-2.2-009
+Consider opportunities to responsibly use synthetic data and other privacy
+enhancing techniques in GAI development, where appropriate and applicable,
+match the statistical properties of real-world data without disclosing personally
+identiﬁable information or contributing to homogenization.
+Data Privacy; Intellectual Property;
+Information Integrity;
+Confabulation; Harmful Bias and
+Homogenization
+AI Actor Tasks: AI Deployment, AI Impact Assessment, Governance and Oversight, Operation and Monitoring
+MANAGE 2.3: Procedures are followed to respond to and recover from a previously unknown risk when it is identiﬁed.
+Action ID Suggested Action GAI Risks
+MG-2.3-001
+Develop and update GAI system incident response and recovery plans and
+procedures to address the following: Review and maintenance of policies and
+procedures to account for newly encountered uses; Review and maintenance of
+policies and procedures for detection of unanticipated uses; Verify response
+and recovery plans account for the GAI system value chain; Verify response and
+recovery plans are updated for and include necessary details to communicate
+with downstream GAI system Actors: Points-of-Contact (POC), Contact
+information, notiﬁcation format.
+Value Chain and Component
+Integration
+AI Actor Tasks: AI Deployment, Operation and Monitoring
+MANAGE 2.4: Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or
+deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use.
+Action ID Suggested Action GAI Risks
+MG-2.4-001
+Establish and maintain communication plans to inform AI stakeholders as part of
+the deactivation or disengagement process of a speciﬁc GAI system (including for
+open-source models) or context of use, including reasons, workarounds, user
+access removal, alternative processes, contact information, etc.
+Human-AI Conﬁguration
+42
+MG-2.4-002
+Establish and maintain procedures for escalating GAI system incidents to the
+organizational risk management authority when speciﬁc criteria for deactivation
+or disengagement is met for a particular context of use or for the GAI system as a
 whole.
-Additional AI Actors
-Third-party entities include providers, developers, vendors, and evaluators of data, al-
-gorithms, models, and/or systems and related services for another organization or the or-
-ganization’s customers or clients. Third-party entities are responsible for AI design and
-development tasks, in whole or in part. By definition, they are external to the design, devel-
-opment, or deployment team of the organization that acquires its technologies or services.
-The technologies acquired from third-party entities may be complex or opaque, and risk
-tolerances may not align with the deploying or operating organization.
-End users of an AI system are the individuals or groups that use the system for specific
-purposes. These individuals or groups interact with an AI system in a specific context. End
-users can range in competency from AI experts to first-time technology end users.
-Affected individuals/communities encompass all individuals, groups, communities, or
-organizations directly or indirectly affected by AI systems or decisions based on the output
-of AI systems. These individuals do not necessarily interact with the deployed system or
-application.
-Other AI actors may provide formal or quasi-formal norms or guidance for specifying
-and managing AI risks. They can include trade associations, standards developing or-
-ganizations, advocacy groups, researchers, environmental groups, and civil society
-organizations.
-The general public is most likely to directly experience positive and negative impacts of
-AI technologies. They may provide the motivation for actions taken by the AI actors. This
-group can include individuals, communities, and consumers associated with the context in
-which an AI system is developed or deployed.
-Page 37
-NIST AI 100-1 AI RMF 1.0
-Appendix B:
-How AI Risks Differ from Traditional Software Risks
-As with traditional software, risks from AI-based technology can be bigger than an en-
-terprise, span organizations, and lead to societal impacts. AI systems also bring a set of
-risks that are not comprehensively addressed by current risk frameworks and approaches.
-Some AI system features that present risks also can be beneficial. For example, pre-trained
-models and transfer learning can advance research and increase accuracy and resilience
-when compared to other models and approaches. Identifying contextual factors in the MAP
-function will assist AI actors in determining the level of risk and potential management
-efforts.
-Compared to traditional software, AI-specific risks that are new or increased include the
-following:
-• The data used for building an AI system may not be a true or appropriate representa-
-tion of the context or intended use of the AI system, and the ground truth may either
-not exist or not be available. Additionally, harmful bias and other data quality issues
-can affect AI system trustworthiness, which could lead to negative impacts.
-• AI system dependency and reliance on data for training tasks, combined with in-
-creased volume and complexity typically associated with such data.
-• Intentional or unintentional changes during training may fundamentally alter AI sys-
-tem performance.
-• Datasets used to train AI systems may become detached from their original and in-
-tended context or may become stale or outdated relative to deployment context.
-• AI system scale and complexity (many systems contain billions or even trillions of
-decision points) housed within more traditional software applications.
-• Use of pre-trained models that can advance research and improve performance can
-also increase levels of statistical uncertainty and cause issues with bias management,
-scientific validity, and reproducibility.
-• Higher degree of difficulty in predicting failure modes for emergent properties of
-large-scale pre-trained models.
-• Privacy risk due to enhanced data aggregation capability for AI systems.
-• AI systems may require more frequent maintenance and triggers for conducting cor-
-rective maintenance due to data, model, or concept drift.
-• Increased opacity and concerns about reproducibility.
-• Underdeveloped software testing standards and inability to document AI-based prac-
-tices to the standard expected of traditionally engineered software for all but the
-simplest of cases.
-• Difficulty in performing regular AI-based software testing, or determining what to
-test, since AI systems are not subject to the same controls as traditional code devel-
-opment.
-Page 38
-NIST AI 100-1 AI RMF 1.0
-• Computational costs for developing AI systems and their impact on the environment
-and planet.
-• Inability to predict or detect the side effects of AI-based systems beyond statistical
+Information Security
+MG-2.4-003
+Establish and maintain procedures for the remediation of issues which trigger
+incident response processes for the use of a GAI system, and provide stakeholders
+timelines associated with the remediation plan.
+Information Security
+MG-2.4-004 Establish and regularly review speciﬁc criteria that warrants the deactivation of GAI systems in accordance with set risk tolerances and appetites. Information Security
+AI Actor Tasks: AI Deployment, Governance and Oversight, Operation and Monitoring
+MANAGE 3.1: AI risks and beneﬁts from third-party resources are regularly monitored, and risk controls are applied and
+documented.
+Action ID Suggested Action GAI Risks
+MG-3.1-001
+Apply organizational risk tolerances and controls (e.g., acquisition and
+procurement processes; assessing personnel credentials and qualiﬁcations,
+performing background checks; ﬁltering GAI input and outputs, grounding, ﬁne
+tuning, retrieval-augmented generation) to third-party GAI resources: Apply
+organizational risk tolerance to the utilization of third-party datasets and other
+GAI resources; Apply organizational risk tolerances to ﬁne-tuned third-party
+models; Apply organizational risk tolerance to existing third-party models
+adapted to a new domain; Reassess risk measurements after ﬁne-tuning third-
+party GAI models.
+Value Chain and Component
+Integration; Intellectual Property
+MG-3.1-002
+Test GAI system value chain risks (e.g., data poisoning, malware, other software
+and hardware vulnerabilities; labor practices; data privacy and localization
+compliance; geopolitical alignment).
+Data Privacy; Information Security;
+Value Chain and Component
+Integration; Harmful Bias and
+Homogenization
+MG-3.1-003
+Re-assess model risks after ﬁne-tuning or retrieval-augmented generation
+implementation and for any third-party GAI models deployed for applications
+and/or use cases that were not evaluated in initial testing.
+Value Chain and Component
+Integration
+MG-3.1-004
+Take reasonable measures to review training data for CBRN information, and
+intellectual property, and where appropriate, remove it. Implement reasonable
+measures to prevent, ﬂag, or take other action in response to outputs that
+reproduce particular training data (e.g., plagiarized, trademarked, patented,
+licensed content or trade secret material).
+Intellectual Property; CBRN
+Information or Capabilities
+43
+MG-3.1-005 Review various transparency artifacts (e.g., system cards and model cards) for third-party models. Information Integrity; Information Security; Value Chain and Component Integration
+AI Actor Tasks: AI Deployment, Operation and Monitoring, Third-party entities
+MANAGE 3.2: Pre-trained models which are used for development are monitored as part of AI system regular monitoring and
+maintenance.
+Action ID Suggested Action GAI Risks
+MG-3.2-001
+Apply explainable AI (XAI) techniques (e.g., analysis of embeddings, model
+compression/distillation, gradient-based attributions, occlusion/term reduction,
+counterfactual prompts, word clouds) as part of ongoing continuous
+improvement processes to mitigate risks related to unexplainable GAI systems.
+Harmful Bias and Homogenization
+MG-3.2-002
+Document how pre-trained models have been adapted (e.g., ﬁne-tuned, or
+retrieval-augmented generation) for the speciﬁc generative task, including any
+data augmentations, parameter adjustments, or other modiﬁcations. Access to
+un-tuned (baseline) models supports debugging the relative inﬂuence of the pre-
+trained weights compared to the ﬁne-tuned model weights or other system
+updates.
+Information Integrity; Data Privacy
+MG-3.2-003
+Document sources and types of training data and their origins, potential biases
+present in the data related to the GAI application and its content provenance,
+architecture, training process of the pre-trained model including information on
+hyperparameters, training duration, and any ﬁne-tuning or retrieval-augmented
+generation processes applied.
+Information Integrity; Harmful Bias
+and Homogenization; Intellectual
+Property
+MG-3.2-004 Evaluate user reported problematic content and integrate feedback into system updates. Human-AI Conﬁguration, Dangerous, Violent, or Hateful Content
+MG-3.2-005
+Implement content ﬁlters to prevent the generation of inappropriate, harmful,
+false, illegal, or violent content related to the GAI application, including for CSAM
+and NCII. These ﬁlters can be rule-based or leverage additional machine learning
+models to ﬂag problematic inputs and outputs.
+Information Integrity; Harmful Bias
+and Homogenization; Dangerous,
+Violent, or Hateful Content;
+Obscene, Degrading, and/or
+Abusive Content
+MG-3.2-006
+Implement real-time monitoring processes for analyzing generated content
+performance and trustworthiness characteristics related to content provenance
+to identify deviations from the desired standards and trigger alerts for human
+intervention.
+Information Integrity
+44
+MG-3.2-007
+Leverage feedback and recommendations from organizational boards or
+committees related to the deployment of GAI applications and content
+provenance when using third-party pre-trained models.
+Information Integrity; Value Chain
+and Component Integration
+MG-3.2-008
+Use human moderation systems where appropriate to review generated content
+in accordance with human-AI conﬁguration policies established in the Govern
+function, aligned with socio-cultural norms in the context of use, and for settings
+where AI models are demonstrated to perform poorly.
+Human-AI Conﬁguration
+MG-3.2-009
+Use organizational risk tolerance to evaluate acceptable risks and performance
+metrics and decommission or retrain pre-trained models that perform outside of
+deﬁned limits.
+CBRN Information or Capabilities;
+Confabulation
+AI Actor Tasks: AI Deployment, Operation and Monitoring, Third-party entities
+MANAGE 4.1: Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating
+input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change
+management.
+Action ID Suggested Action GAI Risks
+MG-4.1-001
+Collaborate with external researchers, industry experts, and community
+representatives to maintain awareness of emerging best practices and
+technologies in measuring and managing identiﬁed risks.
+Information Integrity; Harmful Bias
+and Homogenization
+MG-4.1-002
+Establish, maintain, and evaluate eﬀectiveness of organizational processes and
+procedures for post-deployment monitoring of GAI systems, particularly for
+potential confabulation, CBRN, or cyber risks.
+CBRN Information or Capabilities;
+Confabulation; Information
+Security
+MG-4.1-003
+Evaluate the use of sentiment analysis to gauge user sentiment regarding GAI
+content performance and impact, and work in collaboration with AI Actors
+experienced in user research and experience.
+Human-AI Conﬁguration
+MG-4.1-004 Implement active learning techniques to identify instances where the model fails or produces unexpected outputs. Confabulation
+MG-4.1-005
+Share transparency reports with internal and external stakeholders that detail
+steps taken to update the GAI system to enhance transparency and
+accountability.
+Human-AI Conﬁguration; Harmful
+Bias and Homogenization
+MG-4.1-006
+Track dataset modiﬁcations for provenance by monitoring data deletions,
+rectiﬁcation requests, and other changes that may impact the veriﬁability of
+content origins.
+Information Integrity
+45
+MG-4.1-007
+Verify that AI Actors responsible for monitoring reported issues can eﬀectively
+evaluate GAI system performance including the application of content
+provenance data tracking techniques, and promptly escalate issues for response.
+Human-AI Conﬁguration;
+Information Integrity
+AI Actor Tasks: AI Deployment, Aﬀected Individuals and Communities, Domain Experts, End-Users, Human Factors, Operation and
+Monitoring
+MANAGE 4.2: Measurable activities for continual improvements are integrated into AI system updates and include regular
+engagement with interested parties, including relevant AI Actors.
+Action ID Suggested Action GAI Risks
+MG-4.2-001 Conduct regular monitoring of GAI systems and publish reports detailing the performance, feedback received, and improvements made. Harmful Bias and Homogenization
+MG-4.2-002
+Practice and follow incident response plans for addressing the generation of
+inappropriate or harmful content and adapt processes based on ﬁndings to
+prevent future occurrences. Conduct post-mortem analyses of incidents with
+relevant AI Actors, to understand the root causes and implement preventive
 measures.
-Privacy and cybersecurity risk management considerations and approaches are applicable
-in the design, development, deployment, evaluation, and use of AI systems. Privacy and
-cybersecurity risks are also considered as part of broader enterprise risk management con-
-siderations, which may incorporate AI risks. As part of the effort to address AI trustworthi-
-ness characteristics such as “Secure and Resilient” and “Privacy-Enhanced,” organizations
-may consider leveraging available standards and guidance that provide broad guidance to
-organizations to reduce security and privacy risks, such as, but not limited to, the NIST Cy-
-bersecurity Framework, the NIST Privacy Framework, the NIST Risk Management Frame-
-work, and the Secure Software Development Framework. These frameworks have some
-features in common with the AI RMF. Like most risk management approaches, they are
-outcome-based rather than prescriptive and are often structured around a Core set of func-
-tions, categories, and subcategories. While there are significant differences between these
-frameworks based on the domain addressed – and because AI risk management calls for
-addressing many other types of risks – frameworks like those mentioned above may inform
-security and privacy considerations in the MAP, MEASURE, and MANAGE functions of the
-AI RMF.
-At the same time, guidance available before publication of this AI RMF does not compre-
-hensively address many AI system risks. For example, existing frameworks and guidance
-are unable to:
-• adequately manage the problem of harmful bias in AI systems;
-• confront the challenging risks related to generative AI;
-• comprehensively address security concerns related to evasion, model extraction, mem-
-bership inference, availability, or other machine learning attacks;
-• account for the complex attack surface of AI systems or other security abuses enabled
-by AI systems; and
-• consider risks associated with third-party AI technologies, transfer learning, and off-
-label use where AI systems may be trained for decision-making outside an organiza-
-tion’s security controls or trained in one domain and then “fine-tuned” for another.
-Both AI and traditional software technologies and systems are subject to rapid innovation.
-Technology advances should be monitored and deployed to take advantage of those devel-
-opments and work towards a
+Human-AI Conﬁguration;
+Dangerous, Violent, or Hateful
+Content
+MG-4.2-003 Use visualizations or other methods to represent GAI model behavior to ease non-technical stakeholders understanding of GAI system functionality. Human-AI Conﬁguration
+AI Actor Tasks: AI Deployment, AI Design, AI Development, Aﬀected Individuals and Communities, End-Users, Operation and
+Monitoring, TEVV
+MANAGE 4.3: Incidents and errors are communicated to relevant AI Actors, including aﬀected communities. Processes for tracking,
+responding to, and recovering from incidents and errors are followed and documented.
+Action ID Suggested Action GAI Risks
+MG-4.3-001
+Conduct after-action assessments for GAI system incidents to verify incident
+response and recovery processes are followed and eﬀective, including to follow
+procedures for communicating incidents to relevant AI Actors and where
+applicable, relevant legal and regulatory bodies.
+Information Security
+MG-4.3-002 Establish and maintain policies and procedures to record and track GAI system reported errors, near-misses, and negative impacts. Confabulation; Information Integrity
+46
+MG-4.3-003
+Report GAI incidents in compliance with legal and regulatory requirements (e.g.,
+HIPAA breach reporting, e.g., OCR (2023) or NHTSA (2022) autonomous vehicle
+crash reporting requirements.
+Information Security; Data Privacy
+AI Actor Tasks: AI Deployment, Aﬀected Individuals and Communities, Domain Experts, End-Users, Human Factors, Operation and
+Monitoring
+47
+Appendix A. Primary GAI Considerations
+The following primary considerations were derived as overarching themes from the GAI PWG
+consultation process. These considerations (Governance, Pre-Deployment Testing, Content Provenance,
+and Incident Disclosure) are relevant for voluntary use by any organization designing, developing, and
+using GAI and also inform the Actions to Manage GAI risks. Information included about the primary
+considerations is not exhaustive, but highlights the most relevant topics derived from the GAI PWG.
+Acknowledgments: These considerations could not have been surfaced without the helpful analysis and
+contributions from the community and NIST staﬀ GAI PWG leads: George Awad, Luca Belli, Harold Booth,
+Mat Heyman, Yooyoung Lee, Mark Pryzbocki, Reva Schwartz, Martin Stanley, and Kyra Yee.
+A.1. Governance
+A.1.1. Overview
+Like any other technology system, governance principles and techniques can be used to manage risks
+related to generative AI models, capabilities, and applications. Organizations may choose to apply their
+existing risk tiering to GAI systems, or they may opt to revise or update AI system risk levels to address
+these unique GAI risks. This section describes how organizational governance regimes may be re-
+evaluated and adjusted for GAI contexts. It also addresses third-party considerations for governing across
+the AI value chain.
+A.1.2. Organizational Governance
+GAI opportunities, risks and long-term performance characteristics are typically less well-understood
+than non-generative AI tools and may be perceived and acted upon by humans in ways that vary greatly.
+Accordingly, GAI may call for diﬀerent levels of oversight from AI Actors or diﬀerent human-AI
+conﬁgurations in order to manage their risks eﬀectively. Organizations’ use of GAI systems may also
+warrant additional human review, tracking and documentation, and greater management oversight.
+AI technology can produce varied outputs in multiple modalities and present many classes of user
+interfaces. This leads to a broader set of AI Actors interacting with GAI systems for widely diﬀering
+applications and contexts of use. These can include data labeling and preparation, development of GAI
+models, content moderation, code generation and review, text generation and editing, image and video
+generation, summarization, search, and chat. These activities can take place within organizational
+settings or in the public domain.
+Organizations can restrict AI applications that cause harm, exceed stated risk tolerances, or that conﬂict
+with their tolerances or values. Governance tools and protocols that are applied to other types of AI
+systems can be applied to GAI systems. These plans and actions inc
