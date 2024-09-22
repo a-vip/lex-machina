@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0.0",
+  "node_count": 8,
+  "edge_count": 12,
+  "nodes": [
+    {
+      "id": "eu-ai-act",
+      "path": "eu/ai-act",
+      "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act",
+      "short_title": "EU AI Act",
+      "jurisdiction": "eu",
+      "type": "regulation",
+      "status": "in_force",
+      "versions_count": 5
+    },
+    {
+      "id": "eu-gdpr",
+      "path": "eu/gdpr",
+      "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
+      "short_title": "EU GDPR",
+      "jurisdiction": "eu",
+      "type": "regulation",
+      "status": "in_force",
+      "versions_count": 3
+    },
+    {
+      "id": "coe-ai-convention",
+      "path": "coe/ai-convention",
+      "title": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225)",
+      "short_title": "CoE AI Convention (CETS 225)",
+      "jurisdiction": "coe",
+      "type": "treaty",
+      "status": "open_for_signature",
+      "versions_count": 3
+    },
+    {
+      "id": "un-ccw-laws",
+      "path": "un/ccw-laws",
+      "title": "UN CCW Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems (LAWS)",
+      "short_title": "UN CCW GGE on LAWS",
+      "jurisdiction": "un",
+      "type": "multilateral_normative_instrument",
+      "status": "active_negotiation",
+      "versions_count": 2
+    },
+    {
+      "id": "un-ai-governance",
+      "path": "un/ai-governance",
+      "title": "United Nations General Assembly Global AI Governance Resolutions & Global Digital Compact",
+      "short_title": "UN Global AI Governance",
+      "jurisdiction": "un",
+      "type": "un_resolution",
+      "status": "adopted",
+      "versions_count": 2
+    },
+    {
+      "id": "ihl-geneva-conventions",
+      "path": "ihl/geneva-conventions",
+      "title": "Geneva Conventions of 12 August 1949 and Additional Protocols I & II of 8 June 1977",
+      "short_title": "Geneva Conventions & Additional Protocols",
+      "jurisdiction": "ihl",
+      "type": "treaty",
+      "status": "in_force",
+      "versions_count": 2
+    },
+    {
+      "id": "national-us-nist-ai-rmf",
+      "path": "national/us/nist-ai-rmf",
+      "title": "United States NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0 & GenAI Profile)",
+      "short_title": "US NIST AI RMF",
+      "jurisdiction": "national",
+      "type": "national_framework",
+      "status": "active",
+      "versions_count": 2
+    },
+    {
+      "id": "national-cn-cac-ai-measures",
+      "path": "national/cn/cac-ai-measures",
+      "title": "People's Republic of China CAC Algorithmic, Deep Synthesis, and Generative AI Regulatory Trilogy",
+      "short_title": "China CAC AI Regulations",
+      "jurisdiction": "national",
+      "type": "national_regulation",
+      "status": "in_force",
+      "versions_count": 3
+    }
+  ],
+  "edges": [
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "complements",
+      "provisions": [
+        "Article 2(7)",
+        "Article 5(1)(g)",
+        "Article 10(5)",
+        "Recital 10"
+      ],
+      "note": "Without prejudice to Regulation (EU) 2016/679 (GDPR); relies on GDPR concepts for personal data and biometric categorization.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "coe/ai-convention",
+      "relationship": "harmonized_with",
+      "provisions": [
+        "Article 1",
+        "Article 5",
+        "Article 9"
+      ],
+      "note": "Aligned with Council of Europe Framework Convention on AI (CETS 225) on risk-based approach and fundamental rights protections.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "Article 9",
+        "Article 15",
+        "Article 40"
+      ],
+      "note": "Risk management system in Article 9 parallels NIST AI RMF 1.0 Govern-Map-Measure-Manage lifecycle functions.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/gdpr",
+      "target": "eu/ai-act",
+      "relationship": "referenced_by",
+      "provisions": [
+        "Article 4",
+        "Article 9",
+        "Article 22",
+        "Article 35"
+      ],
+      "note": "Automated individual decision-making including profiling (Article 22) and Data Protection Impact Assessments (Article 35) directly underpin high-risk AI deployers' obligations and Fundamental Rights Impact Assessments.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "coe/ai-convention",
+      "target": "eu/ai-act",
+      "relationship": "harmonized_with",
+      "provisions": [
+        "Article 1",
+        "Article 4",
+        "Article 11",
+        "Article 16"
+      ],
+      "note": "First legally binding international treaty on AI; negotiated in parallel with the EU AI Act.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "coe/ai-convention",
+      "target": "un/ai-governance",
+      "relationship": "complements",
+      "provisions": [
+        "Article 3",
+        "Article 7",
+        "Article 16"
+      ],
+      "note": "Reinforces UNGA Resolution A/RES/78/265 human-rights lifecycle protection principles.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "un/ccw-laws",
+      "target": "ihl/geneva-conventions",
+      "relationship": "implements_and_interprets",
+      "provisions": [
+        "Principle (a)",
+        "Principle (c)",
+        "Principle (e)",
+        "Article 36 Weapons Review"
+      ],
+      "note": "Affirms that International Humanitarian Law (specifically Geneva Conventions and Additional Protocol I Articles 35, 36, 48, 51, 57) applies fully to all weapons systems, including LAWS.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "un/ai-governance",
+      "target": "coe/ai-convention",
+      "relationship": "complements",
+      "provisions": [
+        "Article 1",
+        "Article 4",
+        "Article 6"
+      ],
+      "note": "Global baseline consensus supporting binding regional instruments like CETS 225.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "un/ai-governance",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "references_standards",
+      "provisions": [
+        "Article 5",
+        "Article 7"
+      ],
+      "note": "Explicitly encourages internationally interoperable technical risk management standards.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "ihl/geneva-conventions",
+      "target": "un/ccw-laws",
+      "relationship": "foundational_treaty_for",
+      "provisions": [
+        "Common Article 1",
+        "Common Article 3",
+        "Article 35",
+        "Article 36",
+        "Article 48",
+        "Article 51",
+        "Article 57"
+      ],
+      "note": "Additional Protocol I Part III Section I (Articles 35-36 on methods/means of warfare and new weapons reviews) and Part IV (distinction, proportionality, precautions in attack) form the primary legal benchmark for autonomous weapons systems.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/us/nist-ai-rmf",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "Article 1 (GOVERN)",
+        "Article 2 (MAP)",
+        "Article 3 (MEASURE)",
+        "Article 4 (MANAGE)",
+        "Article 5 (GenAI Risks)"
+      ],
+      "note": "Maps directly onto EU AI Act Article 9 Risk Management System and Article 53/55 General-Purpose AI Model obligations.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/cn/cac-ai-measures",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "Article 4",
+        "Article 7",
+        "Article 12",
+        "Article 17"
+      ],
+      "note": "Pioneered mandatory algorithmic registry filings, synthetic content watermarking (paralleled in EU AI Act Article 50), and training data legitimacy audits.",
+      "origin": "catalog_declarative"
+    }
+  ]
+}
