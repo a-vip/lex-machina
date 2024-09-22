@@ -6,18 +6,18 @@
   "short_title": "UN Global AI Governance",
   "type": "un_resolution",
   "celex": "UNGA_AI_GOV",
-  "document_symbol": "A/RES/78/265",
-  "stage": "unga_res_78_265",
-  "stage_label": "UNGA Resolution A/RES/78/265",
-  "published_date": "2024-03-21",
+  "document_symbol": "A/79/L.2",
+  "stage": "global_digital_compact",
+  "stage_label": "UN Global Digital Compact (A/79/L.2)",
+  "published_date": "2024-09-22",
   "in_force_date": "2024-03-21",
   "status": "adopted",
   "institutional_author": {
-    "name": "United Nations General Assembly",
-    "email": "unga@un.org"
+    "name": "United Nations Summit of the Future",
+    "email": "summit@un.org"
   },
-  "source_url": "https://undocs.org/en/A/RES/78/265",
-  "summary": "Landmark consensus resolution 'Seizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development', adopted without a vote by all 193 UN Member States.",
+  "source_url": "https://undocs.org/en/A/RES/79/1",
+  "summary": "Global Digital Compact (Annex I to the Pact for the Future, A/79/L.2 / A/RES/79/1) establishing the International Scientific Panel on AI and the Global Dialogue on AI Governance under UN auspices.",
   "counts": {
     "recitals": 1,
     "articles": 3,

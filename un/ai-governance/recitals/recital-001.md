@@ -1,7 +1,7 @@
 # Recital (1)
 
 - **Instrument**: UN Global AI Governance
-- **Stage**: UNGA Resolution A/RES/78/265 (`2024-03-21`)
-- **Author**: United Nations General Assembly `<unga@un.org>`
+- **Stage**: UN Global Digital Compact (A/79/L.2) (`2024-09-22`)
+- **Author**: United Nations Summit of the Future `<summit@un.org>`
 
-(1) The General Assembly, guided by the purposes and principles of the Charter of the United Nations, reaffirms the Universal Declaration of Human Rights and notes that the same rights that people have offline must also be protected online and throughout the life cycle of artificial intelligence systems.
+(1) We, the Heads of State and Government, gathered at United Nations Headquarters in New York on 22 and 23 September 2024, adopt the Global Digital Compact (Annex I to the Pact for the Future, A/79/L.2 / A/RES/79/1) to establish an inclusive global framework for digital cooperation and the governance of artificial intelligence for humanity.

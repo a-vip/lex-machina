@@ -1,8 +1,9 @@
-# Article 2 — Prohibition of Non-Compliant AI Systems (Operative Paragraph 4)
+# Article 2 — Prohibition and Human Rights Safeguards (Paragraphs 51–53)
 
 - **Instrument**: UN Global AI Governance
-- **Stage**: UNGA Resolution A/RES/78/265 (`2024-03-21`)
-- **Document Symbol**: `A/RES/78/265`
-- **Institutional Author**: United Nations General Assembly `<unga@un.org>`
+- **Stage**: UN Global Digital Compact (A/79/L.2) (`2024-09-22`)
+- **Document Symbol**: `A/79/L.2`
+- **Institutional Author**: United Nations Summit of the Future `<summit@un.org>`
 
-Calls upon Member States and invites other stakeholders to refrain from or cease the use of artificial intelligence systems that are impossible to operate in compliance with international human rights law or that pose undue risks to the enjoyment of human rights, especially of those who are in vulnerable situations.
+1. We affirm that international law, including international human rights law, applies across the life cycle of artificial intelligence systems.
+2. We commit to refrain from or cease the use of artificial intelligence systems that are impossible to operate in compliance with international human rights law or that pose undue risks to the enjoyment of human rights.

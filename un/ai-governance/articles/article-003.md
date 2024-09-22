@@ -1,11 +1,9 @@
-# Article 3 — Regulatory Governance and Risk Management (Operative Paragraph 6)
+# Article 3 — International Scientific Panel on AI and Global Dialogue on AI Governance (Paragraphs 56–57)
 
 - **Instrument**: UN Global AI Governance
-- **Stage**: UNGA Resolution A/RES/78/265 (`2024-03-21`)
-- **Document Symbol**: `A/RES/78/265`
-- **Institutional Author**: United Nations General Assembly `<unga@un.org>`
+- **Stage**: UN Global Digital Compact (A/79/L.2) (`2024-09-22`)
+- **Document Symbol**: `A/79/L.2`
+- **Institutional Author**: United Nations Summit of the Future `<summit@un.org>`
 
-Encourages Member States to develop and support regulatory and governance approaches and frameworks related to safe, secure and trustworthy artificial intelligence systems, including:
-(a) promoting internationally interoperable technical standards and risk management frameworks;
-(b) establishing mechanisms for impact assessments, independent testing, red-teaming, and post-deployment monitoring;
-(c) implementing reliable provenance and watermarking mechanisms to help users identify AI-generated digital content and safeguard information integrity.
+1. We decide to establish, within the United Nations, a multidisciplinary Independent International Scientific Panel on AI with balanced geographic representation to promote scientific understanding through impartial, evidence-based risk, opportunity, and impact assessments.
+2. We further decide to initiate a Global Dialogue on AI Governance involving Governments and all relevant stakeholders, which will take place in the margins of existing relevant United Nations conferences and meetings, to promote the interoperability of AI governance frameworks and compatibility with international human rights standards.

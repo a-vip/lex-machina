@@ -1,31 +1,34 @@
 # United Nations General Assembly Global AI Governance Resolutions & Global Digital Compact
 
-- **Stage**: UNGA Resolution A/RES/78/265 (`unga_res_78_265`)
-- **Document Symbol**: `A/RES/78/265`
-- **Date**: `2024-03-21`
-- **Institutional Author**: `United Nations General Assembly <unga@un.org>`
-- **Source**: https://undocs.org/en/A/RES/78/265
+- **Stage**: UN Global Digital Compact (A/79/L.2) (`global_digital_compact`)
+- **Document Symbol**: `A/79/L.2`
+- **Date**: `2024-09-22`
+- **Institutional Author**: `United Nations Summit of the Future <summit@un.org>`
+- **Source**: https://undocs.org/en/A/RES/79/1
 
-> Landmark consensus resolution 'Seizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development', adopted without a vote by all 193 UN Member States.
+> Global Digital Compact (Annex I to the Pact for the Future, A/79/L.2 / A/RES/79/1) establishing the International Scientific Panel on AI and the Global Dialogue on AI Governance under UN auspices.
 
 ## Preamble & Recitals
 
-(1) The General Assembly, guided by the purposes and principles of the Charter of the United Nations, reaffirms the Universal Declaration of Human Rights and notes that the same rights that people have offline must also be protected online and throughout the life cycle of artificial intelligence systems.
+(1) We, the Heads of State and Government, gathered at United Nations Headquarters in New York on 22 and 23 September 2024, adopt the Global Digital Compact (Annex I to the Pact for the Future, A/79/L.2 / A/RES/79/1) to establish an inclusive global framework for digital cooperation and the governance of artificial intelligence for humanity.
 
 ## Enacting Terms (Articles)
 
-### Article 1 — Human-Centric, Safe, Secure and Trustworthy AI (Operative Paragraphs 1–3)
+### Article 1 — Objectives and Principles of the Global Digital Compact (Paragraphs 7–8)
 
-1. Resolves to bridge the artificial intelligence and other digital divides between and within countries and to promote safe, secure and trustworthy artificial intelligence systems to accelerate progress towards the full realization of the 2030 Agenda for Sustainable Development.
-2. Emphasizes that human rights and fundamental freedoms must be respected, protected and promoted throughout the life cycle of artificial intelligence systems.
+1. We pursue five overarching objectives:
+(a) close all digital divides and accelerate progress across the Sustainable Development Goals;
+(b) expand inclusion in and benefits from the digital economy for all;
+(c) foster an inclusive, open, safe and secure digital space that respects, protects and promotes human rights;
+(d) advance responsible, equitable and interoperable data governance approaches; and
+(e) enhance international governance of artificial intelligence for the benefit of humanity.
 
-### Article 2 — Prohibition of Non-Compliant AI Systems (Operative Paragraph 4)
+### Article 2 — Prohibition and Human Rights Safeguards (Paragraphs 51–53)
 
-Calls upon Member States and invites other stakeholders to refrain from or cease the use of artificial intelligence systems that are impossible to operate in compliance with international human rights law or that pose undue risks to the enjoyment of human rights, especially of those who are in vulnerable situations.
+1. We affirm that international law, including international human rights law, applies across the life cycle of artificial intelligence systems.
+2. We commit to refrain from or cease the use of artificial intelligence systems that are impossible to operate in compliance with international human rights law or that pose undue risks to the enjoyment of human rights.
 
-### Article 3 — Regulatory Governance and Risk Management (Operative Paragraph 6)
+### Article 3 — International Scientific Panel on AI and Global Dialogue on AI Governance (Paragraphs 56–57)
 
-Encourages Member States to develop and support regulatory and governance approaches and frameworks related to safe, secure and trustworthy artificial intelligence systems, including:
-(a) promoting internationally interoperable technical standards and risk management frameworks;
-(b) establishing mechanisms for impact assessments, independent testing, red-teaming, and post-deployment monitoring;
-(c) implementing reliable provenance and watermarking mechanisms to help users identify AI-generated digital content and safeguard information integrity.
+1. We decide to establish, within the United Nations, a multidisciplinary Independent International Scientific Panel on AI with balanced geographic representation to promote scientific understanding through impartial, evidence-based risk, opportunity, and impact assessments.
+2. We further decide to initiate a Global Dialogue on AI Governance involving Governments and all relevant stakeholders, which will take place in the margins of existing relevant United Nations conferences and meetings, to promote the interoperability of AI governance frameworks and compatibility with international human rights standards.
