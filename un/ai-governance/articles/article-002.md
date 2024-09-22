@@ -1,18 +1,13 @@
-# Article 2 — A/RES/78/265 — Paragraph 2
+# Article 2 — A/79/L.2 / A/RES/79/1 — Paragraph 2
 
 - **Instrument**: UN Global AI Governance
-- **Stage**: UNGA Resolution A/RES/78/265 (`2024-03-21`)
-- **Document Symbol**: `A/RES/78/265`
+- **Stage**: UN Global Digital Compact (A/RES/79/1, Annex I) (`2024-09-22`)
+- **Document Symbol**: `A/79/L.2 / A/RES/79/1`
 - **Akoma Ntoso eId**: `para_2`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: United Nations General Assembly `<unga@un.org>`
+- **Institutional Author**: United Nations Summit of the Future `<summit@un.org>`
 
-2. Resolves to promote safe, secure and trustworthy artificial intelligence
-systems to accelerate progress towards the full realization of the 2030 Agenda for
-Sustainable Development, 10 further bridging the artificial intelligence and other
-digital divides between and within countries; and stresses the need for the standard of
-safe, secure and trustworthy artificial intelligence systems to promote, not hinder,
-digital transformation and equitable access to their benefits in order to achieve all 17
-Sustainable Development Goals and sustainable development in its three
-dimensions – economic, social and environmental – and address other shared global
-challenges, particularly for developing countries;
+2. We are at a time of profound global transformation. We are confronted by rising
+catastrophic and existential risks, many caused by the choices we make. Fellow
+human beings are enduring terrible suffering. If we do not change course, we risk
+tipping into a future of persistent crisis and breakdown.

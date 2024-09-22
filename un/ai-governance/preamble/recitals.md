@@ -1,2 +1,2 @@
 # Preamble & Recitals — UN Global AI Governance
-**Stage**: UNGA Resolution A/RES/78/265 (2024-03-21)
+**Stage**: UN Global Digital Compact (A/RES/79/1, Annex I) (2024-09-22)

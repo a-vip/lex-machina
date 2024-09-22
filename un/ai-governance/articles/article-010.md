@@ -1,26 +1,20 @@
-# Article 10 — A/RES/78/265 — Paragraph 10
+# Article 10 — A/79/L.2 / A/RES/79/1 — Paragraph 10
 
 - **Instrument**: UN Global AI Governance
-- **Stage**: UNGA Resolution A/RES/78/265 (`2024-03-21`)
-- **Document Symbol**: `A/RES/78/265`
+- **Stage**: UN Global Digital Compact (A/RES/79/1, Annex I) (`2024-09-22`)
+- **Document Symbol**: `A/79/L.2 / A/RES/79/1`
 - **Akoma Ntoso eId**: `para_10`
 - **Provenance Mode**: `full_primary_pdf`
-- **Institutional Author**: United Nations General Assembly `<unga@un.org>`
+- **Institutional Author**: United Nations Summit of the Future `<summit@un.org>`
 
-10. Calls upon specialized agencies, funds, programmes, other entities, bodies
-and offices, and related organizations of the United Nations system, within their
-respective mandates and resources, to continue to assess and enhance their response
-to leverage the opportunities and address the challenges posed by artificial
-intelligence systems in a collaborative, coordinated and inclusive manner, through
-appropriate inter-agency mechanisms, including by conducting research, mapping
-and analysis that benefit all parties on the potential impacts and applications;
-reporting on progress and challenges in addressing issues; and cooperating with and
-assisting developing countries in capacity building, access and sharing the benefits of
-safe, secure and trustworthy artificial intelligence systems in achieving all
-17 Sustainable Development Goals and sustainable development in its three
-dimensions – economic, social and environmental; stressing the need to close
-artificial intelligence and other digital divides between and within countries;
-A/RES/78/265
-Seizing the opportunities of safe, secure and trustworthy artificial
-intelligence systems for sustainable development
-24-05969 8/8
+10. We recognize that sustainable development in all its three dimensions is a
+central goal in itself and that its achievement, leaving no one behind, is and always
+will be a central objective of multilateralism. We reaffirm our enduring commitment
+to the 2030 Agenda for Sustainable Development 1 and its Sustainable Development
+Goals. We will urgently accelerate progress towards achieving the Goals, including
+through concrete political steps and mobilizing significant additional financing from
+all sources for sustainable development, with special attention to the needs of those
+in special situations and creating opportunities for young people. Poverty in all its
+forms and dimensions, including extreme poverty, remains the greatest global
+challenge and its eradication is an indispensable requirement for sustainable
+development.

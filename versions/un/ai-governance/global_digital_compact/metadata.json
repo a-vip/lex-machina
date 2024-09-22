@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "un-ai-governance",
+  "path": "un/ai-governance",
+  "jurisdiction": "un",
+  "domain": "ai",
+  "title": "United Nations General Assembly Global AI Governance Resolutions & Global Digital Compact",
+  "short_title": "UN Global AI Governance",
+  "type": "un_resolution",
+  "celex": "UNGA_AI_GOV",
+  "eli": null,
+  "document_symbol": "A/79/L.2 / A/RES/79/1",
+  "stage": "global_digital_compact",
+  "stage_label": "UN Global Digital Compact (A/RES/79/1, Annex I)",
+  "published_date": "2024-09-22",
+  "in_force_date": "2024-03-21",
+  "status": "adopted",
+  "institutional_author": {
+    "name": "United Nations Summit of the Future",
+    "email": "summit@un.org"
+  },
+  "source_url": "https://documents.un.org/doc/undoc/gen/n24/272/22/pdf/n2427222.pdf",
+  "summary": "Global Digital Compact establishing the Independent International Scientific Panel on AI and the Global Dialogue on AI Governance.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "0c3968d0ce8d55cf107309794adea6879d70f9aea60e6d6d64e3a8da4b028336",
+    "final_url": "https://documents.un.org/doc/undoc/gen/n24/272/22/pdf/n2427222.pdf",
+    "http_status": 200,
+    "http_etag": "W/\"9eae4-198ecd47b83\"",
+    "bytes_fetched": 649956,
+    "fetched_utc": "2026-11-23T14:32:01Z",
+    "sha256_normalized_full_text": "579cacaef03033e2d0fce899064557851f2d2507bb2d94b820929659028a30b8"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 60,
+    "annexes": 0
+  }
+}
