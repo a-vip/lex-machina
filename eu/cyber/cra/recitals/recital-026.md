@@ -1,9 +1,10 @@
 # Recital (26)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_26`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(26) C ritical product s with digital elements should be subject to stricter conformity assessment procedures , while keeping a proportionate approach . For this purpose, critical products with digital elements should be divided into two classe s , reflecting the level of cybersecurity risk linked to these categories of products . A potential cyber incident involving products in class II might lead to greater negative impacts than an incident involving products in class I, for instance due to the nature of their cybersecurity-related function or intended use in sensitive environments , and therefore should undergo a stricter conformity assessment procedure.
+(26)
+Products with digital elements that are developed or modified exclusively for national security or defence purposes or products that are specifically designed to process classified information fall outside the scope of this Regulation. Member States are encouraged to ensure the same or a higher level of protection for those products as for those falling within the scope of this Regulation.

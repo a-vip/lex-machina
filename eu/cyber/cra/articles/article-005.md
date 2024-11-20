@@ -1,12 +1,11 @@
-# Article 5 — Requirements for products with digital elements
+# Article 5 — Procurement or use of products with digital elements
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_5`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-Products with digital elements shall only be made available on the market where:
-(1) they meet the essential requirements set out in Section 1 of Annex I , under the condition that they a re properly inst alled, maintained , used for their intended purpose or under conditions which can reasonably be foreseen , and, where applicable, updated, and
-(2) the processes put in place by the manufacturer comply with the essential requirements set out in Section 2 of Annex I .
+1. This Regulation shall not prevent Member States from subjecting products with digital elements to additional cybersecurity requirements for the procurement or use of those products for specific purposes, including where those products are procured or used for national security or defence purposes, provided that such requirements are consistent with Member States’ obligations laid down in Union law and that they are necessary and proportionate for the achievement of those purposes.
+2. Without prejudice to Directives 2014/24/EU and 2014/25/EU, where products with digital elements that fall within the scope of this Regulation are procured, Member States shall ensure that compliance with the essential cybersecurity requirements set out in Annex I to this Regulation, including the manufacturers’ ability to handle vulnerabilities effectively, are taken into consideration in the procurement process.

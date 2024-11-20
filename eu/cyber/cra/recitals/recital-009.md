@@ -1,9 +1,10 @@
 # Recital (9)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_9`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(9) This Regulation ensures a high level of cybersecurity of products with digital elements . It does not regulate services , such as Software-as-a-Service (SaaS) , except for remote data processing solutions relating to a product with digital elements understood as any data processing at a distance for which the software is designed and developed by the manufacturer of the product concerned or under the responsibility of that manufacturer, and the absence of which would prevent such a product with digital elements from performing one of its functions . [ Directive XXX/XXXX ( NIS2 )] puts in place cybersecurity and incident reporting requirements for essential and important entities, such as critical infrastructure, with a view to increasing the resilience of the services they provide. [Directive XXX/XXXX ( NIS2 ) ] applies to cloud computing service s and cloud service models , such as SaaS . A ll entities providing cloud computing services in the Union that meet or exceed the threshold for medium-sized enterprises fall in the scope of that Directive .
+(9)
+Under certain conditions, all products with digital elements integrated in or connected to a larger electronic information system can serve as an attack vector for malicious actors. As a result, even hardware and software considered to be less critical can facilitate the initial compromise of a device or network, enabling malicious actors to gain privileged access to a system or to move laterally across systems. Manufacturers should therefore ensure that all products with digital elements are designed and developed in accordance with the essential cybersecurity requirements laid down in this Regulation. That obligation relates to both products that can be connected physically via hardware interfaces and products that are connected logically, such as via network sockets, pipes, files, application programming interfaces or any other types of software interface. As cyber threats can propagate through various products with digital elements before reaching a certain target, for example by chaining together multiple vulnerability exploits, manufacturers should also ensure the cybersecurity of products with digital elements that are only indirectly connected to other devices or networks.

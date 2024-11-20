@@ -1,11 +1,23 @@
-# Article 54 — Amendment to Regulation ( EU) 2019/1020
+# Article 54 — Procedure at national level concerning products with digital elements presenting a significant cybersecurity risk
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_54`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-In Annex I to Regulation (EU) 2019/1020 the following point is added:
-’71. [Regulation XXX][Cyber Resilience Act]’.
+1. Where the market surveillance authority of a Member State has sufficient reason to consider that a product with digital elements, including its vulnerability handling, presents a significant cybersecurity risk, it shall, without undue delay and, where appropriate, in cooperation with the relevant CSIRT, carry out an evaluation of the product with digital elements concerned in respect of its compliance with all the requirements laid down in this Regulation. The relevant economic operators shall cooperate with the market surveillance authority as necessary.
+Where, in the course of that evaluation, the market surveillance authority finds that the product with digital elements does not comply with the requirements laid down in this Regulation, it shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product with digital elements into compliance with those requirements, to withdraw it from the market, or to recall it within a reasonable period, commensurate with the nature of the cybersecurity risk, as the market surveillance authority may prescribe.
+The market surveillance authority shall inform the relevant notified body accordingly. Article 18 of Regulation (EU) 2019/1020 shall apply to the corrective actions.
+2. When determining the significance of a cybersecurity risk referred to in paragraph 1 of this Article, the market surveillance authorities shall also consider non-technical risk factors, in particular those established as a result of Union level coordinated security risk assessments of critical supply chains carried out in accordance with Article 22 of Directive (EU) 2022/2555. Where a market surveillance authority has sufficient reason to consider that a product with digital elements presents a significant cybersecurity risk in light of non-technical risk factors, it shall inform the competent authorities designated or established pursuant to Article 8 of Directive (EU) 2022/2555 and cooperate with those authorities as necessary.
+3. Where the market surveillance authority considers that non-compliance is not restricted to its national territory, it shall inform the Commission and the other Member States of the results of the evaluation and of the actions which it has required the economic operator to take.
+4. The economic operator shall ensure that all appropriate corrective action is taken in respect of all the products with digital elements concerned that it has made available on the market throughout the Union.
+5. Where the economic operator does not take adequate corrective action within the period referred to in paragraph 1, second subparagraph, the market surveillance authority shall take all appropriate provisional measures to prohibit or restrict that product with digital elements from being made available on its national market, to withdraw it from that market or to recall it.
+That authority shall notify the Commission and the other Member States, without delay, of those measures.
+6. The information referred to in paragraph 5 shall include all available details, in particular the data necessary for the identification of the non-compliant product with digital elements, the origin of that product with digital elements, the nature of the alleged non-compliance and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. In particular, the market surveillance authority shall indicate whether the non-compliance is due to one or more of the following:
+(a) a failure of the product with digital elements or of the processes put in place by the manufacturer to meet the essential cybersecurity requirements set out in Annex I;
+(b) shortcomings in the harmonised standards, European cybersecurity certification schemes or common specifications, as referred to in Article 27.
+7. The market surveillance authorities of the Member States other than the market surveillance authority of the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the product with digital elements concerned, and, in the event of disagreement with the notified national measure, of their objections.
+8. Where, within three months of receipt of the notification referred to in paragraph 5 of this Article, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed to be justified. This is without prejudice to the procedural rights of the economic operator concerned in accordance with Article 18 of Regulation (EU) 2019/1020.
+9. The market surveillance authorities of all Member States shall ensure that appropriate restrictive measures are taken in respect of the product with digital elements concerned, such as withdrawal of that product from their market, without delay.

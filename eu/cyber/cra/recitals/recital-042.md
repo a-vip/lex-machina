@@ -1,9 +1,15 @@
 # Recital (42)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_42`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(42) Manufacturers should draw up an EU declaration of conformity to provide information required under this Regulation on the conformity of products with digital elements with the essential requirements of this Regulation and , where applicable, of the other relevant Union harmonisation legislation by which the product is covered . Manufacturers may also be required to draw up an EU declaration of conformity by other Union legislation. To ensure effective access to information for market surveillance purposes, a single EU declaration of conformity should be drawn up in respect of compliance with all relevant Union acts. In order to reduce the administrative burden on economic operators, it should be possible for that single EU declaration of conformity to be a dossier made up of relevant individual declarations of conformity.
+(42)
+Where a product with digital elements is subject to ‘refurbishment’, ‘maintenance’ and ‘repair’ as defined in Article 2, points (18),
+(19) and (20), of Regulation (EU) 2024/1781 of the European Parliament and of the Council
+(
+19
+)
+, this does not necessarily lead to a substantial modification of the product, for instance if the intended purpose and functionalities are not changed and the level of risk remains unaffected. However, an upgrade of a product with digital elements by the manufacturer might lead to changes in the design and development of that product and might therefore affect its intended purpose and compliance with the requirements set out in this Regulation.

@@ -1,9 +1,10 @@
 # Recital (57)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_57`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(57) In order to ensure timely, proportionate and effective measures in relation to products with digital elements presenting a significant cybersecurity risk , a Union safeguard procedure should be foreseen under which interested parties are informed of measures intended to be taken with regard to such products . This should also allow market surveillance authorities, in cooperation with the relevant economic operators, to act at an earlier stage where necessary . Where the Member States and the Commission agree as to the justification of a measure taken by a Member State, no further involvement of the Commission should be required, except where non-compliance can be attributed to shortcomings of a harmonised standard.
+(57)
+To improve the transparency of vulnerability handling processes and to ensure that users are not required to install new functionality updates for the sole purpose of receiving the latest security updates, manufacturers should ensure, where technically feasible, that new security updates are provided separately from functionality updates.

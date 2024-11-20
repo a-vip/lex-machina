@@ -1,49 +1,68 @@
-# Annex III — CRITICAL PRODUCTS WITH DIGITAL ELEMENTS
+# Annex III — ANNEX III
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `anx_III`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-CRITICAL PRODUCTS WITH DIGITAL ELEMENTS
+ANNEX III
+IMPORTANT PRODUCTS WITH DIGITAL ELEMENTS
 Class I
-1. Identity management systems software and privileged access management software ;
-2. Standalone and embedded browsers ;
-3. Password managers ;
-4. Software that searches for, removes, or quarantines malicious software ;
-5. Product s with digital element s with the function of virtual private network (VPN);
-6. Network management systems ;
-7. Network configuration management tools ;
-8. Network traffic monitoring systems ;
-9. Management of network resources ;
-10. Security information and event management (SIEM) systems ;
-11. Update/patch management , including boot managers ;
-12. Application configuration management systems ;
-13. Remote access/sharing software ;
-14. Mobile device management software ;
-15. Physical n etwork interfaces ;
-16. Operating systems not covered by class II ;
-17. Firewalls, intrusion detection and / or prevention systems not covered by class II ;
-18. Routers, modems intended for the connection to the internet , and switches , not covered by class II;
-19. Micropro cessors not covered by class II;
-20. Microcontrollers ;
-21. Application s pecific i ntegrated c ircuit s (ASIC) and f ield-programmable gate array s (FPGA) intended for the use by essential entities of the type referred to in [ Annex I to the Directive XXX/XXXX ( NIS2 ) ] ;
-22. Industrial Auto mation & Control Systems (IACS) not covered by class II , such as p rogrammable logic controllers (PLC), d istributed control systems (DCS) , c omputerised numeric controllers for machine tools (CNC) and s upervisory control and data acquisition systems (SCADA) ;
-23. Industrial I nternet of Things not covered by class II.
+1.
+Identity management systems and privileged access management software and hardware, including authentication and access control readers, including biometric readers
+2.
+Standalone and embedded browsers
+3.
+Password managers
+4.
+Software that searches for, removes, or quarantines malicious software
+5.
+Products with digital elements with the function of virtual private network (VPN)
+6.
+Network management systems
+7.
+Security information and event management (SIEM) systems
+8.
+Boot managers
+9.
+Public key infrastructure and digital certificate issuance software
+10.
+Physical and virtual network interfaces
+11.
+Operating systems
+12.
+Routers, modems intended for the connection to the internet, and switches
+13.
+Microprocessors with security-related functionalities
+14.
+Microcontrollers with security-related functionalities
+15.
+Application specific integrated circuits (ASIC) and field-programmable gate arrays (FPGA) with security-related functionalities
+16.
+Smart home general purpose virtual assistants
+17.
+Smart home products with security functionalities, including smart door locks, security cameras, baby monitoring systems and alarm systems
+18.
+Internet connected toys covered by Directive 2009/48/EC of the European Parliament and of the Council
+(
+1
+)
+that have social interactive features (e.g. speaking or filming) or that have location tracking features
+19.
+Personal wearable products to be worn or placed on a human body that have a health monitoring (such as tracking) purpose and to which Regulation (EU) 2017/745 or (EU) No 2017/746 do not apply, or personal wearable products that are intended for the use by and for children
 Class II
-1. Operating systems for servers, desktops, and mobile devices ;
-2. Hypervisors and container runtime systems that support virtuali s ed execution of operating systems and similar environments ;
-3. Public key infrastructure and digital certificate issuers;
-4. Firewalls, intrusion detection and / or prevention systems intended for industrial use ;
-5. General purp ose microprocessors ;
-6. M icroprocessors intended for integration in programmable logic controllers and secure elements ;
-7. Routers, modems intended for the connection to the internet , and switches , intended for industrial use ;
-8. S ecure elements ;
-9. Hardware S ecurity Modules (HSMs) ;
-10. Secure cryptoprocessors ;
-11. Smartcards, smartcard readers and tokens ;
-12. Industrial Auto mation & Control Systems (IACS) intended for the use by essential entities of the type referred to in [Annex I to the Directive XXX/XXXX ( NIS2 ) ] , such as p rogrammable logic controllers (PLC), d istributed control systems (DCS) , c omputerised numeric controllers for machine tools (CNC) and s upervisory control and data acquisition systems (SCADA) ;
-13. Industrial I nternet of T hings devices intended for the use by essential entities of the type referred to in [Annex I to the Directive XXX/XXXX ( NIS2 ) ] ;
-14. Robot sensing and actuator components and robot controllers;
-15. Smart meters .
+1.
+Hypervisors and container runtime systems that support virtualised execution of operating systems and similar environments
+2.
+Firewalls, intrusion detection and prevention systems
+3.
+Tamper-resistant microprocessors
+4.
+Tamper-resistant microcontrollers
+(
+1
+)
+Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (
+OJ L 170, 30.6.2009, p. 1
+).

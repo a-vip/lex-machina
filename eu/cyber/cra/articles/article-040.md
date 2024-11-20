@@ -1,13 +1,10 @@
-# Article 40 — Coordination of notified bodies
+# Article 40 — Presumption of conformity of notified bodies
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_40`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The Commission shall ensure that appropriate coordination and cooperation between notified bodies are put in place and properly operated in the form of a cross-sectoral group of notified bodies.
-2. Member States shall ensure that the bodies notified by them participate in the work of that group, directly or by means of designated representatives.
-CHAPTER V
-MARKET SURVEILLANCE AND ENFORCEMENT
+Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article 39 in so far as the applicable harmonised standards cover those requirements.

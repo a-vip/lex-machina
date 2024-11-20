@@ -1,16 +1,18 @@
-# Article 33 — Notification procedure
+# Article 33 — Support measures for microenterprises and small and medium-sized enterprises, including start-ups
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_33`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Notifying authorities may notify only conformity assessment bodies , which have satisfied the requirements laid down in Article 2 9 .
-2. The notifying authority shall notify the Commission and the other Member States using the New Approach Notified and Designated Organisations (NANDO) information system developed and managed by the Commission.
-3. The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules and product or products concerned and the relevant attestation of competence.
-4. Where a notification is not based on an accreditation certificate as referred to in Article 3 2 (2) , the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body's competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 2 9 .
-5. The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of a notification where an accreditation certificate is used or within two months of a notification where accreditation is not used.
-Only such a body shall be considered a notified body for the purposes of this Regulation.
-6. The Commission and the other Mem ber States shall be notified of any subsequent relevant changes to the notification.
+1. Member States shall, where appropriate, undertake the following actions, tailored to the needs of microenterprises and small enterprises:
+(a) organise specific awareness-raising and training activities about the application of this Regulation;
+(b) establish a dedicated channel for communication with microenterprises and small enterprises and, as appropriate, local public authorities to provide advice and respond to queries about the implementation of this Regulation;
+(c) support testing and conformity assessment activities, including where relevant with the support of the European Cybersecurity Competence Centre.
+2. Member States may, where appropriate, establish cyber resilience regulatory sandboxes. Such regulatory sandboxes shall provide for controlled testing environments for innovative products with digital elements to facilitate their development, design, validation and testing for the purpose of complying with this Regulation for a limited period of time before the placing on the market. The Commission and, where appropriate, ENISA, may provide technical support, advice and tools for the establishment and operation of regulatory sandboxes. The regulatory sandboxes shall be set up under the direct supervision, guidance and support by the market surveillance authorities. Member States shall inform the Commission and the other market surveillance authorities of the establishment of a regulatory sandbox through ADCO. The regulatory sandboxes shall not affect the supervisory and corrective powers of the competent authorities. Member States shall ensure open, fair, and transparent access to regulatory sandboxes, and in particular facilitate access by microenterprises and small enterprises, including start-ups.
+3. In accordance with Article 26, the Commission shall provide guidance for microenterprises and small and medium-sized enterprises in relation to the implementation of this Regulation.
+4. The Commission shall advertise available financial support in the regulatory framework of existing Union programmes, in particular in order to ease the financial burden on microenterprises and small enterprises.
+5. Microenterprises and small enterprises may provide all elements of the technical documentation specified in Annex VII by using a simplified format. For that purpose, the Commission shall, by means of implementing acts, specify the simplified technical documentation form targeted at the needs of microenterprises and small enterprises, including how the elements set out in Annex VII are to be provided. Where a microenterprise or small enterprise opts to provide the information set out in Annex VII in a simplified manner, it shall use the form referred to in this paragraph. Notified bodies shall accept that form for the purposes of conformity assessment.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).

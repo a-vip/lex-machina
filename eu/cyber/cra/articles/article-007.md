@@ -1,10 +1,16 @@
-# Article 7 — General product safety
+# Article 7 — Important products with digital elements
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_7`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-By way of derogation from Article 2(1), third subparagraph, point (b), of Regulation [General Product Safety Regulation] where products with digital elements are not subject to specific requirements laid down in other Union harmonisation legislation within the meaning of [Article 3, point (25) of the General Product Safety Regulation], Chapter III, Section 1, Chapters V and VII, and Chapters IX to XI of Regulation [General Product Safety Regulation] shall apply to those products with respect to safety risks not covered by this Regulation.
+1. Products with digital elements which have the core functionality of a product category set out in Annex III shall be considered to be important products with digital elements and shall be subject to the conformity assessment procedures referred to in Article 32(2) and (3). The integration of a product with digital elements which has the core functionality of a product category set out in Annex III shall not in itself render the product in which it is integrated subject to the conformity assessment procedures referred to in Article 32(2) and (3).
+2. The categories of products with digital elements referred to in paragraph 1 of this Article, divided into classes I and II as set out in Annex III, meet at least one of the following criteria:
+(a) the product with digital elements primarily performs functions critical to the cybersecurity of other products, networks or services, including securing authentication and access, intrusion prevention and detection, end-point security or network protection;
+(b) the product with digital elements performs a function which carries a significant risk of adverse effects in terms of its intensity and ability to disrupt, control or cause damage to a large number of other products or to the health, security or safety of its users through direct manipulation, such as a central system function, including network management, configuration control, virtualisation or processing of personal data.
+3. The Commission is empowered to adopt delegated acts in accordance with Article 61 to amend Annex III by including in the list a new category within each class of the categories of products with digital elements and specifying its definition, moving a category of products from one class to the other or withdrawing an existing category from that list. When assessing the need to amend the list set out in Annex III, the Commission shall take into account the cybersecurity-related functionalities or the function and the level of cybersecurity risk posed by the products with digital elements as set out by the criteria referred to in paragraph 2 of this Article.
+The delegated acts referred to in the first subparagraph of this paragraph shall, where appropriate, provide for a minimum transitional period of 12 months, in particular where a new category of important products with digital elements is added to class I or II or is moved from class I to II as set out in Annex III, before the relevant conformity assessment procedures as referred to in Article 32(2) and (3) start applying, unless a shorter transitional period is justified on imperative grounds of urgency.
+4. By 11 December 2025, the Commission shall adopt an implementing act specifying the technical description of the categories of products with digital elements under classes I and II as set out in Annex III and the technical description of the categories of products with digital elements as set out in Annex IV. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 62(2).

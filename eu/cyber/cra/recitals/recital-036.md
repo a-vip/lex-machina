@@ -1,9 +1,10 @@
 # Recital (36)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_36`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(36) Manufacturers of products with digital elements should put in place coordinated vulnerability disclosure policies to facilitate the reporting of vulnerabilities by individual s or entities. A c oordinated vulnerability disclosure polic y should specify a structured process through which vulnerabilities are reported to a manufacturer in a manner allowing the manufacturer to diagnose and remedy such vulnerabilit ies before detailed vulnerability information is disclosed to third parties or to the public. Given the fact that information about exploitable vulnerabilities in widely used products with digital elements can be sold at high prices on the black market, m anufacturers of such products should be able to use programmes, as part of their coordinated vulnerability disclosure policies , to incentivise the reporting of vulnerabilities by ensuring that individuals or entities receive recognition and compensation for their efforts (so-called ‘ bug bounty programmes ’ ) .
+(36)
+Products with digital elements should bear the CE marking to visibly, legibly and indelibly indicate their conformity with this Regulation so that they can move freely within the internal market. Member States should not create unjustified obstacles to the placing on the market of products with digital elements that comply with the requirements laid down in this Regulation and bear the CE marking. Furthermore, at trade fairs, exhibitions and demonstrations or similar events, Member States should not prevent the presentation or use of a product with digital elements which does not comply with this Regulation, including its prototypes, provided that the product is presented with a visible sign clearly indicating that the product does not comply with this Regulation and that it is not to be made available on the market until it does so.

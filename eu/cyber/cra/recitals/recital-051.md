@@ -1,9 +1,14 @@
 # Recital (51)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_51`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(51) The notification of a conformity assessment body should be sent by the notifying authority to the Commission and the other Member States via the New Approach Notified and Designated Organisations (NANDO ) information system . NANDO is the electronic notification tool developed and managed by the Commission where a list of all notified bodies can be found.
+(51)
+Products with digital elements classified as high-risk AI systems pursuant to Article 6 of Regulation (EU) 2024/1689 of the European Parliament and of the Council
+(
+22
+)
+which fall within the scope of this Regulation should comply with the essential cybersecurity requirements set out in this Regulation. Where those high-risk AI systems fulfil the essential cybersecurity requirements set out in this Regulation, they should be deemed to comply with the cybersecurity requirements set out in Article 15 of Regulation (EU) 2024/1689 in so far as those requirements are covered by the EU declaration of conformity or parts thereof issued under this Regulation. For that purpose, the assessment of the cybersecurity risks associated with a product with digital elements classified as a high-risk AI system pursuant to Regulation (EU) 2024/1689 that is to be taken into account during the planning, design, development, production, delivery and maintenance phases of such product, as required under this Regulation, should take into account risks to the cyber resilience of an AI system as regards attempts by unauthorised third parties to alter its use, behaviour or performance, including AI specific vulnerabilities such as data poisoning or adversarial attacks, as well as, as relevant, risks to fundamental rights, in accordance with Regulation (EU) 2024/1689. As regards the conformity assessment procedures relating to the essential cybersecurity requirements for a product with digital elements that falls within the scope of this Regulation and that is classified as a high-risk AI system, Article 43 of Regulation (EU) 2024/1689 should apply as a rule instead of the relevant provisions of this Regulation. However, that rule should not result in a reduction of the necessary level of assurance for important or critical products with digital elements as referred to in this Regulation. Therefore, by way of derogation from that rule, high-risk AI systems that fall within the scope of Regulation (EU) 2024/1689 which are also important or critical products with digital elements as referred to in this Regulation and to which the conformity assessment procedure based on internal control referred to in Annex VI to Regulation (EU) 2024/1689 applies, should be subject to the conformity assessment procedures provided for in this Regulation in so far as the essential cybersecurity requirements set out in this Regulation are concerned. In such a case, for all the other aspects covered by Regulation (EU) 2024/1689 the relevant provisions on conformity assessment based on internal control set out in Annex VI to that Regulation should apply.

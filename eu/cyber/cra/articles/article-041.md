@@ -1,21 +1,13 @@
-# Article 41 — Market surveillance and control of products with digital elements in the Union market
+# Article 41 — Subsidiaries of and subcontracting by notified bodies
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_41`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Regulation (EU) 2019/1020 shall apply to the products with digital elements with in the scope of this Regulation.
-2. Each Member State shall designate one or more market surveillance authorities for the purpose of ensuring the effective implementation of this Regulation. Member States may designate an existing or new authority to act as market surveillance authority for this Regulation.
-3. Where relevant, t he market surveillance authorities shall cooperate with the national cybersecurity certification authorities designated under Article 58 of Regulation (EU) 201 9/881 and exchange information on a regular basis. With respect to the supervision of the implementation of the reporting obligations pursuant to Article 1 1 of this Regulation , the designated market surveillance authorities shall cooperate with ENISA.
-4. Where relevant, the market surveillance authorities shall cooperate with other market surveillance authorities designated on the basis of other Union harmonisation legislation for other products , and exchange information on a regular basis.
-5. M arket surveillance authorities shall cooperate, as appropriate, with the authorities supervising Union data protection law. Such cooperation includes informing these authorities of any finding relevant for the fulfilment of their competences , including when issuing guidance and advice pursuant to paragraph 8 of this Article if such guidance and advice concerns the processing of personal data .
-Authorities supervising Union data protection law shall have the power to request and access any documentation created or maintained under this Regulation when access to that documentation is necessary for the fulfilment of their tasks. They shall inform the designated market surveillance authorities of the Member State concerned of any such request.
-6. Member States shall ensure that the designated market surveillance authorities are provided with adequate financial and human resources to fulfil their tasks under this Regulation.
-7. The Commission shall facilitate the exchange of experience between designated market surveillance authorities.
-8. M arket surveillance authorities may provide guidance and advice to economic operators on the implementation of this Regulation, with the support of the Commission .
-9. The market surveillance authorit ies shall report to the Commission on a n annual basis the outcomes of relevant market surveillance activities. The designated market surveillance authorit ies shall report, without delay, to the Commission and relevant national competition authorities any information identified in the course of market surveillance activities that may be of potential interest for the application of Union competition law.
-10. For p roducts with digital elements in the scope of this Regulation classified as high-risk AI systems according to Article [ Article 6 ] of the Regulation [ the AI Regulation] , t he market surveillance authorities designated for the purposes of the Regulation [ the AI Regulation ] shall be the authorities responsible for market surveillance activities required under this Regulation. The market surveillance authorities designated pursuant to Regulation [ the AI Regulation] shall cooperate, as appropriate, with the market surveillance authorities designated pursuant to this Regulation and, with respect to the supervision of the implementation of the reporting obligations pursuan t to Article 1 1 , with ENISA . Market surveillance authori ties designated pursuant to Regulation [ the AI Regulation] shall in particular inform market surveillance authorities designated pursuant to this Regulation of any finding relevant for the fulfilment of their tasks in relation to the implementation of this Regulation .
-11. A dedicated administrative cooperation group (ADCO) sh all be established for the uniform application of this Regulation, pursuant to Article 30(2) of Regulation (EU) 2019/1020. This ADCO sh all be composed of representatives of the designated market surveillance authorities and, if appr opriate, representatives of single liaison offices.
+1. Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 39 and shall inform the notifying authority accordingly.
+2. Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever they are established.
+3. Activities may be subcontracted or carried out by a subsidiary only with the agreement of the manufacturer.
+4. Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation.

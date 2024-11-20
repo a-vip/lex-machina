@@ -1,21 +1,26 @@
-# Annex IV — EU DECLARATION OF CONFORMITY
+# Annex IV — ANNEX IV
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `anx_IV`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-EU DECLARATION OF CONFORMITY
-The EU declaration of conformity referred to in Article 20, shall contain all of the following information:
-1. N ame and type and any additional information enabling the unique identification of the product with digital elements ;
-2. Name and address of the manufacturer or his authorised representative ;
-3. A statement that the EU declaration of conformity is issued under the sole responsibility of the provider ;
-4. Object of the declaration (identification of the product allowing traceability. It may include a photograph, where appropriate) ;
-5. A statement that the object of the declaration described above is in conformity with the relevant Union harmonisation legislation ;
-6. References to any relevant harmonised standards used or any other common specification o r cybersecurity certification in relation to which conformity is declared ;
-7. Where applicable, the name and number of the notified body, a description of the conformity assessment procedure performed and identification of the certificate issued ;
-8. Additional information:
-Signed for and on behalf of: …………………………………
-(place and date of issue):
-(name, function) (signature):
+ANNEX IV
+CRITICAL PRODUCTS WITH DIGITAL ELEMENTS
+1.
+Hardware Devices with Security Boxes
+2.
+Smart meter gateways within smart metering systems as defined in Article 2, point (23) of Directive (EU) 2019/944 of the European Parliament and of the Council
+(
+1
+)
+and other devices for advanced security purposes, including for secure cryptoprocessing
+3.
+Smartcards or similar devices, including secure elements
+(
+1
+)
+Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (
+OJ L 158, 14.6.2019, p. 125
+).

@@ -1,0 +1,10 @@
+# Recital (111)
+
+- **Instrument**: EU Cyber Resilience Act
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Akoma Ntoso eId**: `rct_111`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
+
+(111)
+In certain cases, a product with digital elements which complies with this Regulation can nonetheless present a significant cybersecurity risk or pose a risk to the health or safety of persons, to compliance with obligations under Union or national law intended to protect fundamental rights, to the availability, authenticity, integrity or confidentiality of services offered using an electronic information system by essential entities as referred to in Article 3(1) of Directive (EU) 2022/2555 or to other aspects of public interest protection. Therefore it is necessary to establish rules which ensure mitigation of those risks. As a result, market surveillance authorities should take measures to require the economic operator to ensure that the product no longer presents that risk, or to recall or withdraw it, depending on the risk. As soon as a market surveillance authority restricts or forbids the free movement of a product with digital elements in such way, the Member State should notify without delay the Commission and the other Member States of the provisional measures, indicating the reasons and justification for the decision. Where a market surveillance authority adopts such measures against products with digital elements presenting a risk, the Commission should enter into consultation with the Member States and the relevant economic operator or operators without delay and should evaluate the national measure. On the basis of the results of this evaluation, the Commission should decide whether the national measure is justified or not. The Commission should address its decision to all Member States and immediately communicate it to them and the relevant economic operator or operators. If the measure is considered to be justified, the Commission should also consider whether to adopt proposals to revise the relevant Union law.

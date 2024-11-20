@@ -1,0 +1,10 @@
+# Recital (40)
+
+- **Instrument**: EU Cyber Resilience Act
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Akoma Ntoso eId**: `rct_40`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
+
+(40)
+Taking into account the iterative nature of software development, manufacturers that have placed subsequent versions of a software product on the market as a result of a subsequent substantial modification of that product should be able to provide security updates for the support period only for the version of the software product that they have last placed on the market. They should be able to do so only if the users of the relevant previous product versions have access to the product version last placed on the market free of charge and do not incur additional costs to adjust the hardware or software environment in which they operate the product. This could, for instance, be the case where a desktop operating system upgrade does not require new hardware, such as a faster central processing unit or more memory. Nonetheless, the manufacturer should continue to comply, for the support period, with other vulnerability-handling requirements, such as having a policy on coordinated vulnerability disclosure or measures in place to facilitate the sharing of information about potential vulnerabilities for all subsequent substantially modified versions of the software product placed on the market. Manufacturers should be able to provide minor security or functionality updates that do not constitute a substantial modification only for the latest version or sub-version of a software product that has not been substantially modified. At the same time, where a hardware product, such as a smartphone, is not compatible with the latest version of the operating system it was originally delivered with, the manufacturer should continue to provide security updates at least for the latest compatible version of the operating system for the support period.

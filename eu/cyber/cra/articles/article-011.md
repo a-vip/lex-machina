@@ -1,16 +1,10 @@
-# Article 11 — Reporting obligations of manufacturers
+# Article 11 — General product safety
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_11`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The m anufac turer shall , without undue delay and in any event within 24 hou rs of becoming aware of it , notify to ENISA any a ctively exploited vulnerability contained in the product with digital elements . The notification shall include details concerning th at vulnerability and , where applicable, any corrective or mitigating measures taken. ENISA shall , without undue delay, unless for justified cybersecurity risk-related grounds , forward the notification to the CSIRT designated for the purposes of coordinated vulnerability disclosure in accordance with Article [ A rticle X ] of Directive [Directive XXX /XXXX (NIS2) ] of Member State s concerned upon receipt and inform the market surveillance authori ty about the notified vulnerability.
-2. The m anufac turer shall , without undue delay and in any event within 24 hours of becoming aware of it, notify to ENISA any incident having impact on the security of the product with digital elements . ENISA shall , without undue delay , unless for justified cybersecurity risk-related grounds , forward the notifications to the single point of contact designated in accordance with Article [ Article X ] of Directive [ Directive XX X /XXXX (NIS2) ] of the Member State s concerned and inform the market surveillance authority about the notified incidents . The incident notification shall include information on the severity and impact of the incident and , where applicable, indicate whether the manufacturer suspects the incident to be caused by unlawful or malicious acts or considers it to have a cross-border impact .
-3. ENISA shall submit to the European cyber crisis liaison organisation network (EU-CyCLONe) established by Article [Article X ] of Directive [ Directive XXX/XXXX (NIS2 )] information notified pursuant to paragraphs 1 and 2 if such information is relevant for the coordinated management of large-scale cybersecurity incidents and crises at an operational level.
-4. T he manufacturer shall inform , without undue delay and after becoming aware , the users of the product with digital elements about the incident and , where necessary, about corre ctive measures that the user can deploy to mitigate the impact of the incident .
-5. The Commission may , by means of implementing acts , specify further the type of information, format and procedure of the notifications submitted pursuant to paragraph s 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 5 1 (2) .
-6. ENISA , on the basis o f the notifications received pursuant to paragraph s 1 and 2, shall prepare a biennial technical report on emerging trends regarding cybersecurity risks in products with digital elements and submit it to the Cooperation Group referred to in Article [ Article X ] of Directive [ Directive XXX/XXXX ( NIS2 ) ] . T he first such report shall be submitted within 24 months after the obligations laid down in paragraphs 1 and 2 start applying .
-7. Manufacturers shall, upon identifying a vulnerability in a component, including in an open source component, which is integrated in the product with digital elements , report the vulnerability to the person or entity maintaining the component.
+By way of derogation from Article 2(1), third subparagraph, point (b), of Regulation (EU) 2023/988, Chapter III, Section 1, Chapters V and VII, and Chapters IX to XI of that Regulation shall apply to products with digital elements with respect to aspects and risks or categories of risks that are not covered by this Regulation where those products are not subject to specific safety requirements laid down in other ‘Union harmonisation legislation’ as defined in Article 3, point (27), of Regulation (EU) 2023/988.

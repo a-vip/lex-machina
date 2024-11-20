@@ -1,11 +1,10 @@
 # Recital (16)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_16`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(16) Directive 85/374/EEC
-25
-is complementary to this Regulation. Th at Directive sets out liability rules for defective products so that injured persons can claim compensation when a damage has been caused by defective products. It establishes the principle that the manufacturer of a product is liable for damages caused by a lack of safety in their product irrespective of fault (‘strict liability’). Where such a lack of safety consists in a lack of security updates after placing the product on the market, and this causes damage, the liability of the manufacturer could be triggered. O bligations for manufacturers that concern the provision of such security updates should be laid down in this Regulation .
+(16)
+Products with digital elements provided as part of the delivery of a service for which a fee is charged solely to recover the actual costs directly related to the operation of that service, such as may be the case with certain products with digital elements provided by public administration entities, should not be considered on those grounds alone to be a commercial activity for the purposes of this Regulation. Furthermore, products with digital elements which are developed or modified by a public administration entity exclusively for its own use should not be considered to be made available on the market within the meaning of this Regulation.

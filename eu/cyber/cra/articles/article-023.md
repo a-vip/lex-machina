@@ -1,14 +1,13 @@
-# Article 23 — Technical documentation
+# Article 23 — Identification of economic operators
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_23`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The technical documentation shall contain all relevant data or details of the means used by the manufacturer to ensure that the product with digital elements and the processes put in place by the manufacturer compl y with the essential requirements set out in Annex I. It shall at least contain the elements set out in Annex V.
-2. The technical documentation shall be drawn up before the product with digital elements is placed on the market and shall be continuously updated , where appropriate, during the expected product lifetime or during a period of five years after the placing on the market of a product with digital elements , whichever is shorter.
-3. For products with digital elements referred to in Articles 8 and 2 4 (4) that are also subject to other Union acts , one single technical documentation shall be drawn up containing the information referred to in Annex V of this Regulation and the information required by those respective Union acts.
-4. The technical documentation and correspondence relating to any conformity assessment procedure shall be drawn up in an official language of the Member State in which the notified body is established or in a language acceptable to that body.
-5. T he Commission is empowered to adopt delegated acts in accordance with Article 50 to supplement this Regulation by the elements to be included in the technical documentation set out in Annex V to take account of technological developments, as well as developments encountered in the implementation process of this Regulation .
+1. Economic operators shall, on request, provide the market surveillance authorities with the following information:
+(a) the name and address of any economic operator who has supplied them with a product with digital elements;
+(b) where available, the name and address of any economic operator to whom they have supplied a product with digital elements.
+2. Economic operators shall be able to present the information referred to in paragraph 1 for 10 years after they have been supplied with the product with digital elements and for 10 years after they have supplied the product with digital elements.

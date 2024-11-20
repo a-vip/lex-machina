@@ -1,13 +1,10 @@
-# Article 34 — Identification numbers and lists of notified bodies
+# Article 34 — Mutual recognition agreements
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_34`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. The Commission shall assign an identification number to a no tified body.
-It shall assign a single such number even where the body is notified under several Union acts.
-2. The Commission shall make publicly available the list of the bodies notified under this Regulation, including the identification numbers that have been allocated to them and the activities for which they have been notified.
-The Commission shall ensure that that list is kept up to date.
+Taking into account the level of technical development and the approach on conformity assessment of a third country, the Union may conclude Mutual Recognition Agreements with third countries, in accordance with Article 218 TFEU, in order to promote and facilitate international trade.

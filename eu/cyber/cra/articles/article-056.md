@@ -1,10 +1,16 @@
-# Article 56 — Evaluation and review
+# Article 56 — Procedure at Union level concerning products with digital elements presenting a significant cybersecurity risk
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_56`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-By [36 months after the date of application of this Regulation] and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The reports shall be made public.
+1. Where the Commission has sufficient reason to consider, including based on information provided by ENISA, that a product with digital elements that presents a significant cybersecurity risk does not comply with the requirements laid down in this Regulation, it shall inform the relevant market surveillance authorities. Where the market surveillance authorities carry out an evaluation of that product with digital elements that may present a significant cybersecurity risk in respect of its compliance with the requirements laid down in this Regulation, the procedures referred to in Articles 54 and 55 shall apply.
+2. Where the Commission has sufficient reason to consider that a product with digital elements presents a significant cybersecurity risk in light of non-technical risk factors, it shall inform the relevant market surveillance authorities and, where appropriate, the competent authorities designated or established pursuant to Article 8 of Directive (EU) 2022/2555 and cooperate with those authorities as necessary. The Commission shall also consider the relevance of the identified risks for that product with digital elements in view of its tasks regarding the Union level coordinated security risk assessments of critical supply chains provided for in Article 22 of Directive (EU) 2022/2555, and consult, as necessary, the Cooperation Group established pursuant to Article 14 of Directive (EU) 2022/2555 and ENISA.
+3. In circumstances which justify an immediate intervention to preserve the proper functioning of the internal market and where the Commission has sufficient reason to consider that the product with digital elements referred to in paragraph 1 remains non-compliant with the requirements laid down in this Regulation and no effective measures have been taken by the relevant market surveillance authorities, the Commission shall carry out an evaluation of compliance and may request ENISA to provide an analysis to support it. The Commission shall inform the relevant market surveillance authorities accordingly. The relevant economic operators shall cooperate with ENISA as necessary.
+4. Based on the evaluation referred to in paragraph 3, the Commission may decide that a corrective or restrictive measure is necessary at Union level. To that end, it shall without delay consult the Member States concerned and the relevant economic operator or operators.
+5. On the basis of the consultation referred to in paragraph 4 of this Article, the Commission may adopt implementing acts to provide for corrective or restrictive measures at Union level, including requiring the products with digital elements concerned to be withdrawn from the market or recalled, within a reasonable period, commensurate with the nature of the risk. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).
+6. The Commission shall immediately communicate the implementing acts referred to in paragraph 5 to the relevant economic operator or operators. Member States shall implement those implementing acts without delay and shall inform the Commission accordingly.
+7. Paragraphs 3 to 6 shall be applicable for the duration of the exceptional situation that justified the Commission’s intervention, provided that the product with digital elements concerned is not brought in compliance with this Regulation.

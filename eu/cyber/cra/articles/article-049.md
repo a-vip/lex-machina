@@ -1,16 +1,15 @@
-# Article 49 — Sweeps
+# Article 49 — Information obligation on notified bodies
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_49`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Market surveillance authorities may decide to conduct simultaneous coordinated control actions (“sweeps”) of particular products with digital elements or categories thereof to check compliance with or to detect infringements to this Regulation.
-2. Unless otherwise agreed upon by the market surveillance authorities involved , sweeps shall be coordinated by the Commission. The coordinator of the sweep may, where appropriate, make the aggregated results publicly available.
-3. ENISA m ay identify , in the performance of its tasks, including based on the notifications received according to Article 1 1 (1) and (2), categories o f products for which sweeps may be organised . The proposal for sweeps shall be submitted to the potential coordinator referred to in paragraph 2 for the consideration of the market surveillance author i ties.
-4. When conducting sweeps, the market surveillance authorities involved may use the investigation powers set out Articles 4 1 to 4 7 and any other powers conferred upon them by national law.
-5. Market surveillance authorities may invite Commission officials, and other accompanying persons authorised by the Commission, to participate in sweeps.
-CHAPTER VI
-DELEGATED POWERS AND COMMITTEE PROCEDURE
+1. Notified bodies shall inform the notifying authority of the following:
+(a) any refusal, restriction, suspension or withdrawal of a certificate;
+(b) any circumstances affecting the scope of and conditions for notification;
+(c) any request for information which they have received from market surveillance authorities regarding conformity assessment activities;
+(d) on request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
+2. Notified bodies shall provide the other bodies notified under this Regulation carrying out similar conformity assessment activities covering the same products with digital elements with relevant information on issues relating to negative and, upon request, positive conformity assessment results.

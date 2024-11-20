@@ -1,9 +1,10 @@
 # Recital (61)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_61`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(61) Simultaneous coordinated control actions (‘sweeps’) are specific enforcement actions by market surveillance authorities that can further enhance product security. S weeps should , in particular, be conducted where market trends, consumer complaints or other indications suggest that certain product categories are often found to present cybersecurity risk s . ENISA should submit proposals for categories of products for which sweeps could be organised to the market surveillance authorities , based, among others, on the notifications of product vulnerabilities and incidents it receives.
+(61)
+When products with digital elements reach the end of their support periods, in order to ensure that vulnerabilities can be handled after the end of the support period, manufacturers should consider releasing the source code of such products with digital elements either to other undertakings which commit to extending the provision of vulnerability handling services or to the public. Where manufacturers release the source code to other undertakings, they should be able to protect the ownership of the product with digital elements and prevent the dissemination of the source code to the public, for example through contractual arrangements.

@@ -1,0 +1,10 @@
+# Recital (58)
+
+- **Instrument**: EU Cyber Resilience Act
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Akoma Ntoso eId**: `rct_58`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
+
+(58)
+The joint communication of the Commission and the High Representative of the Union for Foreign Affairs and Security Policy of 20 June 2023 entitled ‘European Economic Security Strategy’ stated that the Union needs to maximise the benefits of its economic openness while minimising the risks from economic dependencies on high-risk vendors, through a common strategic framework for Union economic security. Dependencies on high-risk suppliers of products with digital elements may pose a strategic risk that needs to be addressed at Union level, especially where the products with digital elements are intended for the use by essential entities as referred to in Article 3(1) of Directive (EU) 2022/2555. Such risks may be linked, but not limited, to the jurisdiction applicable to the manufacturer, the characteristics of its corporate ownership and the links of control to a third-country government where it is established, in particular where a third country engages in economic espionage or irresponsible state behaviour in cyberspace and its legislation allows arbitrary access to any kind of company operations or data, including commercially sensitive data, and can impose obligations for intelligence purposes without democratic checks and balances, oversight mechanisms, due process or the right to appeal to an independent court or tribunal. When determining the significance of a cybersecurity risk within the meaning of this Regulation, the Commission and the market surveillance authorities, as per their responsibilities as set out in this Regulation, should also consider non-technical risk factors, in particular those established as a result of Union level coordinated security risk assessments of critical supply chains carried out in accordance with Article 22 of Directive (EU) 2022/2555.

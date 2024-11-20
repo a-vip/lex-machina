@@ -1,9 +1,10 @@
 # Recital (8)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_8`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(8) By setting cybersecurity requirements for plac ing on the market products with digital elements , the cyber security of these products for consumers and for businesses alike will be enhanced . T his also includes requirements for placing on the market consumer products with digital elements intended for vulnerable consumers, such as toys and baby monitors.
+(8)
+To increase the overall level of cybersecurity of all products with digital elements placed on the internal market, it is necessary to introduce objective-oriented and technology-neutral essential cybersecurity requirements for those products that apply horizontally.

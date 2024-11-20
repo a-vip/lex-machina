@@ -1,9 +1,10 @@
 # Recital (28)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_28`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(28) This Regulation addresses cybersecurity risks in a targeted manner. Products with digital elements might, however, pose other safety risks, that are not related to cybersecurity. Those risks should continue to be regulated by other relevant Union product legislation. If no other Union harmonisation legislation is applicable, they should be subject to Regulation [G eneral Product Safety Regulation ]. Therefore, in light of the targeted nature of this Regulation, as a derogation from Article 2(1), third subparagraph, point (b), of Regulation [G eneral Product Safety Regulation ], Chapter III, Section 1, Chapters V and VII, and Chapters IX to XI of Regulation [G eneral Product Safety Regulation ] should apply to products with digital elements with respect to safety risks not covered by this Regulation, if those products are not subject to specific requirements imposed by other Union harmonisation legislation within the meaning of [Article 3, point (25) of the General Product Safety Regulation ] .
+(28)
+This Regulation lays down horizontal cybersecurity rules which are not specific to sectors or to certain products with digital elements. Nevertheless, sectoral or product-specific Union rules could be introduced, laying down requirements that address all or some of the risks covered by the essential cybersecurity requirements set out in this Regulation. In such cases, the application of this Regulation to products with digital elements covered by other Union rules laying down requirements that address all or some of the risks covered by the essential cybersecurity requirements set out in this Regulation may be limited or excluded where such limitation or exclusion is consistent with the overall regulatory framework applying to those products and where the sectoral rules achieve at least the same level of protection as the one provided for by this Regulation. The Commission should be empowered to adopt delegated acts to supplement this Regulation by identifying such products and rules. For existing Union law where such limitation or exclusion should apply, this Regulation contains specific provisions to clarify its relation with that Union law.

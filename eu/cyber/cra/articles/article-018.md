@@ -1,14 +1,15 @@
-# Article 18 — Presumption of conformity
+# Article 18 — Authorised representatives
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_18`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Products with digital elements and processes put in place by the manufacturer which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the essential requirements covered by those standards or parts thereof , set out in Annex I .
-2. Products with digital elements and processes put in place by the manufacturer , which are in conformity with the common specifications referred to in Article 1 9 shall be presumed to be in conformity with the essential requirements set out in Annex I , to the extent those common specifications cover those requirements.
-3. Products with digital elements and processes put in place by the manufacturer for which a n EU statement of conformity or certificate has been issued under a European cybersecurity certification scheme adopted as per Regulation (EU) 2019/881 and specified as per paragraph 4, shall be presumed to be in conformity with the essential requirements set out in Annex I in so far as the EU statement of conformity or cybersecurity certificat e , or parts thereof, cover those requirements.
-4. The Commission is empowered , by means of implementing acts, to specify the European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 that can be used to demonstrate conformity with the essential requirements or parts there o f as set out in Annex I . Furthermor e, where applicable, the Commis s i on shall specify if a cybersecurity certificate issued under such scheme s eliminate s the obligation of a manufacturer to carry out a third-party conformity assessment for the corresponding requirements, as set out in Article 2 4 ( 2)(a), (b),
-(3) (a) and (b) . Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 5 1 (2) .
+1. A manufacturer may, by a written mandate, appoint an authorised representative.
+2. The obligations laid down in Article 13(1) to (11), Article 13(12), first subparagraph, and Article 13(14) shall not form part of the authorised representative’s mandate.
+3. An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The authorised representative shall provide a copy of the mandate to the market surveillance authorities upon request. The mandate shall allow the authorised representative to do at least the following:
+(a) keep the EU declaration of conformity referred to in Article 28 and the technical documentation referred to in Article 31 at the disposal of the market surveillance authorities for at least 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer;
+(b) further to a reasoned request from a market surveillance authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the product with digital elements;
+(c) cooperate with the market surveillance authorities, at their request, on any action taken to eliminate the risks posed by a product with digital elements covered by the authorised representative’s mandate.

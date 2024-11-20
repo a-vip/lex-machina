@@ -1,22 +1,16 @@
-# Article 43 — Procedure at national level concerning products with digital elements presenting a significant cybersecurity risk
+# Article 43 — Notification procedure
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
-- **Document Symbol**: `COM(2022) 454 final`
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
+- **Document Symbol**: `OJ L, 2024/2847`
 - **Akoma Ntoso eId**: `art_43`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Institutional Author**: European Commission `<commission@europa.eu>`
+- **Institutional Author**: European Union Official Journal `<oj@europa.eu>`
 
-1. Where the market surveillance authorit y of a Member State has sufficient reasons to consider that a product with digital elements , including its vulnerability handling, presents a significant cybersecurity risk, it shall carry out an evaluation of the product with digital elements concerned in respect of its compliance with all the requirements laid down in this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorit y .
-Where, in the course of that evaluation, the market surveillance authority finds that the product with digital elements does not comply with the requirements laid down in this Regulation, it shall without delay require the relevant operator to take all appropriate corrective actions to bring the product into compliance with those requirements, to withdraw it from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.
-The market surveillance authority shall inform the relevant notified body accordingly. Article 18 of Regulation (EU) 2019/1020 shall apply to the appropriate corrective actions.
-2. Where the market surveillance authorit y consider s that non-compliance is not restricted to its national territory, it shall inform the Commission and the other Member States of the results of the evaluation and of the actions which it has required the operator to take.
-3. The manufacturer shall ensure that all appropriate corrective action is taken in respect of all the products with digital elements concerned that it has made available on the market throughout the Union.
-4. Where the manufacture r of a product with digital elements does not take adequate corrective action within the period referred to in paragraph 1 , second subparagraph, the market surveillance authorit y shall take all appropriate provisional meas ures to prohibit or restrict that product being made available on its national market, to withdraw it from that market or to recall it.
-That authority shall inform the Commission and the other Member States, without delay, of those measures.
-5. The information referred to in paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant products with digital elements , the origin of the product with digital elements , the nature of the alleged non-compliance and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant operator. In particular, the market surveillance authorit y shall indicate whether the non-compliance is due to one or more of the following:
-(a) a failure of the product or of the processes put in place by the manufacturer to meet the essential requirements set out in Annex I ;
-(b) shortcomings in the harmonised standards , cybersecurity certification scheme s , or common specifications , referred to in Article 1 8 .
-6. The market surveillance authorities of the Member States other than the market surveillance authority of the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the product concerned, and, in the event of disagreement with the notified national measure, of their objections.
-7. Where, within three months of receipt of the information referred to in paragraph 4 , no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified. This is without prejudice to the procedural rights of the operator concerned in accordance with Article 18 of Regulation (EU) 2019/1020.
-8. The market surveillance authorities of all Member States shall ensure that appropriate restrictive measures are taken in respect of the product concerned, such as withdrawal of the product from their market, without delay.
+1. Notifying authorities shall notify only conformity assessment bodies which have satisfied the requirements laid down in Article 39.
+2. The notifying authority shall notify the Commission and the other Member States using the New Approach Notified and Designated Organisations information system developed and managed by the Commission.
+3. The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules and product or products with digital elements concerned and the relevant attestation of competence.
+4. Where a notification is not based on an accreditation certificate as referred to in Article 42(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body’s competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 39.
+5. The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of a notification where an accreditation certificate is used or within two months of a notification where accreditation is not used.
+Only such a body shall be considered to be a notified body for the purposes of this Regulation.
+6. The Commission and the other Member States shall be notified of any subsequent relevant changes to the notification.

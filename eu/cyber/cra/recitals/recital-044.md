@@ -1,11 +1,10 @@
 # Recital (44)
 
 - **Instrument**: EU Cyber Resilience Act
-- **Stage**: European Commission Proposal (`2022-09-15`)
+- **Stage**: Final Official Journal Publication (`2024-11-20`)
 - **Akoma Ntoso eId**: `rct_44`
 - **Provenance Mode**: `full_primary_xhtml_akn`
-- **Author**: European Commission `<commission@europa.eu>`
+- **Author**: European Union Official Journal `<oj@europa.eu>`
 
-(44) In order to allow economic operators to demonstrate conformity with the essential requirements laid down in this Regulation and to allow market surveillance authorities to ensure that product s with digital elements made available on the market comply with the se requirements, it is necessary to provide for conformity assessment procedures. Decision No 768/2008/EC of the European Parliament and of the Council
-31
-establishes modules for conformity assessment procedures in proportion to the level of risk involved and the level of security required. In order to ensure inter-sectoral coherence and to avoid ad-hoc variants, conformity assessment procedures adequate for verifying the conformity of products with digital elements with the essential requirements set out in this Regulation have been based on those modules. The conformity assessment procedures should examine and verify both product and process-related requirements covering the whole life cycle of product s with digital elements, including planning, design, development or production , testing and maintenance of the product.
+(44)
+Certain categories of products with digital elements should be subject to stricter conformity assessment procedures, while keeping a proportionate approach. For that purpose, important products with digital elements should be divided into two classes, reflecting the level of cybersecurity risk linked to those categories of products. An incident involving important products with digital elements that fall under class II might lead to greater negative impacts than an incident involving important products with digital elements that fall under class I, for instance due to the nature of their cybersecurity-related function or the performance of another function which carries a significant risk of adverse effects. As an indication of such greater negative impacts, products with digital elements that fall under class II could either perform a cybersecurity-related functionality or another function which carries a significant risk of adverse effects that is higher than for those listed in class I, or meet both of the aforementioned criteria. Important products with digital elements that fall under class II should therefore be subject to a stricter conformity assessment procedure.
