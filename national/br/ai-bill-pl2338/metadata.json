@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-br-ai-bill-pl2338",
+  "path": "national/br/ai-bill-pl2338",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "Brazil Artificial Intelligence Regulatory Framework Bill (PL 2338/2023)",
+  "short_title": "Brazil AI Bill (PL 2338/2023)",
+  "type": "pending_legislation",
+  "celex": "BR_PL_2338_2023",
+  "eli": null,
+  "document_symbol": "BR PL 2338/2023 (Senate Text)",
+  "stage": "senate_approved_2024",
+  "stage_label": "Federal Senate Approved Text (Pending Chamber of Deputies Review 2025-2026)",
+  "published_date": "2024-12-10",
+  "in_force_date": null,
+  "status": "pending_chamber_of_deputies_review",
+  "institutional_author": {
+    "name": "Federal Senate of Brazil",
+    "email": "senado@leg.br"
+  },
+  "source_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+  "summary": "Senate-approved risk-based AI framework establishing excessive-risk bans, algorithmic impact assessments, copyright remuneration for AI training, and the ANPD-coordinated SIA (NOT YET ENACTED).",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "4ed7e8d23abb475c7f461a7a17b372cd1bcd2e39ae6004503c87a5dcd29a96cd",
+    "final_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "fab0bc0b1525c3ce830b0034bcac159bb1cfc06d35f74d2d86ba67a66371d46e"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 1,
+    "annexes": 0
+  }
+}
