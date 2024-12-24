@@ -1,0 +1,35 @@
+# Article 30 — Interception of content data
+
+- **Instrument**: UN Cybercrime Convention (Hanoi)
+- **Stage**: UNGA Adoption of UN Cybercrime Convention (A/RES/79/243) (`2024-12-24`)
+- **Document Symbol**: `A/RES/79/243`
+- **Akoma Ntoso eId**: `art_30`
+- **Provenance Mode**: `full_primary_pdf`
+- **Institutional Author**: United Nations General Assembly `<unga@un.org>`
+
+1. Each State Party shall adopt such legislative and other measures as may be
+necessary, in relation to a range of serious criminal offences to be determined by
+domestic law, to empower its competent authorities to:
+(a) Collect or record, through the application of technical means in the
+territory of that State Party; and
+A/RES/79/243
+United Nations Convention against Cybercrime; Strengthening International
+Cooperation for Combating Certain Crimes Committed by Means of Information
+and Communications Technology Systems and for the Sharing of Evidence in
+Electronic Form of Serious Crimes
+24-24621 18/46
+(b) Compel a service provider, within its existing technical capability:
+(i) To collect or record, through the application of technical means in the
+territory of that State Party; or
+(ii) To cooperate and assist the competent authorities in the collection or
+recording of;
+content data, in real time, of specified communications in its territory transmitted by
+means of an information and communications technology system.
+2. Where a State Party, owing to the principles of its domestic legal system, cannot
+adopt the measures referred to in paragraph 1 (a) of this article, it may instead adopt
+such legislative and other measures as may be necessary to ensure the real-time
+collection or recording of content data on specified communications in its territory,
+through the application of technical means in that territory.
+3. Each State Party shall adopt such legislative and other measures as may be
+necessary to oblige a service provider to keep confidential the fact of the execution
+of any power provided for in this article and any information relating to it.

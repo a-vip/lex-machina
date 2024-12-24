@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "un-cybercrime-convention",
+  "path": "un/cybercrime-convention",
+  "jurisdiction": "un",
+  "domain": "cyber",
+  "title": "United Nations Convention against Cybercrime (Hanoi Convention, A/RES/79/243)",
+  "short_title": "UN Cybercrime Convention (Hanoi)",
+  "type": "treaty",
+  "celex": "UN_ARES_79_243",
+  "eli": null,
+  "document_symbol": "A/RES/79/243",
+  "stage": "unga_adoption_2024",
+  "stage_label": "UNGA Adoption of UN Cybercrime Convention (A/RES/79/243)",
+  "published_date": "2024-12-24",
+  "in_force_date": null,
+  "status": "open_for_signature_until_2026_12_31",
+  "institutional_author": {
+    "name": "United Nations General Assembly",
+    "email": "unga@un.org"
+  },
+  "source_url": "https://documents.un.org/doc/undoc/gen/n24/426/74/pdf/n2442674.pdf",
+  "summary": "Adoption by the UN General Assembly of the first global UN Convention against Cybercrime establishing criminalization chapters, procedural investigative measures, cross-border electronic evidence cooperation for serious crimes (4+ years penalty), and Article 6/24 human rights references.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "9bfdcfd876a1f02f171096dc2f46ed076763079fa206df2f70c6b31355f9315f",
+    "final_url": "https://documents.un.org/doc/undoc/gen/n24/426/74/pdf/n2442674.pdf",
+    "http_status": 200,
+    "http_etag": "W/\"7cb9d-1946623c63e\"",
+    "bytes_fetched": 510877,
+    "fetched_utc": "2026-11-23T14:32:08Z",
+    "sha256_normalized_full_text": "987abbb8f2a56d63b5b8d8f451528b8d04f3d438c1b71f1b20c8a289defdfda2"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 67,
+    "annexes": 0
+  }
+}
