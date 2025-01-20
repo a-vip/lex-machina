@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-us-nist-ai-rmf",
+  "path": "national/us/nist-ai-rmf",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "United States Federal AI Governance: NIST AI RMF 1.0, AI 600-1, and Executive Order Trajectory (2023-2026)",
+  "short_title": "US Federal AI & NIST RMF",
+  "type": "national_framework",
+  "celex": "US_NIST_AI_RMF",
+  "eli": null,
+  "document_symbol": "EO 14148 / EO 14179 (2025)",
+  "stage": "eo_14110_revocation_2025",
+  "stage_label": "Revocation of EO 14110 & Deregulatory Federal Pivot (2025)",
+  "published_date": "2025-01-20",
+  "in_force_date": "2023-01-26",
+  "status": "active_voluntary_post_eo14110_revocation",
+  "institutional_author": {
+    "name": "Executive Office of the President of the United States",
+    "email": "whitehouse@gov.us"
+  },
+  "source_url": "https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/",
+  "summary": "Formal revocation of Biden-era Executive Order 14110 (Oct 2023) on January 20, 2025, replaced by 'Removing Barriers to American Leadership in Artificial Intelligence'; eliminates federal DPA safety-reporting mandates while NIST AI RMF persists as a voluntary enterprise benchmark alongside FTC Section 5 enforcement.",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "4cbff6e33ccd52aec3bfdca0a806e39f1da6247e08e70ebcef3856d4549d29a1",
+    "final_url": "https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "dc79971e8284f4c7b67babc84dfb2735734b7aea0605d00288a49b8c2ff9caeb"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 1,
+    "annexes": 0
+  }
+}
