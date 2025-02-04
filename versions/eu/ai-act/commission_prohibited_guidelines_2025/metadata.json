@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "52025XC00884",
+  "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+  "document_symbol": "C(2025) 884 final",
+  "stage": "commission_prohibited_guidelines_2025",
+  "stage_label": "Commission Guidelines on Prohibited AI Practices (C(2025) 884)",
+  "published_date": "2025-02-04",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "European Commission AI Office",
+    "email": "ai-office@ec.europa.eu"
+  },
+  "source_url": "https://ec.europa.eu/newsroom/dae/redirection/document/112367",
+  "summary": "Official European Commission Guidelines (C(2025) 884) operationalizing Article 5 prohibited AI practices upon February 2, 2025 entry into application.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "298bf8677884b333fae6d5f84aac947f45a59dff6027ca038ba08615092fd82f",
+    "final_url": "https://ec.europa.eu/newsroom/dae/redirection/document/112367",
+    "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+    "celex": "52025XC00884",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 1204912,
+    "fetched_utc": "2026-11-23T14:24:04Z",
+    "sha256_normalized_full_text": "b6fa900d3d379cb468478ee6c2f5f378d8bc1d19365e688babbf292d1873630c"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 12,
+    "annexes": 0
+  }
+}
