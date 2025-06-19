@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-uk-ai-governance",
+  "path": "national/uk/ai-governance",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "United Kingdom AI Governance: DSIT AI White Paper, UK AI Safety Institute (AISI) & Data (Use and Access) Act 2025 (c. 18)",
+  "short_title": "UK AI Governance & DUAA 2025",
+  "type": "national_framework",
+  "celex": "UK_AI_DUAA_2025",
+  "eli": null,
+  "document_symbol": "UKPGA 2025 c. 18",
+  "stage": "duaa_2025_c18",
+  "stage_label": "UK Data (Use and Access) Act 2025 (2025 c. 18)",
+  "published_date": "2025-06-19",
+  "in_force_date": "2025-06-19",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "Parliament of the United Kingdom",
+    "email": "legislation@parliament.uk"
+  },
+  "source_url": "https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes",
+  "summary": "Official UK Government statutory guidance and summary of the enacted UK Data (Use and Access) Act 2025 (c. 18) reforming UK GDPR Article 22 automated decision-making, Smart Data powers, ICO structure, and AI/copyright duties.",
+  "provenance": {
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "fb177b4058e32140e36d057566360c67dc60c615468d767fad0da19712cbff1d",
+    "final_url": "https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes",
+    "http_status": 200,
+    "http_etag": "W/\"fb177b4058e32140e36d057566360c67\"",
+    "bytes_fetched": 91211,
+    "fetched_utc": "2026-11-23T14:32:12Z",
+    "sha256_normalized_full_text": "a92f38f85920877e9c86850cb744dcdb0af1faea91b5e7202537ce134eafc0db"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 13,
+    "annexes": 0
+  }
+}
