@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "AIOFFICE_GPAI_COP_2025",
+  "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+  "document_symbol": "AI Office GPAI Guidelines & CoP (2025)",
+  "stage": "gpai_code_of_practice_2025",
+  "stage_label": "Commission Guidelines on General-Purpose AI Model Obligations & Code of Practice",
+  "published_date": "2025-07-10",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "European Commission AI Office",
+    "email": "ai-office@ec.europa.eu"
+  },
+  "source_url": "https://ec.europa.eu/newsroom/dae/redirection/document/118340",
+  "summary": "Official European Commission AI Office Guidelines on the scope of obligations for providers of General-Purpose AI models supporting Articles 51-56 enforcement effective August 2, 2025.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "13481bd90108505c477165c8aefb13dbe7a83847bad0e983e09115f78aeefe78",
+    "final_url": "https://ec.europa.eu/newsroom/dae/redirection/document/118340",
+    "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+    "celex": "AIOFFICE_GPAI_COP_2025",
+    "http_status": 200,
+    "http_etag": null,
+    "bytes_fetched": 544991,
+    "fetched_utc": "2026-11-23T14:24:12Z",
+    "sha256_normalized_full_text": "0085846a6d83edfd72e628a780625bf115f2d27d39a6ae9c88b964e38c387f67"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 6,
+    "annexes": 0
+  }
+}
