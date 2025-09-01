@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-jp-ai-promotion-act",
+  "path": "national/jp/ai-promotion-act",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "Japan Act on Promotion of Research, Development, and Utilization of AI-Related Technologies (AI Promotion Act, Act No. 53 of 2025)",
+  "short_title": "Japan AI Promotion Act (2025)",
+  "type": "national_statute",
+  "celex": "JP_ACT_53_2025",
+  "eli": null,
+  "document_symbol": "JP Act No. 53 of 2025",
+  "stage": "ai_promotion_act_2025",
+  "stage_label": "Japan AI Promotion Act (Act No. 53 of 2025 — Fully Effective Sept 1, 2025)",
+  "published_date": "2025-09-01",
+  "in_force_date": "2025-09-01",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "National Diet of Japan",
+    "email": "ai-strategy@cas.go.jp"
+  },
+  "source_url": "https://www8.cao.go.jp/cstp/ai/index.html",
+  "summary": "Full entry into force on September 1, 2025 (promulgated June 4, 2025) establishing Japan's Prime Minister-led AI Strategy Headquarters, AI Basic Plan, and mandatory corporate cooperation with misuse investigations.",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "6d4fa4ed6df59b2c8efc4cb47ac7c71a79775b72cc73b5d0a108fd31bf447cb7",
+    "final_url": "https://www8.cao.go.jp/cstp/ai/index.html",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "22ff60f28c4aebe8664598dc95e2af00c62ac72cc57964ffeec57413934f0eb4"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 2,
+    "annexes": 0
+  }
+}
