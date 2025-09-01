@@ -9,31 +9,31 @@
   "type": "national_regulation",
   "celex": "CN_CAC_AI_FRAMEWORK",
   "eli": null,
-  "document_symbol": "CAC Order No. 15",
-  "stage": "generative_ai_measures_2023",
-  "stage_label": "Interim Measures for Generative AI Services (Order No. 15)",
-  "published_date": "2023-07-10",
+  "document_symbol": "CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025)",
+  "stage": "ai_labeling_measures_2025",
+  "stage_label": "Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025)",
+  "published_date": "2025-09-01",
   "in_force_date": "2022-03-01",
   "status": "in_force",
   "institutional_author": {
     "name": "Cyberspace Administration of China (CAC)",
     "email": "cac@cac.gov.cn"
   },
-  "source_url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
-  "summary": "Verbatim official Chinese text of the joint seven-ministry Interim Measures (24 articles) governing public-facing generative AI, training data IP/personal data legitimacy, and R&D carve-outs.",
+  "source_url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+  "summary": "Verbatim official Chinese text of the 14-article binding mandatory AI-generated synthetic content explicit & implicit labeling measures (paired with GB 45438-2025) effective September 1, 2025.",
   "provenance": {
     "provenance_mode": "full_primary_html",
-    "sha256_raw": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
-    "final_url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+    "sha256_raw": "3686321b6f2fca2e245e210209dff4af75b5adc3be36d912695d28b5a681f642",
+    "final_url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
     "http_status": 200,
     "http_etag": null,
-    "bytes_fetched": 29431,
-    "fetched_utc": "2026-11-23T14:31:52Z",
-    "sha256_normalized_full_text": "cfba933f04b287ba77c550c6d330d70df96ad7139455b16fafc6a3f622f4b7c9"
+    "bytes_fetched": 23354,
+    "fetched_utc": "2026-11-23T14:32:12Z",
+    "sha256_normalized_full_text": "796f025d5644205412f80b9d52575eee1212141c7d866b18f2cf183d5a10cf71"
   },
   "counts": {
     "recitals": 0,
-    "articles": 24,
+    "articles": 14,
     "annexes": 0
   }
 }

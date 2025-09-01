@@ -1,11 +1,10 @@
-# Article 11 — CAC Order No. 15 — Article 11 (第十一条)
+# Article 11 — CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025) — Article 11 (第十一条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
-- **Document Symbol**: `CAC Order No. 15`
+- **Stage**: Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025) (`2025-09-01`)
+- **Document Symbol**: `CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025)`
 - **Akoma Ntoso eId**: `cn_art_11`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第十一条 提供者对使用者的输入信息和使用记录应当依法履行保护义务，不得收集非必要个人信息，不得非法留存能够识别使用者身份的输入信息和使用记录，不得非法向他人提供使用者的输入信息和使用记录。
-提供者应当依法及时受理和处理个人关于查阅、复制、更正、补充、删除其个人信息等的请求。
+第十一条 服务提供者开展标识活动的，还应当符合相关法律、行政法规、部门规章和强制性国家标准的要求。

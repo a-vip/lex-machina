@@ -1,12 +1,10 @@
-# Article 2 — CAC Order No. 15 — Article 2 (第二条)
+# Article 2 — CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025) — Article 2 (第二条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
-- **Document Symbol**: `CAC Order No. 15`
+- **Stage**: Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025) (`2025-09-01`)
+- **Document Symbol**: `CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025)`
 - **Akoma Ntoso eId**: `cn_art_2`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第二条 利用生成式人工智能技术向中华人民共和国境内公众提供生成文本、图片、音频、视频等内容的服务（以下称生成式人工智能服务），适用本办法。
-国家对利用生成式人工智能服务从事新闻出版、影视制作、文艺创作等活动另有规定的，从其规定。
-行业组织、企业、教育和科研机构、公共文化机构、有关专业机构等研发、应用生成式人工智能技术，未向境内公众提供生成式人工智能服务的，不适用本办法的规定。
+第二条 符合《互联网信息服务算法推荐管理规定》、《互联网信息服务深度合成管理规定》、《生成式人工智能服务管理暂行办法》规定情形的网络信息服务提供者（以下简称“服务提供者”）开展人工智能生成合成内容标识活动，适用本办法。

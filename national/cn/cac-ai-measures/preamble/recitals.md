@@ -1,2 +1,2 @@
 # Preamble & Recitals — China CAC AI Regulations
-**Stage**: Interim Measures for Generative AI Services (Order No. 15) (2023-07-10)
+**Stage**: Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025) (2025-09-01)

@@ -1,15 +1,10 @@
-# Article 7 — CAC Order No. 15 — Article 7 (第七条)
+# Article 7 — CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025) — Article 7 (第七条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
-- **Document Symbol**: `CAC Order No. 15`
+- **Stage**: Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025) (`2025-09-01`)
+- **Document Symbol**: `CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025)`
 - **Akoma Ntoso eId**: `cn_art_7`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第七条 生成式人工智能服务提供者（以下称提供者）应当依法开展预训练、优化训练等训练数据处理活动，遵守以下规定：
-（一）使用具有合法来源的数据和基础模型；
-（二）涉及知识产权的，不得侵害他人依法享有的知识产权；
-（三）涉及个人信息的，应当取得个人同意或者符合法律、行政法规规定的其他情形；
-（四）采取有效措施提高训练数据质量，增强训练数据的真实性、准确性、客观性、多样性；
-（五）《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律、行政法规的其他有关规定和有关主管部门的相关监管要求。
+第七条 互联网应用程序分发平台在应用程序上架或者上线审核时，应当要求互联网应用程序服务提供者说明是否提供人工智能生成合成服务。互联网应用程序服务提供者提供人工智能生成合成服务的，互联网应用程序分发平台应当核验其生成合成内容标识相关材料。

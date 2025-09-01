@@ -1,11 +1,15 @@
-# Article 6 — CAC Order No. 15 — Article 6 (第六条)
+# Article 6 — CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025) — Article 6 (第六条)
 
 - **Instrument**: China CAC AI Regulations
-- **Stage**: Interim Measures for Generative AI Services (Order No. 15) (`2023-07-10`)
-- **Document Symbol**: `CAC Order No. 15`
+- **Stage**: Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025) (`2025-09-01`)
+- **Document Symbol**: `CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025)`
 - **Akoma Ntoso eId**: `cn_art_6`
 - **Provenance Mode**: `full_primary_html`
 - **Institutional Author**: Cyberspace Administration of China (CAC) `<cac@cac.gov.cn>`
 
-第六条 鼓励生成式人工智能算法、框架、芯片及配套软件平台等基础技术的自主创新，平等互利开展国际交流与合作，参与生成式人工智能相关国际规则制定。
-推动生成式人工智能基础设施和公共训练数据资源平台建设。促进算力资源协同共享，提升算力资源利用效能。推动公共数据分类分级有序开放，扩展高质量的公共训练数据资源。鼓励采用安全可信的芯片、软件、工具、算力和数据资源。
+第六条 提供网络信息内容传播服务的服务提供者应当采取下列措施，规范生成合成内容传播活动：
+（一）核验文件元数据中是否含有隐式标识，文件元数据明确标明为生成合成内容的，采取适当方式在发布内容周边添加显著的提示标识，明确提醒公众该内容属于生成合成内容；
+（二）文件元数据中未核验到隐式标识，但用户声明为生成合成内容的，采取适当方式在发布内容周边添加显著的提示标识，提醒公众该内容可能为生成合成内容；
+（三）文件元数据中未核验到隐式标识，用户也未声明为生成合成内容，但提供网络信息内容传播服务的服务提供者检测到显式标识或者其他生成合成痕迹的，识别为疑似生成合成内容，采取适当方式在发布内容周边添加显著的提示标识，提醒公众该内容疑似生成合成内容；
+（四）提供必要的标识功能，并提醒用户主动声明发布内容中是否包含生成合成内容。
+有前款第一项至第三项情形的，应当在文件元数据中添加生成合成内容属性信息、传播平台名称或者编码、内容编号等传播要素信息。
