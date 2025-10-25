@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "un-cybercrime-convention",
+  "path": "un/cybercrime-convention",
+  "jurisdiction": "un",
+  "domain": "cyber",
+  "title": "United Nations Convention against Cybercrime (Hanoi Convention, A/RES/79/243)",
+  "short_title": "UN Cybercrime Convention (Hanoi)",
+  "type": "treaty",
+  "celex": "UN_ARES_79_243",
+  "eli": null,
+  "document_symbol": "UNTC XVIII-16 (Hanoi)",
+  "stage": "hanoi_opening_for_signature_2025",
+  "stage_label": "Hanoi Signing Ceremony & Open-for-Signature Window (2025-2026)",
+  "published_date": "2025-10-25",
+  "in_force_date": null,
+  "status": "open_for_signature_until_2026_12_31",
+  "institutional_author": {
+    "name": "United Nations Office on Drugs and Crime (UNODC)",
+    "email": "unodc@un.org"
+  },
+  "source_url": "https://www.unodc.org/unodc/en/cybercrime/convention/home.html",
+  "summary": "Formal opening for signature in Hanoi, Vietnam (Oct 25-26, 2025), remaining open at UNHQ New York until December 31, 2026; requires 40 ratifications under Article 65 to enter into force.",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "a537d155eae156545aecc3f7fef8b4109f449894a068c1bc7682805f4d93cb10",
+    "final_url": "https://www.unodc.org/unodc/en/cybercrime/convention/home.html",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "d5689419d0cf21ab2609decc2d7ecb1bc55b3db077630539d6a5ea60f6e00840"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 1,
+    "annexes": 0
+  }
+}
