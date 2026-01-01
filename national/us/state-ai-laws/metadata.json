@@ -9,31 +9,31 @@
   "type": "state_statute_collection",
   "celex": "US_STATE_AI_2024_2026",
   "eli": null,
-  "document_symbol": "CO SB 24-205 / SB 26-189 / CA AB 2013 / SB 53",
-  "stage": "colorado_sb24_205_2024",
-  "stage_label": "Colorado AI Act Initial Enactment (SB 24-205 -> SB 26-189) & California AB 2013 / SB 53",
-  "published_date": "2024-05-17",
+  "document_symbol": "TX 89(R) HB 149 (TRAIGA)",
+  "stage": "texas_traiga_effective_2026",
+  "stage_label": "Texas Responsible Artificial Intelligence Governance Act (HB 149 Enrolled Text)",
+  "published_date": "2026-01-01",
   "in_force_date": "2026-01-01",
   "status": "in_force_phased",
   "institutional_author": {
-    "name": "Colorado General Assembly & California Legislature",
-    "email": "state-legislatures@us.gov"
+    "name": "Texas Legislature",
+    "email": "legislature@texas.gov"
   },
-  "source_url": "https://leg.colorado.gov/bills/sb24-205",
-  "summary": "Colorado's high-risk algorithmic discrimination statute (SB 24-205, subsequently refined via SB 26-189 following xAI v. Weiser) with NIST AI RMF / ISO 42001 safe harbor, plus California AB 2013 training-data transparency and SB 53 (TFAIA) frontier safety disclosures.",
+  "source_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149F.htm",
+  "summary": "Verbatim enrolled statutory text of the Texas Responsible Artificial Intelligence Governance Act (HB 149 / TRAIGA) effective January 1, 2026, codifying Business & Commerce Code Ch. 551/552 prohibitions, exclusive Texas AG enforcement, 60-day cure period, and AI regulatory sandbox.",
   "provenance": {
-    "provenance_mode": "structured_regulatory_brief",
-    "sha256_raw": "904755632fd7fc1d7f1ee7b0261fca6fb844a589d8411dbf8b15c316f0abfda2",
-    "final_url": "https://leg.colorado.gov/bills/sb24-205",
-    "http_status": null,
-    "http_etag": null,
-    "bytes_fetched": 0,
-    "fetched_utc": "2026-11-23T19:48:49Z",
-    "sha256_normalized_full_text": "1b60c9cc66b3cbabc9890a6208ad0e63e4143a29baa5026498b206a4ac6c870e"
+    "provenance_mode": "full_primary_html",
+    "sha256_raw": "82b55443766cdd0ec090a32e40b0e10e1becf81123c303ec43517e142215e3ed",
+    "final_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149F.htm",
+    "http_status": 200,
+    "http_etag": "\"5e53a9813ad2db1:0\"",
+    "bytes_fetched": 220243,
+    "fetched_utc": "2026-11-23T14:32:13Z",
+    "sha256_normalized_full_text": "36aea6f4bc88292f91501eb517babde9c16a2ff142d3c8439158ff9a40ab02a3"
   },
   "counts": {
     "recitals": 0,
-    "articles": 2,
+    "articles": 45,
     "annexes": 0
   }
 }

@@ -1,2 +1,2 @@
 # Preamble & Recitals — US State Binding AI Laws
-**Stage**: Colorado AI Act Initial Enactment (SB 24-205 -> SB 26-189) & California AB 2013 / SB 53 (2024-05-17)
+**Stage**: Texas Responsible Artificial Intelligence Governance Act (HB 149 Enrolled Text) (2026-01-01)
