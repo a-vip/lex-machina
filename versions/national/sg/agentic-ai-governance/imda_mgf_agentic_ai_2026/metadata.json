@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-sg-agentic-ai-governance",
+  "path": "national/sg/agentic-ai-governance",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "Singapore IMDA Model AI Governance Framework for Agentic AI (2026)",
+  "short_title": "Singapore Agentic AI Framework",
+  "type": "national_framework",
+  "celex": "SG_IMDA_AGENTIC_2026",
+  "eli": null,
+  "document_symbol": "SG IMDA MGF-Agentic-2026",
+  "stage": "imda_mgf_agentic_ai_2026",
+  "stage_label": "IMDA Model AI Governance Framework for Agentic AI (2026 PDF)",
+  "published_date": "2026-01-22",
+  "in_force_date": "2026-01-22",
+  "status": "active_voluntary",
+  "institutional_author": {
+    "name": "Infocomm Media Development Authority of Singapore (IMDA)",
+    "email": "ai-governance@imda.gov.sg"
+  },
+  "source_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+  "summary": "Verbatim official IMDA PDF establishing four core governance pillars for autonomous AI agents: assessing/bounding risks upfront, making humans meaningfully accountable, implementing technical controls & process gates, and enabling end-user responsibility.",
+  "provenance": {
+    "provenance_mode": "full_primary_pdf",
+    "sha256_raw": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "final_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "http_status": 200,
+    "http_etag": "\"1784517969\"",
+    "bytes_fetched": 2169295,
+    "fetched_utc": "2026-11-23T19:27:36Z",
+    "sha256_normalized_full_text": "aa650ac5c121b6e28ef4a5eeb0b68895e12ad0274816779aeb0983eec5cae796"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 12,
+    "annexes": 0
+  }
+}
