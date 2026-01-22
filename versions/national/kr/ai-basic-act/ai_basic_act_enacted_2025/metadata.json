@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "national-kr-ai-basic-act",
+  "path": "national/kr/ai-basic-act",
+  "jurisdiction": "national",
+  "domain": "ai",
+  "title": "Republic of Korea Framework Act on the Development of AI and Creation of a Foundation for Trust (AI Basic Act, Act No. 20676)",
+  "short_title": "South Korea AI Basic Act (2026)",
+  "type": "national_statute",
+  "celex": "KR_ACT_20676_2025",
+  "eli": null,
+  "document_symbol": "KR Act No. 20676 / Decree No. 36053",
+  "stage": "ai_basic_act_enacted_2025",
+  "stage_label": "South Korea AI Basic Act (Act No. 20676 & Presidential Decree No. 36053)",
+  "published_date": "2026-01-22",
+  "in_force_date": "2026-01-22",
+  "status": "in_force",
+  "institutional_author": {
+    "name": "National Assembly of the Republic of Korea & MSIT",
+    "email": "ai-policy@msit.go.kr"
+  },
+  "source_url": "https://elaw.klri.re.kr",
+  "summary": "Entry into force on January 22, 2026 of South Korea's comprehensive AI Basic Act regulating High-Impact AI, generative AI advance disclosure/watermarking, frontier safety assessments, and extraterritorial domestic representatives.",
+  "provenance": {
+    "provenance_mode": "structured_regulatory_brief",
+    "sha256_raw": "46cd6b801b8ff90442383617ef754254c5ad4652b4b4f450030129b51d4c584a",
+    "final_url": "https://elaw.klri.re.kr",
+    "http_status": null,
+    "http_etag": null,
+    "bytes_fetched": 0,
+    "fetched_utc": "2026-11-23T19:48:49Z",
+    "sha256_normalized_full_text": "b637f5196b7c077f8fc7f2d923764aee9e53cbe8fbb6b3df8d5e6caadf60b094"
+  },
+  "counts": {
+    "recitals": 0,
+    "articles": 3,
+    "annexes": 0
+  }
+}
