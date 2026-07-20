@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0.0",
+  "instrument_id": "eu-ai-act",
+  "path": "eu/ai-act",
+  "jurisdiction": "eu",
+  "domain": "ai",
+  "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+  "short_title": "EU AI Act",
+  "type": "regulation",
+  "celex": "32026R1744",
+  "eli": "http://data.europa.eu/eli/reg/2026/1744/oj",
+  "document_symbol": "Regulation (EU) 2026/1744",
+  "stage": "digital_omnibus_2026_1744",
+  "stage_label": "Digital Omnibus on AI Amendment (Regulation (EU) 2026/1744)",
+  "published_date": "2026-07-20",
+  "in_force_date": "2024-08-01",
+  "status": "in_force_phased_application",
+  "institutional_author": {
+    "name": "European Parliament and Council of the EU",
+    "email": "co-legislators@europa.eu"
+  },
+  "source_url": "http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0006.03/DOC_1",
+  "summary": "Amending regulation decoupling and staggering high-risk enforcement deadlines to December 2, 2027 (Annex III) and August 2, 2028 (Annex I), expanding Article 5 prohibitions on non-consensual sexual deepfakes and CSAM effective December 2, 2026, and streamlining SME/small mid-cap compliance.",
+  "provenance": {
+    "provenance_mode": "full_primary_xhtml_akn",
+    "sha256_raw": "9d754652b867722807e4219c85912ce354233e58a1b4eb8c7752b4d1922993db",
+    "final_url": "http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0006.03/DOC_1",
+    "eli": "http://data.europa.eu/eli/reg/2026/1744/oj",
+    "celex": "32026R1744",
+    "http_status": 200,
+    "http_etag": "\"Con-20260724032506000\"",
+    "bytes_fetched": 351287,
+    "fetched_utc": "2026-11-23T14:24:17Z",
+    "sha256_normalized_full_text": "855526ad2c7aa293c13296707f38e4ac5ce8801b9a7c895a3bc1454ba51ba194"
+  },
+  "counts": {
+    "recitals": 47,
+    "articles": 4,
+    "annexes": 0
+  }
+}

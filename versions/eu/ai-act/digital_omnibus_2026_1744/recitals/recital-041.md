@@ -1,0 +1,10 @@
+# Recital (41)
+
+- **Instrument**: EU AI Act
+- **Stage**: Digital Omnibus on AI Amendment (Regulation (EU) 2026/1744) (`2026-07-20`)
+- **Akoma Ntoso eId**: `rct_41`
+- **Provenance Mode**: `full_primary_xhtml_akn`
+- **Author**: European Parliament and Council of the EU `<co-legislators@europa.eu>`
+
+(41)
+In light of the objective to reduce implementation challenges for citizens, businesses and public administrations, it is essential that harmonised conditions for the implementation of certain rules are adopted only where strictly necessary. For that purpose, it is appropriate to remove certain empowerments bestowed on the Commission to adopt such harmonised conditions by means of implementing acts in cases where that is not the case. Article 50(7), Article 56(6), and Article 72(3) of Regulation (EU) 2024/1689 should therefore be amended to remove the empowerments conferred on the Commission to adopt implementing acts. Given that the codes of practice referred to in Article 50(7) and Article 56(6) have limited legal effect, and in particular do not grant a presumption of conformity, it is not strictly necessary for these codes to be approved by an implementing act. Providers should be able to rely, pursuant to Article 53(4) and Article 54(2) of Regulation (EU) 2024/1689, on codes of practice assessed as adequate pursuant to Article 56(6) thereof. The removal of the empowerment to adopt a harmonised template for a post-market monitoring plan in Article 72(3) of Regulation (EU) 2024/1689 has the additional benefit of offering more flexibility for providers of high-risk AI systems to put in place a system for post-market monitoring that is tailored to their organisation. At the same time, recognising the need to offer clarity regarding how providers of high-risk AI systems are required to comply with their obligation set out in Article 72(1) of Regulation (EU) 2024/1689, the Commission should be required to publish guidance, including a voluntary template, on the post-market monitoring plan by 2 September 2027.
