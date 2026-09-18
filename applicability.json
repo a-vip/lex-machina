@@ -1,0 +1,381 @@
+{
+  "schema_version": "3.0.0",
+  "description": "Bitemporal legal applicability schedule separating publication time from legal enforceability time across EU (post-Digital Omnibus 2026/1744), US Federal & States, China, UK, South Korea, Japan, Brazil, Singapore, ISO/IEC 42001, IHL, Cyber treaties, and binding CJEU/ICJ judicial precedent.",
+  "rules": [
+    {
+      "instrument_path": "eu/ai-act",
+      "rule_id": "eu-ai-act-prohibitions-initial",
+      "provisions": [
+        "articles/article-001.md",
+        "articles/article-002.md",
+        "articles/article-003.md",
+        "articles/article-004.md",
+        "articles/article-005.md"
+      ],
+      "scope_note": "Chapters I and II (AI definitions, AI literacy, and initial eight Article 5 prohibited AI practices).",
+      "published_date": "2024-07-12",
+      "entry_into_force": "2024-08-01",
+      "entry_into_application": "2025-02-02",
+      "amended_by": "Regulation (EU) 2026/1744 (Digital Omnibus on AI)",
+      "amendment_notes": "Article 4 AI literacy softened in 2026 to focus on practical guidelines rather than mandatory formal certifications; two additional Article 5 prohibitions (non-consensual sexual deepfakes & CSAM) enter application on 2026-12-02.",
+      "additional_application_dates": {
+        "article_5_ncii_csam_deepfakes": "2026-12-02"
+      },
+      "penalty_ceiling": "Up to EUR 35,000,000 or 7% of worldwide annual turnover (Article 99(3))"
+    },
+    {
+      "instrument_path": "eu/ai-act",
+      "rule_id": "eu-ai-act-gpai-and-governance",
+      "provisions": [
+        "articles/article-051.md",
+        "articles/article-052.md",
+        "articles/article-053.md",
+        "articles/article-054.md",
+        "articles/article-055.md",
+        "articles/article-056.md",
+        "articles/article-099.md",
+        "articles/article-101.md"
+      ],
+      "scope_note": "Chapter V (General-Purpose AI Models), Notifying Authorities, Governance, and Penalties (except Art. 101 fines on GPAI providers phased 12 months later).",
+      "published_date": "2024-07-12",
+      "entry_into_force": "2024-08-01",
+      "entry_into_application": "2025-08-02",
+      "legacy_transition_deadline": "2027-08-02",
+      "legacy_cutoff_date": "2025-08-02",
+      "legacy_note": "GPAI models placed on the market before 2025-08-02 have until 2027-08-02 to achieve compliance (Article 111(3)); GPAI fines under Article 101 apply from 2026-08-02.",
+      "penalty_ceiling": "Up to EUR 15,000,000 or 3% of worldwide annual turnover (Article 101)"
+    },
+    {
+      "instrument_path": "eu/ai-act",
+      "rule_id": "eu-ai-act-transparency-art-50",
+      "provisions": [
+        "articles/article-050.md"
+      ],
+      "scope_note": "Article 50 transparency obligations (direct interaction disclosure, synthetic machine-readable watermarking, deepfake labeling).",
+      "published_date": "2024-07-12",
+      "entry_into_force": "2024-08-01",
+      "entry_into_application": "2026-08-02",
+      "legacy_transition_deadline": "2026-12-02",
+      "legacy_cutoff_date": "2026-08-02",
+      "amended_by": "Regulation (EU) 2026/1744 (Digital Omnibus on AI)",
+      "legacy_note": "Legacy generative AI systems placed on the market before 2026-08-02 have a transition window until 2026-12-02 for Article 50(2) machine-readable markings.",
+      "penalty_ceiling": "Up to EUR 15,000,000 or 3% of worldwide annual turnover (Article 99(4))"
+    },
+    {
+      "instrument_path": "eu/ai-act",
+      "rule_id": "eu-ai-act-high-risk-annex-iii",
+      "provisions": [
+        "articles/article-006.md",
+        "articles/article-008.md",
+        "articles/article-009.md",
+        "articles/article-010.md",
+        "articles/article-011.md",
+        "articles/article-012.md",
+        "articles/article-013.md",
+        "articles/article-014.md",
+        "articles/article-015.md",
+        "articles/article-016.md",
+        "articles/article-026.md",
+        "articles/article-027.md",
+        "articles/article-073.md",
+        "annexes/annex-iii.md"
+      ],
+      "scope_note": "Standalone High-Risk AI Systems listed in Annex III (biometrics, critical infra, education, employment, essential services/credit, law enforcement, migration, justice) and FRIA (Article 27).",
+      "published_date": "2024-07-12",
+      "entry_into_force": "2024-08-01",
+      "original_entry_into_application": "2026-08-02",
+      "entry_into_application": "2027-12-02",
+      "amended_by": "Regulation (EU) 2026/1744 (Digital Omnibus on AI)",
+      "amendment_notes": "POSTPONED from original 2026-08-02 deadline to 2027-12-02 by Regulation (EU) 2026/1744 (Digital Omnibus on AI). Note: AI Act Article 5 prohibitions and Article 50 transparency STILL apply earlier!",
+      "penalty_ceiling": "Up to EUR 15,000,000 or 3% of worldwide annual turnover (Article 99(4))"
+    },
+    {
+      "instrument_path": "eu/ai-act",
+      "rule_id": "eu-ai-act-high-risk-annex-i",
+      "provisions": [
+        "annexes/annex-i.md"
+      ],
+      "scope_note": "High-Risk AI safety components embedded in Annex I Union harmonisation product legislation (medical devices, machinery, aviation, automotive, toys).",
+      "published_date": "2024-07-12",
+      "entry_into_force": "2024-08-01",
+      "original_entry_into_application": "2027-08-02",
+      "entry_into_application": "2028-08-02",
+      "amended_by": "Regulation (EU) 2026/1744 (Digital Omnibus on AI)",
+      "amendment_notes": "POSTPONED from original 2027-08-02 deadline to 2028-08-02 by Regulation (EU) 2026/1744.",
+      "penalty_ceiling": "Up to EUR 15,000,000 or 3% of worldwide annual turnover (Article 99(4))"
+    },
+    {
+      "instrument_path": "eu/gdpr",
+      "rule_id": "eu-gdpr-full",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "All provisions of Regulation (EU) 2016/679 (interpreted by binding CJEU jurisprudence including SCHUFA C-634/21, Schrems II C-311/18, and Meta C-252/21).",
+      "published_date": "2016-05-04",
+      "entry_into_force": "2016-05-24",
+      "entry_into_application": "2018-05-25",
+      "penalty_ceiling": "Up to EUR 20,000,000 or 4% of worldwide annual turnover (Article 83(5))"
+    },
+    {
+      "instrument_path": "eu/cyber/cra",
+      "rule_id": "eu-cra-vulnerability-reporting",
+      "provisions": [
+        "articles/article-014.md"
+      ],
+      "scope_note": "Mandatory manufacturer reporting of actively exploited vulnerabilities and severe incidents via ENISA Single Reporting Platform (24h early warning / 72h notification).",
+      "published_date": "2024-11-20",
+      "entry_into_force": "2024-12-10",
+      "entry_into_application": "2026-09-11",
+      "penalty_ceiling": "Up to EUR 15,000,000 or 2.5% of worldwide annual turnover (Article 64)"
+    },
+    {
+      "instrument_path": "eu/cyber/cra",
+      "rule_id": "eu-cra-full-product-compliance",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Full Cyber Resilience Act essential cybersecurity, SBOM, conformity assessment, and CE marking requirements for products with digital elements.",
+      "published_date": "2024-11-20",
+      "entry_into_force": "2024-12-10",
+      "entry_into_application": "2027-12-11",
+      "penalty_ceiling": "Up to EUR 15,000,000 or 2.5% of worldwide annual turnover (Article 64)"
+    },
+    {
+      "instrument_path": "eu/cyber/nis2",
+      "rule_id": "eu-nis2-transposition",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "NIS2 Directive transposition and national supervisory enforcement.",
+      "published_date": "2022-12-27",
+      "entry_into_force": "2023-01-16",
+      "entry_into_application": "2024-10-18",
+      "penalty_ceiling": "Essential entities: EUR 10,000,000 or 2% turnover; Important entities: EUR 7,000,000 or 1.4% turnover (Article 34)"
+    },
+    {
+      "instrument_path": "eu/cyber/dora",
+      "rule_id": "eu-dora-full",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Digital Operational Resilience Act for EU financial entities and Critical ICT Third-Party Service Providers.",
+      "published_date": "2022-12-27",
+      "entry_into_force": "2023-01-16",
+      "entry_into_application": "2025-01-17",
+      "penalty_ceiling": "CTPP periodic penalty payments up to 1% of average daily worldwide turnover (Article 35(6))"
+    },
+    {
+      "instrument_path": "un/cybercrime-convention",
+      "rule_id": "un-hanoi-cybercrime-ratification",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "UN Convention against Cybercrime (Hanoi Convention, A/RES/79/243). Opened for signature Oct 25, 2025 through Dec 31, 2026; requires 40 ratifications under Article 65 to enter into force.",
+      "published_date": "2024-12-24",
+      "entry_into_force": null,
+      "entry_into_application": null,
+      "status_override": "OPEN_FOR_SIGNATURE_PENDING_40_RATIFICATIONS"
+    },
+    {
+      "instrument_path": "national/us/nist-ai-rmf",
+      "rule_id": "us-eo-14110-revoked",
+      "provisions": [
+        "eo-14110",
+        "articles/article-005.md"
+      ],
+      "scope_note": "Biden-era Executive Order 14110 (signed 2023-10-30) was FORMALLY REVOKED on 2025-01-20. NIST AI RMF 1.0 (AI 100-1) and GenAI Profile (AI 600-1) remain active voluntary technical standards.",
+      "published_date": "2023-10-30",
+      "entry_into_force": "2023-10-30",
+      "entry_into_application": "2023-10-30",
+      "revoked_date": "2025-01-20",
+      "status_override": "EO_14110_REVOKED_NIST_VOLUNTARY_ACTIVE"
+    },
+    {
+      "instrument_path": "national/us/state-ai-laws",
+      "rule_id": "us-texas-traiga",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Texas Responsible Artificial Intelligence Governance Act (HB 149 / TRAIGA) enforceable by the Texas Attorney General from Jan 1, 2026; Colorado SB 24-205 revised by SB 26-189; California AB 2013 effective Jan 1, 2026 & SB 53 (TFAIA) frontier disclosures.",
+      "published_date": "2025-06-22",
+      "entry_into_force": "2026-01-01",
+      "entry_into_application": "2026-01-01",
+      "penalty_ceiling": "Civil penalties enforced exclusively by the Texas Attorney General (60-day cure period for curable violations)"
+    },
+    {
+      "instrument_path": "national/cn/cac-ai-measures",
+      "rule_id": "cn-2025-labeling-measures",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "China CAC Algorithmic Recommendation (2022), Deep Synthesis (2022), Generative AI Interim Measures (2023), and Mandatory AI-Generated Synthetic Content Labeling Measures + GB 45438-2025 (effective 2025-09-01).",
+      "published_date": "2025-03-14",
+      "entry_into_force": "2025-09-01",
+      "entry_into_application": "2025-09-01",
+      "penalty_ceiling": "Administrative rectification, service suspension, and statutory fines under PRC Cybersecurity Law & CAC orders"
+    },
+    {
+      "instrument_path": "national/kr/ai-basic-act",
+      "rule_id": "kr-ai-basic-act-2026",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "South Korea Framework Act on the Development of AI and Creation of a Foundation for Trust (Act No. 20676 & Presidential Decree No. 36053) — Asia's first comprehensive binding statutory AI law.",
+      "published_date": "2025-01-21",
+      "entry_into_force": "2026-01-22",
+      "entry_into_application": "2026-01-22",
+      "penalty_ceiling": "MSIT corrective orders and administrative fines up to KRW 30 million (initial grace/guidance period for technical compliance)"
+    },
+    {
+      "instrument_path": "national/jp/ai-promotion-act",
+      "rule_id": "jp-ai-promotion-act-2025",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Japan AI Promotion Act (Act No. 53 of 2025) — promulgated 2025-06-04; AI Strategy Headquarters & AI Basic Plan chapters entered full force 2025-09-01.",
+      "published_date": "2025-06-04",
+      "entry_into_force": "2025-06-04",
+      "entry_into_application": "2025-09-01",
+      "penalty_ceiling": "No direct EU-style administrative fines; mandatory government investigation cooperation and public naming of non-compliant operators"
+    },
+    {
+      "instrument_path": "national/uk/ai-governance",
+      "rule_id": "uk-duaa-2025",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "UK Data (Use and Access) Act 2025 (2025 c. 18) reforming UK GDPR Article 22 automated decision-making, paired with UK DSIT pro-innovation principles and UK AI Safety Institute (AISI).",
+      "published_date": "2025-06-19",
+      "entry_into_force": "2025-06-19",
+      "entry_into_application": "2025-06-19",
+      "penalty_ceiling": "ICO enforcement under UK GDPR / Data Protection Act 2018 (up to GBP 17.5M or 4% global turnover)"
+    },
+    {
+      "instrument_path": "national/sg/agentic-ai-governance",
+      "rule_id": "sg-imda-agentic-2026",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Singapore IMDA Model AI Governance Framework for Agentic AI (2026) — authoritative voluntary governance standard for tool-calling autonomous AI agents.",
+      "published_date": "2026-01-22",
+      "entry_into_force": "2026-01-22",
+      "entry_into_application": "2026-01-22",
+      "status_override": "VOLUNTARY_GOVERNANCE_FRAMEWORK"
+    },
+    {
+      "instrument_path": "national/br/ai-bill-pl2338",
+      "rule_id": "br-pl2338-pending",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Brazil AI Bill PL 2338/2023 approved by Federal Senate (2024-12-10); currently under Chamber of Deputies Special Committee (PL233823) review — NOT YET ENACTED.",
+      "published_date": "2024-12-10",
+      "entry_into_force": null,
+      "entry_into_application": null,
+      "status_override": "PENDING_LEGISLATION_NOT_YET_ENACTED"
+    },
+    {
+      "instrument_path": "standards/iso-iec-42001",
+      "rule_id": "iso-42001-active",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "ISO/IEC 42001:2023 AI Management System Standard — voluntary internationally certifiable standard referenced as statutory safe harbor / conformity anchor across EU AI Act, Colorado AI Act, and South Korea AI Basic Act.",
+      "published_date": "2023-12-18",
+      "entry_into_force": "2023-12-18",
+      "entry_into_application": "2023-12-18",
+      "status_override": "VOLUNTARY_CERTIFIABLE_STANDARD"
+    },
+    {
+      "instrument_path": "ihl/geneva-conventions",
+      "rule_id": "ihl-gc-and-ap1",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Geneva Conventions of 1949 (universal ratification; customary IHL) and Additional Protocol I of 1977 (entry into force 1978-12-07; core rules of distinction, proportionality, precautions, and weapons review reflect customary international law).",
+      "published_date": "1949-08-12",
+      "entry_into_force": "1950-10-21",
+      "entry_into_application": "1950-10-21",
+      "additional_application_dates": {
+        "additional_protocols_1977": "1978-12-07"
+      }
+    },
+    {
+      "instrument_path": "ihl/geneva-conventions-i-iii",
+      "rule_id": "ihl-gc-i-iii",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Geneva Conventions I (Wounded & Sick), II (Shipwrecked), and III (Prisoners of War) of 12 August 1949 — universally ratified binding treaty and customary international law.",
+      "published_date": "1949-08-12",
+      "entry_into_force": "1950-10-21",
+      "entry_into_application": "1950-10-21"
+    },
+    {
+      "instrument_path": "ihl/additional-protocol-ii",
+      "rule_id": "ihl-ap2",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Additional Protocol II of 8 June 1977 governing Non-International Armed Conflicts (NIAC).",
+      "published_date": "1977-06-08",
+      "entry_into_force": "1978-12-07",
+      "entry_into_application": "1978-12-07"
+    },
+    {
+      "instrument_path": "caselaw/cjeu/schufa-c-634-21",
+      "rule_id": "cjeu-schufa-binding",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Binding CJEU preliminary ruling (Case C-634/21, 7 Dec 2023): Automated generation of a probability/credit score strongly relied upon by a third party constitutes a prohibited 'decision based solely on automated processing' under GDPR Article 22(1).",
+      "published_date": "2023-12-07",
+      "entry_into_force": "2023-12-07",
+      "entry_into_application": "2023-12-07"
+    },
+    {
+      "instrument_path": "caselaw/cjeu/schrems-ii-c-311-18",
+      "rule_id": "cjeu-schrems-ii-binding",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Binding CJEU Grand Chamber ruling (Case C-311/18, 16 July 2020): Invalidated EU-US Privacy Shield and mandated Transfer Impact Assessments + supplementary safeguards for SCC transfers exposed to foreign intelligence surveillance.",
+      "published_date": "2020-07-16",
+      "entry_into_force": "2020-07-16",
+      "entry_into_application": "2020-07-16"
+    },
+    {
+      "instrument_path": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "rule_id": "cjeu-meta-binding",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Binding CJEU Grand Chamber ruling (Case C-252/21, 4 July 2023): National competition authorities may assess GDPR compliance; personalized AI ad profiling cannot rely on 'contractual necessity' or routine 'legitimate interest' under GDPR Articles 6(1) and 9.",
+      "published_date": "2023-07-04",
+      "entry_into_force": "2023-07-04",
+      "entry_into_application": "2023-07-04"
+    },
+    {
+      "instrument_path": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "rule_id": "cjeu-lqdn-binding",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "Binding CJEU Grand Chamber ruling (Case C-511/18, 6 Oct 2020): Restricts general and indiscriminate electronic communications retention and automated real-time traffic analysis except for genuine, present, foreseeable national security threats subject to independent judicial review.",
+      "published_date": "2020-10-06",
+      "entry_into_force": "2020-10-06",
+      "entry_into_application": "2020-10-06"
+    },
+    {
+      "instrument_path": "caselaw/icj/nuclear-weapons-1996",
+      "rule_id": "icj-nuclear-weapons-1996",
+      "provisions": [
+        "*"
+      ],
+      "scope_note": "ICJ Advisory Opinion (8 July 1996, UN Doc. A/51/218): Affirms that the cardinal principles of distinction and prohibition of unnecessary suffering are 'intransgressible principles of international customary law' and that IHL + the Martens Clause apply to all new weapons technologies.",
+      "published_date": "1996-07-08",
+      "entry_into_force": "1996-07-08",
+      "entry_into_application": "1996-07-08"
+    }
+  ]
+}

@@ -1,0 +1,3831 @@
+{
+  "schema_version": "2.0.0",
+  "node_count": 27,
+  "edge_count": 307,
+  "nodes": [
+    {
+      "id": "eu-ai-act",
+      "path": "eu/ai-act",
+      "title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (as amended by Regulation (EU) 2026/1744)",
+      "short_title": "EU AI Act",
+      "jurisdiction": "eu",
+      "domain": "ai",
+      "type": "regulation",
+      "status": "in_force_phased_application",
+      "versions_count": 8
+    },
+    {
+      "id": "eu-gdpr",
+      "path": "eu/gdpr",
+      "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
+      "short_title": "EU GDPR",
+      "jurisdiction": "eu",
+      "domain": "privacy",
+      "type": "regulation",
+      "status": "in_force",
+      "versions_count": 3
+    },
+    {
+      "id": "eu-cyber-cra",
+      "path": "eu/cyber/cra",
+      "title": "Regulation (EU) 2024/2847 — Cyber Resilience Act (CRA)",
+      "short_title": "EU Cyber Resilience Act",
+      "jurisdiction": "eu",
+      "domain": "cyber",
+      "type": "regulation",
+      "status": "in_force_phased_application",
+      "versions_count": 2
+    },
+    {
+      "id": "eu-cyber-nis2",
+      "path": "eu/cyber/nis2",
+      "title": "Directive (EU) 2022/2555 — Network and Information Security Directive (NIS2)",
+      "short_title": "EU NIS2 Directive",
+      "jurisdiction": "eu",
+      "domain": "cyber",
+      "type": "directive",
+      "status": "in_force",
+      "versions_count": 2
+    },
+    {
+      "id": "eu-cyber-dora",
+      "path": "eu/cyber/dora",
+      "title": "Regulation (EU) 2022/2554 — Digital Operational Resilience Act (DORA)",
+      "short_title": "EU DORA",
+      "jurisdiction": "eu",
+      "domain": "cyber",
+      "type": "regulation",
+      "status": "in_force",
+      "versions_count": 2
+    },
+    {
+      "id": "coe-ai-convention",
+      "path": "coe/ai-convention",
+      "title": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225)",
+      "short_title": "CoE AI Convention (CETS 225)",
+      "jurisdiction": "coe",
+      "domain": "ai",
+      "type": "treaty",
+      "status": "signed_and_eu_concluded_2026",
+      "versions_count": 4
+    },
+    {
+      "id": "coe-budapest-convention",
+      "path": "coe/budapest-convention",
+      "title": "Council of Europe Convention on Cybercrime (Budapest Convention, ETS 185) & Second Additional Protocol (CETS 224)",
+      "short_title": "Budapest Cybercrime Convention",
+      "jurisdiction": "coe",
+      "domain": "cyber",
+      "type": "treaty",
+      "status": "in_force",
+      "versions_count": 2
+    },
+    {
+      "id": "un-cybercrime-convention",
+      "path": "un/cybercrime-convention",
+      "title": "United Nations Convention against Cybercrime (Hanoi Convention, A/RES/79/243)",
+      "short_title": "UN Cybercrime Convention (Hanoi)",
+      "jurisdiction": "un",
+      "domain": "cyber",
+      "type": "treaty",
+      "status": "open_for_signature_until_2026_12_31",
+      "versions_count": 2
+    },
+    {
+      "id": "un-ccw-laws",
+      "path": "un/ccw-laws",
+      "title": "UN CCW Group of Governmental Experts on Lethal Autonomous Weapons Systems (LAWS)",
+      "short_title": "UN CCW GGE on LAWS",
+      "jurisdiction": "un",
+      "domain": "ihl",
+      "type": "multilateral_normative_instrument",
+      "status": "active_negotiation",
+      "versions_count": 3
+    },
+    {
+      "id": "un-ai-governance",
+      "path": "un/ai-governance",
+      "title": "United Nations General Assembly Global AI Governance Resolutions & Global Digital Compact",
+      "short_title": "UN Global AI Governance",
+      "jurisdiction": "un",
+      "domain": "ai",
+      "type": "un_resolution",
+      "status": "adopted",
+      "versions_count": 2
+    },
+    {
+      "id": "ihl-geneva-conventions",
+      "path": "ihl/geneva-conventions",
+      "title": "Geneva Conventions of 12 August 1949 and Additional Protocols I & II of 8 June 1977",
+      "short_title": "Geneva Conventions & Additional Protocols",
+      "jurisdiction": "ihl",
+      "domain": "ihl",
+      "type": "treaty",
+      "status": "in_force",
+      "versions_count": 2
+    },
+    {
+      "id": "national-us-nist-ai-rmf",
+      "path": "national/us/nist-ai-rmf",
+      "title": "United States Federal AI Governance: NIST AI RMF 1.0, AI 600-1, and Executive Order Trajectory (2023-2026)",
+      "short_title": "US Federal AI & NIST RMF",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "national_framework",
+      "status": "active_voluntary_post_eo14110_revocation",
+      "versions_count": 3
+    },
+    {
+      "id": "national-us-state-ai-laws",
+      "path": "national/us/state-ai-laws",
+      "title": "United States Binding State AI Statutes (Texas TRAIGA HB 149, Colorado AI Act, California TFAIA & AB 2013)",
+      "short_title": "US State Binding AI Laws",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "state_statute_collection",
+      "status": "in_force_phased",
+      "versions_count": 2
+    },
+    {
+      "id": "national-cn-cac-ai-measures",
+      "path": "national/cn/cac-ai-measures",
+      "title": "People's Republic of China CAC Algorithmic, Deep Synthesis, Generative AI & 2025 Labeling Measures",
+      "short_title": "China CAC AI Regulations",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "national_regulation",
+      "status": "in_force",
+      "versions_count": 4
+    },
+    {
+      "id": "ihl-geneva-conventions-i-iii",
+      "path": "ihl/geneva-conventions-i-iii",
+      "title": "Geneva Conventions I, II, and III of 12 August 1949 (Wounded, Shipwrecked & Prisoners of War)",
+      "short_title": "Geneva Conventions I–III (1949)",
+      "jurisdiction": "ihl",
+      "domain": "ihl",
+      "type": "treaty",
+      "status": "in_force",
+      "versions_count": 3
+    },
+    {
+      "id": "ihl-additional-protocol-ii",
+      "path": "ihl/additional-protocol-ii",
+      "title": "Protocol Additional to the Geneva Conventions of 12 August 1949 — Non-International Armed Conflicts (Additional Protocol II, 1977)",
+      "short_title": "Additional Protocol II (1977)",
+      "jurisdiction": "ihl",
+      "domain": "ihl",
+      "type": "treaty",
+      "status": "in_force",
+      "versions_count": 1
+    },
+    {
+      "id": "national-uk-ai-governance",
+      "path": "national/uk/ai-governance",
+      "title": "United Kingdom AI Governance: DSIT AI White Paper, UK AI Safety Institute (AISI) & Data (Use and Access) Act 2025 (c. 18)",
+      "short_title": "UK AI Governance & DUAA 2025",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "national_framework",
+      "status": "in_force",
+      "versions_count": 3
+    },
+    {
+      "id": "national-sg-agentic-ai-governance",
+      "path": "national/sg/agentic-ai-governance",
+      "title": "Singapore IMDA Model AI Governance Framework for Agentic AI (2026)",
+      "short_title": "Singapore Agentic AI Framework",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "national_framework",
+      "status": "active_voluntary",
+      "versions_count": 1
+    },
+    {
+      "id": "national-kr-ai-basic-act",
+      "path": "national/kr/ai-basic-act",
+      "title": "Republic of Korea Framework Act on the Development of AI and Creation of a Foundation for Trust (AI Basic Act, Act No. 20676)",
+      "short_title": "South Korea AI Basic Act (2026)",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "national_statute",
+      "status": "in_force",
+      "versions_count": 1
+    },
+    {
+      "id": "national-jp-ai-promotion-act",
+      "path": "national/jp/ai-promotion-act",
+      "title": "Japan Act on Promotion of Research, Development, and Utilization of AI-Related Technologies (AI Promotion Act, Act No. 53 of 2025)",
+      "short_title": "Japan AI Promotion Act (2025)",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "national_statute",
+      "status": "in_force",
+      "versions_count": 1
+    },
+    {
+      "id": "national-br-ai-bill-pl2338",
+      "path": "national/br/ai-bill-pl2338",
+      "title": "Brazil Artificial Intelligence Regulatory Framework Bill (PL 2338/2023)",
+      "short_title": "Brazil AI Bill (PL 2338/2023)",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "type": "pending_legislation",
+      "status": "pending_chamber_of_deputies_review",
+      "versions_count": 1
+    },
+    {
+      "id": "standards-iso-iec-42001",
+      "path": "standards/iso-iec-42001",
+      "title": "ISO/IEC 42001:2023 — Information Technology — Artificial Intelligence Management System (AIMS) Crosswalk",
+      "short_title": "ISO/IEC 42001:2023 (AIMS)",
+      "jurisdiction": "standards",
+      "domain": "ai",
+      "type": "technical_standard_crosswalk",
+      "status": "active_international_standard",
+      "versions_count": 1
+    },
+    {
+      "id": "caselaw-cjeu-schufa",
+      "path": "caselaw/cjeu/schufa-c-634-21",
+      "title": "CJEU Judgment in OQ v Land Hessen / SCHUFA Holding (Case C-634/21) — Automated Decision-Making & AI Scoring",
+      "short_title": "CJEU SCHUFA (C-634/21)",
+      "jurisdiction": "caselaw",
+      "domain": "ai",
+      "type": "judicial_precedent",
+      "status": "binding_precedent",
+      "versions_count": 1
+    },
+    {
+      "id": "caselaw-cjeu-schrems-ii",
+      "path": "caselaw/cjeu/schrems-ii-c-311-18",
+      "title": "CJEU Grand Chamber Judgment in Data Protection Commissioner v Facebook Ireland & Maximillian Schrems (Schrems II, Case C-311/18)",
+      "short_title": "CJEU Schrems II (C-311/18)",
+      "jurisdiction": "caselaw",
+      "domain": "privacy",
+      "type": "judicial_precedent",
+      "status": "binding_precedent",
+      "versions_count": 1
+    },
+    {
+      "id": "caselaw-cjeu-meta-bundeskartellamt",
+      "path": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "title": "CJEU Grand Chamber Judgment in Meta Platforms v Bundeskartellamt (Case C-252/21) — Profiling, AI Personalization & Competition",
+      "short_title": "CJEU Meta v BKA (C-252/21)",
+      "jurisdiction": "caselaw",
+      "domain": "ai",
+      "type": "judicial_precedent",
+      "status": "binding_precedent",
+      "versions_count": 1
+    },
+    {
+      "id": "caselaw-cjeu-la-quadrature-du-net",
+      "path": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "title": "CJEU Grand Chamber Judgment in La Quadrature du Net (Joined Cases C-511/18, C-512/18 & C-520/18) — Bulk Data Retention & Automated Traffic Analysis",
+      "short_title": "CJEU La Quadrature du Net (C-511/18)",
+      "jurisdiction": "caselaw",
+      "domain": "cyber",
+      "type": "judicial_precedent",
+      "status": "binding_precedent",
+      "versions_count": 1
+    },
+    {
+      "id": "caselaw-icj-nuclear-weapons",
+      "path": "caselaw/icj/nuclear-weapons-1996",
+      "title": "ICJ Advisory Opinion on the Legality of the Threat or Use of Nuclear Weapons (8 July 1996, UN Doc. A/51/218)",
+      "short_title": "ICJ Nuclear Weapons Opinion (1996)",
+      "jurisdiction": "caselaw",
+      "domain": "ihl",
+      "type": "judicial_precedent",
+      "status": "authoritative_icj_opinion",
+      "versions_count": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "complements",
+      "provisions": [
+        "Article 2(7)",
+        "Article 5(1)(g)",
+        "Article 10(5)",
+        "Article 27(4)"
+      ],
+      "note": "Operates without prejudice to Regulation (EU) 2016/679; FRIA under Article 27 integrates with GDPR Article 35 DPIA.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/cyber/cra",
+      "relationship": "interlocks_with",
+      "provisions": [
+        "Article 15",
+        "Article 42(2)",
+        "Annex I"
+      ],
+      "note": "High-risk AI systems complying with CRA essential cybersecurity requirements are presumed compliant with AI Act Article 15 cybersecurity duties.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "coe/ai-convention",
+      "relationship": "harmonized_with",
+      "provisions": [
+        "Article 1",
+        "Article 3(1)",
+        "Article 5",
+        "Article 9"
+      ],
+      "note": "Aligned with Council of Europe Framework Convention on AI (CETS 225), formally concluded by the EU in 2026.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "Article 9",
+        "Article 15",
+        "Article 55"
+      ],
+      "note": "Article 9 Risk Management and Article 55 GPAI systemic risk evaluations parallel NIST AI RMF 1.0 and AI 600-1.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/gdpr",
+      "target": "eu/ai-act",
+      "relationship": "referenced_by",
+      "provisions": [
+        "Article 4",
+        "Article 9",
+        "Article 22",
+        "Article 35"
+      ],
+      "note": "Profiling (Art. 4(4)), biometric data (Art. 9), automated decision-making (Art. 22), and DPIAs (Art. 35) anchor EU AI Act Article 6(3), Article 10(5), and Article 27.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/ai-act",
+      "relationship": "interlocks_with",
+      "provisions": [
+        "Article 12",
+        "Article 14",
+        "Annex I"
+      ],
+      "note": "Products with digital elements that are also high-risk AI systems enjoy presumption of conformity with AI Act Article 15 when CRA essential cybersecurity requirements are satisfied.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "complements",
+      "provisions": [
+        "Article 14",
+        "Article 16"
+      ],
+      "note": "CRA governs product-level security and ENISA single-reporting-platform notifications, complementing NIS2 entity-level obligations.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/dora",
+      "relationship": "lex_generalis_to",
+      "provisions": [
+        "Article 4",
+        "Article 21",
+        "Article 23"
+      ],
+      "note": "DORA operates as lex specialis for financial entities regarding ICT risk management and incident reporting.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/cra",
+      "relationship": "complements",
+      "provisions": [
+        "Article 21(2)(d)",
+        "Article 23"
+      ],
+      "note": "Supply chain cybersecurity and 24-hour early warning incident reporting align with CRA vulnerability handling.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "lex_specialis_to",
+      "provisions": [
+        "Article 1",
+        "Article 17",
+        "Article 28"
+      ],
+      "note": "Overrides NIS2 entity-level ICT risk and incident reporting for regulated EU financial institutions.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "coe/ai-convention",
+      "target": "eu/ai-act",
+      "relationship": "harmonized_with",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 16"
+      ],
+      "note": "First legally binding international AI treaty; formally approved/concluded by the European Union in mid-2026.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "coe/ai-convention",
+      "target": "un/ai-governance",
+      "relationship": "complements",
+      "provisions": [
+        "Article 3",
+        "Article 7",
+        "Article 16"
+      ],
+      "note": "Reinforces UNGA human-rights lifecycle protection norms.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "coe/budapest-convention",
+      "target": "un/cybercrime-convention",
+      "relationship": "parallel_treaty_regime",
+      "provisions": [
+        "Article 15",
+        "Article 18",
+        "CETS 224 Article 6"
+      ],
+      "note": "Contrasts with the 2024/2025 UN Hanoi Cybercrime Convention through stricter Article 15 human-rights, proportionality, and judicial oversight conditions.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "un/cybercrime-convention",
+      "target": "coe/budapest-convention",
+      "relationship": "parallel_treaty_regime",
+      "provisions": [
+        "Article 6",
+        "Article 24",
+        "Article 35",
+        "Article 40"
+      ],
+      "note": "Global UN treaty covering ICT-enabled offenses and cross-border electronic evidence sharing for serious crimes; requires 40 ratifications to enter into force.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "un/ccw-laws",
+      "target": "ihl/geneva-conventions",
+      "relationship": "implements_and_interprets",
+      "provisions": [
+        "Principle (a)",
+        "Principle (c)",
+        "Principle (e)",
+        "AP I Article 36"
+      ],
+      "note": "Affirms full applicability of IHL (Geneva Conventions and Additional Protocol I Arts. 35, 36, 48, 51, 57) to all autonomous weapons systems.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "un/ai-governance",
+      "target": "coe/ai-convention",
+      "relationship": "complements",
+      "provisions": [
+        "OP 4",
+        "OP 6",
+        "GDC Para 56"
+      ],
+      "note": "Global consensus baseline paired with Independent International Scientific Panel on AI.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "ihl/geneva-conventions",
+      "target": "un/ccw-laws",
+      "relationship": "foundational_treaty_for",
+      "provisions": [
+        "Common Article 1",
+        "Common Article 3",
+        "AP I Article 35",
+        "AP I Article 36",
+        "AP I Article 48",
+        "AP I Article 51",
+        "AP I Article 57"
+      ],
+      "note": "Primary binding IHL benchmark for military AI, autonomous targeting, and cyber warfare.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/us/nist-ai-rmf",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "GOVERN",
+        "MAP",
+        "MEASURE",
+        "MANAGE",
+        "AI 600-1"
+      ],
+      "note": "Maps to EU AI Act Article 9 Risk Management and Article 55 systemic risk evaluations.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/us/nist-ai-rmf",
+      "target": "national/us/state-ai-laws",
+      "relationship": "safe_harbor_benchmark_for",
+      "provisions": [
+        "GOVERN",
+        "MAP",
+        "MEASURE",
+        "MANAGE"
+      ],
+      "note": "NIST AI RMF compliance functions as an explicit affirmative defense or safe-harbor benchmark in US state AI statutes (e.g., Colorado AI Act).",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/us/state-ai-laws",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "references_safe_harbor",
+      "provisions": [
+        "Colorado AI Act",
+        "Texas TRAIGA",
+        "California SB 53"
+      ],
+      "note": "Primary source of binding statutory AI obligations in the United States following federal EO 14110 revocation.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/us/state-ai-laws",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "Texas TRAIGA Prohibitions",
+        "Colorado Algorithmic Discrimination",
+        "California Frontier Transparency"
+      ],
+      "note": "Mirrors EU AI Act structural themes (prohibited manipulations, high-risk discrimination duties, frontier training-data/safety disclosures) under state Attorney General enforcement.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/cn/cac-ai-measures",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "Article 4",
+        "Article 7",
+        "Article 12",
+        "2025 Labeling Measures"
+      ],
+      "note": "Mandatory explicit and implicit synthetic content labeling effective Sept 1, 2025 predates EU AI Act Article 50 enforcement (Aug 2, 2026).",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "companion_treaty",
+      "provisions": [
+        "Common Article 1",
+        "Common Article 2",
+        "Common Article 3"
+      ],
+      "note": "Completes full verbatim 1949 Geneva Convention coverage alongside Geneva Convention IV and Additional Protocol I.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "caselaw/icj/nuclear-weapons-1996",
+      "relationship": "interpreted_by",
+      "provisions": [
+        "Common Article 1",
+        "Grave Breaches"
+      ],
+      "note": "Affirmed by ICJ as embodying intransgressible principles of customary international humanitarian law.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "ihl/additional-protocol-ii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "supplements",
+      "provisions": [
+        "Article 1",
+        "Article 4",
+        "Article 13"
+      ],
+      "note": "Develops and supplements Common Article 3 for Non-International Armed Conflicts (NIAC), prohibiting attacks on civilians and terrorizing civilian populations.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/uk/ai-governance",
+      "target": "eu/gdpr",
+      "relationship": "diverges_from",
+      "provisions": [
+        "UK GDPR Article 22",
+        "DUAA 2025"
+      ],
+      "note": "UK Data (Use and Access) Act 2025 reforms automated decision-making rules relative to EU GDPR Article 22 and CJEU SCHUFA.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/uk/ai-governance",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "5 Cross-Sectoral Principles",
+        "UK AISI"
+      ],
+      "note": "Sectoral principles-based regulatory model contrasted with EU AI Act horizontal risk tiers.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/sg/agentic-ai-governance",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "harmonized_with",
+      "provisions": [
+        "Tool-Use Boundaries",
+        "Human Approval Checkpoints",
+        "Agent Testing"
+      ],
+      "note": "World's first dedicated national governance standard specifically targeting tool-calling autonomous AI agents.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/sg/agentic-ai-governance",
+      "target": "standards/iso-iec-42001",
+      "relationship": "aligned_with",
+      "provisions": [
+        "Governance",
+        "Risk Bounding",
+        "Human Accountability"
+      ],
+      "note": "Maps agentic permissions, least-privilege sandboxing, and kill-switch governance onto AIMS controls.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/kr/ai-basic-act",
+      "target": "eu/ai-act",
+      "relationship": "comparative_framework",
+      "provisions": [
+        "High-Impact AI",
+        "Generative AI Labeling",
+        "Domestic Representative"
+      ],
+      "note": "Asia's first comprehensive binding AI statute (effective Jan 22, 2026), paralleling EU AI Act high-risk and transparency regimes with extraterritorial domestic-agent requirements.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/kr/ai-basic-act",
+      "target": "standards/iso-iec-42001",
+      "relationship": "aligned_with",
+      "provisions": [
+        "High-Impact Risk Management"
+      ],
+      "note": "Risk management and impact assessment rules interoperate with ISO/IEC 42001 controls.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/jp/ai-promotion-act",
+      "target": "eu/ai-act",
+      "relationship": "contrasts_with",
+      "provisions": [
+        "Innovation-First Promotion",
+        "Investigation Cooperation"
+      ],
+      "note": "Rejects EU-style upfront administrative fines in favor of AI Strategy Headquarters oversight, mandatory misuse-investigation cooperation, and public naming powers.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "national/br/ai-bill-pl2338",
+      "target": "eu/ai-act",
+      "relationship": "modeled_on",
+      "provisions": [
+        "Excessive Risk",
+        "High Risk",
+        "Copyright Remuneration",
+        "SIA/ANPD"
+      ],
+      "note": "Latin America's flagship EU-inspired AI bill; approved by Federal Senate Dec 10, 2024 and pending Chamber of Deputies Special Committee (PL233823) vote.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "standards/iso-iec-42001",
+      "target": "eu/ai-act",
+      "relationship": "operationalizes",
+      "provisions": [
+        "Article 9",
+        "Article 17",
+        "Annex IV"
+      ],
+      "note": "Provides certifiable management-system architecture aligned with EU AI Act Article 17 QMS and Article 9 Risk Management.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "standards/iso-iec-42001",
+      "target": "national/us/state-ai-laws",
+      "relationship": "statutory_safe_harbor_for",
+      "provisions": [
+        "Colorado AI Act Reasonable Care"
+      ],
+      "note": "Explicitly recognized alongside NIST AI RMF as a rebuttable presumption of reasonable care in US state AI legislation.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "standards/iso-iec-42001",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "crosswalked_with",
+      "provisions": [
+        "GOVERN",
+        "MAP",
+        "MEASURE",
+        "MANAGE"
+      ],
+      "note": "Direct structural crosswalk between ISO 42001 Clauses 4-10 / Annex A and NIST AI RMF 1.0.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/schufa-c-634-21",
+      "target": "eu/gdpr",
+      "relationship": "authoritatively_interprets",
+      "provisions": [
+        "Article 22(1)",
+        "Article 4(4)",
+        "Recital 71"
+      ],
+      "note": "Holds that automated probability/credit scoring strongly relied upon by a downstream lender is itself a 'decision based solely on automated processing' under GDPR Article 22(1).",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/schufa-c-634-21",
+      "target": "eu/ai-act",
+      "relationship": "informs_enforcement_of",
+      "provisions": [
+        "Article 6(3)",
+        "Annex III Point 5(b)"
+      ],
+      "note": "Directly governs creditworthiness AI systems classified as high-risk under EU AI Act Annex III.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/schrems-ii-c-311-18",
+      "target": "eu/gdpr",
+      "relationship": "authoritatively_interprets",
+      "provisions": [
+        "Article 44",
+        "Article 45",
+        "Article 46"
+      ],
+      "note": "Invalidated EU-US Privacy Shield and mandated Transfer Impact Assessments and supplementary safeguards for international AI/cloud data transfers under SCCs.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "target": "eu/gdpr",
+      "relationship": "authoritatively_interprets",
+      "provisions": [
+        "Article 6(1)",
+        "Article 9(1)",
+        "Article 9(2)(e)"
+      ],
+      "note": "Restricts reliance on contractual necessity or legitimate interest for off-platform AI behavioral profiling and confirms competition authorities may examine GDPR breaches.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "target": "eu/gdpr",
+      "relationship": "authoritatively_interprets",
+      "provisions": [
+        "Article 23",
+        "ePrivacy Article 15(1)"
+      ],
+      "note": "Defines strict EU Charter proportionality boundaries for automated real-time algorithmic analysis of electronic communications metadata and national security retention.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "target": "eu/cyber/nis2",
+      "relationship": "informs_boundaries_of",
+      "provisions": [
+        "Cybersecurity Telemetry",
+        "National Security"
+      ],
+      "note": "Constrains indiscriminate surveillance while permitting targeted cyber-threat retention subject to independent judicial review.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "authoritatively_interprets",
+      "provisions": [
+        "AP I Article 35",
+        "AP I Article 36",
+        "AP I Article 48",
+        "Martens Clause"
+      ],
+      "note": "Establishes that distinction and unnecessary suffering are 'intransgressible principles of international customary law' and that IHL applies to all future weapons technologies (foundational precedent for LAWS reviews).",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "un/ccw-laws",
+      "relationship": "foundational_jurisprudence_for",
+      "provisions": [
+        "Guiding Principle (a)",
+        "Martens Clause"
+      ],
+      "note": "Primary ICJ authority cited in UN CCW GGE LAWS deliberations confirming IHL covers novel autonomous weapons.",
+      "origin": "catalog_declarative"
+    },
+    {
+      "source": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/la-quadrature-du-net-c-511-18/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-029.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/la-quadrature-du-net-c-511-18/articles/article-029.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/meta-bundeskartellamt-c-252-21/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/meta-bundeskartellamt-c-252-21/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-017.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/meta-bundeskartellamt-c-252-21/articles/article-017.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/schrems-ii-c-311-18",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/schrems-ii-c-311-18/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/schrems-ii-c-311-18",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-004.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/schrems-ii-c-311-18/articles/article-004.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/schrems-ii-c-311-18",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-018.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/schrems-ii-c-311-18/articles/article-018.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/schufa-c-634-21",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/schufa-c-634-21/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/schufa-c-634-21",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/schufa-c-634-21/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/cjeu/schufa-c-634-21",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-010.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/cjeu/schufa-c-634-21/articles/article-010.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_protocol",
+      "provisions": [
+        "articles/article-027.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-027.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-027.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-027.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_protocol",
+      "provisions": [
+        "articles/article-028.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-028.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_protocol",
+      "provisions": [
+        "articles/article-031.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-031.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/additional-protocol-ii",
+      "relationship": "cites_ihl_protocol",
+      "provisions": [
+        "articles/article-059.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-059.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_protocol",
+      "provisions": [
+        "articles/article-078.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-078.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-079.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-079.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-081.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-081.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_protocol",
+      "provisions": [
+        "articles/article-084.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-084.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "caselaw/icj/nuclear-weapons-1996",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-085.md"
+      ],
+      "note": "Inline statutory citation extracted from caselaw/icj/nuclear-weapons-1996/articles/article-085.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "coe/ai-convention/amendments/eu_conclusion_2026",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from coe/ai-convention/amendments/eu_conclusion_2026/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "coe/ai-convention/amendments/eu_conclusion_2026",
+      "target": "coe/ai-convention",
+      "relationship": "cites_treaty",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from coe/ai-convention/amendments/eu_conclusion_2026/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "coe/ai-convention",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from coe/ai-convention/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/commission_prohibited_guidelines_2025",
+      "target": "caselaw/cjeu/schufa-c-634-21",
+      "relationship": "cites_cjeu_precedent",
+      "provisions": [
+        "articles/article-004.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/commission_prohibited_guidelines_2025/articles/article-004.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/commission_prohibited_guidelines_2025",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-009.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/commission_prohibited_guidelines_2025/articles/article-009.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/commission_prohibited_guidelines_2025",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-010.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/commission_prohibited_guidelines_2025/articles/article-010.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_amending_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/cyber/cra",
+      "relationship": "cites_cyber_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "national/sg/agentic-ai-governance",
+      "relationship": "cites_governance_framework",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_amending_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_amending_regulation",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/digital_omnibus_2026_1744",
+      "target": "eu/ai-act",
+      "relationship": "cites_amending_regulation",
+      "provisions": [
+        "articles/article-004.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/digital_omnibus_2026_1744/articles/article-004.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act/amendments/gpai_code_of_practice_2025",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/amendments/gpai_code_of_practice_2025/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-005.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-005.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-026.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-026.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-027.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-027.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-059.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-059.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/ai-act",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-074.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/ai-act/articles/article-074.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-008.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-008.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-012.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-012.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-013.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-013.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-014.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-014.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-016.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-016.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-017.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-017.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/ai-act",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-052.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-052.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-054.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-054.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-056.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-056.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/cra",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-057.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/cra/articles/article-057.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-019.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-019.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-020.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-020.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-022.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-022.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-032.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-032.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-035.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-035.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-042.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-042.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-044.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-044.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-045.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-045.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-047.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-047.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/cyber/nis2",
+      "relationship": "cites_cyber_directive",
+      "provisions": [
+        "articles/article-055.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-055.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/dora",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-056.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/dora/articles/article-056.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/dora",
+      "relationship": "cites_cyber_regulation",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/dora",
+      "relationship": "cites_cyber_regulation",
+      "provisions": [
+        "articles/article-013.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-013.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/dora",
+      "relationship": "cites_cyber_regulation",
+      "provisions": [
+        "articles/article-014.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-014.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-031.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-031.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/dora",
+      "relationship": "cites_cyber_regulation",
+      "provisions": [
+        "articles/article-032.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-032.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/cyber/dora",
+      "relationship": "cites_cyber_regulation",
+      "provisions": [
+        "articles/article-033.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-033.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "eu/gdpr",
+      "relationship": "cites_regulation",
+      "provisions": [
+        "articles/article-035.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-035.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/cyber/nis2",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/cyber/nis2/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/gdpr",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/gdpr/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/gdpr",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-039.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/gdpr/articles/article-039.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/gdpr",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-057.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/gdpr/articles/article-057.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "eu/gdpr",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-058.md"
+      ],
+      "note": "Inline statutory citation extracted from eu/gdpr/articles/article-058.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/additional-protocol-ii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/additional-protocol-ii/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-004.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-004.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-005.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-005.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-006.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-006.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-007.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-007.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-008.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-008.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-009.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-009.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-010.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-010.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-011.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-011.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-012.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-012.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-013.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-013.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-014.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-014.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-015.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-015.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-016.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-016.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-017.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-017.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-018.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-018.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-019.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-019.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-020.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-020.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-021.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-021.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-022.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-022.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-023.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-023.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-024.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-024.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-025.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-025.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-026.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-026.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-027.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-027.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-028.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-028.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-029.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-029.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-030.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-030.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-031.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-031.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-032.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-032.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-033.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-033.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-034.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-034.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-035.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-035.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-037.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-037.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-038.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-038.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-039.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-039.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-040.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-040.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-041.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-041.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-042.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-042.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-043.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-043.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-044.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-044.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-045.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-045.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-046.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-046.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-047.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-047.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-048.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-048.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-049.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-049.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-050.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-050.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-051.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-051.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-052.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-052.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-053.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-053.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-054.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-054.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-055.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-055.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-056.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-056.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-057.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-057.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-058.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-058.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-059.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-059.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-060.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-060.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-061.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-061.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-062.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-062.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-063.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-063.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-064.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-064.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-065.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-065.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-066.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-066.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-067.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-067.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-068.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-068.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-069.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-069.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-070.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-070.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-071.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-071.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-072.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-072.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-073.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-073.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-074.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-074.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-075.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-075.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-076.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-076.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-077.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-077.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-078.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-078.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-079.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-079.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-080.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-080.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-081.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-081.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-082.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-082.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-083.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-083.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-084.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-084.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-085.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-085.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-086.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-086.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-087.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-087.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-088.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-088.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-089.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-089.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-090.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-090.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-091.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-091.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-092.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-092.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-093.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-093.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-094.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-094.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-095.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-095.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-096.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-096.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-097.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-097.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-098.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-098.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-099.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-099.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-100.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-100.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-101.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-101.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-102.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-102.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-103.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-103.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-104.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-104.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-105.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-105.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-106.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-106.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-107.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-107.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-108.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-108.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-109.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-109.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-110.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-110.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-111.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-111.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-112.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-112.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-113.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-113.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-114.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-114.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-115.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-115.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-116.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-116.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-117.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-117.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-118.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-118.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-119.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-119.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-120.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-120.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-121.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-121.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-122.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-122.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-123.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-123.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-124.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-124.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-125.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-125.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-126.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-126.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-127.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-127.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-128.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-128.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-129.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-129.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-130.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-130.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-131.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-131.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-132.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-132.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-133.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-133.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-134.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-134.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-135.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-135.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-136.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-136.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-137.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-137.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-138.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-138.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-139.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-139.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-140.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-140.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-141.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-141.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-142.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-142.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "ihl/geneva-conventions-i-iii",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_ihl_convention",
+      "provisions": [
+        "articles/article-143.md"
+      ],
+      "note": "Inline statutory citation extracted from ihl/geneva-conventions-i-iii/articles/article-143.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-004.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-004.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-005.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-005.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-006.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-006.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-007.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-007.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-008.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-008.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-009.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-009.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-010.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-010.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-011.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-011.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-012.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-012.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/duaa_2025_c18",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-013.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/duaa_2025_c18/articles/article-013.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-002.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-002.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-003.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-003.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-004.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-004.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-005.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-005.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-006.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-006.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-007.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-007.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/uk/ai-governance/amendments/uk_aisi_2023",
+      "target": "national/uk/ai-governance",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-008.md"
+      ],
+      "note": "Inline statutory citation extracted from national/uk/ai-governance/amendments/uk_aisi_2023/articles/article-008.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/us/nist-ai-rmf/amendments/eo_14110_revocation_2025",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "cites_standard",
+      "provisions": [
+        "articles/article-005.md"
+      ],
+      "note": "Inline statutory citation extracted from national/us/nist-ai-rmf/amendments/eo_14110_revocation_2025/articles/article-005.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "national/us/state-ai-laws",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from national/us/state-ai-laws/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "standards/iso-iec-42001",
+      "target": "national/us/nist-ai-rmf",
+      "relationship": "cites_standard",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from standards/iso-iec-42001/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "standards/iso-iec-42001",
+      "target": "national/kr/ai-basic-act",
+      "relationship": "cites_national_statute",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from standards/iso-iec-42001/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "standards/iso-iec-42001",
+      "target": "national/sg/agentic-ai-governance",
+      "relationship": "cites_governance_framework",
+      "provisions": [
+        "articles/article-001.md"
+      ],
+      "note": "Inline statutory citation extracted from standards/iso-iec-42001/articles/article-001.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "un/ai-governance",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from un/ai-governance/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "un/ccw-laws",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-011.md"
+      ],
+      "note": "Inline statutory citation extracted from un/ccw-laws/articles/article-011.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "un/cybercrime-convention/amendments/hanoi_opening_for_signature_2025",
+      "target": "un/cybercrime-convention",
+      "relationship": "cites_cyber_treaty",
+      "provisions": [
+        "articles/article-065.md"
+      ],
+      "note": "Inline statutory citation extracted from un/cybercrime-convention/amendments/hanoi_opening_for_signature_2025/articles/article-065.md",
+      "origin": "inline_text_extraction"
+    },
+    {
+      "source": "un/cybercrime-convention",
+      "target": "ihl/geneva-conventions",
+      "relationship": "cites_weapons_review_norm",
+      "provisions": [
+        "articles/article-036.md"
+      ],
+      "note": "Inline statutory citation extracted from un/cybercrime-convention/articles/article-036.md",
+      "origin": "inline_text_extraction"
+    }
+  ],
+  "recital_links": {
+    "eu/ai-act": [
+      {
+        "norm_id": "subject-matter",
+        "label": "Subject matter",
+        "recitals": [
+          "1",
+          "2",
+          "3"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-001.md",
+          "council_general_approach": "articles/article-001.md",
+          "parliament_mandate": "articles/article-001.md",
+          "trilogue_provisional_agreement": "articles/article-001.md",
+          "official_journal_final": "articles/article-001.md",
+          "digital_omnibus_2026_1744": "articles/article-001.md"
+        }
+      },
+      {
+        "norm_id": "scope",
+        "label": "Scope and military/national security exclusions",
+        "recitals": [
+          "21",
+          "22",
+          "23",
+          "24",
+          "25"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-002.md",
+          "council_general_approach": "articles/article-002.md",
+          "parliament_mandate": "articles/article-002.md",
+          "trilogue_provisional_agreement": "articles/article-002.md",
+          "official_journal_final": "articles/article-002.md",
+          "digital_omnibus_2026_1744": "articles/article-002.md"
+        }
+      },
+      {
+        "norm_id": "definitions",
+        "label": "Definitions (AI system, provider, deployer, GPAI model)",
+        "recitals": [
+          "12",
+          "13",
+          "97"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-003.md",
+          "council_general_approach": "articles/article-003.md",
+          "parliament_mandate": "articles/article-003.md",
+          "trilogue_provisional_agreement": "articles/article-003.md",
+          "official_journal_final": "articles/article-003.md",
+          "commission_prohibited_guidelines_2025": "articles/article-003.md",
+          "digital_omnibus_2026_1744": "articles/article-003.md"
+        }
+      },
+      {
+        "norm_id": "ai-literacy",
+        "label": "AI literacy and general principles",
+        "recitals": [
+          "20"
+        ],
+        "stage_map": {
+          "council_general_approach": "articles/article-004a.md",
+          "parliament_mandate": "articles/article-004b.md",
+          "trilogue_provisional_agreement": "articles/article-004.md",
+          "official_journal_final": "articles/article-004.md",
+          "digital_omnibus_2026_1744": "articles/article-004.md"
+        }
+      },
+      {
+        "norm_id": "prohibited-practices",
+        "label": "Prohibited AI practices (Unacceptable risk)",
+        "recitals": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-005.md",
+          "council_general_approach": "articles/article-005.md",
+          "parliament_mandate": "articles/article-005.md",
+          "trilogue_provisional_agreement": "articles/article-005.md",
+          "official_journal_final": "articles/article-005.md",
+          "commission_prohibited_guidelines_2025": "articles/article-005.md",
+          "digital_omnibus_2026_1744": "articles/article-005.md"
+        }
+      },
+      {
+        "norm_id": "high-risk-classification",
+        "label": "Classification rules for high-risk AI systems",
+        "recitals": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-006.md",
+          "council_general_approach": "articles/article-006.md",
+          "parliament_mandate": "articles/article-006.md",
+          "trilogue_provisional_agreement": "articles/article-006.md",
+          "official_journal_final": "articles/article-006.md",
+          "digital_omnibus_2026_1744": "articles/article-006.md"
+        }
+      },
+      {
+        "norm_id": "risk-management-system",
+        "label": "Risk management system for high-risk AI",
+        "recitals": [
+          "65"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-009.md",
+          "council_general_approach": "articles/article-009.md",
+          "parliament_mandate": "articles/article-009.md",
+          "trilogue_provisional_agreement": "articles/article-009.md",
+          "official_journal_final": "articles/article-009.md"
+        }
+      },
+      {
+        "norm_id": "human-oversight",
+        "label": "Human oversight of high-risk AI systems",
+        "recitals": [
+          "73"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-014.md",
+          "council_general_approach": "articles/article-014.md",
+          "parliament_mandate": "articles/article-014.md",
+          "trilogue_provisional_agreement": "articles/article-014.md",
+          "official_journal_final": "articles/article-014.md"
+        }
+      },
+      {
+        "norm_id": "accuracy-robustness-cybersecurity",
+        "label": "Accuracy, robustness and cybersecurity",
+        "recitals": [
+          "74",
+          "75",
+          "76",
+          "77"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-015.md",
+          "council_general_approach": "articles/article-015.md",
+          "parliament_mandate": "articles/article-015.md",
+          "trilogue_provisional_agreement": "articles/article-015.md",
+          "official_journal_final": "articles/article-015.md"
+        }
+      },
+      {
+        "norm_id": "fria",
+        "label": "Fundamental rights impact assessment (FRIA)",
+        "recitals": [
+          "96"
+        ],
+        "stage_map": {
+          "parliament_mandate": "articles/article-029a.md",
+          "trilogue_provisional_agreement": "articles/article-027.md",
+          "official_journal_final": "articles/article-027.md",
+          "digital_omnibus_2026_1744": "articles/article-027.md"
+        }
+      },
+      {
+        "norm_id": "transparency-obligations",
+        "label": "Transparency obligations for certain AI systems and synthetic content",
+        "recitals": [
+          "132",
+          "133",
+          "134",
+          "135",
+          "136",
+          "137"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-052.md",
+          "council_general_approach": "articles/article-052.md",
+          "parliament_mandate": "articles/article-052.md",
+          "trilogue_provisional_agreement": "articles/article-050.md",
+          "official_journal_final": "articles/article-050.md",
+          "digital_omnibus_2026_1744": "articles/article-050.md"
+        }
+      },
+      {
+        "norm_id": "gpai-systemic-risk-classification",
+        "label": "Classification of general-purpose AI models with systemic risk (10^25 FLOPs)",
+        "recitals": [
+          "110",
+          "111",
+          "112"
+        ],
+        "stage_map": {
+          "council_general_approach": "articles/article-004a.md",
+          "parliament_mandate": "articles/article-028b.md",
+          "trilogue_provisional_agreement": "articles/article-051.md",
+          "official_journal_final": "articles/article-051.md",
+          "gpai_code_of_practice_2025": "articles/article-051.md"
+        }
+      },
+      {
+        "norm_id": "gpai-provider-obligations",
+        "label": "Obligations for providers of general-purpose AI models (copyright & training summary)",
+        "recitals": [
+          "101",
+          "105",
+          "106",
+          "107",
+          "108"
+        ],
+        "stage_map": {
+          "parliament_mandate": "articles/article-028b.md",
+          "trilogue_provisional_agreement": "articles/article-053.md",
+          "official_journal_final": "articles/article-053.md",
+          "gpai_code_of_practice_2025": "articles/article-053.md"
+        }
+      },
+      {
+        "norm_id": "gpai-systemic-risk-obligations",
+        "label": "Obligations for providers of GPAI models with systemic risk",
+        "recitals": [
+          "114",
+          "115"
+        ],
+        "stage_map": {
+          "parliament_mandate": "articles/article-028b.md",
+          "trilogue_provisional_agreement": "articles/article-055.md",
+          "official_journal_final": "articles/article-055.md",
+          "gpai_code_of_practice_2025": "articles/article-055.md"
+        }
+      },
+      {
+        "norm_id": "serious-incident-reporting",
+        "label": "Reporting of serious incidents (2-day / 10-day / 15-day statutory windows)",
+        "recitals": [
+          "155"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-062.md",
+          "council_general_approach": "articles/article-062.md",
+          "parliament_mandate": "articles/article-062.md",
+          "trilogue_provisional_agreement": "articles/article-073.md",
+          "official_journal_final": "articles/article-073.md"
+        }
+      },
+      {
+        "norm_id": "penalties",
+        "label": "Administrative fines and penalties",
+        "recitals": [
+          "168",
+          "169",
+          "170"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-071.md",
+          "council_general_approach": "articles/article-071.md",
+          "parliament_mandate": "articles/article-071.md",
+          "trilogue_provisional_agreement": "articles/article-099.md",
+          "official_journal_final": "articles/article-099.md"
+        }
+      },
+      {
+        "norm_id": "entry-into-force-and-application",
+        "label": "Entry into force and phased application deadlines",
+        "recitals": [
+          "179"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-085.md",
+          "trilogue_provisional_agreement": "articles/article-113.md",
+          "official_journal_final": "articles/article-113.md",
+          "digital_omnibus_2026_1744": "articles/article-113.md"
+        }
+      }
+    ],
+    "eu/gdpr": [
+      {
+        "norm_id": "automated-decision-making",
+        "label": "Automated individual decision-making, including profiling",
+        "recitals": [
+          "71"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-020.md",
+          "official_journal_final": "articles/article-022.md",
+          "corrigendum_2018": "articles/article-022.md"
+        }
+      },
+      {
+        "norm_id": "dpia",
+        "label": "Data protection impact assessment (DPIA)",
+        "recitals": [
+          "84",
+          "89",
+          "90",
+          "91"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-033.md",
+          "official_journal_final": "articles/article-035.md",
+          "corrigendum_2018": "articles/article-035.md"
+        }
+      },
+      {
+        "norm_id": "dpo-designation",
+        "label": "Designation of the data protection officer",
+        "recitals": [
+          "97"
+        ],
+        "stage_map": {
+          "commission_proposal": "articles/article-035.md",
+          "official_journal_final": "articles/article-037.md",
+          "corrigendum_2018": "articles/article-037.md"
+        }
+      }
+    ],
+    "coe/ai-convention": [
+      {
+        "norm_id": "ai-definition",
+        "label": "Definition of artificial intelligence systems",
+        "recitals": [
+          "1"
+        ],
+        "stage_map": {
+          "revised_zero_draft": "articles/article-004.md",
+          "consolidated_working_draft": "articles/article-004.md",
+          "adopted_convention_cets_225": "articles/article-002.md",
+          "eu_conclusion_2026": "articles/article-002.md"
+        }
+      },
+      {
+        "norm_id": "transparency-and-oversight",
+        "label": "Transparency and oversight",
+        "recitals": [
+          "1"
+        ],
+        "stage_map": {
+          "revised_zero_draft": "articles/article-011.md",
+          "consolidated_working_draft": "articles/article-011.md",
+          "adopted_convention_cets_225": "articles/article-008.md",
+          "eu_conclusion_2026": "articles/article-008.md"
+        }
+      }
+    ]
+  }
+}
