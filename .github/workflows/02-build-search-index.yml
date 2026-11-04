@@ -1,0 +1,54 @@
+name: "02 - Build & Verify Search Index (SQLite FTS5 + JSON)"
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "01 - Ingest & Build Legal Git Corpus"
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  verify-and-refresh-search-index:
+    name: Verify SQLite FTS5 & JSON Search Index on corpus branch
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout corpus orphan branch on Cloud Runner
+        uses: actions/checkout@v4
+        with:
+          ref: corpus
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate SQLite FTS5 index, JSON search index, and citation graph
+        run: |
+          python - << 'EOF'
+          import json
+          import sqlite3
+          from pathlib import Path
+
+          search_json = json.loads(Path("search-index.json").read_text(encoding="utf-8"))
+          graph_json = json.loads(Path("graph.json").read_text(encoding="utf-8"))
+
+          print(f"Verified search-index.json: {search_json['total_provisions']} provisions across {len(search_json['commits'])} institutional commits.")
+          print(f"Verified graph.json: {graph_json['node_count']} nodes, {graph_json['edge_count']} cross-reference edges.")
+
+          conn = sqlite3.connect("search-index.sqlite")
+          cur = conn.cursor()
+          rows = cur.execute(
+              "SELECT instrument_path, provision, heading FROM provisions_fts WHERE provisions_fts MATCH 'biometric OR autonomous' LIMIT 10;"
+          ).fetchall()
+          print(f"FTS5 smoke query ('biometric OR autonomous') returned {len(rows)} top hits:")
+          for r in rows:
+              print("  ->", r)
+          conn.close()
+          EOF

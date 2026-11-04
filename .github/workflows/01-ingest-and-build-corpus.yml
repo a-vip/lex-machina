@@ -1,0 +1,84 @@
+name: "01 - Ingest & Build Legal Git Corpus"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  build-corpus:
+    name: Build Deterministic Legal Corpus & Institutional Git History
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch only (shallow)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Enforce Zero-Local-Disk refspec guard in Git config
+        run: |
+          git config remote.origin.fetch "+refs/heads/main:refs/remotes/origin/main"
+
+      - name: Set up Python 3.12 on Cloud Runner
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install cloud-only ingestion dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx beautifulsoup4 lxml
+
+      - name: Restore existing pipeline-cache orphan branch (if present)
+        run: |
+          mkdir -p /tmp/pipeline-cache
+          if git ls-remote --exit-code --heads origin pipeline-cache >/dev/null 2>&1; then
+            git fetch --depth=1 origin refs/heads/pipeline-cache:refs/heads/pipeline-cache
+            git archive refs/heads/pipeline-cache | tar -x -C /tmp/pipeline-cache
+            echo "Restored cached .json.gz payloads from pipeline-cache branch."
+          else
+            echo "No existing pipeline-cache branch found; starting fresh cache."
+          fi
+
+      - name: Run ingestion, normalization & generate git fast-import stream
+        run: |
+          python -m src.history.build_fast_import \
+            --catalog src/catalog.json \
+            --cache-dir /tmp/pipeline-cache \
+            --output /tmp/corpus.fast-import
+
+      - name: Import deterministic legal history into refs/heads/corpus & verify fsck --strict
+        run: |
+          git branch -D corpus 2>/dev/null || true
+          git fast-import --force < /tmp/corpus.fast-import
+          git fsck --strict refs/heads/corpus
+          echo "--- Chronological Institutional Commit Graph on refs/heads/corpus ---"
+          git log refs/heads/corpus --pretty=format:"%h | %ad | %an <%ae> | %s" --date=short
+
+      - name: Update and push pipeline-cache orphan branch (.json.gz blobs)
+        run: |
+          CACHE_WORKTREE="/tmp/cache-repo"
+          mkdir -p "$CACHE_WORKTREE"
+          cp -r /tmp/pipeline-cache/*.json.gz "$CACHE_WORKTREE/" 2>/dev/null || true
+          pushd "$CACHE_WORKTREE"
+          git init -b pipeline-cache
+          git config user.name "Lex Machina Cache Bot"
+          git config user.email "cache@lex-machina.org"
+          git add -A
+          git commit --allow-empty -m "Update compressed .json.gz ingestion cache ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin refs/heads/pipeline-cache:refs/heads/pipeline-cache
+          popd
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Force-push refs/heads/corpus to origin
+        run: |
+          git push --force origin refs/heads/corpus:refs/heads/corpus

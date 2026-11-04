@@ -1,0 +1,37 @@
+# Lex Machina — Global AI, Cyber & International Law Git Corpus + MCP Server
+
+> Zero-Local-Disk Legal History & Institutional Git-Blame Engine (`a-vip/lex-machina`)
+
+## Overview for AI Coding Agents (Claude Code, Cursor, Windsurf, Antigravity)
+
+`lex-machina` records the chronological, article-by-article evolution of global AI regulation, cyber norms, and International Humanitarian Law (IHL) as a deterministic Git commit graph on the remote `corpus` orphan branch.
+
+Every legislative draft, negotiating mandate, trilogue compromise, treaty adoption, and corrigendum is committed with the **true institutional author** (`European Commission <commission@europa.eu>`, `Council of the European Union <council@consilium.europa.eu>`, `European Parliament <parliament@europa.eu>`, `EU Trilogue Negotiators <trilogue@europa.eu>`, `UN CCW GGE <ccw@un.org>`, `Diplomatic Conference of Geneva <ihl@icrc.org>`, `NIST <ai-rmf@nist.gov>`, `CAC <cac@cac.gov.cn>`), enabling surgical `git diff` and `git blame` down to individual paragraphs and sub-clauses.
+
+## Zero-Local-Disk Architecture
+
+- `main` branch (< 500 KB): Contains only the declarative catalog (`src/catalog.json`), ingestion & normalization scripts (`src/ingest/`, `src/parser/`, `src/history/`), GitHub Actions workflows (`.github/workflows/`), and the stateless remote MCP server (`mcp_server/server.py`).
+- `corpus` branch (Remote Orphan Branch): Built automatically on GitHub Actions via `git fast-import`. Contains all normalized per-article Markdown files (`articles/article-005.md`), stage snapshots (`snapshots/`), citation graph (`graph.json`), JSON search index (`search-index.json`), and SQLite FTS5 index (`search-index.sqlite`).
+- `pipeline-cache` branch (Remote Orphan Branch): Stores compressed `.json.gz` ingestion caches across cloud runs.
+
+**CRITICAL RULE**: Never checkout or fetch `corpus` or `pipeline-cache` onto a local machine with constrained storage. Always keep:
+```bash
+git config remote.origin.fetch "+refs/heads/main:refs/remotes/origin/main"
+```
+
+## Available MCP Tools (`mcp_server/server.py`)
+
+1. `list_instruments(jurisdiction: str | None = None)`
+   - Lists all tracked instruments (`eu/ai-act`, `eu/gdpr`, `coe/ai-convention`, `un/ccw-laws`, `un/ai-governance`, `ihl/geneva-conventions`, `national/us/nist-ai-rmf`, `national/cn/cac-ai-measures`) and their chronological stages.
+2. `get_provision(instrument_path: str, provision: str, as_of: str | None = None)`
+   - Fetches the exact normalized Markdown text of any article, recital, or annex at a specific date or negotiating stage.
+   - Example: `get_provision("eu/ai-act", "articles/article-005.md", as_of="parliament_mandate")`
+3. `diff_provisions(instrument_path: str, provision: str, stage_a: str, stage_b: str)`
+   - Computes a unified redline diff showing exact wording additions (`+`) and deletions (`-`) between two stages.
+   - Example: `diff_provisions("eu/ai-act", "articles/article-005.md", "commission_proposal", "official_journal_final")`
+4. `blame_provision(instrument_path: str, provision: str)`
+   - Runs institutional commit attribution across every version of a provision to show which institution authored each clause.
+5. `search_corpus(query: str, jurisdiction: str | None = None)`
+   - Full-text search across all indexed provisions in `search-index.json`.
+6. `get_citation_graph(instrument_path: str)`
+   - Queries `graph.json` for incoming and outgoing cross-references and treaty harmonization links.

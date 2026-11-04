@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments & local package caches (Zero-Local-Disk enforced)
+.venv/
+venv/
+ENV/
+node_modules/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local corpus or cache artifacts (must only exist on remote orphan branches)
+corpus/
+pipeline-cache/
+*.sqlite
+*.sqlite3
+*.db
+*.gz
+*.fast-import
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
