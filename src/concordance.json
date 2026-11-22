@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0.0",
+  "description": "Four-column normative concordance mapping persistent legal norms across article renumberings between legislative drafts (Proposal -> Council -> Parliament -> Trilogue -> Official Journal -> Amending Acts). Enables seamless diff_provisions and blame_provision even when article numbers shift.",
+  "concordances": {
+    "eu/ai-act": [
+      {
+        "norm_id": "subject-matter",
+        "label": "Subject matter",
+        "recitals": ["1", "2", "3"],
+        "stage_map": {
+          "commission_proposal": "articles/article-001.md",
+          "council_general_approach": "articles/article-001.md",
+          "parliament_mandate": "articles/article-001.md",
+          "trilogue_provisional_agreement": "articles/article-001.md",
+          "official_journal_final": "articles/article-001.md",
+          "digital_omnibus_2026_1744": "articles/article-001.md"
+        }
+      },
+      {
+        "norm_id": "scope",
+        "label": "Scope and military/national security exclusions",
+        "recitals": ["21", "22", "23", "24", "25"],
+        "stage_map": {
+          "commission_proposal": "articles/article-002.md",
+          "council_general_approach": "articles/article-002.md",
+          "parliament_mandate": "articles/article-002.md",
+          "trilogue_provisional_agreement": "articles/article-002.md",
+          "official_journal_final": "articles/article-002.md",
+          "digital_omnibus_2026_1744": "articles/article-002.md"
+        }
+      },
+      {
+        "norm_id": "definitions",
+        "label": "Definitions (AI system, provider, deployer, GPAI model)",
+        "recitals": ["12", "13", "97"],
+        "stage_map": {
+          "commission_proposal": "articles/article-003.md",
+          "council_general_approach": "articles/article-003.md",
+          "parliament_mandate": "articles/article-003.md",
+          "trilogue_provisional_agreement": "articles/article-003.md",
+          "official_journal_final": "articles/article-003.md",
+          "commission_prohibited_guidelines_2025": "articles/article-003.md",
+          "digital_omnibus_2026_1744": "articles/article-003.md"
+        }
+      },
+      {
+        "norm_id": "ai-literacy",
+        "label": "AI literacy and general principles",
+        "recitals": ["20"],
+        "stage_map": {
+          "council_general_approach": "articles/article-004a.md",
+          "parliament_mandate": "articles/article-004b.md",
+          "trilogue_provisional_agreement": "articles/article-004.md",
+          "official_journal_final": "articles/article-004.md",
+          "digital_omnibus_2026_1744": "articles/article-004.md"
+        }
+      },
+      {
+        "norm_id": "prohibited-practices",
+        "label": "Prohibited AI practices (Unacceptable risk)",
+        "recitals": ["28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
+        "stage_map": {
+          "commission_proposal": "articles/article-005.md",
+          "council_general_approach": "articles/article-005.md",
+          "parliament_mandate": "articles/article-005.md",
+          "trilogue_provisional_agreement": "articles/article-005.md",
+          "official_journal_final": "articles/article-005.md",
+          "commission_prohibited_guidelines_2025": "articles/article-005.md",
+          "digital_omnibus_2026_1744": "articles/article-005.md"
+        }
+      },
+      {
+        "norm_id": "high-risk-classification",
+        "label": "Classification rules for high-risk AI systems",
+        "recitals": ["46", "47", "48", "49", "50", "51", "52", "53"],
+        "stage_map": {
+          "commission_proposal": "articles/article-006.md",
+          "council_general_approach": "articles/article-006.md",
+          "parliament_mandate": "articles/article-006.md",
+          "trilogue_provisional_agreement": "articles/article-006.md",
+          "official_journal_final": "articles/article-006.md",
+          "digital_omnibus_2026_1744": "articles/article-006.md"
+        }
+      },
+      {
+        "norm_id": "risk-management-system",
+        "label": "Risk management system for high-risk AI",
+        "recitals": ["65"],
+        "stage_map": {
+          "commission_proposal": "articles/article-009.md",
+          "council_general_approach": "articles/article-009.md",
+          "parliament_mandate": "articles/article-009.md",
+          "trilogue_provisional_agreement": "articles/article-009.md",
+          "official_journal_final": "articles/article-009.md"
+        }
+      },
+      {
+        "norm_id": "human-oversight",
+        "label": "Human oversight of high-risk AI systems",
+        "recitals": ["73"],
+        "stage_map": {
+          "commission_proposal": "articles/article-014.md",
+          "council_general_approach": "articles/article-014.md",
+          "parliament_mandate": "articles/article-014.md",
+          "trilogue_provisional_agreement": "articles/article-014.md",
+          "official_journal_final": "articles/article-014.md"
+        }
+      },
+      {
+        "norm_id": "accuracy-robustness-cybersecurity",
+        "label": "Accuracy, robustness and cybersecurity",
+        "recitals": ["74", "75", "76", "77"],
+        "stage_map": {
+          "commission_proposal": "articles/article-015.md",
+          "council_general_approach": "articles/article-015.md",
+          "parliament_mandate": "articles/article-015.md",
+          "trilogue_provisional_agreement": "articles/article-015.md",
+          "official_journal_final": "articles/article-015.md"
+        }
+      },
+      {
+        "norm_id": "fria",
+        "label": "Fundamental rights impact assessment (FRIA)",
+        "recitals": ["96"],
+        "stage_map": {
+          "parliament_mandate": "articles/article-029a.md",
+          "trilogue_provisional_agreement": "articles/article-027.md",
+          "official_journal_final": "articles/article-027.md",
+          "digital_omnibus_2026_1744": "articles/article-027.md"
+        }
+      },
+      {
+        "norm_id": "transparency-obligations",
+        "label": "Transparency obligations for certain AI systems and synthetic content",
+        "recitals": ["132", "133", "134", "135", "136", "137"],
+        "stage_map": {
+          "commission_proposal": "articles/article-052.md",
+          "council_general_approach": "articles/article-052.md",
+          "parliament_mandate": "articles/article-052.md",
+          "trilogue_provisional_agreement": "articles/article-050.md",
+          "official_journal_final": "articles/article-050.md",
+          "digital_omnibus_2026_1744": "articles/article-050.md"
+        }
+      },
+      {
+        "norm_id": "gpai-systemic-risk-classification",
+        "label": "Classification of general-purpose AI models with systemic risk (10^25 FLOPs)",
+        "recitals": ["110", "111", "112"],
+        "stage_map": {
+          "council_general_approach": "articles/article-004a.md",
+          "parliament_mandate": "articles/article-028b.md",
+          "trilogue_provisional_agreement": "articles/article-051.md",
+          "official_journal_final": "articles/article-051.md",
+          "gpai_code_of_practice_2025": "articles/article-051.md"
+        }
+      },
+      {
+        "norm_id": "gpai-provider-obligations",
+        "label": "Obligations for providers of general-purpose AI models (copyright & training summary)",
+        "recitals": ["101", "105", "106", "107", "108"],
+        "stage_map": {
+          "parliament_mandate": "articles/article-028b.md",
+          "trilogue_provisional_agreement": "articles/article-053.md",
+          "official_journal_final": "articles/article-053.md",
+          "gpai_code_of_practice_2025": "articles/article-053.md"
+        }
+      },
+      {
+        "norm_id": "gpai-systemic-risk-obligations",
+        "label": "Obligations for providers of GPAI models with systemic risk",
+        "recitals": ["114", "115"],
+        "stage_map": {
+          "parliament_mandate": "articles/article-028b.md",
+          "trilogue_provisional_agreement": "articles/article-055.md",
+          "official_journal_final": "articles/article-055.md",
+          "gpai_code_of_practice_2025": "articles/article-055.md"
+        }
+      },
+      {
+        "norm_id": "serious-incident-reporting",
+        "label": "Reporting of serious incidents (2-day / 10-day / 15-day statutory windows)",
+        "recitals": ["155"],
+        "stage_map": {
+          "commission_proposal": "articles/article-062.md",
+          "council_general_approach": "articles/article-062.md",
+          "parliament_mandate": "articles/article-062.md",
+          "trilogue_provisional_agreement": "articles/article-073.md",
+          "official_journal_final": "articles/article-073.md"
+        }
+      },
+      {
+        "norm_id": "penalties",
+        "label": "Administrative fines and penalties",
+        "recitals": ["168", "169", "170"],
+        "stage_map": {
+          "commission_proposal": "articles/article-071.md",
+          "council_general_approach": "articles/article-071.md",
+          "parliament_mandate": "articles/article-071.md",
+          "trilogue_provisional_agreement": "articles/article-099.md",
+          "official_journal_final": "articles/article-099.md"
+        }
+      },
+      {
+        "norm_id": "entry-into-force-and-application",
+        "label": "Entry into force and phased application deadlines",
+        "recitals": ["179"],
+        "stage_map": {
+          "commission_proposal": "articles/article-085.md",
+          "trilogue_provisional_agreement": "articles/article-113.md",
+          "official_journal_final": "articles/article-113.md",
+          "digital_omnibus_2026_1744": "articles/article-113.md"
+        }
+      }
+    ],
+    "eu/gdpr": [
+      {
+        "norm_id": "automated-decision-making",
+        "label": "Automated individual decision-making, including profiling",
+        "recitals": ["71"],
+        "stage_map": {
+          "commission_proposal": "articles/article-020.md",
+          "official_journal_final": "articles/article-022.md",
+          "corrigendum_2018": "articles/article-022.md"
+        }
+      },
+      {
+        "norm_id": "dpia",
+        "label": "Data protection impact assessment (DPIA)",
+        "recitals": ["84", "89", "90", "91"],
+        "stage_map": {
+          "commission_proposal": "articles/article-033.md",
+          "official_journal_final": "articles/article-035.md",
+          "corrigendum_2018": "articles/article-035.md"
+        }
+      },
+      {
+        "norm_id": "dpo-designation",
+        "label": "Designation of the data protection officer",
+        "recitals": ["97"],
+        "stage_map": {
+          "commission_proposal": "articles/article-035.md",
+          "official_journal_final": "articles/article-037.md",
+          "corrigendum_2018": "articles/article-037.md"
+        }
+      }
+    ],
+    "coe/ai-convention": [
+      {
+        "norm_id": "ai-definition",
+        "label": "Definition of artificial intelligence systems",
+        "recitals": ["1"],
+        "stage_map": {
+          "revised_zero_draft": "articles/article-004.md",
+          "consolidated_working_draft": "articles/article-004.md",
+          "adopted_convention_cets_225": "articles/article-002.md",
+          "eu_conclusion_2026": "articles/article-002.md"
+        }
+      },
+      {
+        "norm_id": "transparency-and-oversight",
+        "label": "Transparency and oversight",
+        "recitals": ["1"],
+        "stage_map": {
+          "revised_zero_draft": "articles/article-011.md",
+          "consolidated_working_draft": "articles/article-011.md",
+          "adopted_convention_cets_225": "articles/article-008.md",
+          "eu_conclusion_2026": "articles/article-008.md"
+        }
+      }
+    ]
+  }
+}

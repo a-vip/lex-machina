@@ -1,0 +1,21 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      lexMachinaRepo:
+        type: string
+        default: "a-vip/lex-machina"
+        description: "GitHub repository containing the remote corpus orphan branch"
+      githubToken:
+        type: string
+        description: "Optional GitHub Personal Access Token for elevated API rate limits"
+  commandFunction: |-
+    (config) => ({
+      command: "python",
+      args: ["-m", "mcp_server.server"],
+      env: {
+        LEX_MACHINA_REPO: config.lexMachinaRepo || "a-vip/lex-machina",
+        ...(config.githubToken ? { GITHUB_TOKEN: config.githubToken } : {})
+      }
+    })

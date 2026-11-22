@@ -1,0 +1,12 @@
+{
+  "name": "lex-machina-edge-mcp",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Zero-dependency Cloudflare Worker serving Lex Machina over Stateless Streamable HTTP MCP with Zero Data Retention",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

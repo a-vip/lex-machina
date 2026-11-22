@@ -1,0 +1,45 @@
+name: "03 - Run LexMachina-Eval (100-Case Legal Verification Benchmark)"
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "01 - Ingest & Build Legal Git Corpus"
+    types:
+      - completed
+
+permissions:
+  contents: read
+
+jobs:
+  run-eval:
+    name: Execute 100-Case Preregistered Legal Benchmark
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout main branch (eval harness & MCP server)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install cloud-only MCP server dependencies
+        run: |
+          pip install httpx mcp
+
+      - name: Execute 100-case LexMachina-Eval against live refs/heads/corpus
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python evals/run_eval.py \
+            --bench evals/lexmachina_bench.jsonl \
+            --output-json /tmp/eval-scorecard.json \
+            --output-md /tmp/EVAL_REPORT.md \
+            --min-pass-rate 0.85
+          cat /tmp/EVAL_REPORT.md >> "$GITHUB_STEP_SUMMARY"

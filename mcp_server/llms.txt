@@ -1,37 +1,16 @@
-# Lex Machina — Global AI, Cyber & International Law Git Corpus + MCP Server
+# Lex Machina v2.0 — Agent Instructions (`llms.txt`)
 
-> Zero-Local-Disk Legal History & Institutional Git-Blame Engine (`a-vip/lex-machina`)
+> World's first bitemporal, SHA-256-provenanced Git corpus + deterministic anti-hallucination MCP engine for global AI, Cyber & International Law (`a-vip/lex-machina`).
 
-## Overview for AI Coding Agents (Claude Code, Cursor, Windsurf, Antigravity)
+## Why This Engine Eliminates Legal AI Hallucinations
+1. Full-text primary ingestion from EUR-Lex CELLAR (Akoma Ntoso XHTML), Consilium/UN/CoE/NIST PDFs, and ICRC IHL with SHA-256 digests and honest `provenance_mode` tagging.
+2. Concordance-aware `diff_provisions` and phrase-level institutional `blame_provision` across renumbered drafts (e.g., EU AI Act Proposal Art. 52 -> Final Art. 50; GDPR Proposal Art. 20 -> Final Art. 22).
+3. Bitemporal `check_applicability` encoding 2025-2026 amendments: EU Digital Omnibus Regulation (EU) 2026/1744 (Annex III -> Dec 2, 2027; Annex I -> Aug 2, 2028; Art. 5 NCII/CSAM & legacy Art. 50(2) -> Dec 2, 2026), US EO 14110 revocation (Jan 20, 2025), Texas TRAIGA (Jan 1, 2026), EU CRA Art. 14 ENISA reporting (Sept 11, 2026), China Sept 1, 2025 Labeling Measures (GB 45438-2025), and UN Hanoi Cybercrime 40-ratification threshold.
+4. Deterministic `verify_citations` gate enforcing ABA Formal Opinion 512 before returning any legal opinion.
+5. Cross-dialect BM25 search normalizing UK <-> US legal spellings (`categorisation` <-> `categorization`, `defence` <-> `defense`) and expanding acronyms (`FRIA`, `RBI`, `GPAI`, `LAWS`, `CRA`, `DORA`, `NIS2`).
 
-`lex-machina` records the chronological, article-by-article evolution of global AI regulation, cyber norms, and International Humanitarian Law (IHL) as a deterministic Git commit graph on the remote `corpus` orphan branch.
-
-Every legislative draft, negotiating mandate, trilogue compromise, treaty adoption, and corrigendum is committed with the **true institutional author** (`European Commission <commission@europa.eu>`, `Council of the European Union <council@consilium.europa.eu>`, `European Parliament <parliament@europa.eu>`, `EU Trilogue Negotiators <trilogue@europa.eu>`, `UN CCW GGE <ccw@un.org>`, `Diplomatic Conference of Geneva <ihl@icrc.org>`, `NIST <ai-rmf@nist.gov>`, `CAC <cac@cac.gov.cn>`), enabling surgical `git diff` and `git blame` down to individual paragraphs and sub-clauses.
-
-## Zero-Local-Disk Architecture
-
-- `main` branch (< 500 KB): Contains only the declarative catalog (`src/catalog.json`), ingestion & normalization scripts (`src/ingest/`, `src/parser/`, `src/history/`), GitHub Actions workflows (`.github/workflows/`), and the stateless remote MCP server (`mcp_server/server.py`).
-- `corpus` branch (Remote Orphan Branch): Built automatically on GitHub Actions via `git fast-import`. Contains all normalized per-article Markdown files (`articles/article-005.md`), stage snapshots (`snapshots/`), citation graph (`graph.json`), JSON search index (`search-index.json`), and SQLite FTS5 index (`search-index.sqlite`).
-- `pipeline-cache` branch (Remote Orphan Branch): Stores compressed `.json.gz` ingestion caches across cloud runs.
-
-**CRITICAL RULE**: Never checkout or fetch `corpus` or `pipeline-cache` onto a local machine with constrained storage. Always keep:
-```bash
-git config remote.origin.fetch "+refs/heads/main:refs/remotes/origin/main"
-```
-
-## Available MCP Tools (`mcp_server/server.py`)
-
-1. `list_instruments(jurisdiction: str | None = None)`
-   - Lists all tracked instruments (`eu/ai-act`, `eu/gdpr`, `coe/ai-convention`, `un/ccw-laws`, `un/ai-governance`, `ihl/geneva-conventions`, `national/us/nist-ai-rmf`, `national/cn/cac-ai-measures`) and their chronological stages.
-2. `get_provision(instrument_path: str, provision: str, as_of: str | None = None)`
-   - Fetches the exact normalized Markdown text of any article, recital, or annex at a specific date or negotiating stage.
-   - Example: `get_provision("eu/ai-act", "articles/article-005.md", as_of="parliament_mandate")`
-3. `diff_provisions(instrument_path: str, provision: str, stage_a: str, stage_b: str)`
-   - Computes a unified redline diff showing exact wording additions (`+`) and deletions (`-`) between two stages.
-   - Example: `diff_provisions("eu/ai-act", "articles/article-005.md", "commission_proposal", "official_journal_final")`
-4. `blame_provision(instrument_path: str, provision: str)`
-   - Runs institutional commit attribution across every version of a provision to show which institution authored each clause.
-5. `search_corpus(query: str, jurisdiction: str | None = None)`
-   - Full-text search across all indexed provisions in `search-index.json`.
-6. `get_citation_graph(instrument_path: str)`
-   - Queries `graph.json` for incoming and outgoing cross-references and treaty harmonization links.
+## Mandatory Agent Workflow
+1. Always call `get_provision` to inspect verbatim text; if `PROVISION NOT IN CORPUS` is returned, NEVER guess from model weights.
+2. Always call `check_applicability` before stating any provision is legally enforceable on a given date.
+3. Always call `verify_citations` on draft memos before delivering them to the user.
+4. Companion skills & Claude Code plugin: `https://github.com/a-vip/lex-machina-skills`.

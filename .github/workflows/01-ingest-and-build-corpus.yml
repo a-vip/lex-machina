@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   build-corpus:
-    name: Build Deterministic Legal Corpus & Institutional Git History
+    name: Build Full-Text Bitemporal Legal Corpus & SHA-256 Provenance
     runs-on: ubuntu-latest
 
     steps:
@@ -31,10 +31,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install cloud-only ingestion dependencies
+      - name: Install cloud-only ingestion & PDF/XML parsing dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install httpx beautifulsoup4 lxml
+          pip install httpx beautifulsoup4 lxml pypdf
 
       - name: Restore existing pipeline-cache orphan branch (if present)
         run: |
@@ -47,7 +47,7 @@ jobs:
             echo "No existing pipeline-cache branch found; starting fresh cache."
           fi
 
-      - name: Run ingestion, normalization & generate git fast-import stream
+      - name: Run full-text CELLAR/PDF ingestion, BM25 indexing & git fast-import stream
         run: |
           python -m src.history.build_fast_import \
             --catalog src/catalog.json \

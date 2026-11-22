@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lex-machina-mcp"
+version = "2.0.0"
+description = "Stateless bitemporal legal-informatics Git corpus & deterministic citation-verification MCP server for AI, Cyber, and International Humanitarian Law"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  { name = "Avi Perera / Lex Machina Consortium" }
+]
+license = { text = "MIT" }
+dependencies = [
+  "httpx>=0.27.0",
+  "mcp>=1.2.0"
+]
+
+[project.scripts]
+lex-machina-mcp = "mcp_server.server:mcp.run"
+
+[tool.setuptools.packages.find]
+include = ["mcp_server*", "src*"]

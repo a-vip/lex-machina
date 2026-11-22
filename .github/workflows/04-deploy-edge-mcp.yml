@@ -1,0 +1,25 @@
+name: "04 - Deploy Remote Streamable HTTP Edge MCP (Cloudflare Workers)"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy-worker:
+    name: Deploy Stateless Zero-Data-Retention Edge MCP to Cloudflare Workers
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Deploy via Cloudflare Wrangler Action (Zero Local Node/NPM)
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: cloudflare_worker
