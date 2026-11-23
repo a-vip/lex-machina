@@ -34,7 +34,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://lex-machina-mcp.a-vip.workers.dev/mcp"
+      "url": "https://lex-machina.aviperera0.workers.dev/mcp"
     }
   ]
 }

@@ -85,6 +85,21 @@ Read the complete technical specification in [**`WHITEPAPER.md`**](WHITEPAPER.md
 9. `get_provenance_audit(instrument_path)` — Full SHA-256 primary-source audit ledger.
 
 ### 1-Click Installation (Zero Local Corpus Storage)
+
+#### Option A: Live Remote Streamable HTTP Edge MCP (Zero Install — Recommended)
+Connect any MCP client (Claude Code, Cursor, Windsurf, ChatGPT, Agensi) directly to our **live, Zero-Data-Retention Cloudflare Workers edge server** (`GET https://lex-machina.aviperera0.workers.dev/health`):
+```json
+{
+  "mcpServers": {
+    "lex-machina": {
+      "type": "http",
+      "url": "https://lex-machina.aviperera0.workers.dev/mcp"
+    }
+  }
+}
+```
+
+#### Option B: Local Stateless `uvx` stdio
 ```json
 {
   "mcpServers": {
