@@ -1,0 +1,12 @@
+{
+  "name": "lex-machina",
+  "main": "cloudflare_worker/src/index.ts",
+  "compatibility_date": "2026-01-01",
+  "vars": {
+    "LEX_MACHINA_REPO": "a-vip/lex-machina",
+    "LEX_MACHINA_BRANCH": "corpus"
+  },
+  "observability": {
+    "enabled": false
+  }
+}

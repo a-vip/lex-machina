@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "lex-machina-mcp",
+  "name": "lex-machina",
   "main": "src/index.ts",
   "compatibility_date": "2026-01-01",
   "vars": {
