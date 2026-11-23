@@ -45,16 +45,18 @@ def _parse_nist_pdf(raw_bytes: bytes, stage: str) -> list[dict[str, str]]:
         return []
 
     targets = [
-        ("1", "GOVERN", r"\bGOVERN\s+1\b|\b5\.1\s+Govern\b"),
-        ("2", "MAP", r"\bMAP\s+1\b|\b5\.2\s+Map\b"),
-        ("3", "MEASURE", r"\bMEASURE\s+1\b|\b5\.3\s+Measure\b"),
-        ("4", "MANAGE", r"\bMANAGE\s+1\b|\b5\.4\s+Manage\b"),
+        ("1", "GOVERN", r"(?m)(?:^|\s)(?:GOVERN\s+1(?:\.1)?|5\.1\s+Govern)\b"),
+        ("2", "MAP", r"(?m)(?:^|\s)(?:MAP\s+1(?:\.1)?|5\.2\s+Map)\b"),
+        ("3", "MEASURE", r"(?m)(?:^|\s)(?:MEASURE\s+1(?:\.1)?|5\.3\s+Measure)\b"),
+        ("4", "MANAGE", r"(?m)(?:^|\s)(?:MANAGE\s+1(?:\.1)?|5\.4\s+Manage)\b"),
     ]
     found: list[tuple[int, str, str]] = []
     for num, label, pat in targets:
-        m = re.search(pat, full_text)
-        if m:
-            found.append((m.start(), num, label))
+        hits = list(re.finditer(pat, full_text))
+        if hits:
+            # Prefer body section match (skip early Table of Contents hits)
+            chosen = hits[-1] if len(hits) > 1 and hits[0].start() < len(full_text) * 0.15 else hits[0]
+            found.append((chosen.start(), num, label))
     found.sort()
 
     articles: list[dict[str, str]] = []
@@ -141,7 +143,7 @@ def fetch_national_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v2"
+    cache_key = f"{instrument_id}__{stage}__v4"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"

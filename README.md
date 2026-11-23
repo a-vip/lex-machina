@@ -2,10 +2,12 @@
 
 [![01 - Ingest & Build Corpus](https://github.com/a-vip/lex-machina/actions/workflows/01-ingest-and-build-corpus.yml/badge.svg)](https://github.com/a-vip/lex-machina/actions/workflows/01-ingest-and-build-corpus.yml)
 [![02 - Verify Search & Provenance](https://github.com/a-vip/lex-machina/actions/workflows/02-build-search-index.yml/badge.svg)](https://github.com/a-vip/lex-machina/actions/workflows/02-build-search-index.yml)
-[![03 - LexMachina-Eval (100-Case Benchmark)](https://github.com/a-vip/lex-machina/actions/workflows/03-run-legal-evals.yml/badge.svg)](https://github.com/a-vip/lex-machina/actions/workflows/03-run-legal-evals.yml)
+[![03 - LexMachina-Eval (120-Case Benchmark)](https://github.com/a-vip/lex-machina/actions/workflows/03-run-legal-evals.yml/badge.svg)](https://github.com/a-vip/lex-machina/actions/workflows/03-run-legal-evals.yml)
+[![05 - Interactive Web Explorer & Registries](https://github.com/a-vip/lex-machina/actions/workflows/05-publish-registries-and-pages.yml/badge.svg)](https://a-vip.github.io/lex-machina/)
 [![Companion Agent Skills](https://img.shields.io/badge/Skills_Suite-a--vip%2Flex--machina--skills-blueviolet.svg)](https://github.com/a-vip/lex-machina-skills)
 [![Zero Data Retention](https://img.shields.io/badge/Privacy-Zero_Data_Retention_(ZDR)-brightgreen.svg)](WHITEPAPER.md)
 
+**Live Interactive Zero-Data-Retention Explorer**: **[https://a-vip.github.io/lex-machina/](https://a-vip.github.io/lex-machina/)**  
 **`lex-machina`** is the world's first **bitemporal, cryptographically verified, full-text Git corpus and deterministic citation-verification Model Context Protocol (MCP) engine** spanning global **AI Regulation**, **Cybersecurity & Cybercrime Treaties**, **Data Protection**, and **International Humanitarian Law (IHL)**.
 
 ---

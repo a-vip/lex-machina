@@ -34,7 +34,7 @@ jobs:
       - name: Install cloud-only ingestion & PDF/XML parsing dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install httpx beautifulsoup4 lxml pypdf
+          pip install httpx beautifulsoup4 lxml pypdf cryptography
 
       - name: Restore existing pipeline-cache orphan branch (if present)
         run: |

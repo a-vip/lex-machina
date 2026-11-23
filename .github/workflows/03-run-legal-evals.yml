@@ -1,4 +1,4 @@
-name: "03 - Run LexMachina-Eval (100-Case Legal Verification Benchmark)"
+name: "03 - Run LexMachina-Eval (120-Case Legal Verification Benchmark)"
 
 on:
   workflow_dispatch:
@@ -9,11 +9,11 @@ on:
       - completed
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   run-eval:
-    name: Execute 100-Case Preregistered Legal Benchmark
+    name: Execute 120-Case Preregistered Legal Benchmark & Publish Scorecard
     runs-on: ubuntu-latest
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
 
@@ -33,7 +33,7 @@ jobs:
         run: |
           pip install httpx mcp
 
-      - name: Execute 100-case LexMachina-Eval against live refs/heads/corpus
+      - name: Execute 120-case LexMachina-Eval against live refs/heads/corpus
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -41,5 +41,23 @@ jobs:
             --bench evals/lexmachina_bench.jsonl \
             --output-json /tmp/eval-scorecard.json \
             --output-md /tmp/EVAL_REPORT.md \
-            --min-pass-rate 0.85
+            --min-pass-rate 0.90
           cat /tmp/EVAL_REPORT.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Persist eval-scorecard.json & EVAL_REPORT.md onto refs/heads/corpus
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "Lex Machina Eval Bot"
+          git config user.email "evals@lex-machina.org"
+          git fetch --depth=1 origin refs/heads/corpus:refs/heads/corpus
+          git worktree add /tmp/corpus-eval refs/heads/corpus
+          cp /tmp/eval-scorecard.json /tmp/corpus-eval/eval-scorecard.json
+          cp /tmp/EVAL_REPORT.md /tmp/corpus-eval/EVAL_REPORT.md
+          pushd /tmp/corpus-eval
+          git add eval-scorecard.json EVAL_REPORT.md
+          if ! git diff --cached --quiet; then
+            git commit -m "[lexmachina-eval] Publish verified 120-case empirical benchmark scorecard"
+            git push origin refs/heads/corpus:refs/heads/corpus
+          fi
+          popd

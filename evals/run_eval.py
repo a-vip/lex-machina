@@ -101,6 +101,11 @@ def evaluate_case(case: dict[str, Any]) -> tuple[bool, str]:
         if got != exp["aba_formal_opinion_512_audit"]:
             return False, f"Expected audit={exp['aba_formal_opinion_512_audit']}, got {got} (checks={res.get('citation_checks')})"
 
+    if "expected_quote_verdict" in exp:
+        qcs = res.get("quote_checks", [])
+        if not qcs or qcs[0].get("verdict") != exp["expected_quote_verdict"]:
+            return False, f"Expected quote_verdict={exp['expected_quote_verdict']}, got {qcs}"
+
     if "min_matches" in exp:
         mc = res.get("match_count", 0)
         if mc < exp["min_matches"]:

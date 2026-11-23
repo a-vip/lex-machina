@@ -416,6 +416,12 @@ def resource_concordance() -> str:
     return json.dumps(_load_concordance(), indent=2)
 
 
+@mcp.resource("lex://eval-scorecard")
+def resource_eval_scorecard() -> str:
+    """Latest verified LexMachina-Eval 120-case empirical benchmark scorecard."""
+    return _fetch_raw_text("eval-scorecard.json") or "{}"
+
+
 @mcp.resource("lex://provision/{jurisdiction}/{slug}/{provision}")
 def resource_provision(jurisdiction: str, slug: str, provision: str) -> str:
     """Direct read-only resource for a normalized legal provision."""

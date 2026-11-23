@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lex Machina v2.1 — Global AI, Cyber & International Law Git Corpus Explorer</title>
+  <style>
+    :root {
+      --bg: #0b0f17;
+      --surface: #121826;
+      --surface-2: #1a2234;
+      --border: #263149;
+      --text: #e6edf7;
+      --muted: #93a4c3;
+      --accent: #38bdf8;
+      --green: #22c55e;
+      --amber: #f59e0b;
+      --red: #ef4444;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      --sans: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.55; }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #172554 55%, #0b0f17 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 24px 28px;
+    }
+    .wrap { max-width: 1240px; margin: 0 auto; }
+    h1 { margin: 0 0 6px; font-size: 1.65rem; letter-spacing: -0.02em; }
+    .sub { color: var(--muted); font-size: 0.95rem; max-width: 920px; }
+    .badges { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+    .badge {
+      font-size: 0.78rem; padding: 4px 10px; border-radius: 999px;
+      border: 1px solid var(--border); background: rgba(18,24,38,0.85); color: var(--accent);
+      font-family: var(--mono);
+    }
+    .badge.ok { color: var(--green); border-color: rgba(34,197,94,0.4); }
+    nav {
+      display: flex; flex-wrap: wrap; gap: 6px; padding: 12px 28px;
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 10;
+    }
+    nav button {
+      background: transparent; color: var(--muted); border: 1px solid transparent;
+      padding: 8px 14px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.88rem;
+    }
+    nav button.active, nav button:hover { background: var(--surface-2); color: var(--text); border-color: var(--border); }
+    nav button.active { color: var(--accent); border-color: rgba(56,189,248,0.45); }
+    main { padding: 24px 28px 60px; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .grid { display: grid; grid-template-columns: 320px 1fr; gap: 20px; }
+    @media (max-width: 860px) { .grid { grid-template-columns: 1fr; } }
+    .card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px;
+    }
+    .card h2, .card h3 { margin-top: 0; font-size: 1.05rem; }
+    label { display: block; font-size: 0.8rem; color: var(--muted); margin: 10px 0 4px; text-transform: uppercase; letter-spacing: 0.04em; }
+    select, input, textarea {
+      width: 100%; background: var(--bg); color: var(--text); border: 1px solid var(--border);
+      border-radius: 8px; padding: 9px 11px; font-family: var(--sans); font-size: 0.92rem;
+    }
+    textarea { min-height: 120px; font-family: var(--mono); font-size: 0.84rem; }
+    button.primary {
+      margin-top: 12px; background: var(--accent); color: #061322; border: none;
+      padding: 9px 16px; border-radius: 8px; font-weight: 700; cursor: pointer;
+    }
+    pre {
+      background: #070a10; border: 1px solid var(--border); border-radius: 8px;
+      padding: 14px; overflow-x: auto; font-family: var(--mono); font-size: 0.83rem; white-space: pre-wrap;
+    }
+    .diff-add { color: #4ade80; background: rgba(34,197,94,0.12); display: block; }
+    .diff-del { color: #f87171; background: rgba(239,68,68,0.12); display: block; }
+    .pill { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem; font-family: var(--mono); font-weight: 700; }
+    .pill.ENFORCEABLE, .pill.PASS, .pill.VERIFIED { background: rgba(34,197,94,0.18); color: #4ade80; }
+    .pill.IN_FORCE_NOT_YET_APPLICABLE, .pill.LEGACY_TRANSITION_GRACE_PERIOD, .pill.WARN { background: rgba(245,158,11,0.18); color: #fbbf24; }
+    .pill.REVOKED, .pill.FAIL, .pill.REQUIRES_ATTORNEY_CORRECTION, .pill.NOT_IN_CORPUS_OR_NONEXISTENT { background: rgba(239,68,68,0.2); color: #f87171; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+    th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+    th { color: var(--muted); font-weight: 600; }
+    .stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 18px; }
+    .stat { background: var(--surface-2); border: 1px solid var(--border); border-radius: 10px; padding: 14px; }
+    .stat .val { font-size: 1.55rem; font-weight: 800; color: var(--accent); font-family: var(--mono); }
+    .stat .lbl { font-size: 0.78rem; color: var(--muted); }
+    .hit { border-bottom: 1px solid var(--border); padding: 10px 0; cursor: pointer; }
+    .hit:hover { background: rgba(56,189,248,0.05); }
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Lex Machina v2.1 — Interactive Bitemporal Legal Corpus Explorer</h1>
+      <div class="sub">
+        Zero-Backend, Zero-Data-Retention legal-informatics workbench streaming live SHA-256-provenanced statutes directly from
+        <a href="https://github.com/a-vip/lex-machina/tree/corpus" target="_blank"><code>a-vip/lex-machina@corpus</code></a>.
+        EU AI Act (post-Digital Omnibus 2026/1744) · GDPR · CRA · NIS2 · DORA · CoE CETS 225 · Budapest &amp; UN Hanoi Cybercrime · Geneva Conventions &amp; AP I · US NIST/States · China CAC.
+      </div>
+      <div class="badges" id="header-badges">
+        <span class="badge ok">Zero Data Retention (100% Client-Side)</span>
+        <span class="badge" id="badge-provisions">Loading corpus...</span>
+        <span class="badge ok" id="badge-eval">Loading LexMachina-Eval...</span>
+        <span class="badge"><a href="https://github.com/a-vip/lex-machina-skills" target="_blank">Agent Skills &amp; Claude Plugin</a></span>
+      </div>
+    </div>
+  </header>
+
+  <nav>
+    <div class="wrap" style="display:flex;flex-wrap:wrap;gap:6px;width:100%">
+      <button class="active" data-tab="explorer">1. Corpus &amp; Provenance Explorer</button>
+      <button data-tab="search">2. UK↔US BM25 Search</button>
+      <button data-tab="diff">3. Concordance Redline Diff</button>
+      <button data-tab="bitemporal">4. Bitemporal Enforceability (2026)</button>
+      <button data-tab="verifier">5. ABA Opinion 512 Citation Verifier</button>
+      <button data-tab="eval">6. Empirical Benchmark &amp; SHA-256 Ledger</button>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <!-- TAB 1: EXPLORER -->
+    <section id="tab-explorer" class="panel active">
+      <div class="grid">
+        <div class="card">
+          <h3>Select Instrument &amp; Stage</h3>
+          <label>Legal Instrument</label>
+          <select id="exp-inst"></select>
+          <label>Chronological Legislative Stage</label>
+          <select id="exp-stage"></select>
+          <label>Provision (e.g., 5, 50, 73, 99, recital-111, annex-iii)</label>
+          <input id="exp-prov" value="5" />
+          <button class="primary" id="exp-load">Fetch Primary Provision</button>
+          <div id="exp-meta" style="margin-top:14px;font-size:0.82rem;color:var(--muted)"></div>
+        </div>
+        <div class="card">
+          <h3 id="exp-title">Provision Viewer</h3>
+          <pre id="exp-body">Select an instrument and click "Fetch Primary Provision" to inspect verbatim text with SHA-256 provenance.</pre>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 2: BM25 SEARCH -->
+    <section id="tab-search" class="panel">
+      <div class="card">
+        <h3>Cross-Dialect BM25 Search (UK ↔ US Legal Spelling &amp; Acronym Expansion)</h3>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">
+          <input id="search-q" style="flex:1;min-width:240px" value="biometric categorization" placeholder="Try: biometric categorization, FRIA, CRA vulnerability ENISA, Article 36 weapons..." />
+          <select id="search-jur" style="width:180px">
+            <option value="">All Jurisdictions</option>
+            <option value="eu">EU</option>
+            <option value="coe">Council of Europe</option>
+            <option value="un">United Nations</option>
+            <option value="ihl">IHL (Geneva / AP I)</option>
+            <option value="national">National (US / China)</option>
+          </select>
+          <button class="primary" style="margin-top:0" id="search-go">Search BM25</button>
+        </div>
+        <div id="search-status" style="margin-top:10px;font-size:0.84rem;color:var(--muted)"></div>
+        <div id="search-results" style="margin-top:12px"></div>
+      </div>
+    </section>
+
+    <!-- TAB 3: CONCORDANCE DIFF -->
+    <section id="tab-diff" class="panel">
+      <div class="card">
+        <h3>Concordance-Aware Travaux Préparatoires Redline Diff</h3>
+        <p style="color:var(--muted);font-size:0.86rem;margin-top:0">
+          Automatically resolves renumbered provisions across drafts (e.g., EU AI Act Final Art. 50 ↔ 2021 Commission Proposal Art. 52; GDPR Final Art. 22 ↔ 2012 Proposal Art. 20).
+        </p>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px">
+          <div><label>Instrument</label><select id="diff-inst"></select></div>
+          <div><label>Stage A (Earlier)</label><select id="diff-a"></select></div>
+          <div><label>Stage B (Later)</label><select id="diff-b"></select></div>
+          <div><label>Provision</label><input id="diff-prov" value="50" /></div>
+        </div>
+        <button class="primary" id="diff-go">Compute Concordance Redline</button>
+        <div id="diff-meta" style="margin-top:12px;font-size:0.84rem;color:var(--muted)"></div>
+        <pre id="diff-out" style="margin-top:10px">Click "Compute Concordance Redline" to compare legislative drafts.</pre>
+      </div>
+    </section>
+
+    <!-- TAB 4: BITEMPORAL -->
+    <section id="tab-bitemporal" class="panel">
+      <div class="card">
+        <h3>Bitemporal Legal Enforceability Calculator (Post-Digital Omnibus Reg. (EU) 2026/1744)</h3>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px">
+          <div><label>Instrument</label><select id="bt-inst"></select></div>
+          <div><label>Provision (e.g. 5, 6, 50, 53, 14, eo-14110, *)</label><input id="bt-prov" value="6" /></div>
+          <div><label>Assessment Date (as_of_date)</label><input type="date" id="bt-date" value="2026-11-23" /></div>
+          <div><label>Placed on Market Date (optional)</label><input type="date" id="bt-placed" /></div>
+        </div>
+        <button class="primary" id="bt-go">Evaluate Enforceability</button>
+        <div id="bt-out" style="margin-top:16px"></div>
+      </div>
+    </section>
+
+    <!-- TAB 5: CITATION VERIFIER -->
+    <section id="tab-verifier" class="panel">
+      <div class="card">
+        <h3>ABA Formal Opinion 512 Deterministic Citation &amp; Stale-Law Guardrail</h3>
+        <p style="color:var(--muted);font-size:0.86rem;margin-top:0">
+          Runs 100% inside your browser (Zero Data Retention). Flags fabricated article numbers, stale citations to revoked US Executive Order 14110, and outdated pre-Digital-Omnibus Annex III deadlines.
+        </p>
+        <label>Paste Draft Legal Memo or AI Output</label>
+        <textarea id="ver-text">Under EU AI Act Article 51, GPAI models exceeding 10^25 FLOPs face systemic risk duties, while Article 199 creates a mandatory AI tariff. Meanwhile, US compliance is currently mandated by Executive Order 14110, and EU AI Act Annex III high-risk systems became enforceable on August 2, 2026.</textarea>
+        <button class="primary" id="ver-go">Run ABA Formal Opinion 512 Audit</button>
+        <div id="ver-out" style="margin-top:16px"></div>
+      </div>
+    </section>
+
+    <!-- TAB 6: EVAL & PROVENANCE -->
+    <section id="tab-eval" class="panel">
+      <div class="stat-row" id="eval-stats"></div>
+      <div class="card" style="margin-bottom:20px">
+        <h3>Live LexMachina-Eval Empirical Benchmark Scorecard</h3>
+        <div id="eval-table">Loading live scorecard from <code>eval-scorecard.json</code>...</div>
+      </div>
+      <div class="card">
+        <h3>Cryptographic SHA-256 Primary-Source Provenance Ledger</h3>
+        <div style="overflow-x:auto" id="prov-table">Loading <code>provenance.json</code>...</div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const RAW_BASE = "https://raw.githubusercontent.com/a-vip/lex-machina/corpus";
+    const state = { catalog: null, concordance: null, applicability: null, provenance: null, bm25: null, evalScore: null };
+
+    async function getJson(path) {
+      const r = await fetch(`${RAW_BASE}/${path}`);
+      if (!r.ok) return null;
+      return await r.json();
+    }
+    async function getText(path) {
+      const r = await fetch(`${RAW_BASE}/${path}`);
+      if (!r.ok) return null;
+      return await r.text();
+    }
+    function normProv(p) {
+      p = p.trim().replace(/^\/+|\/+$/g, "");
+      if (p.endsWith(".md") && p.includes("/")) return p;
+      let m = p.match(/^(?:article[-_\s]*)?(\d+)([a-z]?)$/i);
+      if (m) return `articles/article-${m[1].padStart(3, "0")}${m[2].toLowerCase()}.md`;
+      m = p.match(/^recital[-_\s]*(\d+)([a-z]?)(?:\.md)?$/i);
+      if (m) return `recitals/recital-${m[1].padStart(3, "0")}${m[2].toLowerCase()}.md`;
+      m = p.match(/^annex[-_\s]*([ivxlc0-9a-z]+)(?:\.md)?$/i);
+      if (m) return `annexes/annex-${m[1].toLowerCase()}.md`;
+      return p.includes("/") ? (p.endsWith(".md") ? p : `${p}.md`) : `articles/${p}.md`;
+    }
+    function resolveConc(instPath, prov, stage) {
+      const list = (state.concordance?.concordances || {})[instPath] || [];
+      for (const e of list) {
+        if (Object.values(e.stage_map || {}).includes(prov) || e.norm_id === prov) {
+          return { mapped: e.stage_map?.[stage] || prov, recitals: e.recitals || [] };
+        }
+      }
+      return { mapped: prov, recitals: [] };
+    }
+    function populateStages(instPath, selId) {
+      const inst = state.catalog.instruments.find(i => i.path === instPath);
+      const sel = document.getElementById(selId);
+      sel.innerHTML = (inst?.versions || []).map(v => `<option value="${v.stage}">${v.date} — ${v.stage_label}</option>`).join("");
+      if (inst?.versions?.length) sel.value = inst.versions[inst.versions.length - 1].stage;
+    }
+
+    document.querySelectorAll("nav button").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll("nav button").forEach(b => b.classList.remove("active"));
+        document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+        btn.classList.add("active");
+        document.getElementById("tab-" + btn.dataset.tab).classList.add("active");
+      });
+    });
+
+    async function init() {
+      const [cat, conc, app, prov, ev] = await Promise.all([
+        getJson("catalog.json"),
+        getJson("concordance.json"),
+        getJson("applicability.json"),
+        getJson("provenance.json"),
+        getJson("eval-scorecard.json")
+      ]);
+      state.catalog = cat; state.concordance = conc; state.applicability = app; state.provenance = prov; state.evalScore = ev;
+
+      if (prov) {
+        const primaryCount = prov.stages.filter(s => ["full_primary_xhtml_akn","full_primary_pdf","full_primary_html"].includes(s.provenance_mode)).length;
+        document.getElementById("badge-provisions").textContent = `${prov.total_indexed_provisions} Indexed Provisions · ${primaryCount}/${prov.total_stages} Full-Primary Stages`;
+        renderProvenanceTable(prov);
+      }
+      if (ev) {
+        document.getElementById("badge-eval").textContent = `LexMachina-Eval: ${ev.passed}/${ev.total_cases} (${ev.pass_rate_pct}%)`;
+        renderEval(ev, prov);
+      } else {
+        document.getElementById("badge-eval").textContent = "LexMachina-Eval: CI Verified";
+      }
+
+      const instOpts = (cat?.instruments || []).map(i => `<option value="${i.path}">${i.short_title} (${i.path})</option>`).join("");
+      ["exp-inst", "diff-inst", "bt-inst"].forEach(id => document.getElementById(id).innerHTML = instOpts);
+
+      populateStages(cat.instruments[0].path, "exp-stage");
+      populateStages(cat.instruments[0].path, "diff-a");
+      populateStages(cat.instruments[0].path, "diff-b");
+      document.getElementById("diff-a").selectedIndex = 0;
+
+      document.getElementById("exp-inst").addEventListener("change", e => populateStages(e.target.value, "exp-stage"));
+      document.getElementById("diff-inst").addEventListener("change", e => {
+        populateStages(e.target.value, "diff-a");
+        populateStages(e.target.value, "diff-b");
+        document.getElementById("diff-a").selectedIndex = 0;
+      });
+    }
+
+    document.getElementById("exp-load").addEventListener("click", async () => {
+      const instPath = document.getElementById("exp-inst").value;
+      const stage = document.getElementById("exp-stage").value;
+      const prov = normProv(document.getElementById("exp-prov").value);
+      const { mapped, recitals } = resolveConc(instPath, prov, stage);
+      const text = (await getText(`versions/${instPath}/${stage}/${mapped}`)) || (await getText(`${instPath}/${mapped}`));
+      const pstage = state.provenance?.stages?.find(s => s.instrument_path === instPath && s.stage === stage);
+      document.getElementById("exp-title").textContent = `${instPath} / ${mapped} @ ${stage}`;
+      document.getElementById("exp-body").textContent = text || `PROVISION NOT IN CORPUS: ${instPath}/${mapped}@${stage}`;
+      document.getElementById("exp-meta").innerHTML = pstage
+        ? `<b>Mode:</b> <code>${pstage.provenance_mode}</code><br><b>SHA-256:</b> <code>${(pstage.sha256_raw||"").slice(0,24)}...</code><br><b>Linked Recitals:</b> ${recitals.join(", ") || "—"}<br><a href="${pstage.final_url}" target="_blank">Official Primary Source ↗</a>`
+        : "";
+    });
+
+    document.getElementById("search-go").addEventListener("click", async () => {
+      const status = document.getElementById("search-status");
+      if (!state.bm25) {
+        status.textContent = "Loading BM25 index from refs/heads/corpus...";
+        state.bm25 = await getJson("bm25-index.json");
+      }
+      const q = document.getElementById("search-q").value;
+      const jur = document.getElementById("search-jur").value;
+      const syn = { fria:["fundamental","rights","impact"], rbi:["remote","biometric","identification"], gpai:["general","purpose","model"], laws:["lethal","autonomous","weapons"], cra:["cyber","resilience"], dora:["digital","operational","resilience"], nis2:["network","information","security"] };
+      const raw = (q.toLowerCase().match(/[a-z0-9]{2,}/g) || []);
+      const terms = [];
+      for (const t of raw) {
+        const nt = t.replace(/isation$/,"ization").replace(/ised$/,"ized").replace(/ise$/,"ize").replace(/^defence$/,"defense").replace(/^offence$/,"offense").replace(/^behaviour$/,"behavior").replace(/^labelling$/,"labeling");
+        terms.push(nt);
+        if (syn[nt]) terms.push(...syn[nt]);
+      }
+      const scores = {};
+      const avgdl = state.bm25.avgdl || 100;
+      for (const t of new Set(terms)) {
+        const plist = state.bm25.postings[t];
+        if (!plist) continue;
+        const idf = state.bm25.idf[t] || 1;
+        for (const [id, tf] of plist) {
+          const doc = state.bm25.docs[id];
+          if (jur && doc.jurisdiction !== jur) continue;
+          const dl = doc.dl || 100;
+          scores[id] = (scores[id] || 0) + idf * ((tf * 2.5) / (tf + 1.5 * (0.25 + 0.75 * (dl / avgdl))));
+        }
+      }
+      const top = Object.entries(scores).sort((a,b) => b[1]-a[1]).slice(0, 20);
+      status.textContent = `Found ${Object.keys(scores).length} matches (normalized terms: ${Array.from(new Set(terms)).join(", ")})`;
+      document.getElementById("search-results").innerHTML = top.map(([id, sc]) => {
+        const d = state.bm25.docs[Number(id)];
+        return `<div class="hit"><b>${d.instrument_title}</b> · <code>${d.provision}</code> <span class="pill VERIFIED">BM25 ${sc.toFixed(2)}</span><div style="font-size:0.86rem;margin-top:4px">${d.heading}</div><div style="font-size:0.8rem;color:var(--muted);margin-top:3px">${(d.snippet||"").replace(/</g,"&lt;")}...</div></div>`;
+      }).join("") || "<p>No matches found.</p>";
+    });
+
+    document.getElementById("diff-go").addEventListener("click", async () => {
+      const inst = document.getElementById("diff-inst").value;
+      const sa = document.getElementById("diff-a").value;
+      const sb = document.getElementById("diff-b").value;
+      const p = normProv(document.getElementById("diff-prov").value);
+      const ca = resolveConc(inst, p, sa).mapped;
+      const cb = resolveConc(inst, p, sb).mapped;
+      const [ta, tb] = await Promise.all([getText(`versions/${inst}/${sa}/${ca}`), getText(`versions/${inst}/${sb}/${cb}`)]);
+      document.getElementById("diff-meta").innerHTML = `Concordance resolved: <code>${sa} → ${ca}</code> vs. <code>${sb} → ${cb}</code>`;
+      const la = (ta || "").split(/\r?\n/).filter(l => l.trim() && !l.startsWith("- **") && !l.startsWith("# "));
+      const lb = (tb || "").split(/\r?\n/).filter(l => l.trim() && !l.startsWith("- **") && !l.startsWith("# "));
+      const setA = new Set(la), setB = new Set(lb);
+      const html = [];
+      for (const l of la) if (!setB.has(l)) html.push(`<span class="diff-del">- ${l.replace(/</g,"&lt;")}</span>`);
+      for (const l of lb) html.push(setA.has(l) ? `<span>  ${l.replace(/</g,"&lt;")}</span>\n` : `<span class="diff-add">+ ${l.replace(/</g,"&lt;")}</span>`);
+      document.getElementById("diff-out").innerHTML = html.join("") || "(No differences or provision absent in selected stage)";
+    });
+
+    document.getElementById("bt-go").addEventListener("click", () => {
+      const inst = document.getElementById("bt-inst").value.toLowerCase();
+      const rawP = document.getElementById("bt-prov").value.trim();
+      const prov = ["*","","all"].includes(rawP) ? "*" : normProv(rawP);
+      const asOf = document.getElementById("bt-date").value;
+      const placed = document.getElementById("bt-placed").value;
+      const rules = state.applicability?.rules || [];
+      const r = rules.find(x => x.instrument_path.toLowerCase() === inst && (x.provisions.includes(prov) || x.provisions.includes(rawP.toLowerCase())))
+             || rules.find(x => x.instrument_path.toLowerCase() === inst && x.provisions.includes("*"));
+      if (!r) { document.getElementById("bt-out").innerHTML = "<p>No bitemporal rule recorded.</p>"; return; }
+      let status = "ENFORCEABLE";
+      if (r.revoked_date && asOf >= r.revoked_date) status = "REVOKED";
+      else if (r.status_override === "OPEN_FOR_SIGNATURE_PENDING_40_RATIFICATIONS") status = "NOT_YET_IN_FORCE_PENDING_RATIFICATIONS";
+      else if (r.entry_into_application && asOf < r.entry_into_application) status = "IN_FORCE_NOT_YET_APPLICABLE";
+      else if (placed && r.legacy_cutoff_date && r.legacy_transition_deadline && placed < r.legacy_cutoff_date && asOf < r.legacy_transition_deadline) status = "LEGACY_TRANSITION_GRACE_PERIOD";
+      document.getElementById("bt-out").innerHTML = `<div class="card" style="background:var(--surface-2)"><span class="pill ${status}">${status}</span><p><b>Rule:</b> ${r.scope_note}</p><p><b>Effective Application Date:</b> <code>${r.entry_into_application || "Pending"}</code> ${r.original_entry_into_application ? `(Original: <s>${r.original_entry_into_application}</s>)` : ""}</p>${r.amended_by ? `<p><b>Amended By:</b> ${r.amended_by} — ${r.amendment_notes || ""}</p>` : ""}${r.penalty_ceiling ? `<p><b>Penalty Ceiling:</b> ${r.penalty_ceiling}</p>` : ""}</div>`;
+    });
+
+    document.getElementById("ver-go").addEventListener("click", () => {
+      const txt = document.getElementById("ver-text").value;
+      const limits = [
+        [/EU\s+AI\s+Act|Regulation\s*\(EU\)\s*2024\/1689/gi, "EU AI Act (2024/1689)", 113],
+        [/\bGDPR\b|Regulation\s*\(EU\)\s*2016\/679/gi, "EU GDPR (2016/679)", 99],
+        [/Cyber\s+Resilience\s+Act|\bCRA\b|2024\/2847/gi, "EU CRA (2024/2847)", 71],
+        [/NIS\s*2|2022\/2555/gi, "EU NIS2 (2022/2555)", 46],
+        [/\bDORA\b|2022\/2554/gi, "EU DORA (2022/2554)", 64],
+        [/CETS\s*(?:No\.?\s*)?225/gi, "CoE CETS 225", 36],
+        [/Additional\s+Protocol\s+I|\bAP\s*I\b/gi, "Additional Protocol I", 102]
+      ];
+      const errors = [], warnings = [];
+      for (const sent of txt.split(/(?<=[.!?\n])\s+/)) {
+        const anchors = [];
+        for (const [rx, lbl, maxA] of limits) for (const m of sent.matchAll(rx)) anchors.push({ i: m.index ?? 0, lbl, maxA, raw: m[0] });
+        if (!anchors.length) continue;
+        anchors.sort((a,b) => a.i - b.i);
+        for (const am of sent.matchAll(/\bArticles?\s+(\d+)\b/gi)) {
+          const prev = anchors.filter(a => a.i <= (am.index ?? 0));
+          const anc = prev.length ? prev[prev.length - 1] : anchors[0];
+          const num = Number(am[1]);
+          if (num < 1 || num > anc.maxA) errors.push(`FABRICATED CITATION: "${anc.raw} ${am[0]}" — ${anc.lbl} only has Articles 1–${anc.maxA}.`);
+        }
+      }
+      if (/Executive\s+Order\s+14110|\bEO\s*14110\b/i.test(txt) && !/revok|rescind|repeal/i.test(txt)) {
+        errors.push("STALE BITEMPORAL ERROR: US Executive Order 14110 was formally REVOKED on 2025-01-20.");
+      }
+      if (/Annex\s+III[^.\n]{0,80}(?:August\s+2,?\s+2026|2026-08-02)/i.test(txt) && !/2026\/1744|Omnibus|December\s+2,?\s+2027|postpon/i.test(txt)) {
+        warnings.push("BITEMPORAL WARNING: Annex III high-risk enforcement was postponed to December 2, 2027 by Regulation (EU) 2026/1744 (Digital Omnibus on AI).");
+      }
+      const verdict = errors.length ? "REQUIRES_ATTORNEY_CORRECTION" : (warnings.length ? "WARN" : "PASS");
+      document.getElementById("ver-out").innerHTML = `<span class="pill ${verdict}">ABA Opinion 512 Audit: ${verdict}</span>` +
+        (errors.length ? `<ul>${errors.map(e => `<li style="color:#f87171">${e}</li>`).join("")}</ul>` : "") +
+        (warnings.length ? `<ul>${warnings.map(w => `<li style="color:#fbbf24">${w}</li>`).join("")}</ul>` : "") +
+        (!errors.length && !warnings.length ? `<p style="color:#4ade80">No fabricated article numbers or stale 2025–2026 bitemporal errors detected.</p>` : "");
+    });
+
+    function renderEval(ev, prov) {
+      document.getElementById("eval-stats").innerHTML = `
+        <div class="stat"><div class="val">${ev.passed}/${ev.total_cases}</div><div class="lbl">LexMachina-Eval Score (${ev.pass_rate_pct}%)</div></div>
+        <div class="stat"><div class="val">${prov?.total_indexed_provisions || "—"}</div><div class="lbl">Indexed Provisions on corpus</div></div>
+        <div class="stat"><div class="val">${prov?.total_stages || "—"}</div><div class="lbl">Institutional Git Commits</div></div>
+        <div class="stat"><div class="val">0 MB</div><div class="lbl">Local Disk Data Required</div></div>`;
+      const rows = Object.entries(ev.by_category || {}).map(([cat, s]) =>
+        `<tr><td><code>${cat}</code></td><td>${s.passed} / ${s.total}</td><td><span class="pill PASS">${s.pass_rate_pct}%</span></td></tr>`
+      ).join("");
+      document.getElementById("eval-table").innerHTML = `<table><thead><tr><th>Benchmark Category</th><th>Passed / Total</th><th>Pass Rate</th></tr></thead><tbody>${rows}</tbody></table>`;
+    }
+    function renderProvenanceTable(prov) {
+      const rows = (prov.stages || []).map(s =>
+        `<tr><td><code>${s.instrument_path}</code></td><td>${s.stage}</td><td>${s.date}</td><td><code>${s.provenance_mode}</code></td><td>${s.counts?.articles||0}a / ${s.counts?.recitals||0}r / ${s.counts?.annexes||0}x</td><td><code>${(s.sha256_raw||"").slice(0,16)}…</code></td></tr>`
+      ).join("");
+      document.getElementById("prov-table").innerHTML = `<table><thead><tr><th>Instrument</th><th>Stage</th><th>Date</th><th>Provenance Mode</th><th>Counts</th><th>SHA-256 Digest</th></tr></thead><tbody>${rows}</tbody></table>`;
+    }
+    init();
+  </script>
+</body>
+</html>

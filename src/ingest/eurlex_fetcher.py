@@ -281,24 +281,35 @@ def _parse_plain_legal_text(text: str) -> dict[str, list[dict[str, str]]]:
                 seen_r.add(num)
                 recitals.append({"number": num, "eid": f"rct_{num}", "text": chunk[:10000]})
 
-    # Extract Articles from enacting terms (case-insensitive, tolerates leading whitespace & inline titles)
-    art_matches = list(re.finditer(r"(?im)^\s*Article\s+(\d+[a-z]?)\b([^\n]*)$", enacting_text))
+    # Extract Articles from enacting terms (handles both multiline headings and inline 'Art. 1. The High Contracting Parties...')
+    art_matches = list(re.finditer(r"(?im)^\s*(?:Article|Art\.)\s+(\d+[a-z]?)\b([^\n]*)$", enacting_text))
     seen_a: set[str] = set()
     for idx, m in enumerate(art_matches):
         num = m.group(1)
         if num in seen_a:
             continue
+        inline_rest = m.group(2).strip(" .:-")
         start = m.end()
         end = art_matches[idx + 1].start() if idx + 1 < len(art_matches) else len(enacting_text)
-        chunk = enacting_text[start:end].strip()
-        if len(chunk) < 20:
-            continue
-        lines = chunk.splitlines()
+        following = enacting_text[start:end].strip()
+
         title = ""
-        body = chunk
-        if lines and len(lines[0]) < 140 and not re.match(r"^(1\.|\(1\)|This\s)", lines[0]):
-            title = lines[0].strip()
-            body = "\n".join(lines[1:]).strip() or chunk
+        if inline_rest:
+            # If inline text looks like a full sentence/clause body rather than a short title, keep it as body!
+            if len(inline_rest) > 100 or re.match(r"^(?:1\.|\(1\)|The\s|In\s|For\s|Each\s|Every\s|No\s|Where\s|Persons\s)", inline_rest):
+                body = (inline_rest + "\n" + following).strip()
+            else:
+                title = inline_rest
+                body = following or inline_rest
+        else:
+            lines = following.splitlines()
+            body = following
+            if lines and len(lines[0]) < 140 and not re.match(r"^(1\.|\(1\)|This\s|The\s|In\s)", lines[0]):
+                title = lines[0].strip()
+                body = "\n".join(lines[1:]).strip() or following
+
+        if len(body) < 20:
+            continue
         seen_a.add(num)
         articles.append({
             "number": num,

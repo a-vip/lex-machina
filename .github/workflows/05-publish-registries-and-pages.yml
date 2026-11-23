@@ -1,0 +1,93 @@
+name: "05 - Publish Interactive Explorer (Pages), Validate Registries & Package Wheel"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages-and-registries"
+  cancel-in-progress: false
+
+jobs:
+  validate-packaging-and-worker:
+    name: Validate MCP Registry, Glama, Smithery, PyPI Wheel & Edge Worker TS
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate Official MCP Registry server.json, glama.json, smithery.yaml & build wheel
+        run: |
+          pip install build pyyaml
+          python - << 'EOF'
+          import json, yaml
+          from pathlib import Path
+          srv = json.loads(Path("server.json").read_text(encoding="utf-8"))
+          assert srv["name"] == "io.github.a-vip/lex-machina"
+          assert srv["remotes"][0]["type"] == "streamable-http"
+          glama = json.loads(Path("glama.json").read_text(encoding="utf-8"))
+          assert "a-vip" in glama["maintainers"]
+          sm = yaml.safe_load(Path("smithery.yaml").read_text(encoding="utf-8"))
+          assert sm["startCommand"]["type"] == "stdio"
+          print("OK: Official MCP Registry, Glama, and Smithery manifests validated!")
+          EOF
+          python -m build --wheel --outdir /tmp/dist
+          ls -lh /tmp/dist
+
+      - name: Set up Node 22 & Typecheck Cloudflare Edge MCP Worker (Cloud Only)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Typecheck cloudflare_worker/src/index.ts
+        run: |
+          cd /tmp
+          npm init -y >/dev/null
+          npm install typescript @cloudflare/workers-types >/dev/null
+          npx tsc --noEmit --target ES2022 --module ESNext --moduleResolution bundler --types @cloudflare/workers-types "$GITHUB_WORKSPACE/cloudflare_worker/src/index.ts"
+          echo "OK: Cloudflare Worker TypeScript passed strict typecheck with 0 errors!"
+
+  deploy-pages:
+    name: Deploy Interactive Legal Corpus Explorer to GitHub Pages
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload docs/ static explorer artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

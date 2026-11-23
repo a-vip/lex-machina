@@ -32,13 +32,11 @@ except ImportError:
 
 IHL_STATIC_MIRRORS: dict[str, list[str]] = {
     "geneva_conventions_1949": [
-        "https://hrlibrary.umn.edu/instree/y4gc.htm",
         "https://avalon.law.yale.edu/20th_century/geneva04.asp",
-        "https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-protection-civilian-persons-time-war",
+        "https://hrlibrary.umn.edu/instree/y4gc.htm",
     ],
     "additional_protocols_1977": [
         "https://hrlibrary.umn.edu/instree/y5pagc.htm",
-        "https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-additional-geneva-conventions-12-august-1949-and",
     ],
 }
 
@@ -127,7 +125,7 @@ def fetch_un_coe_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v3"
+    cache_key = f"{instrument_id}__{stage}__v4"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"
