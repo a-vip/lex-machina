@@ -407,7 +407,7 @@ def fetch_eurlex_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v3"
+    cache_key = f"{instrument_id}__{stage}__v4"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"
@@ -457,6 +457,45 @@ def fetch_eurlex_stage(
                 try:
                     resp = client.get(candidate_url, headers=headers)
                     http_status = resp.status_code
+
+                    # Handle EUR-Lex CELLAR HTTP 300 Multiple Choices (multi-part COM proposals: DOC_1 = Articles, DOC_2 = Annexes)
+                    if resp.status_code == 300:
+                        part_urls = re.findall(r"https?://publications\.europa\.eu/resource/cellar/[^\"'<>\s]+", resp.text)
+                        # Prioritize DOC_1 (main legislative proposal) then DOC_2 (annexes)
+                        part_urls = sorted(
+                            set(part_urls),
+                            key=lambda u: (0 if "DOC_1" in u else (1 if "DOC_2" in u else 2), u),
+                        )
+                        combined_bytes = bytearray()
+                        merged = {"recitals": [], "articles": [], "annexes": []}
+                        for purl in part_urls[:3]:
+                            presp = client.get(purl, headers=headers)
+                            if presp.status_code != 200 or len(presp.content) < 500:
+                                continue
+                            combined_bytes.extend(presp.content)
+                            pctype = presp.headers.get("content-type", "").lower()
+                            if "pdf" in pctype or presp.content[:4] == b"%PDF":
+                                p_parsed = _parse_pdf_bytes(presp.content)
+                                mode_cand = "full_primary_pdf"
+                            else:
+                                p_parsed = _parse_eurlex_xhtml(presp.content)
+                                mode_cand = "full_primary_xhtml_akn"
+                            for key_name in ("recitals", "articles", "annexes"):
+                                existing_nums = {x["number"] for x in merged[key_name]}
+                                for item in p_parsed[key_name]:
+                                    if item["number"] not in existing_nums:
+                                        merged[key_name].append(item)
+                                        existing_nums.add(item["number"])
+                        if len(merged["articles"]) >= 2:
+                            parsed = merged
+                            provenance_mode = mode_cand
+                            sha256_digest = hashlib.sha256(bytes(combined_bytes)).hexdigest()
+                            final_url = part_urls[0]
+                            bytes_fetched = len(combined_bytes)
+                            http_status = 200
+                            break
+                        continue
+
                     if resp.status_code != 200 or len(resp.content) < 500:
                         continue
                     raw_bytes = resp.content

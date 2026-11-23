@@ -932,23 +932,40 @@ def verify_citations(
     query_date = as_of_date or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     catalog = _load_catalog()
 
-    citation_patterns: list[tuple[str, str]] = [
-        (r"(?:EU\s+AI\s+Act|Regulation\s*\(EU\)\s*2024/1689)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "eu/ai-act"),
-        (r"(?:GDPR|Regulation\s*\(EU\)\s*2016/679)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "eu/gdpr"),
-        (r"(?:Cyber\s+Resilience\s+Act|\bCRA\b|Regulation\s*\(EU\)\s*2024/2847)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "eu/cyber/cra"),
-        (r"(?:NIS\s*2|Directive\s*\(EU\)\s*2022/2555)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "eu/cyber/nis2"),
-        (r"(?:\bDORA\b|Regulation\s*\(EU\)\s*2022/2554)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "eu/cyber/dora"),
-        (r"(?:CETS\s*(?:No\.?\s*)?225|CoE\s+AI\s+Convention)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "coe/ai-convention"),
-        (r"(?:Additional\s+Protocol\s+I|\bAP\s*I\b|Geneva\s+Conventions?)[^.\n]{0,45}?\bArticle\s+(\d+[a-z]?)", "ihl/geneva-conventions"),
+    instrument_detectors: list[tuple[str, str]] = [
+        (r"EU\s+AI\s+Act|Regulation\s*\(EU\)\s*2024/1689", "eu/ai-act"),
+        (r"\bGDPR\b|Regulation\s*\(EU\)\s*2016/679", "eu/gdpr"),
+        (r"Cyber\s+Resilience\s+Act|\bCRA\b|Regulation\s*\(EU\)\s*2024/2847", "eu/cyber/cra"),
+        (r"NIS\s*2|Directive\s*\(EU\)\s*2022/2555", "eu/cyber/nis2"),
+        (r"\bDORA\b|Regulation\s*\(EU\)\s*2022/2554", "eu/cyber/dora"),
+        (r"CETS\s*(?:No\.?\s*)?225|CoE\s+AI\s+Convention", "coe/ai-convention"),
+        (r"Additional\s+Protocol\s+I|\bAP\s*I\b|Geneva\s+Conventions?", "ihl/geneva-conventions"),
     ]
 
     citation_checks: list[dict[str, Any]] = []
     seen_cites: set[tuple[str, str]] = set()
     fetched_texts_for_quotes: list[tuple[str, str]] = []
 
-    for pattern, inst_path in citation_patterns:
-        for m in re.finditer(pattern, draft_text, re.I):
-            art_num = m.group(1)
+    # Sentence-scoped extraction catches compound citations ("EU AI Act Article 51 ... while Article 199 ...")
+    sentences = re.split(r"(?<=[.!?\n])\s+", draft_text)
+    for sent in sentences:
+        if not sent.strip():
+            continue
+        # Find all instrument anchors in the sentence with their character positions
+        anchors: list[tuple[int, str, str]] = []
+        for det_pat, ipath in instrument_detectors:
+            for dm in re.finditer(det_pat, sent, re.I):
+                anchors.append((dm.start(), ipath, dm.group(0)))
+        if not anchors:
+            continue
+        anchors.sort(key=lambda x: x[0])
+
+        for am in re.finditer(r"\bArticles?\s+(\d+[a-z]?)\b", sent, re.I):
+            art_pos = am.start()
+            # Bind to the closest preceding instrument anchor (or first anchor in sentence)
+            preceding = [a for a in anchors if a[0] <= art_pos]
+            _, inst_path, anchor_txt = preceding[-1] if preceding else anchors[0]
+            art_num = am.group(1)
             norm_prov = _normalize_provision_path(art_num)
             if (inst_path, norm_prov) in seen_cites:
                 continue
@@ -959,7 +976,6 @@ def verify_citations(
             text = None
             if inst and latest_ver:
                 text, _ = _fetch_provision_at_stage(inst, latest_ver, norm_prov)
-                # Also check final OJ stage for EU AI Act if latest is a supplement
                 if text is None and inst_path == "eu/ai-act":
                     oj_ver = _resolve_stage(inst, "official_journal_final")
                     text, _ = _fetch_provision_at_stage(inst, oj_ver, norm_prov)
@@ -976,7 +992,7 @@ def verify_citations(
                 fetched_texts_for_quotes.append((f"{inst_path}/{norm_prov}", text))
 
             citation_checks.append({
-                "citation_match": m.group(0).strip(),
+                "citation_match": f"{anchor_txt} {am.group(0)}".strip(),
                 "instrument_path": inst_path,
                 "provision": norm_prov,
                 "verdict": verdict,
