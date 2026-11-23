@@ -251,18 +251,30 @@ def generate_fast_import_stream(
         prov = stage_payload.get("provenance", {})
 
         inst_prefix = f"{inst['path'].strip('/')}/"
-        # Preserve earlier full-text articles when a regulatory_supplement commit only updates specific articles
+        # Preserve enacted parent-act articles when applying supplements or amending regulations (patch_mode=True)
         is_supplement = ver.get("source_type") == "regulatory_supplement"
-        if is_supplement:
+        is_patch_amendment = bool(ver.get("patch_mode"))
+
+        if is_patch_amendment:
             stale_keys: list[str] = []
+            # Route amending regulation into `<inst>/amendments/<stage>/` so parent 113 articles stay intact!
+            remapped_stage_files: dict[str, str] = {}
+            for rel_path, content_str in stage_files.items():
+                sub_rel = rel_path[len(inst_prefix) :]
+                remapped_stage_files[f"{inst_prefix}amendments/{ver['stage']}/{sub_rel}"] = content_str
+            live_files_to_write = remapped_stage_files
+        elif is_supplement:
+            stale_keys = []
+            live_files_to_write = stage_files
         else:
             stale_keys = [
                 k for k in cumulative_tree if k.startswith(inst_prefix) and k not in stage_files
             ]
             for k in stale_keys:
                 del cumulative_tree[k]
+            live_files_to_write = stage_files
 
-        cumulative_tree.update(stage_files)
+        cumulative_tree.update(live_files_to_write)
         if prov.get("provenance_mode") != "structured_regulatory_brief" or inst["path"] not in latest_provenance_by_path:
             latest_provenance_by_path[inst["path"]] = prov.get("provenance_mode", "unknown")
 
@@ -313,15 +325,15 @@ def generate_fast_import_stream(
 
         # Write live tree files AND lightweight per-stage addressable files under versions/<inst>/<stage>/
         stage_dir_prefix = f"versions/{inst['path'].strip('/')}/{ver['stage']}"
+        for rel_path, content_str in sorted(live_files_to_write.items()):
+            write_fast_import_blob_and_modify(stream_parts, rel_path, content_str.encode("utf-8"))
         for rel_path, content_str in sorted(stage_files.items()):
-            content_bytes = content_str.encode("utf-8")
-            write_fast_import_blob_and_modify(stream_parts, rel_path, content_bytes)
             sub_rel = rel_path[len(inst_prefix) :]
             if sub_rel not in ("full-text.md", "instrument.md"):
                 write_fast_import_blob_and_modify(
                     stream_parts,
                     f"{stage_dir_prefix}/{sub_rel}",
-                    content_bytes,
+                    content_str.encode("utf-8"),
                 )
 
         stream_parts.append(b"\n")

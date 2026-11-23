@@ -26,7 +26,12 @@ from pathlib import Path
 from typing import Any
 
 import httpx
-from mcp.server.fastmcp import FastMCP
+
+# Full forward/backward compatibility with BOTH mcp Python SDK v2.x (`MCPServer`) and v1.x (`FastMCP`)
+try:
+    from mcp.server.mcpserver import MCPServer as _MCPServer
+except ImportError:
+    from mcp.server.fastmcp import FastMCP as _MCPServer
 
 try:
     from mcp.types import ToolAnnotations
@@ -56,7 +61,7 @@ READ_ONLY_ANNOTATIONS = (
     else None
 )
 
-mcp = FastMCP(
+mcp = _MCPServer(
     "lex-machina",
     instructions=(
         "Authoritative bitemporal legal-informatics and deterministic citation-verification "
@@ -670,7 +675,7 @@ def blame_provision(
     stage_mapping_log: list[dict[str, str]] = []
 
     for ver in instrument.get("versions", []):
-        if ver.get("source_type") == "regulatory_supplement":
+        if ver.get("source_type") == "regulatory_supplement" or ver.get("patch_mode"):
             continue
         text, resolved = _fetch_provision_at_stage(instrument, ver, norm_prov)
         if not text:

@@ -153,6 +153,7 @@
           "document_symbol": "Regulation (EU) 2026/1744",
           "celex": "32026R1744",
           "eli": "http://data.europa.eu/eli/reg/2026/1744/oj",
+          "patch_mode": true,
           "author_name": "European Parliament and Council of the EU",
           "author_email": "co-legislators@europa.eu",
           "source_type": "eurlex_cellar",

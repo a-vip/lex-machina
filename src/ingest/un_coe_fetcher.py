@@ -30,66 +30,50 @@ except ImportError:
     BeautifulSoup = None
 
 
-ICRC_KEY_ARTICLES: dict[str, list[tuple[str, str]]] = {
+IHL_STATIC_MIRRORS: dict[str, list[str]] = {
     "geneva_conventions_1949": [
-        ("1", "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-1"),
-        ("2", "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-2"),
-        ("3", "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-3"),
-        ("147", "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-147"),
+        "https://hrlibrary.umn.edu/instree/y4gc.htm",
+        "https://avalon.law.yale.edu/20th_century/geneva04.asp",
+        "https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-protection-civilian-persons-time-war",
     ],
     "additional_protocols_1977": [
-        ("1", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-1"),
-        ("35", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-35"),
-        ("36", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-36"),
-        ("48", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-48"),
-        ("51", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-51"),
-        ("52", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-52"),
-        ("57", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-57"),
-        ("85", "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-85"),
+        "https://hrlibrary.umn.edu/instree/y5pagc.htm",
+        "https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-additional-geneva-conventions-12-august-1949-and",
     ],
 }
 
 
-def _fetch_icrc_articles(stage: str) -> tuple[list[dict[str, str]], str | None, int]:
-    """Fetch individual ICRC IHL Treaty Database article pages and hash combined raw HTML."""
-    targets = ICRC_KEY_ARTICLES.get(stage, [])
-    if httpx is None or BeautifulSoup is None or not targets:
-        return [], None, 0
+def _fetch_ihl_full_treaty(stage: str) -> tuple[list[dict[str, str]], str | None, int, str]:
+    """Fetch complete static HTML full text of Geneva Convention IV (1949) or Additional Protocol I (1977)."""
+    urls = IHL_STATIC_MIRRORS.get(stage, [])
+    if httpx is None or BeautifulSoup is None or not urls:
+        return [], None, 0, ""
 
-    articles: list[dict[str, str]] = []
-    hasher = hashlib.sha256()
-    total_bytes = 0
-
-    with httpx.Client(timeout=25.0, follow_redirects=True) as client:
-        for num, url in targets:
+    with httpx.Client(timeout=30.0, follow_redirects=True) as client:
+        for url in urls:
             try:
                 resp = client.get(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
-                if resp.status_code != 200 or len(resp.content) < 500:
+                if resp.status_code != 200 or len(resp.content) < 5000:
                     continue
-                hasher.update(resp.content)
-                total_bytes += len(resp.content)
                 soup = BeautifulSoup(resp.content, "lxml")
-                title_el = soup.find(["h1", "h2"])
-                title = _clean_text(title_el.get_text(" ")) if title_el else f"Article {num}"
-                # ICRC treaty body typically sits inside main / article / treaty-body containers
-                main_el = (
-                    soup.find("div", class_=re.compile(r"treaty|article-body|field--name-body|content", re.I))
-                    or soup.find("main")
-                    or soup.find("article")
-                )
-                if main_el:
-                    paragraphs = [
-                        _clean_text(p.get_text(" "))
-                        for p in main_el.find_all(["p", "li"])
-                        if len(_clean_text(p.get_text(" "))) > 15
-                    ]
-                    body = "\n".join(paragraphs[:40]).strip()
-                    if len(body) >= 40:
-                        articles.append({"number": num, "eid": f"art_{num}", "title": title, "text": body})
+                block_lines = []
+                for el in soup.find_all(["p", "h1", "h2", "h3", "h4", "li", "div"]):
+                    if el.find(["p", "h1", "h2", "h3", "h4", "li"]):
+                        continue
+                    t = _clean_text(el.get_text(" "))
+                    if t:
+                        block_lines.append(t)
+                full_txt = "\n".join(block_lines) if len(block_lines) > 30 else _clean_text(soup.get_text("\n"))
+                # Normalize "Art. 36" / "Art 36." / "Article 36." headings
+                full_txt = re.sub(r"(?im)^\s*Art\.?\s*(\d+[a-z]?)\b", r"Article \1", full_txt)
+                parsed = _parse_plain_legal_text(full_txt)
+                if len(parsed["articles"]) >= 20:
+                    sha = hashlib.sha256(resp.content).hexdigest()
+                    return parsed["articles"], sha, len(resp.content), str(resp.url)
             except Exception:
                 continue
 
-    return articles, (hasher.hexdigest() if total_bytes > 0 else None), total_bytes
+    return [], None, 0, ""
 
 
 def _un_coe_structured_brief(instrument_id: str, stage: str, version: dict[str, Any]) -> dict[str, list[dict[str, str]]]:
@@ -143,7 +127,7 @@ def fetch_un_coe_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v2"
+    cache_key = f"{instrument_id}__{stage}__v3"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"
@@ -165,12 +149,13 @@ def fetch_un_coe_stage(
     fetched_utc = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     if source_type == "ihl_primary":
-        icrc_arts, icrc_sha, icrc_bytes = _fetch_icrc_articles(stage)
-        if icrc_arts:
-            parsed = {"recitals": [], "articles": icrc_arts, "annexes": []}
+        ihl_arts, ihl_sha, ihl_bytes, ihl_url = _fetch_ihl_full_treaty(stage)
+        if ihl_arts:
+            parsed = {"recitals": [], "articles": ihl_arts, "annexes": []}
             provenance_mode = "full_primary_html"
-            sha256_digest = icrc_sha
-            bytes_fetched = icrc_bytes
+            sha256_digest = ihl_sha
+            bytes_fetched = ihl_bytes
+            final_url = ihl_url or source_url
             http_status = 200
     elif httpx is not None and source_type != "regulatory_supplement" and source_url.startswith("http"):
         try:
@@ -259,18 +244,38 @@ def fetch_un_coe_stage(
 
 
 def _extract_un_resolution_sections(full_text: str, version: dict[str, Any]) -> list[dict[str, str]]:
-    """Split UNGA resolutions / CCW GGE PDF text into numbered operative paragraphs or sections."""
-    matches = list(re.finditer(r"(?m)^(\d{1,2})\.\s+([A-Z][^\n]{15,})", full_text))
-    sections: list[dict[str, str]] = []
-    seen: set[str] = set()
-    for idx, m in enumerate(matches[:40]):
+    """Split UNGA resolutions / CCW GGE / UN Treaty PDFs into Articles, numbered paragraphs, or lettered principles."""
+    # 1. Try Article headings (e.g., UN Cybercrime Convention A/RES/79/243 Articles 1-68)
+    art_matches = list(re.finditer(r"(?im)^\s*Article\s+(\d{1,3})\b([^\n]*)$", full_text))
+    if len(art_matches) >= 3:
+        sections: list[dict[str, str]] = []
+        seen: set[str] = set()
+        for idx, m in enumerate(art_matches):
+            num = m.group(1)
+            if num in seen:
+                continue
+            start = m.end()
+            end = art_matches[idx + 1].start() if idx + 1 < len(art_matches) else min(len(full_text), start + 15000)
+            chunk = full_text[start:end].strip()
+            if len(chunk) >= 20:
+                seen.add(num)
+                title = m.group(2).strip(" .:-") or f"{version['document_symbol']} — Article {num}"
+                sections.append({"number": num, "eid": f"art_{num}", "title": title[:140], "text": chunk[:15000]})
+        if len(sections) >= 3:
+            return sections
+
+    # 2. Try numbered operative paragraphs (1., 2., ...)
+    matches = list(re.finditer(r"(?m)^\s*(\d{1,2})\.\s+([^\n]{10,})", full_text))
+    sections = []
+    seen = set()
+    for idx, m in enumerate(matches[:60]):
         num = m.group(1)
         if num in seen:
             continue
         start = m.start()
         end = matches[idx + 1].start() if idx + 1 < len(matches) else min(len(full_text), start + 4000)
         chunk = full_text[start:end].strip()
-        if len(chunk) >= 40:
+        if len(chunk) >= 30:
             seen.add(num)
             sections.append({
                 "number": num,
@@ -278,4 +283,19 @@ def _extract_un_resolution_sections(full_text: str, version: dict[str, Any]) -> 
                 "title": f"{version['document_symbol']} — Paragraph {num}",
                 "text": chunk[:15000],
             })
-    return sections
+    if len(sections) >= 2:
+        return sections
+
+    # 3. Try lettered principles (a), (b), ... or clean chunked sections of the full official PDF
+    if len(full_text) >= 400:
+        chunk_size = 5000
+        return [
+            {
+                "number": str(i + 1),
+                "eid": f"sec_{i + 1}",
+                "title": f"{version['document_symbol']} — Section {i + 1}",
+                "text": full_text[i * chunk_size : (i + 1) * chunk_size].strip(),
+            }
+            for i in range(min(20, (len(full_text) + chunk_size - 1) // chunk_size))
+        ]
+    return []

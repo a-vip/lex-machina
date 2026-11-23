@@ -85,9 +85,11 @@ def _parse_eurlex_xhtml(raw_bytes: bytes) -> dict[str, list[dict[str, str]]]:
             continue
         title_el = div.find(["p", "div", "span"], class_=re.compile(r"sti-art|oj-sti-art"))
         title = _clean_text(title_el.get_text(" ")) if title_el else ""
-        # Remove heading nodes when extracting body
+        # Extract leaf block elements to avoid duplicating nested <p> inside <td>
         clone_lines = []
-        for child in div.find_all(["p", "li", "td"], recursive=True):
+        for child in div.find_all(["p", "li"], recursive=True):
+            if child.find(["p", "li"]):
+                continue
             cls = " ".join(child.get("class") or [])
             if re.search(r"(^|\s)(oj-)?(ti-art|sti-art)(\s|$)", cls):
                 continue
@@ -142,9 +144,16 @@ def _parse_eurlex_xhtml(raw_bytes: bytes) -> dict[str, list[dict[str, str]]]:
                 seen_art.add(num)
                 articles.append({"number": num, "eid": f"art_{num}", "title": title, "text": "\n".join(body_parts)})
 
-    # --- Tier 3: Plain-text regex structural parser (handles COM proposals, Europarl, etc.) ---
+    # --- Tier 3: Block-level plain-text regex structural parser (handles COM proposals, split <span> tags, etc.) ---
     if len(articles) < 3:
-        full_text = _clean_text(soup.get_text("\n"))
+        block_lines = []
+        for el in soup.find_all(["p", "h1", "h2", "h3", "h4", "li"]):
+            if el.find(["p", "h1", "h2", "h3", "h4", "li"]):
+                continue
+            t = _clean_text(el.get_text(" "))
+            if t:
+                block_lines.append(t)
+        full_text = "\n".join(block_lines) if len(block_lines) > 20 else _clean_text(soup.get_text("\n"))
         extracted = _parse_plain_legal_text(full_text)
         if len(extracted["articles"]) > len(articles):
             articles = extracted["articles"]
@@ -251,14 +260,15 @@ def _parse_plain_legal_text(text: str) -> dict[str, list[dict[str, str]]]:
                 "text": body[:40000],
             })
 
-    # Find first enacting Article boundary
-    first_art = re.search(r"(?m)^Article\s+1\b", main_body)
+    # Find first enacting Article boundary (skip table of contents by picking the last Article 1 occurrence if multiple exist early)
+    art1_hits = list(re.finditer(r"(?im)^\s*Article\s+1\b", main_body))
+    first_art = art1_hits[-1] if len(art1_hits) > 1 and art1_hits[-1].start() < len(main_body) * 0.65 else (art1_hits[0] if art1_hits else None)
     preamble_text = main_body[: first_art.start()] if first_art else ""
     enacting_text = main_body[first_art.start() :] if first_art else main_body
 
     # Extract Recitals from preamble
     if preamble_text:
-        rec_matches = list(re.finditer(r"(?m)^\((\d+[a-z]?)\)\s+", preamble_text))
+        rec_matches = list(re.finditer(r"(?m)^\s*\((\d+[a-z]?)\)\s+", preamble_text))
         seen_r: set[str] = set()
         for idx, m in enumerate(rec_matches):
             num = m.group(1)
@@ -271,8 +281,8 @@ def _parse_plain_legal_text(text: str) -> dict[str, list[dict[str, str]]]:
                 seen_r.add(num)
                 recitals.append({"number": num, "eid": f"rct_{num}", "text": chunk[:10000]})
 
-    # Extract Articles from enacting terms
-    art_matches = list(re.finditer(r"(?m)^Article\s+(\d+[a-z]?)\b[^\n]*$", enacting_text))
+    # Extract Articles from enacting terms (case-insensitive, tolerates leading whitespace & inline titles)
+    art_matches = list(re.finditer(r"(?im)^\s*Article\s+(\d+[a-z]?)\b([^\n]*)$", enacting_text))
     seen_a: set[str] = set()
     for idx, m in enumerate(art_matches):
         num = m.group(1)
@@ -397,22 +407,35 @@ def fetch_eurlex_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v2"
+    cache_key = f"{instrument_id}__{stage}__v3"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"
         if cache_file.exists():
             with gzip.open(cache_file, "rt", encoding="utf-8") as f:
                 cached = json.load(f)
-                # Re-fetch if cached entry was previously empty/failed
                 if cached.get("articles") and cached.get("provenance", {}).get("provenance_mode") != "structured_regulatory_brief":
                     return cached
 
     source_type = version.get("source_type", "eurlex_cellar")
-    urls_to_try: list[str] = []
-    if version.get("source_url"):
-        urls_to_try.append(version["source_url"])
-    urls_to_try.extend(version.get("fallback_urls", []))
+    urls_to_try: list[tuple[str, str]] = []
+    if source_type == "consilium_pdf":
+        if version.get("source_url"):
+            urls_to_try.append((version["source_url"], "application/pdf"))
+    elif source_type == "europarl_html":
+        if version.get("source_url"):
+            urls_to_try.append((version["source_url"], "text/html,application/xhtml+xml;q=0.9"))
+        for fb in version.get("fallback_urls", []):
+            urls_to_try.append((fb, "application/xhtml+xml,text/html;q=0.9"))
+            urls_to_try.append((fb, "application/pdf"))
+    else:
+        # CELLAR Content Negotiation cascade: XHTML -> HTML -> PDF (bypasses EUR-Lex WAF on COM proposals!)
+        if version.get("source_url"):
+            urls_to_try.append((version["source_url"], "application/xhtml+xml"))
+            urls_to_try.append((version["source_url"], "text/html"))
+            urls_to_try.append((version["source_url"], "application/pdf"))
+        for fb in version.get("fallback_urls", []):
+            urls_to_try.append((fb, "application/xhtml+xml,text/html;q=0.9"))
 
     parsed: dict[str, list[dict[str, str]]] = {"recitals": [], "articles": [], "annexes": []}
     provenance_mode = "structured_regulatory_brief"
@@ -424,18 +447,13 @@ def fetch_eurlex_stage(
     fetched_utc = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     if httpx is not None and source_type != "regulatory_supplement":
-        accept_header = (
-            "application/pdf"
-            if source_type == "consilium_pdf"
-            else "application/xhtml+xml,text/html;q=0.9,application/xml;q=0.8"
-        )
-        headers = {
-            "User-Agent": USER_AGENT,
-            "Accept": accept_header,
-            "Accept-Language": "eng,en;q=0.9",
-        }
         with httpx.Client(timeout=45.0, follow_redirects=True) as client:
-            for candidate_url in urls_to_try:
+            for candidate_url, accept_header in urls_to_try:
+                headers = {
+                    "User-Agent": USER_AGENT,
+                    "Accept": accept_header,
+                    "Accept-Language": "eng,en;q=0.9",
+                }
                 try:
                     resp = client.get(candidate_url, headers=headers)
                     http_status = resp.status_code
