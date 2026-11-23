@@ -1,0 +1,117 @@
+name: "06 - Run 3-Way LLM Hallucination Trial (Baseline vs. MCP vs. MCP+Skills)"
+
+on:
+  workflow_dispatch:
+    inputs:
+      provider:
+        description: "LLM Provider (use dry_run for free live-MCP verification; gemini/openai/anthropic for paid empirical trial)"
+        required: true
+        default: "dry_run"
+        type: choice
+        options:
+          - dry_run
+          - gemini
+          - openai
+          - anthropic
+      model:
+        description: "Optional model override (defaults: gemini-2.5-flash / gpt-4.1-mini / claude-sonnet-4-5)"
+        required: false
+        default: ""
+        type: string
+      sample_size:
+        description: "Number of preregistered prompts to evaluate (100 = full preregistered study)"
+        required: true
+        default: "100"
+        type: choice
+        options:
+          - "10"
+          - "25"
+          - "50"
+          - "100"
+      mcp_endpoint:
+        description: "Live Streamable HTTP Edge MCP URL"
+        required: true
+        default: "https://lex-machina.aviperera0.workers.dev/mcp"
+        type: string
+      publish_to_corpus:
+        description: "Persist trial-results.json, TRIAL_REPORT.md & trial_tables.tex onto refs/heads/corpus/trials/"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  run-hallucination-trial:
+    name: Execute 3-Way Paired Legal Hallucination Trial (Cloud Runner)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch (zero-local-disk shallow)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install cloud-only dependencies
+        run: |
+          pip install httpx mcp
+
+      - name: Run 3-Way Empirical Trial against Live Edge MCP
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p /tmp/trial-out
+          MODEL_ARG=""
+          if [ -n "${{ inputs.model }}" ]; then
+            MODEL_ARG="--model ${{ inputs.model }}"
+          fi
+          python evals/compare_models.py \
+            --prompts evals/hallucination_trial_prompts.jsonl \
+            --provider "${{ inputs.provider }}" \
+            $MODEL_ARG \
+            --limit "${{ inputs.sample_size }}" \
+            --mcp-endpoint "${{ inputs.mcp_endpoint }}" \
+            --output-json /tmp/trial-out/trial-results.json \
+            --output-md /tmp/trial-out/TRIAL_REPORT.md \
+            --output-tex /tmp/trial-out/trial_tables.tex
+          cat /tmp/trial-out/TRIAL_REPORT.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload Publication Artifacts (JSON + Markdown + LaTeX Booktabs)
+        uses: actions/upload-artifact@v4
+        with:
+          name: lex-machina-hallucination-trial-${{ inputs.provider }}-${{ inputs.sample_size }}
+          path: /tmp/trial-out/
+          retention-days: 90
+
+      - name: Optional — Publish Verified Trial Artifacts onto refs/heads/corpus/trials/
+        if: ${{ inputs.publish_to_corpus == true }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "Lex Machina Trial Bot"
+          git config user.email "evals@lex-machina.org"
+          git fetch --depth=1 origin refs/heads/corpus:refs/remotes/origin/corpus
+          git worktree add -B corpus /tmp/corpus-trial refs/remotes/origin/corpus
+          STAMP=$(date -u +%Y%m%dT%H%M%SZ)
+          DEST="/tmp/corpus-trial/trials/${{ inputs.provider }}-${STAMP}"
+          mkdir -p "$DEST"
+          cp /tmp/trial-out/* "$DEST/"
+          cp /tmp/trial-out/TRIAL_REPORT.md /tmp/corpus-trial/trials/LATEST_TRIAL_REPORT.md
+          cp /tmp/trial-out/trial-results.json /tmp/corpus-trial/trials/latest-trial-results.json
+          cp /tmp/trial-out/trial_tables.tex /tmp/corpus-trial/trials/latest_trial_tables.tex
+          pushd /tmp/corpus-trial
+          git add trials/
+          if ! git diff --cached --quiet; then
+            git commit -m "[hallucination-trial] Publish ${{ inputs.provider }} (N=${{ inputs.sample_size }}) 3-way empirical results"
+            git push origin HEAD:refs/heads/corpus
+          fi
+          popd
