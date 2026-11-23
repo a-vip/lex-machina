@@ -1,7 +1,7 @@
 # Lex Machina v3.0 — Preregistered 3-Way Empirical Legal Hallucination Trial Protocol
 
 **Study Identifier**: `LexMachina-Trial-2026-v3`  
-**Preregistered Prompt Corpus**: `evals/hallucination_trial_prompts.jsonl` ($N = 100$ prompts across 5 strata)  
+**Preregistered Prompt Corpus**: `evals/hallucination_trial_prompts.jsonl` (N = 100 prompts across 5 strata)  
 **Target Journals / Preprint Archives**: SSRN Legal Scholarship Network · arXiv (`cs.CL` / `cs.CY`)  
 **Methodological Anchors**: Stanford RegLab (*Hallucination-Free?*, *JELS* 2025; *"There's No Free Benchmark"*, *PNAS* 2026) · SkillsBench (2026) · ABA Formal Opinion 512 (2024)
 
@@ -11,9 +11,9 @@
 
 Commercial legal AI platforms (Lexis+ AI ~17%, Westlaw AI ~33%) exhibit persistent **misgrounding**, **temporal collapse**, and **false-premise acquiescence**. This study tests whether coupling frontier LLMs with a **bitemporal, SHA-256-provenanced Git corpus MCP server**, **modular `agentskills.io` legal skills**, and a **deterministic ABA Formal Opinion 512 verification loop** produces statistically significant reductions in legal hallucination rates.
 
-- **$H_1$ (MCP Grounding Effect)**: Arm 2 (`LLM + Lex Machina Live Edge MCP`) achieves significantly higher overall accuracy and lower hallucination rate than Arm 1 (`Baseline Parametric LLM`) on paired two-sided exact McNemar's test ($\alpha = 0.01$).
-- **$H_2$ (Skills + Deterministic Guardrail Effect)**: Arm 3 (`LLM + Edge MCP + agentskills.io + ABA 512 Verifier Loop`) achieves the highest overall accuracy, highest ABA Formal Opinion 512 citation-audit pass rate, and lowest false-premise acquiescence rate across all 5 legal failure strata.
-- **$H_3$ (Bitemporal Dominance)**: The largest accuracy delta occurs on **Category 1 (`bitemporal_2025_2026_traps`)** and **Category 2 (`travaux_concordance_and_blame`)**, where parametric cutoff memory and monotemporal RAG fail systematically.
+- **H₁ (MCP Grounding Effect)**: Arm 2 (`LLM + Lex Machina Live Edge MCP`) achieves significantly higher overall accuracy and lower hallucination rate than Arm 1 (`Baseline Parametric LLM`) on paired two-sided exact McNemar's test (α = 0.01).
+- **H₂ (Skills + Deterministic Guardrail Effect)**: Arm 3 (`LLM + Edge MCP + agentskills.io + ABA 512 Verifier Loop`) achieves the highest overall accuracy, highest ABA Formal Opinion 512 citation-audit pass rate, and lowest false-premise acquiescence rate across all 5 legal failure strata.
+- **H₃ (Bitemporal Dominance)**: The largest accuracy delta occurs on **Category 1 (`bitemporal_2025_2026_traps`)** and **Category 2 (`travaux_concordance_and_blame`)**, where parametric cutoff memory and monotemporal RAG fail systematically.
 
 ---
 
@@ -46,12 +46,12 @@ Every prompt is evaluated at **`temperature = 0.0`** across three paired arms:
 ## 4. Statistical Plan & Cloud Execution
 
 - **Point estimates**: Accuracy % and Hallucination Rate (`100% - Accuracy %`) with **exact Wilson 95% confidence intervals**.
-- **Hypothesis tests**: Exact two-sided paired **McNemar's test** on discordant pairs $(b, c)$ comparing Arm 2 vs. Arm 1 and Arm 3 vs. Arm 1.
+- **Hypothesis tests**: Exact two-sided paired **McNemar's test** on discordant pairs `(b, c)` comparing Arm 2 vs. Arm 1 and Arm 3 vs. Arm 1.
 - **Reproducibility**: Executed exclusively on GitHub Actions via `.github/workflows/06-run-llm-hallucination-trial.yml` (`workflow_dispatch`), pinning the SHA-256 digest of `hallucination_trial_prompts.jsonl` and emitting `trial-results.json`, `TRIAL_REPORT.md`, and LaTeX `trial_tables.tex`.
 
 ### How to Execute a Live Paid Trial (Takes ~3–5 Minutes on GitHub Actions)
 1. In GitHub (`a-vip/lex-machina → Settings → Secrets and variables → Actions`), add any one (or all three) provider API keys:
-   - `GEMINI_API_KEY` (recommended lowest cost — `gemini-2.5-flash` runs all 300 calls for < \$0.50!)
+   - `GEMINI_API_KEY` (recommended lowest cost — `gemini-2.5-flash` runs all 300 calls for under $0.50 USD!)
    - `OPENAI_API_KEY` (e.g., `gpt-4.1-mini` or `gpt-4.1`)
    - `ANTHROPIC_API_KEY` (e.g., `claude-sonnet-4-5`)
 2. Open **Actions → `06 - Run 3-Way LLM Hallucination Trial` → Run workflow**, choose `provider`, `model`, `sample_size = 100`, and `publish_to_corpus = true`.
