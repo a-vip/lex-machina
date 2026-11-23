@@ -1,0 +1,46 @@
+{
+  "benchmark": "LexMachina-Eval v3.0",
+  "executed_utc": "2026-11-23T19:49:39Z",
+  "total_cases": 150,
+  "passed": 150,
+  "failed": 0,
+  "pass_rate_pct": 100.0,
+  "by_category": {
+    "verbatim_grounding": {
+      "passed": 25,
+      "total": 25,
+      "pass_rate_pct": 100.0
+    },
+    "travaux_concordance": {
+      "passed": 20,
+      "total": 20,
+      "pass_rate_pct": 100.0
+    },
+    "bitemporal_traps": {
+      "passed": 20,
+      "total": 20,
+      "pass_rate_pct": 100.0
+    },
+    "anti_hallucination": {
+      "passed": 20,
+      "total": 20,
+      "pass_rate_pct": 100.0
+    },
+    "search_and_graph": {
+      "passed": 15,
+      "total": 15,
+      "pass_rate_pct": 100.0
+    },
+    "quote_fidelity_and_primary_depth": {
+      "passed": 20,
+      "total": 20,
+      "pass_rate_pct": 100.0
+    },
+    "global_ihl_and_caselaw": {
+      "passed": 30,
+      "total": 30,
+      "pass_rate_pct": 100.0
+    }
+  },
+  "failures": []
+}
