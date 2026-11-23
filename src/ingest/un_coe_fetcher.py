@@ -125,7 +125,7 @@ def fetch_un_coe_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v4"
+    cache_key = f"{instrument_id}__{stage}__v5"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"

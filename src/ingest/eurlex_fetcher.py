@@ -85,13 +85,13 @@ def _parse_eurlex_xhtml(raw_bytes: bytes) -> dict[str, list[dict[str, str]]]:
             continue
         title_el = div.find(["p", "div", "span"], class_=re.compile(r"sti-art|oj-sti-art"))
         title = _clean_text(title_el.get_text(" ")) if title_el else ""
-        # Extract leaf block elements to avoid duplicating nested <p> inside <td>
+        # Extract leaf block elements (including EUR-Lex consolidated `div.norm` paragraphs!)
         clone_lines = []
-        for child in div.find_all(["p", "li"], recursive=True):
-            if child.find(["p", "li"]):
+        for child in div.find_all(["p", "li", "div"], recursive=True):
+            if child.find(["p", "li", "div"]):
                 continue
             cls = " ".join(child.get("class") or [])
-            if re.search(r"(^|\s)(oj-)?(ti-art|sti-art)(\s|$)", cls):
+            if re.search(r"(^|\s)(oj-)?(ti-art|sti-art|title-article-norm|stitle-article-norm)(\s|$)", cls):
                 continue
             txt = _clean_text(child.get_text(" "))
             if txt and (not clone_lines or clone_lines[-1] != txt):
@@ -240,9 +240,15 @@ def _parse_plain_legal_text(text: str) -> dict[str, list[dict[str, str]]]:
     articles: list[dict[str, str]] = []
     annexes: list[dict[str, str]] = []
 
-    # Split out Annexes first if present near the end
-    annex_split = re.split(r"(?m)^(ANNEX\s+[IVXLC0-9]+)\b", text)
-    main_body = annex_split[0]
+    # Find first enacting Article boundary FIRST so a Table-of-Contents 'ANNEX I' never truncates the statute!
+    art1_hits = list(re.finditer(r"(?im)^\s*(?:Article|Art\.)\s+1\b", text))
+    first_art = art1_hits[-1] if len(art1_hits) > 1 and art1_hits[-1].start() < len(text) * 0.65 else (art1_hits[0] if art1_hits else None)
+    preamble_text = text[: first_art.start()] if first_art else ""
+    after_art1 = text[first_art.start() :] if first_art else text
+
+    # Split out Annexes only AFTER Article 1 begins
+    annex_split = re.split(r"(?m)^(ANNEX\s+[IVXLC0-9]+)\b", after_art1)
+    enacting_text = annex_split[0]
     if len(annex_split) > 2:
         seen_anx: set[str] = set()
         for i in range(1, len(annex_split) - 1, 2):
@@ -259,12 +265,6 @@ def _parse_plain_legal_text(text: str) -> dict[str, list[dict[str, str]]]:
                 "title": first_line[:160],
                 "text": body[:40000],
             })
-
-    # Find first enacting Article boundary (skip table of contents by picking the last Article 1 occurrence if multiple exist early)
-    art1_hits = list(re.finditer(r"(?im)^\s*Article\s+1\b", main_body))
-    first_art = art1_hits[-1] if len(art1_hits) > 1 and art1_hits[-1].start() < len(main_body) * 0.65 else (art1_hits[0] if art1_hits else None)
-    preamble_text = main_body[: first_art.start()] if first_art else ""
-    enacting_text = main_body[first_art.start() :] if first_art else main_body
 
     # Extract Recitals from preamble
     if preamble_text:
@@ -418,7 +418,7 @@ def fetch_eurlex_stage(
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v4"
+    cache_key = f"{instrument_id}__{stage}__v5"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"

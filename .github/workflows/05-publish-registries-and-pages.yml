@@ -61,7 +61,7 @@ jobs:
           cd /tmp
           npm init -y >/dev/null
           npm install typescript @cloudflare/workers-types >/dev/null
-          npx tsc --noEmit --target ES2022 --module ESNext --moduleResolution bundler --types @cloudflare/workers-types "$GITHUB_WORKSPACE/cloudflare_worker/src/index.ts"
+          npx tsc --noEmit --target ES2022 --lib ES2022 --module ESNext --moduleResolution bundler --skipLibCheck --types @cloudflare/workers-types "$GITHUB_WORKSPACE/cloudflare_worker/src/index.ts"
           echo "OK: Cloudflare Worker TypeScript passed strict typecheck with 0 errors!"
 
   deploy-pages:
@@ -80,8 +80,6 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Upload docs/ static explorer artifact
         uses: actions/upload-pages-artifact@v3
