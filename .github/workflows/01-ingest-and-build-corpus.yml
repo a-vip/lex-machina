@@ -66,8 +66,8 @@ jobs:
         run: |
           CACHE_WORKTREE="/tmp/cache-repo"
           mkdir -p "$CACHE_WORKTREE"
-          # Prune legacy v1-v6 cache files; keep only current v7 schema payloads
-          cp -r /tmp/pipeline-cache/*__v7.json.gz "$CACHE_WORKTREE/" 2>/dev/null || true
+          # Prune legacy v1-v6 cache files; keep only current v7/v8 schema payloads
+          cp -r /tmp/pipeline-cache/*__v7.json.gz /tmp/pipeline-cache/*__v8.json.gz "$CACHE_WORKTREE/" 2>/dev/null || true
           pushd "$CACHE_WORKTREE"
           git init -b pipeline-cache
           git config user.name "Lex Machina Cache Bot"

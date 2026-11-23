@@ -577,7 +577,7 @@
           "author_name": "United Nations General Assembly",
           "author_email": "unga@un.org",
           "source_type": "un_coe_pdf",
-          "source_url": "https://documents.un.org/doc/undoc/gen/n24/419/85/pdf/n2441985.pdf",
+          "source_url": "https://documents.un.org/api/symbol/access?s=A/RES/79/243&l=en&t=pdf",
           "summary": "Adoption by the UN General Assembly of the first global UN Convention against Cybercrime establishing criminalization chapters, procedural investigative measures, cross-border electronic evidence cooperation for serious crimes (4+ years penalty), and Article 6/24 human rights references.",
           "commit_subject": "[2024-12-24] Adopt UN Convention against Cybercrime (A/RES/79/243)"
         },
@@ -624,7 +624,7 @@
           "author_name": "UN CCW GGE",
           "author_email": "ccw@un.org",
           "source_type": "un_coe_pdf",
-          "source_url": "https://documents.un.org/doc/undoc/gen/g19/283/29/pdf/g1928329.pdf",
+          "source_url": "https://documents.un.org/api/symbol/access?s=CCW/GGE.1/2019/3&l=en&t=pdf",
           "summary": "Adoption of the 11 Guiding Principles on emerging technologies in the area of LAWS.",
           "commit_subject": "[2019-08-21] Adopt CCW GGE 11 Guiding Principles on LAWS (CCW/GGE.1/2019/3)"
         },
@@ -636,7 +636,7 @@
           "author_name": "UN CCW GGE",
           "author_email": "ccw@un.org",
           "source_type": "un_coe_pdf",
-          "source_url": "https://documents.un.org/doc/undoc/gen/g23/100/67/pdf/g2310067.pdf",
+          "source_url": "https://documents.un.org/api/symbol/access?s=CCW/GGE.1/2023/2&l=en&t=pdf",
           "summary": "Consensus report operationalizing the two-tier normative architecture: prohibiting IHL-non-compliant systems and strictly regulating context, duration, and human-machine interaction.",
           "commit_subject": "[2023-05-26] Adopt CCW GGE Two-Tier Normative Framework (CCW/GGE.1/2023/2)"
         },
@@ -683,7 +683,7 @@
           "author_name": "United Nations General Assembly",
           "author_email": "unga@un.org",
           "source_type": "un_coe_pdf",
-          "source_url": "https://documents.un.org/doc/undoc/gen/n24/089/11/pdf/n2408911.pdf",
+          "source_url": "https://documents.un.org/api/symbol/access?s=A/RES/78/265&l=en&t=pdf",
           "summary": "Consensus UNGA resolution on safe, secure, and trustworthy AI for sustainable development.",
           "commit_subject": "[2024-03-21] Adopt UNGA Resolution A/RES/78/265 on Safe, Secure and Trustworthy AI"
         },
@@ -695,7 +695,7 @@
           "author_name": "United Nations Summit of the Future",
           "author_email": "summit@un.org",
           "source_type": "un_coe_pdf",
-          "source_url": "https://documents.un.org/doc/undoc/gen/n24/272/22/pdf/n2427222.pdf",
+          "source_url": "https://documents.un.org/api/symbol/access?s=A/RES/79/1&l=en&t=pdf",
           "summary": "Global Digital Compact establishing the Independent International Scientific Panel on AI and the Global Dialogue on AI Governance.",
           "commit_subject": "[2024-09-22] Adopt UN Global Digital Compact (A/RES/79/1, Annex I)"
         }
@@ -1080,8 +1080,8 @@
           "patch_mode": true,
           "author_name": "UK AI Safety Institute (AISI)",
           "author_email": "aisi@dsit.gov.uk",
-          "source_type": "framework_pdf",
-          "source_url": "https://assets.publishing.service.gov.uk/media/65422d3fa6e42b00146f882a/introducing-the-ai-safety-institute.pdf",
+          "source_type": "govuk_html",
+          "source_url": "https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute",
           "summary": "Official founding policy paper establishing the UK AI Safety Institute (now AI Security Institute) for frontier model pre-deployment safety evaluations.",
           "commit_subject": "[2023-11-02] Establish UK AI Safety Institute Mandate (DSIT)"
         },
@@ -1093,9 +1093,9 @@
           "patch_mode": true,
           "author_name": "Parliament of the United Kingdom",
           "author_email": "legislation@parliament.uk",
-          "source_type": "regulatory_supplement",
-          "source_url": "https://www.legislation.gov.uk/ukpga/2025/18/contents",
-          "summary": "Enacted UK statute reforming UK GDPR Article 22 automated decision-making safeguards, Smart Data powers, ICO structure, and AI/copyright statutory reporting duties.",
+          "source_type": "govuk_html",
+          "source_url": "https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes",
+          "summary": "Official UK Government statutory guidance and summary of the enacted UK Data (Use and Access) Act 2025 (c. 18) reforming UK GDPR Article 22 automated decision-making, Smart Data powers, ICO structure, and AI/copyright duties.",
           "commit_subject": "[2025-06-19] Enact UK Data (Use and Access) Act 2025 (2025 c. 18)"
         }
       ]
@@ -1481,7 +1481,7 @@
           "author_name": "International Court of Justice (ICJ)",
           "author_email": "icj@icj-cij.org",
           "source_type": "icj_pdf",
-          "source_url": "https://documents.un.org/doc/undoc/gen/n96/276/39/pdf/n9627639.pdf",
+          "source_url": "https://documents.un.org/api/symbol/access?s=A/51/218&l=en&t=pdf",
           "summary": "Verbatim official UN ODS transmission of the 1996 ICJ Advisory Opinion affirming intransgressible IHL principles of distinction, unnecessary suffering, and Martens Clause applicability to all emerging weapons technologies.",
           "commit_subject": "[1996-07-08] Deliver ICJ Advisory Opinion on Nuclear Weapons & Intransgressible IHL Principles (A/51/218)"
         }

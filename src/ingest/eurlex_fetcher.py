@@ -92,8 +92,8 @@ def _is_probable_article_heading(line_after_num: str, raw_prefix: str) -> bool:
     # Reject trailing cross-ref patterns like `Article 5 (1)` or `Article 5 - see`
     if re.match(r"^\(\d+[a-z]?\)", rest):
         return False
-    # Allow `Article 5. Title` or `Article 5 - Title` or `Article 5: Title` or inline `Article 5. The High Contracting Parties...`
-    if re.match(r"^[.:\-–—]\s*[A-Z0-9(\"']", rest):
+    # Allow `Article 5. Title`, `Article 5.-Title` (UMN AP I/II), `Article 5 - Title`, `Article 5: Title`, or inline treaty sentences
+    if re.match(r"^[.:\-–—]+\s*[A-Z0-9(\"']", rest):
         return True
     # Allow standalone short title on same line (e.g. `Article 5 Prohibited AI practices`)
     if len(rest) <= 130 and rest[0].isupper() and not rest.endswith(",") and not re.search(r"\bof\s+this\s+(?:Regulation|Directive|Convention|Protocol|Act)\b", rest, re.I):
@@ -412,12 +412,12 @@ def _parse_plain_legal_text(text: str) -> dict[str, list[dict[str, str]]]:
             m2.group(2) == "2" and _is_probable_article_heading(m2.group(3), m2.group(1))
             for m2 in raw_art_re.finditer(window)
         ):
-            # Prefer non-TOC match (body between Article 1 and Article 2 should be >= 60 chars)
+            # Prefer non-TOC match (total text of Article 1 including inline rest should be >= 60 chars)
             m2_first = next(
                 (m2 for m2 in raw_art_re.finditer(window) if m2.group(2) == "2" and _is_probable_article_heading(m2.group(3), m2.group(1))),
                 None,
             )
-            if m2_first and m2_first.start() >= 60:
+            if m2_first and (len(cand.group(3)) + m2_first.start()) >= 60:
                 first_art = cand
                 break
     if first_art is None and art1_candidates:

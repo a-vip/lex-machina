@@ -64,13 +64,10 @@ jobs:
           npx tsc --noEmit --target ES2022 --lib ES2022 --module ESNext --moduleResolution bundler --skipLibCheck --types @cloudflare/workers-types "$GITHUB_WORKSPACE/cloudflare_worker/src/index.ts"
           echo "OK: Cloudflare Worker TypeScript passed strict typecheck with 0 errors!"
 
-  deploy-pages:
-    name: Deploy Interactive Legal Corpus Explorer to GitHub Pages
+  build-pages:
+    name: Build & Upload Interactive Legal Corpus Explorer Artifact
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout main
@@ -86,6 +83,16 @@ jobs:
         with:
           path: docs
 
+  deploy-pages:
+    name: Deploy Interactive Legal Corpus Explorer to GitHub Pages
+    needs: build-pages
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

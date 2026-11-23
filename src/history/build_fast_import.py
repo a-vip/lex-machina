@@ -76,7 +76,7 @@ def fetch_stage_for_event(
     source_type = version.get("source_type", "un_coe_pdf")
     if source_type in ("eurlex", "eurlex_cellar", "consilium_pdf", "europarl_html", "ec_guideline_pdf", "cjeu_cellar"):
         return fetch_eurlex_stage(instrument, version, cache_dir=cache_dir)
-    if source_type in ("national", "national_pdf", "national_web", "cn_cac_html", "us_tx_html", "framework_pdf"):
+    if source_type in ("national", "national_pdf", "national_web", "cn_cac_html", "us_tx_html", "framework_pdf", "govuk_html"):
         return fetch_national_stage(instrument, version, cache_dir=cache_dir)
     if source_type == "regulatory_supplement":
         if instrument["jurisdiction"] == "eu":

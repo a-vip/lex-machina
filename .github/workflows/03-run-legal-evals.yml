@@ -1,4 +1,4 @@
-name: "03 - Run LexMachina-Eval (120-Case Legal Verification Benchmark)"
+name: "03 - Run LexMachina-Eval (150-Case Legal Verification Benchmark)"
 
 on:
   workflow_dispatch:

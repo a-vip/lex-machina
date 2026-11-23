@@ -367,6 +367,48 @@ def _national_structured_brief(instrument_id: str, stage: str, version: dict[str
     return {"recitals": [], "articles": arts, "annexes": []}
 
 
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+
+def _parse_govuk_html(raw_bytes: bytes, version: dict[str, Any]) -> list[dict[str, str]]:
+    """Parse official GOV.UK HTML publications (UK AISI Overview, UK Data Use & Access Act 2025 Guidance)."""
+    if BeautifulSoup is None:
+        return []
+    soup = BeautifulSoup(raw_bytes, "lxml")
+    main = soup.find("main") or soup.find("article") or soup
+    for tag in main(["script", "style", "nav", "aside", "footer"]):
+        tag.decompose()
+
+    sections: list[dict[str, str]] = []
+    cur_title = version.get("stage_label", "UK Government Publication")
+    cur_lines: list[str] = []
+
+    def _flush() -> None:
+        nonlocal cur_lines
+        body = "\n".join(cur_lines).strip()
+        if len(body) >= 80:
+            sec_num = str(len(sections) + 1)
+            sections.append({
+                "number": sec_num,
+                "eid": f"govuk_sec_{sec_num}",
+                "title": cur_title[:160],
+                "text": body[:20000],
+            })
+        cur_lines = []
+
+    for el in main.find_all(["h2", "h3", "p", "li"]):
+        txt = _clean_text(el.get_text(" "))
+        if not txt:
+            continue
+        if el.name == "h2":
+            _flush()
+            cur_title = txt
+        else:
+            cur_lines.append(txt)
+    _flush()
+    return sections
+
+
 def fetch_national_stage(
     instrument: dict[str, Any],
     version: dict[str, Any],
@@ -374,12 +416,12 @@ def fetch_national_stage(
 ) -> dict[str, Any]:
     """
     Fetch national/sub-national AI governance texts (US NIST PDFs, US TX HB 149 HTML,
-    China CAC official HTML, Singapore IMDA Agentic AI PDF, UK GOV.UK PDFs, and
-    Korea/Japan/Brazil/ISO 42001 records) with SHA-256 provenance and v7 caching.
+    China CAC official HTML, Singapore IMDA Agentic AI PDF, UK GOV.UK PDFs/HTML, and
+    Korea/Japan/Brazil/ISO 42001 records) with SHA-256 provenance and v8 caching.
     """
     instrument_id = instrument["id"]
     stage = version["stage"]
-    cache_key = f"{instrument_id}__{stage}__v7"
+    cache_key = f"{instrument_id}__{stage}__v8"
 
     if cache_dir:
         cache_file = cache_dir / f"{cache_key}.json.gz"
@@ -403,8 +445,9 @@ def fetch_national_stage(
     if httpx is not None and source_type != "regulatory_supplement" and source_url.startswith("http"):
         try:
             with httpx.Client(timeout=45.0, follow_redirects=True) as client:
-                accept = "application/pdf" if source_type in ("national_pdf", "framework_pdf") else "text/html,application/xhtml+xml;q=0.9"
-                resp = client.get(source_url, headers={"User-Agent": USER_AGENT, "Accept": accept})
+                accept = "application/pdf,*/*;q=0.8" if source_type in ("national_pdf", "framework_pdf") else "text/html,application/xhtml+xml;q=0.9"
+                ua = BROWSER_UA if source_type in ("framework_pdf", "govuk_html", "us_tx_html") else USER_AGENT
+                resp = client.get(source_url, headers={"User-Agent": ua, "Accept": accept})
                 http_status = resp.status_code
                 if resp.status_code == 200 and len(resp.content) >= 500:
                     raw_bytes = resp.content
@@ -432,6 +475,11 @@ def fetch_national_stage(
                         tx_arts = _parse_us_texas_hb149_html(raw_bytes, version)
                         if tx_arts:
                             parsed = {"recitals": [], "articles": tx_arts, "annexes": []}
+                            provenance_mode = "full_primary_html"
+                    elif source_type == "govuk_html":
+                        uk_arts = _parse_govuk_html(raw_bytes, version)
+                        if uk_arts:
+                            parsed = {"recitals": [], "articles": uk_arts, "annexes": []}
                             provenance_mode = "full_primary_html"
         except Exception as exc:
             http_status = f"error:{type(exc).__name__}"
