@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Lex Machina v2.1 — Global AI, Cyber & International Law Git Corpus Explorer</title>
+  <title>Lex Machina v3.0 — Global AI, Cyber, IHL &amp; Case Law Git Corpus Explorer</title>
   <style>
     :root {
       --bg: #0b0f17;
@@ -28,7 +28,7 @@
     }
     .wrap { max-width: 1240px; margin: 0 auto; }
     h1 { margin: 0 0 6px; font-size: 1.65rem; letter-spacing: -0.02em; }
-    .sub { color: var(--muted); font-size: 0.95rem; max-width: 920px; }
+    .sub { color: var(--muted); font-size: 0.94rem; max-width: 980px; }
     .badges { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
     .badge {
       font-size: 0.78rem; padding: 4px 10px; border-radius: 999px;
@@ -50,7 +50,7 @@
     main { padding: 24px 28px 60px; }
     .panel { display: none; }
     .panel.active { display: block; }
-    .grid { display: grid; grid-template-columns: 320px 1fr; gap: 20px; }
+    .grid { display: grid; grid-template-columns: 340px 1fr; gap: 20px; }
     @media (max-width: 860px) { .grid { grid-template-columns: 1fr; } }
     .card {
       background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px;
@@ -61,11 +61,16 @@
       width: 100%; background: var(--bg); color: var(--text); border: 1px solid var(--border);
       border-radius: 8px; padding: 9px 11px; font-family: var(--sans); font-size: 0.92rem;
     }
-    textarea { min-height: 120px; font-family: var(--mono); font-size: 0.84rem; }
+    textarea { min-height: 135px; font-family: var(--mono); font-size: 0.84rem; }
     button.primary {
       margin-top: 12px; background: var(--accent); color: #061322; border: none;
       padding: 9px 16px; border-radius: 8px; font-weight: 700; cursor: pointer;
     }
+    button.ghost {
+      margin: 4px 4px 0 0; background: var(--surface-2); color: var(--text); border: 1px solid var(--border);
+      padding: 5px 10px; border-radius: 6px; font-size: 0.78rem; cursor: pointer;
+    }
+    button.ghost:hover { border-color: var(--accent); color: var(--accent); }
     pre {
       background: #070a10; border: 1px solid var(--border); border-radius: 8px;
       padding: 14px; overflow-x: auto; font-family: var(--mono); font-size: 0.83rem; white-space: pre-wrap;
@@ -73,9 +78,9 @@
     .diff-add { color: #4ade80; background: rgba(34,197,94,0.12); display: block; }
     .diff-del { color: #f87171; background: rgba(239,68,68,0.12); display: block; }
     .pill { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem; font-family: var(--mono); font-weight: 700; }
-    .pill.ENFORCEABLE, .pill.PASS, .pill.VERIFIED { background: rgba(34,197,94,0.18); color: #4ade80; }
-    .pill.IN_FORCE_NOT_YET_APPLICABLE, .pill.LEGACY_TRANSITION_GRACE_PERIOD, .pill.WARN { background: rgba(245,158,11,0.18); color: #fbbf24; }
-    .pill.REVOKED, .pill.FAIL, .pill.REQUIRES_ATTORNEY_CORRECTION, .pill.NOT_IN_CORPUS_OR_NONEXISTENT { background: rgba(239,68,68,0.2); color: #f87171; }
+    .pill.ENFORCEABLE, .pill.PASS, .pill.VERIFIED, .pill.EXACT_MATCH { background: rgba(34,197,94,0.18); color: #4ade80; }
+    .pill.IN_FORCE_NOT_YET_APPLICABLE, .pill.LEGACY_TRANSITION_GRACE_PERIOD, .pill.WARN, .pill.VOLUNTARY_GOVERNANCE_FRAMEWORK, .pill.VOLUNTARY_CERTIFIABLE_STANDARD, .pill.PENDING_LEGISLATION_NOT_YET_ENACTED, .pill.NOT_YET_IN_FORCE_PENDING_RATIFICATIONS { background: rgba(245,158,11,0.18); color: #fbbf24; }
+    .pill.REVOKED, .pill.FAIL, .pill.REQUIRES_ATTORNEY_CORRECTION, .pill.NOT_IN_CORPUS_OR_NONEXISTENT, .pill.UNVERIFIED_OR_PARAPHRASED { background: rgba(239,68,68,0.2); color: #f87171; }
     table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
     th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
     th { color: var(--muted); font-weight: 600; }
@@ -91,11 +96,11 @@
 <body>
   <header>
     <div class="wrap">
-      <h1>Lex Machina v2.1 — Interactive Bitemporal Legal Corpus Explorer</h1>
+      <h1>Lex Machina v3.0 — Planetary Bitemporal Legal Corpus &amp; Case Law Explorer</h1>
       <div class="sub">
-        Zero-Backend, Zero-Data-Retention legal-informatics workbench streaming live SHA-256-provenanced statutes directly from
+        Zero-Backend, Zero-Data-Retention workbench streaming 27 SHA-256-provenanced statutes, treaties, national frameworks &amp; binding court judgments directly from
         <a href="https://github.com/a-vip/lex-machina/tree/corpus" target="_blank"><code>a-vip/lex-machina@corpus</code></a>.
-        EU AI Act (post-Digital Omnibus 2026/1744) · GDPR · CRA · NIS2 · DORA · CoE CETS 225 · Budapest &amp; UN Hanoi Cybercrime · Geneva Conventions &amp; AP I · US NIST/States · China CAC.
+        EU AI Act (post-Digital Omnibus 2026/1744 + EC 2025 PDFs) · GDPR · CRA · NIS2 · DORA · CoE CETS 225 · Budapest &amp; UN Hanoi · Geneva I–IV &amp; AP I–II · US NIST/Texas TRAIGA · China CAC · UK · South Korea · Japan · Brazil · Singapore Agentic AI · ISO/IEC 42001 · CJEU &amp; ICJ Case Law.
       </div>
       <div class="badges" id="header-badges">
         <span class="badge ok">Zero Data Retention (100% Client-Side)</span>
@@ -108,11 +113,11 @@
 
   <nav>
     <div class="wrap" style="display:flex;flex-wrap:wrap;gap:6px;width:100%">
-      <button class="active" data-tab="explorer">1. Corpus &amp; Provenance Explorer</button>
+      <button class="active" data-tab="explorer">1. Corpus &amp; Case Law Explorer</button>
       <button data-tab="search">2. UK↔US BM25 Search</button>
       <button data-tab="diff">3. Concordance Redline Diff</button>
       <button data-tab="bitemporal">4. Bitemporal Enforceability (2026)</button>
-      <button data-tab="verifier">5. ABA Opinion 512 Citation Verifier</button>
+      <button data-tab="verifier">5. Live Quote &amp; ABA 512 Verifier</button>
       <button data-tab="eval">6. Empirical Benchmark &amp; SHA-256 Ledger</button>
     </div>
   </nav>
@@ -123,13 +128,22 @@
       <div class="grid">
         <div class="card">
           <h3>Select Instrument &amp; Stage</h3>
-          <label>Legal Instrument</label>
+          <label>Legal Instrument / Court Ruling</label>
           <select id="exp-inst"></select>
-          <label>Chronological Legislative Stage</label>
+          <label>Chronological Stage</label>
           <select id="exp-stage"></select>
-          <label>Provision (e.g., 5, 50, 73, 99, recital-111, annex-iii)</label>
+          <label>Provision / Section (e.g., 5, 50, 147, recital-111, annex-iii)</label>
           <input id="exp-prov" value="5" />
           <button class="primary" id="exp-load">Fetch Primary Provision</button>
+          <div style="margin-top:12px">
+            <div style="font-size:0.75rem;color:var(--muted);margin-bottom:4px">QUICK JUMPS:</div>
+            <button class="ghost" onclick="quickLoad('eu/ai-act','official_journal_final','5')">EU AI Act Art. 5</button>
+            <button class="ghost" onclick="quickLoad('caselaw/cjeu/schufa-c-634-21','judgment_final','1')">CJEU SCHUFA</button>
+            <button class="ghost" onclick="quickLoad('ihl/geneva-conventions','additional_protocols_1977','36')">AP I Art. 36</button>
+            <button class="ghost" onclick="quickLoad('national/us/state-ai-laws','texas_traiga_effective_2026','1')">Texas TRAIGA</button>
+            <button class="ghost" onclick="quickLoad('national/sg/agentic-ai-governance','imda_mgf_agentic_ai_2026','1')">SG Agentic AI</button>
+            <button class="ghost" onclick="quickLoad('caselaw/icj/nuclear-weapons-1996','advisory_opinion_1996','78')">ICJ Martens Clause</button>
+          </div>
           <div id="exp-meta" style="margin-top:14px;font-size:0.82rem;color:var(--muted)"></div>
         </div>
         <div class="card">
@@ -144,14 +158,16 @@
       <div class="card">
         <h3>Cross-Dialect BM25 Search (UK ↔ US Legal Spelling &amp; Acronym Expansion)</h3>
         <div style="display:flex;gap:10px;flex-wrap:wrap">
-          <input id="search-q" style="flex:1;min-width:240px" value="biometric categorization" placeholder="Try: biometric categorization, FRIA, CRA vulnerability ENISA, Article 36 weapons..." />
-          <select id="search-jur" style="width:180px">
-            <option value="">All Jurisdictions</option>
-            <option value="eu">EU</option>
+          <input id="search-q" style="flex:1;min-width:240px" value="SCHUFA automated credit scoring" placeholder="Try: biometric categorization, SCHUFA, Schrems II, Martens Clause, agentic AI, CRA ENISA..." />
+          <select id="search-jur" style="width:200px">
+            <option value="">All Jurisdictions (27)</option>
+            <option value="eu">EU Statutes</option>
+            <option value="caselaw">Case Law (CJEU / ICJ)</option>
             <option value="coe">Council of Europe</option>
             <option value="un">United Nations</option>
-            <option value="ihl">IHL (Geneva / AP I)</option>
-            <option value="national">National (US / China)</option>
+            <option value="ihl">IHL (GC I–IV &amp; AP I–II)</option>
+            <option value="national">National (US/CN/UK/KR/JP/BR/SG)</option>
+            <option value="standards">Standards (ISO/IEC 42001)</option>
           </select>
           <button class="primary" style="margin-top:0" id="search-go">Search BM25</button>
         </div>
@@ -182,7 +198,7 @@
     <!-- TAB 4: BITEMPORAL -->
     <section id="tab-bitemporal" class="panel">
       <div class="card">
-        <h3>Bitemporal Legal Enforceability Calculator (Post-Digital Omnibus Reg. (EU) 2026/1744)</h3>
+        <h3>Bitemporal Legal Enforceability Calculator (2026 Global Edition)</h3>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px">
           <div><label>Instrument</label><select id="bt-inst"></select></div>
           <div><label>Provision (e.g. 5, 6, 50, 53, 14, eo-14110, *)</label><input id="bt-prov" value="6" /></div>
@@ -194,16 +210,16 @@
       </div>
     </section>
 
-    <!-- TAB 5: CITATION VERIFIER -->
+    <!-- TAB 5: LIVE QUOTE & CITATION VERIFIER -->
     <section id="tab-verifier" class="panel">
       <div class="card">
-        <h3>ABA Formal Opinion 512 Deterministic Citation &amp; Stale-Law Guardrail</h3>
+        <h3>Live Verbatim Quote &amp; ABA Formal Opinion 512 Anti-Hallucination Verifier</h3>
         <p style="color:var(--muted);font-size:0.86rem;margin-top:0">
-          Runs 100% inside your browser (Zero Data Retention). Flags fabricated article numbers, stale citations to revoked US Executive Order 14110, and outdated pre-Digital-Omnibus Annex III deadlines.
+          Runs 100% inside your browser (Zero Data Retention). Live-fetches every cited article directly from <code>refs/heads/corpus</code> to verify existence, bitemporal status (EO 14110, Digital Omnibus 2026/1744, Brazil PL 2338), and exact character-for-character fidelity of every quoted statutory string (<code>"..."</code>).
         </p>
-        <label>Paste Draft Legal Memo or AI Output</label>
-        <textarea id="ver-text">Under EU AI Act Article 51, GPAI models exceeding 10^25 FLOPs face systemic risk duties, while Article 199 creates a mandatory AI tariff. Meanwhile, US compliance is currently mandated by Executive Order 14110, and EU AI Act Annex III high-risk systems became enforceable on August 2, 2026.</textarea>
-        <button class="primary" id="ver-go">Run ABA Formal Opinion 512 Audit</button>
+        <label>Paste Draft Legal Memo or AI Output (include verbatim quotes in double quotes to live-verify!)</label>
+        <textarea id="ver-text">Under GDPR Article 22, "The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling". Under EU AI Act Article 51, GPAI models exceeding 10^25 FLOPs face systemic risk duties, while Article 199 creates an AI tax. Meanwhile, US compliance is mandated by Executive Order 14110, and Brazil PL 2338/2023 is currently enacted and in force.</textarea>
+        <button class="primary" id="ver-go">Run Live ABA Formal Opinion 512 Audit</button>
         <div id="ver-out" style="margin-top:16px"></div>
       </div>
     </section>
@@ -260,8 +276,18 @@
       const inst = state.catalog.instruments.find(i => i.path === instPath);
       const sel = document.getElementById(selId);
       sel.innerHTML = (inst?.versions || []).map(v => `<option value="${v.stage}">${v.date} — ${v.stage_label}</option>`).join("");
-      if (inst?.versions?.length) sel.value = inst.versions[inst.versions.length - 1].stage;
+      if (inst?.versions?.length) {
+        const nonPatch = inst.versions.filter(v => !v.patch_mode);
+        sel.value = (nonPatch.length ? nonPatch[nonPatch.length - 1] : inst.versions[inst.versions.length - 1]).stage;
+      }
     }
+    window.quickLoad = function(instPath, stage, prov) {
+      document.getElementById("exp-inst").value = instPath;
+      populateStages(instPath, "exp-stage");
+      document.getElementById("exp-stage").value = stage;
+      document.getElementById("exp-prov").value = prov;
+      document.getElementById("exp-load").click();
+    };
 
     document.querySelectorAll("nav button").forEach(btn => {
       btn.addEventListener("click", () => {
@@ -294,7 +320,7 @@
         document.getElementById("badge-eval").textContent = "LexMachina-Eval: CI Verified";
       }
 
-      const instOpts = (cat?.instruments || []).map(i => `<option value="${i.path}">${i.short_title} (${i.path})</option>`).join("");
+      const instOpts = (cat?.instruments || []).map(i => `<option value="${i.path}">[${i.jurisdiction.toUpperCase()}] ${i.short_title} (${i.path})</option>`).join("");
       ["exp-inst", "diff-inst", "bt-inst"].forEach(id => document.getElementById(id).innerHTML = instOpts);
 
       populateStages(cat.instruments[0].path, "exp-stage");
@@ -332,7 +358,14 @@
       }
       const q = document.getElementById("search-q").value;
       const jur = document.getElementById("search-jur").value;
-      const syn = { fria:["fundamental","rights","impact"], rbi:["remote","biometric","identification"], gpai:["general","purpose","model"], laws:["lethal","autonomous","weapons"], cra:["cyber","resilience"], dora:["digital","operational","resilience"], nis2:["network","information","security"] };
+      const syn = {
+        fria:["fundamental","rights","impact"], rbi:["remote","biometric","identification"],
+        gpai:["general","purpose","model"], laws:["lethal","autonomous","weapons"],
+        cra:["cyber","resilience"], dora:["digital","operational","resilience"],
+        nis2:["network","information","security"], schufa:["automated","decision","scoring","22"],
+        schrems:["transfer","adequacy","surveillance"], cjeu:["court","justice","operative"],
+        icj:["martens","intransgressible","weapons"], imda:["singapore","agentic","governance"]
+      };
       const raw = (q.toLowerCase().match(/[a-z0-9]{2,}/g) || []);
       const terms = [];
       for (const t of raw) {
@@ -357,7 +390,7 @@
       status.textContent = `Found ${Object.keys(scores).length} matches (normalized terms: ${Array.from(new Set(terms)).join(", ")})`;
       document.getElementById("search-results").innerHTML = top.map(([id, sc]) => {
         const d = state.bm25.docs[Number(id)];
-        return `<div class="hit"><b>${d.instrument_title}</b> · <code>${d.provision}</code> <span class="pill VERIFIED">BM25 ${sc.toFixed(2)}</span><div style="font-size:0.86rem;margin-top:4px">${d.heading}</div><div style="font-size:0.8rem;color:var(--muted);margin-top:3px">${(d.snippet||"").replace(/</g,"&lt;")}...</div></div>`;
+        return `<div class="hit" onclick="document.querySelector('[data-tab=explorer]').click();quickLoad('${d.instrument_path}','${d.latest_stage}','${d.provision}')"><b>${d.instrument_title}</b> · <code>${d.provision}</code> <span class="pill VERIFIED">BM25 ${sc.toFixed(2)}</span><div style="font-size:0.86rem;margin-top:4px">${d.heading}</div><div style="font-size:0.8rem;color:var(--muted);margin-top:3px">${(d.snippet||"").replace(/</g,"&lt;")}...</div></div>`;
       }).join("") || "<p>No matches found.</p>";
     });
 
@@ -392,46 +425,83 @@
       let status = "ENFORCEABLE";
       if (r.revoked_date && asOf >= r.revoked_date) status = "REVOKED";
       else if (r.status_override === "OPEN_FOR_SIGNATURE_PENDING_40_RATIFICATIONS") status = "NOT_YET_IN_FORCE_PENDING_RATIFICATIONS";
+      else if (r.status_override === "PENDING_LEGISLATION_NOT_YET_ENACTED") status = "PENDING_LEGISLATION_NOT_YET_ENACTED";
+      else if (["VOLUNTARY_GOVERNANCE_FRAMEWORK","VOLUNTARY_CERTIFIABLE_STANDARD"].includes(r.status_override)) status = r.status_override;
       else if (r.entry_into_application && asOf < r.entry_into_application) status = "IN_FORCE_NOT_YET_APPLICABLE";
       else if (placed && r.legacy_cutoff_date && r.legacy_transition_deadline && placed < r.legacy_cutoff_date && asOf < r.legacy_transition_deadline) status = "LEGACY_TRANSITION_GRACE_PERIOD";
       document.getElementById("bt-out").innerHTML = `<div class="card" style="background:var(--surface-2)"><span class="pill ${status}">${status}</span><p><b>Rule:</b> ${r.scope_note}</p><p><b>Effective Application Date:</b> <code>${r.entry_into_application || "Pending"}</code> ${r.original_entry_into_application ? `(Original: <s>${r.original_entry_into_application}</s>)` : ""}</p>${r.amended_by ? `<p><b>Amended By:</b> ${r.amended_by} — ${r.amendment_notes || ""}</p>` : ""}${r.penalty_ceiling ? `<p><b>Penalty Ceiling:</b> ${r.penalty_ceiling}</p>` : ""}</div>`;
     });
 
-    document.getElementById("ver-go").addEventListener("click", () => {
+    document.getElementById("ver-go").addEventListener("click", async () => {
+      const out = document.getElementById("ver-out");
+      out.innerHTML = "<p style='color:var(--muted)'>Fetching verbatim primary provisions from <code>refs/heads/corpus</code> for live citation &amp; quote verification...</p>";
       const txt = document.getElementById("ver-text").value;
-      const limits = [
-        [/EU\s+AI\s+Act|Regulation\s*\(EU\)\s*2024\/1689/gi, "EU AI Act (2024/1689)", 113],
-        [/\bGDPR\b|Regulation\s*\(EU\)\s*2016\/679/gi, "EU GDPR (2016/679)", 99],
-        [/Cyber\s+Resilience\s+Act|\bCRA\b|2024\/2847/gi, "EU CRA (2024/2847)", 71],
-        [/NIS\s*2|2022\/2555/gi, "EU NIS2 (2022/2555)", 46],
-        [/\bDORA\b|2022\/2554/gi, "EU DORA (2022/2554)", 64],
-        [/CETS\s*(?:No\.?\s*)?225/gi, "CoE CETS 225", 36],
-        [/Additional\s+Protocol\s+I|\bAP\s*I\b/gi, "Additional Protocol I", 102]
+      const detectors = [
+        [/EU\s+AI\s+Act|Regulation\s*\(EU\)\s*2024\/1689/gi, "eu/ai-act", "EU AI Act"],
+        [/\bGDPR\b|Regulation\s*\(EU\)\s*2016\/679/gi, "eu/gdpr", "EU GDPR"],
+        [/Cyber\s+Resilience\s+Act|\bCRA\b|2024\/2847/gi, "eu/cyber/cra", "EU CRA"],
+        [/NIS\s*2|2022\/2555/gi, "eu/cyber/nis2", "EU NIS2"],
+        [/\bDORA\b|2022\/2554/gi, "eu/cyber/dora", "EU DORA"],
+        [/CETS\s*(?:No\.?\s*)?225/gi, "coe/ai-convention", "CoE CETS 225"],
+        [/Additional\s+Protocol\s+II|\bAP\s*II\b/gi, "ihl/additional-protocol-ii", "Additional Protocol II"],
+        [/Additional\s+Protocol\s+I\b|\bAP\s*I\b|Geneva\s+Conventions?/gi, "ihl/geneva-conventions", "Geneva / AP I"],
+        [/UN\s+Cybercrime\s+Convention|Hanoi\s+Convention|A\/RES\/79\/243/gi, "un/cybercrime-convention", "UN Hanoi Convention"],
+        [/Budapest\s+Convention|ETS\s*(?:No\.?\s*)?185/gi, "coe/budapest-convention", "Budapest Convention"]
       ];
-      const errors = [], warnings = [];
+      const errors = [], warnings = [], verified = [];
+      const fetchedDocs = [];
+      const seen = new Set();
+
       for (const sent of txt.split(/(?<=[.!?\n])\s+/)) {
         const anchors = [];
-        for (const [rx, lbl, maxA] of limits) for (const m of sent.matchAll(rx)) anchors.push({ i: m.index ?? 0, lbl, maxA, raw: m[0] });
+        for (const [rx, path, lbl] of detectors) for (const m of sent.matchAll(rx)) anchors.push({ i: m.index ?? 0, path, lbl, raw: m[0] });
         if (!anchors.length) continue;
         anchors.sort((a,b) => a.i - b.i);
-        for (const am of sent.matchAll(/\bArticles?\s+(\d+)\b/gi)) {
+        for (const am of sent.matchAll(/\bArticles?\s+(\d+[a-z]?)\b/gi)) {
           const prev = anchors.filter(a => a.i <= (am.index ?? 0));
           const anc = prev.length ? prev[prev.length - 1] : anchors[0];
-          const num = Number(am[1]);
-          if (num < 1 || num > anc.maxA) errors.push(`FABRICATED CITATION: "${anc.raw} ${am[0]}" — ${anc.lbl} only has Articles 1–${anc.maxA}.`);
+          const prov = normProv(am[1]);
+          const key = `${anc.path}::${prov}`;
+          if (seen.has(key)) continue;
+          seen.add(key);
+          const rawText = await getText(`${anc.path}/${prov}`);
+          if (!rawText) {
+            errors.push(`FABRICATED / MISSING CITATION: "${anc.raw} ${am[0]}" — <code>${anc.path}/${prov}</code> does not exist in primary corpus.`);
+          } else {
+            verified.push(`VERIFIED: "${anc.raw} ${am[0]}" → <code>${anc.path}/${prov}</code>`);
+            fetchedDocs.push({ label: `${anc.path}/${prov}`, text: rawText.replace(/\s+/g, " ").toLowerCase() });
+          }
         }
       }
       if (/Executive\s+Order\s+14110|\bEO\s*14110\b/i.test(txt) && !/revok|rescind|repeal/i.test(txt)) {
         errors.push("STALE BITEMPORAL ERROR: US Executive Order 14110 was formally REVOKED on 2025-01-20.");
       }
+      if (/PL\s*2338(?:\/2023)?/i.test(txt) && /\b(?:enacted|in\s+force|currently\s+enforceable)\b/i.test(txt) && !/pending|bill|not\s+yet\s+enacted|chamber/i.test(txt)) {
+        warnings.push("BITEMPORAL STATUS WARNING: Brazil PL 2338/2023 is still PENDING Chamber of Deputies review — NOT YET ENACTED.");
+      }
       if (/Annex\s+III[^.\n]{0,80}(?:August\s+2,?\s+2026|2026-08-02)/i.test(txt) && !/2026\/1744|Omnibus|December\s+2,?\s+2027|postpon/i.test(txt)) {
         warnings.push("BITEMPORAL WARNING: Annex III high-risk enforcement was postponed to December 2, 2027 by Regulation (EU) 2026/1744 (Digital Omnibus on AI).");
       }
+
+      const quoteRows = [];
+      for (const qm of txt.matchAll(/"([^"]{25,400})"/g)) {
+        const q = qm[1].replace(/\s+/g, " ").trim();
+        const qLow = q.toLowerCase();
+        const hit = fetchedDocs.find(d => d.text.includes(qLow));
+        if (hit) {
+          quoteRows.push(`<li style="color:#4ade80"><span class="pill EXACT_MATCH">EXACT_MATCH</span> "${q.slice(0,110).replace(/</g,"&lt;")}${q.length>110?"...":""}" ↔ <code>${hit.label}</code></li>`);
+        } else {
+          quoteRows.push(`<li style="color:#f87171"><span class="pill UNVERIFIED_OR_PARAPHRASED">UNVERIFIED_OR_PARAPHRASED</span> "${q.slice(0,110).replace(/</g,"&lt;")}${q.length>110?"...":""}"</li>`);
+          warnings.push("QUOTE FIDELITY WARNING: One or more quoted strings did not match verbatim text of cited articles.");
+        }
+      }
+
       const verdict = errors.length ? "REQUIRES_ATTORNEY_CORRECTION" : (warnings.length ? "WARN" : "PASS");
-      document.getElementById("ver-out").innerHTML = `<span class="pill ${verdict}">ABA Opinion 512 Audit: ${verdict}</span>` +
-        (errors.length ? `<ul>${errors.map(e => `<li style="color:#f87171">${e}</li>`).join("")}</ul>` : "") +
-        (warnings.length ? `<ul>${warnings.map(w => `<li style="color:#fbbf24">${w}</li>`).join("")}</ul>` : "") +
-        (!errors.length && !warnings.length ? `<p style="color:#4ade80">No fabricated article numbers or stale 2025–2026 bitemporal errors detected.</p>` : "");
+      out.innerHTML = `<span class="pill ${verdict}">ABA Opinion 512 Live Audit: ${verdict}</span>` +
+        (errors.length ? `<h4>Critical Errors</h4><ul>${errors.map(e => `<li style="color:#f87171">${e}</li>`).join("")}</ul>` : "") +
+        (warnings.length ? `<h4>Bitemporal / Quote Warnings</h4><ul>${warnings.map(w => `<li style="color:#fbbf24">${w}</li>`).join("")}</ul>` : "") +
+        (quoteRows.length ? `<h4>Live Verbatim Quote Checks</h4><ul>${quoteRows.join("")}</ul>` : "") +
+        (verified.length ? `<h4>Verified Statutory Citations</h4><ul>${verified.map(v => `<li style="color:#4ade80">${v}</li>`).join("")}</ul>` : "");
     });
 
     function renderEval(ev, prov) {

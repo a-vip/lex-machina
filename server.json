@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "io.github.a-vip/lex-machina",
-  "description": "Bitemporal Git corpus & anti-hallucination citation verifier for EU AI Act (post-Digital Omnibus 2026/1744), GDPR, EU CRA/NIS2/DORA, UN Hanoi Cybercrime, CoE CETS 225, US NIST/State AI laws, China CAC, and Geneva Conventions / AP I Art. 36.",
+  "description": "Planetary bitemporal Git corpus, binding CJEU/ICJ case law & anti-hallucination citation verifier across 27 instruments: EU AI Act (post-Digital Omnibus 2026/1744 + EC 2025 PDFs), GDPR, EU CRA/NIS2/DORA, UN Hanoi & Budapest Cybercrime, CoE CETS 225, US NIST/Texas TRAIGA, China CAC, UK DUAA 2025/AISI, South Korea AI Basic Act, Japan AI Promotion Act, Brazil PL 2338, Singapore Agentic AI, ISO/IEC 42001, full Geneva I-IV & AP I-II, and landmark CJEU/ICJ rulings.",
   "repository": {
     "url": "https://github.com/a-vip/lex-machina",
     "source": "github"
   },
-  "version": "2.0.0",
+  "version": "3.0.0",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "lex-machina-mcp",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "transport": {
         "type": "stdio"
       },

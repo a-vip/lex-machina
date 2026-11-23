@@ -1,16 +1,16 @@
-# Lex Machina v2.0 — Agent Instructions (`llms.txt`)
+# lex-machina v3.0 — LLM & AI Legal Agent Protocol (`llms.txt`)
 
-> World's first bitemporal, SHA-256-provenanced Git corpus + deterministic anti-hallucination MCP engine for global AI, Cyber & International Law (`a-vip/lex-machina`).
+You are connected to **Lex Machina v3.0**, a planetary bitemporal legal-informatics corpus and deterministic ABA Formal Opinion 512 verification MCP server tracking **27 instruments** across EU AI/Cyber/Privacy, Binding CJEU & ICJ Case Law, Multilateral Treaties, Full IHL (Geneva Conventions I–IV & Additional Protocols I–II), Global National AI Jurisdictions (US, China, UK, South Korea, Japan, Brazil, Singapore), and ISO/IEC 42001.
 
-## Why This Engine Eliminates Legal AI Hallucinations
-1. Full-text primary ingestion from EUR-Lex CELLAR (Akoma Ntoso XHTML), Consilium/UN/CoE/NIST PDFs, and ICRC IHL with SHA-256 digests and honest `provenance_mode` tagging.
-2. Concordance-aware `diff_provisions` and phrase-level institutional `blame_provision` across renumbered drafts (e.g., EU AI Act Proposal Art. 52 -> Final Art. 50; GDPR Proposal Art. 20 -> Final Art. 22).
-3. Bitemporal `check_applicability` encoding 2025-2026 amendments: EU Digital Omnibus Regulation (EU) 2026/1744 (Annex III -> Dec 2, 2027; Annex I -> Aug 2, 2028; Art. 5 NCII/CSAM & legacy Art. 50(2) -> Dec 2, 2026), US EO 14110 revocation (Jan 20, 2025), Texas TRAIGA (Jan 1, 2026), EU CRA Art. 14 ENISA reporting (Sept 11, 2026), China Sept 1, 2025 Labeling Measures (GB 45438-2025), and UN Hanoi Cybercrime 40-ratification threshold.
-4. Deterministic `verify_citations` gate enforcing ABA Formal Opinion 512 before returning any legal opinion.
-5. Cross-dialect BM25 search normalizing UK <-> US legal spellings (`categorisation` <-> `categorization`, `defence` <-> `defense`) and expanding acronyms (`FRIA`, `RBI`, `GPAI`, `LAWS`, `CRA`, `DORA`, `NIS2`).
-
-## Mandatory Agent Workflow
-1. Always call `get_provision` to inspect verbatim text; if `PROVISION NOT IN CORPUS` is returned, NEVER guess from model weights.
-2. Always call `check_applicability` before stating any provision is legally enforceable on a given date.
-3. Always call `verify_citations` on draft memos before delivering them to the user.
-4. Companion skills & Claude Code plugin: `https://github.com/a-vip/lex-machina-skills`.
+## Mandatory Grounding & Anti-Hallucination Rules
+1. **Never rely on parametric memory for statutory text, article numbers, court holdings, or 2025–2026 effective dates.**
+2. **Always call `get_provision`** before quoting or summarizing any article, recital, annex, or court holding.
+3. **Always call `check_applicability`** before stating whether a provision is enforceable on a given date:
+   - EU AI Act Annex III high-risk enforcement was **postponed to December 2, 2027** and Annex I to **August 2, 2028** by **Regulation (EU) 2026/1744 (Digital Omnibus on AI)**, while Art. 5 NCII/CSAM bans and Art. 50(2) legacy cutoffs apply **December 2, 2026**.
+   - **US Executive Order 14110 was formally REVOKED on January 20, 2025.** Binding US law comes from state statutes (Texas TRAIGA HB 149 effective Jan 1, 2026; Colorado SB 24-205/SB 26-189; California AB 2013 & SB 53/TFAIA) and FTC Section 5.
+   - **South Korea AI Basic Act** (Act No. 20676) took effect **January 22, 2026**; **Japan AI Promotion Act** (Act No. 53 of 2025) took full effect **September 1, 2025**.
+   - **Brazil PL 2338/2023** passed the Senate (Dec 2024) but remains **PENDING** in the Chamber of Deputies — **NOT YET ENACTED**.
+   - **UN Hanoi Cybercrime Convention** (`A/RES/79/243`) requires **40 ratifications** under Article 65 to enter into force.
+4. **Always call `blame_provision` & `diff_provisions`** for CJEU teleological *travaux préparatoires* interpretation (concordance automatically resolves renumbered drafts such as Proposal Art. 52 → Final Art. 50).
+5. **Always consult `caselaw/`** (`caselaw/cjeu/schufa-c-634-21`, `schrems-ii-c-311-18`, `meta-bundeskartellamt-c-252-21`, `la-quadrature-du-net-c-511-18`, `caselaw/icj/nuclear-weapons-1996`) when advising on automated decision-making, international transfers, AI profiling, surveillance, or IHL weapons reviews.
+6. **Always call `verify_citations(draft_text, as_of_date)`** before delivering any memorandum to the user.

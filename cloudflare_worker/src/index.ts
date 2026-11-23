@@ -1,6 +1,7 @@
 /**
- * Lex Machina v2.1 — Zero-Dependency Stateless Remote Streamable HTTP Edge MCP Server
- * for Cloudflare Workers (100% 9-Tool + MCP Resources + MCP Prompts Parity).
+ * Lex Machina v3.0 — Zero-Dependency Stateless Remote Streamable HTTP Edge MCP Server
+ * for Cloudflare Workers (100% 9-Tool + Token-Level Institutional Blame + Verbatim Quote
+ * Verification + MCP Resources + 4 MCP Prompts Parity).
  *
  * Deployed purely via GitHub Actions (zero local node_modules!).
  * Serves `POST /mcp` (MCP JSON-RPC 2.0 Streamable HTTP) and `GET /health` globally
@@ -34,19 +35,19 @@ const READ_ONLY = {
 const TOOLS_SPEC = [
   {
     name: "list_instruments",
-    description: "List all tracked AI, privacy, cyber, and IHL instruments with chronological stages and SHA-256 provenance.",
+    description: "List all 27 tracked AI, privacy, cyber, full IHL, global national, ISO/IEC 42001, and CJEU/ICJ case law instruments with SHA-256 provenance.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
       properties: {
-        jurisdiction: { type: "string", description: "Optional filter: eu, coe, un, ihl, national" },
+        jurisdiction: { type: "string", description: "Optional filter: eu, coe, un, ihl, national, standards, caselaw" },
         domain: { type: "string", description: "Optional filter: ai, cyber, privacy, ihl" }
       }
     }
   },
   {
     name: "get_provision",
-    description: "Fetch exact normalized Markdown text of an article, recital, or annex at a specific date or legislative stage with concordance resolution and SHA-256 provenance.",
+    description: "Fetch exact normalized Markdown text of an article, recital, annex, or judicial ruling section at a specific date or legislative stage with concordance resolution and SHA-256 provenance.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
@@ -75,7 +76,7 @@ const TOOLS_SPEC = [
   },
   {
     name: "blame_provision",
-    description: "Clause-level institutional git blame across chronological legislative drafts (concordance-resolved), identifying which institution authored each clause.",
+    description: "Token- and clause-level institutional git blame across chronological legislative drafts (concordance-resolved), computing institutional authorship share percentages.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
@@ -88,7 +89,7 @@ const TOOLS_SPEC = [
   },
   {
     name: "search_corpus",
-    description: "BM25 legal search with UK<->US spelling normalization and legal acronym synonym expansion.",
+    description: "BM25 legal search with UK<->US spelling normalization and legal acronym synonym expansion across statutes, treaties, national frameworks, and CJEU/ICJ case law.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
@@ -101,7 +102,7 @@ const TOOLS_SPEC = [
   },
   {
     name: "get_citation_graph",
-    description: "Return incoming/outgoing cross-references and Recital-to-Article interpretive links from graph.json.",
+    description: "Return incoming/outgoing cross-references, CJEU/ICJ judicial precedent edges, and Recital-to-Article interpretive links from graph.json.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
@@ -113,7 +114,7 @@ const TOOLS_SPEC = [
   },
   {
     name: "check_applicability",
-    description: "Bitemporal enforceability check accounting for EU Digital Omnibus Regulation (EU) 2026/1744, EO 14110 revocation, legacy grace cutoffs, CRA, Texas TRAIGA, and China 2025 Labeling Measures.",
+    description: "Bitemporal enforceability check accounting for EU Digital Omnibus Regulation (EU) 2026/1744, EO 14110 revocation, legacy grace cutoffs, CRA, Texas TRAIGA, China 2025 Labeling, South Korea AI Basic Act, Japan AI Promotion Act, UK DUAA 2025, and Brazil PL 2338.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
@@ -128,7 +129,7 @@ const TOOLS_SPEC = [
   },
   {
     name: "verify_citations",
-    description: "Deterministic Stanford-RegLab-grade ABA Formal Opinion 512 anti-hallucination verifier checking compound statutory references and bitemporal validity.",
+    description: "Deterministic Stanford-RegLab-grade ABA Formal Opinion 512 anti-hallucination verifier checking compound statutory references, verbatim quoted strings, and bitemporal validity.",
     annotations: READ_ONLY,
     inputSchema: {
       type: "object",
@@ -171,12 +172,39 @@ const PROMPTS_SPEC = [
   },
   {
     name: "article_36_review",
-    description: "Additional Protocol I Article 36 & UN CCW LAWS military AI legal weapons review",
+    description: "Additional Protocol I Article 36, ICJ Nuclear Weapons Opinion & UN CCW LAWS military AI legal weapons review",
     arguments: [
       { name: "weapons_system_description", description: "Operational profile of the autonomous system", required: true }
     ]
+  },
+  {
+    name: "cjeu_precedent_brief",
+    description: "Binding CJEU AI/Privacy/Cyber jurisprudence synthesis (SCHUFA, Schrems II, Meta, La Quadrature du Net)",
+    arguments: [
+      { name: "legal_issue", description: "Legal question to analyze against binding CJEU holdings", required: true }
+    ]
   }
 ];
+
+const LEGAL_SYNONYMS: Record<string, string[]> = {
+  fria: ["fundamental", "rights", "impact", "assessment"],
+  dpia: ["data", "protection", "impact", "assessment"],
+  rbi: ["remote", "biometric", "identification"],
+  gpai: ["general", "purpose", "model"],
+  laws: ["lethal", "autonomous", "weapons"],
+  cra: ["cyber", "resilience"],
+  nis2: ["network", "information", "security"],
+  dora: ["digital", "operational", "resilience"],
+  traiga: ["texas", "responsible", "governance"],
+  omnibus: ["2026", "1744", "postponed"],
+  schufa: ["automated", "decision", "scoring", "article", "22", "634"],
+  schrems: ["transfer", "adequacy", "surveillance", "standard", "contractual"],
+  cjeu: ["court", "justice", "preliminary", "ruling", "operative"],
+  icj: ["international", "court", "justice", "martens", "intransgressible"],
+  duaa: ["data", "use", "access", "2025", "automated"],
+  imda: ["singapore", "agentic", "governance", "framework"],
+  iso42001: ["42001", "management", "system", "aims"]
+};
 
 async function fetchCorpusText(env: Env, relPath: string): Promise<string | null> {
   const repo = env.LEX_MACHINA_REPO || DEFAULT_REPO;
@@ -189,7 +217,7 @@ async function fetchCorpusText(env: Env, relPath: string): Promise<string | null
 
   if (!resp) {
     const upstream = await fetch(url, {
-      headers: { "User-Agent": "lex-machina-edge-mcp/2.1" }
+      headers: { "User-Agent": "lex-machina-edge-mcp/3.0" }
     });
     if (!upstream.ok) return null;
     resp = new Response(upstream.body, {
@@ -247,6 +275,77 @@ function extractBodyLines(md: string): string[] {
     .filter((l) => l && !l.startsWith("- **") && !l.startsWith("# "));
 }
 
+function tokenizeBlame(text: string): string[] {
+  return text.match(/[A-Za-z0-9']+|[.,;:()\-]/g) || [];
+}
+
+/**
+ * Sequential token-level institutional attribution matching Python `difflib.SequenceMatcher`
+ * semantics via fast anchor-guided LCS alignment (zero dependencies, edge-CPU safe).
+ */
+function alignTokenOwners<T>(prevTokens: string[], prevOwners: T[], curTokens: string[], curOwner: T): T[] {
+  const m = prevTokens.length;
+  const n = curTokens.length;
+  const newOwners: T[] = new Array(n).fill(curOwner);
+  if (!m || !n) return newOwners;
+
+  const pLow = prevTokens.map((t) => t.toLowerCase());
+  const cLow = curTokens.map((t) => t.toLowerCase());
+
+  // Exact flat-array LCS DP when matrix fits comfortably in Worker memory/CPU budget
+  if (m * n <= 1600000) {
+    const cols = n + 1;
+    const dp = new Uint16Array((m + 1) * cols);
+    for (let i = m - 1; i >= 0; i--) {
+      const row = i * cols;
+      const nextRow = (i + 1) * cols;
+      const tokI = pLow[i];
+      for (let j = n - 1; j >= 0; j--) {
+        if (tokI === cLow[j]) {
+          dp[row + j] = dp[nextRow + j + 1] + 1;
+        } else {
+          const a = dp[nextRow + j];
+          const b = dp[row + j + 1];
+          dp[row + j] = a >= b ? a : b;
+        }
+      }
+    }
+    let i = 0;
+    let j = 0;
+    while (i < m && j < n) {
+      if (pLow[i] === cLow[j]) {
+        newOwners[j] = prevOwners[i];
+        i++;
+        j++;
+      } else if (dp[(i + 1) * cols + j] >= dp[i * cols + j + 1]) {
+        i++;
+      } else {
+        j++;
+      }
+    }
+    return newOwners;
+  }
+
+  // Fallback for extraordinarily long articles (>1,250 tokens): 4-gram shingle anchor matching
+  const shingleMap = new Map<string, number[]>();
+  for (let i = 0; i + 3 < m; i++) {
+    const key = `${pLow[i]} ${pLow[i + 1]} ${pLow[i + 2]} ${pLow[i + 3]}`;
+    const arr = shingleMap.get(key);
+    if (arr) arr.push(i);
+    else shingleMap.set(key, [i]);
+  }
+  let lastPrev = 0;
+  for (let j = 0; j + 3 < n; j++) {
+    const key = `${cLow[j]} ${cLow[j + 1]} ${cLow[j + 2]} ${cLow[j + 3]}`;
+    const hits = shingleMap.get(key);
+    if (!hits) continue;
+    const matchIdx = hits.find((idx) => idx >= lastPrev) ?? hits[0];
+    for (let k = 0; k < 4; k++) newOwners[j + k] = prevOwners[matchIdx + k];
+    lastPrev = matchIdx;
+  }
+  return newOwners;
+}
+
 async function resolveConcordance(env: Env, instPath: string, normProv: string, targetStage: string): Promise<{ mapped: string; recitals: string[] }> {
   const conc = (await fetchCorpusJson(env, "concordance.json")) || { concordances: {} };
   const list = (conc.concordances || {})[instPath] || [];
@@ -268,7 +367,8 @@ async function fetchProvisionAtStage(env: Env, inst: any, ver: any, normProv: st
     const t = await fetchCorpusText(env, `versions/${inst.path}/${ver.stage}/${cand}`);
     if (t) return { text: t, resolved: cand, recitals };
   }
-  if (ver === inst.versions[inst.versions.length - 1] || ver.source_type === "regulatory_supplement") {
+  const latestNonPatch = resolveStage(inst, undefined);
+  if (ver === latestNonPatch || ver === inst.versions[inst.versions.length - 1] || ver.source_type === "regulatory_supplement") {
     for (const cand of Array.from(new Set([mapped, normProv]))) {
       const t = await fetchCorpusText(env, `${inst.path}/${cand}`);
       if (t) return { text: t, resolved: cand, recitals };
@@ -280,7 +380,8 @@ async function fetchProvisionAtStage(env: Env, inst: any, ver: any, normProv: st
 function resolveStage(inst: any, asOf?: string): any {
   const versions = inst.versions || [];
   if (!asOf || ["latest", "head", "current"].includes(asOf.trim().toLowerCase())) {
-    return versions[versions.length - 1];
+    const nonPatch = versions.filter((v: any) => !v.patch_mode);
+    return nonPatch.length ? nonPatch[nonPatch.length - 1] : versions[versions.length - 1];
   }
   const q = asOf.trim().toLowerCase();
   const direct = versions.find(
@@ -335,6 +436,8 @@ async function checkApplicability(env: Env, args: Record<string, any>): Promise<
   let status = "ENFORCEABLE";
   if (rule.revoked_date && asOf >= rule.revoked_date) status = "REVOKED";
   else if (rule.status_override === "OPEN_FOR_SIGNATURE_PENDING_40_RATIFICATIONS") status = "NOT_YET_IN_FORCE_PENDING_RATIFICATIONS";
+  else if (rule.status_override === "PENDING_LEGISLATION_NOT_YET_ENACTED") status = "PENDING_LEGISLATION_NOT_YET_ENACTED";
+  else if (["VOLUNTARY_GOVERNANCE_FRAMEWORK", "VOLUNTARY_CERTIFIABLE_STANDARD"].includes(rule.status_override)) status = rule.status_override;
   else if (rule.entry_into_application && asOf < rule.entry_into_application) status = "IN_FORCE_NOT_YET_APPLICABLE";
   else if (placed && rule.legacy_cutoff_date && rule.legacy_transition_deadline && placed < rule.legacy_cutoff_date && asOf < rule.legacy_transition_deadline) {
     status = "LEGACY_TRANSITION_GRACE_PERIOD";
@@ -406,41 +509,86 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
     const inst = findInst(String(args.instrument_path || ""));
     if (!inst) return { error: `Unknown instrument_path: ${args.instrument_path}` };
     const normProv = normalizeProvision(String(args.provision || ""));
-    const clauseOwner = new Map<string, any>();
-    const stagesAnalyzed: any[] = [];
-    let latestClauses: string[] = [];
-    let latestVer: any = null;
+    const snapshots: Array<{ ver: any; lines: string[]; resolved: string }> = [];
 
     for (const ver of inst.versions || []) {
       if (ver.source_type === "regulatory_supplement" || ver.patch_mode) continue;
       const res = await fetchProvisionAtStage(env, inst, ver, normProv);
       if (!res.text) continue;
-      const clauses = extractBodyLines(res.text).flatMap((l) => l.split(/(?<=[.;:])\s+/).filter(Boolean));
-      stagesAnalyzed.push({ stage: ver.stage, date: ver.date, provision: res.resolved, author: `${ver.author_name} <${ver.author_email}>` });
-      for (const c of clauses) {
-        const key = c.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-        if (!clauseOwner.has(key)) {
-          clauseOwner.set(key, { stage: ver.stage, date: ver.date, symbol: ver.document_symbol, author: `${ver.author_name} <${ver.author_email}>` });
-        }
-      }
-      latestClauses = clauses;
-      latestVer = ver;
+      const lines = extractBodyLines(res.text);
+      if (lines.length) snapshots.push({ ver, lines, resolved: res.resolved });
     }
 
-    if (!latestVer) return { error: `Provision '${normProv}' not found across stages of '${inst.path}'.` };
-    const blame = latestClauses.map((clause, i) => {
-      const key = clause.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-      const own = clauseOwner.get(key) || { stage: latestVer.stage, date: latestVer.date, symbol: latestVer.document_symbol, author: `${latestVer.author_name} <${latestVer.author_email}>` };
+    if (!snapshots.length) return { error: `Provision '${normProv}' not found across stages of '${inst.path}'.` };
+
+    const metaOf = (ver: any) => ({
+      stage: ver.stage,
+      stage_label: ver.stage_label,
+      date: ver.date,
+      document_symbol: ver.document_symbol,
+      author: `${ver.author_name} <${ver.author_email}>`
+    });
+
+    let prevTokens = tokenizeBlame(snapshots[0].lines.join(" "));
+    let prevOwners = new Array(prevTokens.length).fill(metaOf(snapshots[0].ver));
+
+    for (let s = 1; s < snapshots.length; s++) {
+      const curTokens = tokenizeBlame(snapshots[s].lines.join(" "));
+      const curMeta = metaOf(snapshots[s].ver);
+      prevOwners = alignTokenOwners(prevTokens, prevOwners, curTokens, curMeta);
+      prevTokens = curTokens;
+    }
+
+    const latest = snapshots[snapshots.length - 1];
+    const latestClauses = latest.lines.flatMap((l) => l.split(/(?<=[.;:])\s+/).filter(Boolean));
+    let cursor = 0;
+    const blame = latestClauses.map((clause, idx) => {
+      const cToks = tokenizeBlame(clause);
+      const slice = prevOwners.slice(cursor, cursor + cToks.length);
+      cursor += cToks.length;
+      const owners = slice.length ? slice : [metaOf(latest.ver)];
+
+      const counts = new Map<string, { meta: any; count: number }>();
+      for (const o of owners) {
+        const k = `${o.author} [${o.stage}@${o.date}]`;
+        const prev = counts.get(k);
+        if (prev) prev.count++;
+        else counts.set(k, { meta: o, count: 1 });
+      }
+      const sorted = Array.from(counts.values()).sort((a, b) => b.count - a.count);
+      const dom = sorted[0].meta;
+      const total = Math.max(1, owners.length);
+
       return {
-        clause_number: i + 1,
-        primary_institutional_author: own.author,
-        introduced_in_stage: own.stage,
-        introduced_on_date: own.date,
-        document_symbol: own.symbol,
+        clause_number: idx + 1,
+        primary_institutional_author: dom.author,
+        introduced_in_stage: dom.stage,
+        introduced_on_date: dom.date,
+        document_symbol: dom.document_symbol,
+        contributors: sorted.map((s) => ({
+          institutional_author: s.meta.author,
+          stage: s.meta.stage,
+          date: s.meta.date,
+          token_share_pct: Number(((100 * s.count) / total).toFixed(1))
+        })),
         text: clause
       };
     });
-    return { instrument_path: inst.path, provision: normProv, stages_analyzed: stagesAnalyzed, blame };
+
+    return {
+      instrument_path: inst.path,
+      provision: normProv,
+      attribution_algorithm: "sequential_token_lcs_concordance_v3",
+      latest_stage: latest.ver.stage,
+      latest_date: latest.ver.date,
+      stages_analyzed: snapshots.map((s) => ({
+        stage: s.ver.stage,
+        date: s.ver.date,
+        provision: s.resolved,
+        author: `${s.ver.author_name} <${s.ver.author_email}>`
+      })),
+      blame
+    };
   }
 
   if (name === "check_applicability") {
@@ -457,12 +605,16 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
       [/NIS\s*2|Directive\s*\(EU\)\s*2022\/2555/gi, "eu/cyber/nis2"],
       [/\bDORA\b|Regulation\s*\(EU\)\s*2022\/2554/gi, "eu/cyber/dora"],
       [/CETS\s*(?:No\.?\s*)?225|CoE\s+AI\s+Convention/gi, "coe/ai-convention"],
-      [/Additional\s+Protocol\s+I|\bAP\s*I\b|Geneva\s+Conventions?/gi, "ihl/geneva-conventions"]
+      [/Additional\s+Protocol\s+II|\bAP\s*II\b/gi, "ihl/additional-protocol-ii"],
+      [/Additional\s+Protocol\s+I\b|\bAP\s*I\b|Geneva\s+Conventions?/gi, "ihl/geneva-conventions"],
+      [/UN\s+Cybercrime\s+Convention|Hanoi\s+Convention|A\/RES\/79\/243/gi, "un/cybercrime-convention"],
+      [/Budapest\s+Convention|ETS\s*(?:No\.?\s*)?185/gi, "coe/budapest-convention"]
     ];
 
     const checks: any[] = [];
     const seen = new Set<string>();
     const warnings: string[] = [];
+    const fetchedForQuotes: Array<{ label: string; text: string }> = [];
 
     for (const sent of draft.split(/(?<=[.!?\n])\s+/)) {
       const anchors: Array<{ idx: number; path: string; label: string }> = [];
@@ -486,7 +638,7 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
         const inst = findInst(anc.path);
         let text: string | null = null;
         if (inst) {
-          const latest = inst.versions[inst.versions.length - 1];
+          const latest = resolveStage(inst, undefined);
           text = (await fetchProvisionAtStage(env, inst, latest, normProv)).text;
           if (!text && anc.path === "eu/ai-act") {
             text = (await fetchProvisionAtStage(env, inst, resolveStage(inst, "official_journal_final"), normProv)).text;
@@ -494,6 +646,7 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
         }
         const bitemp = await checkApplicability(env, { instrument_path: anc.path, provision: normProv, as_of_date: asOf });
         const verdict = !text ? "NOT_IN_CORPUS_OR_NONEXISTENT" : bitemp.legal_status === "REVOKED" ? "REVOKED" : "VERIFIED";
+        if (text) fetchedForQuotes.push({ label: `${anc.path}/${normProv}`, text });
         checks.push({ citation_match: `${anc.label} ${am[0]}`, instrument_path: anc.path, provision: normProv, verdict, bitemporal_status: bitemp.legal_status });
       }
     }
@@ -503,6 +656,28 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
       checks.push({ citation_match: "Executive Order 14110", instrument_path: "national/us/nist-ai-rmf", provision: "eo-14110", verdict: "REVOKED_STATUTE_CITED_AS_ACTIVE", bitemporal_status: "REVOKED" });
     }
 
+    if (/PL\s*2338(?:\/2023)?/i.test(draft) && /\b(?:enacted|in\s+force|currently\s+enforceable)\b/i.test(draft) && !/pending|bill|not\s+yet\s+enacted|chamber\s+of\s+deputies|review/i.test(draft)) {
+      warnings.push("BITEMPORAL STATUS WARNING: Brazil PL 2338/2023 remains pending in the Chamber of Deputies Special Committee — it is NOT YET ENACTED.");
+    }
+
+    const quoteChecks: any[] = [];
+    for (const qm of draft.matchAll(/"([^"]{30,400})"/g)) {
+      const q = qm[1].replace(/\s+/g, " ").trim();
+      const qLow = q.toLowerCase();
+      let matched: string | null = null;
+      for (const src of fetchedForQuotes) {
+        if (src.text.replace(/\s+/g, " ").toLowerCase().includes(qLow)) {
+          matched = src.label;
+          break;
+        }
+      }
+      quoteChecks.push({
+        quote_excerpt: q.length > 120 ? q.slice(0, 120) + "..." : q,
+        verdict: matched ? "EXACT_MATCH" : (fetchedForQuotes.length ? "UNVERIFIED_OR_PARAPHRASED" : "NO_CITED_PROVISION_TO_CHECK"),
+        matched_source: matched
+      });
+    }
+
     const failed = checks.filter((c) => ["NOT_IN_CORPUS_OR_NONEXISTENT", "REVOKED_STATUTE_CITED_AS_ACTIVE"].includes(c.verdict));
     return {
       aba_formal_opinion_512_audit: !failed.length && !warnings.length ? "PASS" : "REQUIRES_ATTORNEY_CORRECTION",
@@ -510,14 +685,21 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
       citations_checked: checks.length,
       citations_failed: failed.length,
       warnings,
-      citation_checks: checks
+      citation_checks: checks,
+      quote_checks: quoteChecks
     };
   }
 
   if (name === "search_corpus") {
     const bm25 = await fetchCorpusJson(env, "bm25-index.json");
     if (!bm25) return { error: "bm25-index.json unavailable" };
-    const terms = Array.from(new Set((String(args.query || "").toLowerCase().match(/[a-z0-9]{2,}/g) || []).map(normalizeToken)));
+    const raw = (String(args.query || "").toLowerCase().match(/[a-z0-9]{2,}/g) || []).map(normalizeToken);
+    const expanded: string[] = [];
+    for (const t of raw) {
+      expanded.push(t);
+      if (LEGAL_SYNONYMS[t]) expanded.push(...LEGAL_SYNONYMS[t]);
+    }
+    const terms = Array.from(new Set(expanded));
     const jf = args.jurisdiction ? String(args.jurisdiction).toLowerCase() : null;
     const scores: Record<number, number> = {};
     const avgdl = bm25.avgdl || 100;
@@ -533,7 +715,7 @@ async function executeTool(env: Env, name: string, args: Record<string, any>): P
       }
     }
     const top = Object.entries(scores).sort((a, b) => b[1] - a[1]).slice(0, 20).map(([id, sc]) => ({ bm25_score: Number(sc.toFixed(3)), ...bm25.docs[Number(id)] }));
-    return { query: args.query, engine: "Edge-BM25+UK_US_Norm", match_count: Object.keys(scores).length, results: top };
+    return { query: args.query, engine: "Edge-BM25+UK_US_Norm_v3", match_count: Object.keys(scores).length, results: top };
   }
 
   if (name === "get_citation_graph") {
@@ -574,9 +756,10 @@ export default {
       return new Response(
         JSON.stringify({
           service: "lex-machina-edge-mcp",
-          version: "2.1.0",
+          version: "3.0.0",
           transport: "streamable-http",
           tools_count: TOOLS_SPEC.length,
+          prompts_count: PROMPTS_SPEC.length,
           zero_data_retention: true,
           corpus: `${env.LEX_MACHINA_REPO || DEFAULT_REPO}@${env.LEX_MACHINA_BRANCH || DEFAULT_BRANCH}`
         }),
@@ -596,7 +779,7 @@ export default {
         result = {
           protocolVersion: "2025-03-26",
           capabilities: { tools: {}, resources: {}, prompts: {} },
-          serverInfo: { name: "lex-machina", version: "2.1.0" }
+          serverInfo: { name: "lex-machina", version: "3.0.0" }
         };
       } else if (body.method === "tools/list") {
         result = { tools: TOOLS_SPEC };
@@ -633,7 +816,9 @@ export default {
             ? `Audit AI system (${pargs.system_description || ""}) as of ${pargs.deployment_date || "2026-11-23"} using get_provision, check_applicability (Digital Omnibus 2026/1744), and verify_citations.`
             : pname === "travaux_redline"
             ? `Perform CJEU travaux preparatoires analysis on ${pargs.instrument_path || "eu/ai-act"} ${pargs.provision || "articles/article-005.md"} using blame_provision, diff_provisions, get_citation_graph, and verify_citations.`
-            : `Perform an Additional Protocol I Article 36 & UN CCW LAWS legal weapons review on ${pargs.weapons_system_description || ""} using get_provision and verify_citations.`;
+            : pname === "cjeu_precedent_brief"
+            ? `Synthesize binding CJEU case law (SCHUFA C-634/21, Schrems II C-311/18, Meta C-252/21, La Quadrature du Net C-511/18) for: ${pargs.legal_issue || ""} using search_corpus, get_provision, get_citation_graph, and verify_citations.`
+            : `Perform an Additional Protocol I Article 36, ICJ Nuclear Weapons Opinion & UN CCW LAWS legal weapons review on ${pargs.weapons_system_description || ""} using get_provision and verify_citations.`;
         result = { messages: [{ role: "user", content: { type: "text", text: promptText } }] };
       } else {
         return new Response(

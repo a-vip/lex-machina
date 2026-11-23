@@ -62,6 +62,13 @@ LEGAL_SYNONYMS: dict[str, list[str]] = {
     "traiga": ["texas", "responsible", "governance"],
     "omnibus": ["2026", "1744", "postponed", "december", "2027"],
     "ihl": ["humanitarian", "geneva", "protocol", "armed", "conflict"],
+    "schufa": ["automated", "decision", "scoring", "article", "22", "634"],
+    "schrems": ["transfer", "adequacy", "surveillance", "standard", "contractual"],
+    "cjeu": ["court", "justice", "preliminary", "ruling", "operative"],
+    "icj": ["international", "court", "justice", "martens", "intransgressible"],
+    "duaa": ["data", "use", "access", "2025", "automated"],
+    "imda": ["singapore", "agentic", "governance", "framework"],
+    "iso42001": ["42001", "management", "system", "aims"],
 }
 
 

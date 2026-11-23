@@ -62,17 +62,18 @@ jobs:
           echo "--- Chronological Institutional Commit Graph on refs/heads/corpus ---"
           git log refs/heads/corpus --pretty=format:"%h | %ad | %an <%ae> | %s" --date=short
 
-      - name: Update and push pipeline-cache orphan branch (.json.gz blobs)
+      - name: Update and push pipeline-cache orphan branch (pruned v7 .json.gz blobs)
         run: |
           CACHE_WORKTREE="/tmp/cache-repo"
           mkdir -p "$CACHE_WORKTREE"
-          cp -r /tmp/pipeline-cache/*.json.gz "$CACHE_WORKTREE/" 2>/dev/null || true
+          # Prune legacy v1-v6 cache files; keep only current v7 schema payloads
+          cp -r /tmp/pipeline-cache/*__v7.json.gz "$CACHE_WORKTREE/" 2>/dev/null || true
           pushd "$CACHE_WORKTREE"
           git init -b pipeline-cache
           git config user.name "Lex Machina Cache Bot"
           git config user.email "cache@lex-machina.org"
           git add -A
-          git commit --allow-empty -m "Update compressed .json.gz ingestion cache ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git commit --allow-empty -m "Update pruned v7 .json.gz ingestion cache ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
           git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push --force origin refs/heads/pipeline-cache:refs/heads/pipeline-cache
           popd

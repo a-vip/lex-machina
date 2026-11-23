@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lex-machina-mcp"
-version = "2.0.0"
-description = "Stateless bitemporal legal-informatics Git corpus & deterministic citation-verification MCP server for AI, Cyber, and International Humanitarian Law"
+version = "3.0.0"
+description = "Stateless bitemporal legal-informatics Git corpus, binding CJEU/ICJ case law & deterministic citation-verification MCP server for AI, Cyber, and International Humanitarian Law"
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [

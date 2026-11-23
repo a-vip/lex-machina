@@ -50,14 +50,14 @@ jobs:
         run: |
           git config user.name "Lex Machina Eval Bot"
           git config user.email "evals@lex-machina.org"
-          git fetch --depth=1 origin refs/heads/corpus:refs/heads/corpus
-          git worktree add /tmp/corpus-eval refs/heads/corpus
+          git fetch --depth=1 origin refs/heads/corpus:refs/remotes/origin/corpus
+          git worktree add -B corpus /tmp/corpus-eval refs/remotes/origin/corpus
           cp /tmp/eval-scorecard.json /tmp/corpus-eval/eval-scorecard.json
           cp /tmp/EVAL_REPORT.md /tmp/corpus-eval/EVAL_REPORT.md
           pushd /tmp/corpus-eval
           git add eval-scorecard.json EVAL_REPORT.md
           if ! git diff --cached --quiet; then
-            git commit -m "[lexmachina-eval] Publish verified 120-case empirical benchmark scorecard"
-            git push origin refs/heads/corpus:refs/heads/corpus
+            git commit -m "[lexmachina-eval] Publish verified empirical benchmark scorecard"
+            git push origin HEAD:refs/heads/corpus
           fi
           popd

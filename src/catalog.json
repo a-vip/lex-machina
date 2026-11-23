@@ -1,8 +1,8 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "3.0.0",
   "repository": "a-vip/lex-machina",
-  "corpus_edition": "2026.11",
-  "description": "Authoritative, bitemporal, cryptographically hashed Git corpus of global AI regulation, cyber law, and international humanitarian law tracked with full primary-source ingestion and institutional git blame.",
+  "corpus_edition": "2026.11-v3",
+  "description": "Authoritative, bitemporal, cryptographically hashed Git corpus of global AI regulation, cyber law, full International Humanitarian Law (GC I-IV & AP I-II), national AI frameworks across 5 continents, ISO/IEC 42001 crosswalks, and binding CJEU/ICJ case law with institutional git blame.",
   "instruments": [
     {
       "id": "eu-ai-act",
@@ -122,29 +122,37 @@
         },
         {
           "stage": "commission_prohibited_guidelines_2025",
-          "stage_label": "Commission Guidelines on Prohibited AI Practices & AI Definition",
+          "stage_label": "Commission Guidelines on Prohibited AI Practices (C(2025) 884)",
           "date": "2025-02-04",
-          "document_symbol": "C(2025) 884 final / C(2025) 924 final",
+          "document_symbol": "C(2025) 884 final",
           "celex": "52025XC00884",
+          "patch_mode": true,
           "author_name": "European Commission AI Office",
           "author_email": "ai-office@ec.europa.eu",
-          "source_type": "regulatory_supplement",
-          "source_url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act",
-          "summary": "Binding-adjacent interpretive guidelines operationalizing Article 5 prohibitions and Article 3(1) AI system scope upon February 2, 2025 entry into application.",
-          "commit_subject": "[2025-02-04] Issue Commission Guidelines on Article 5 Prohibitions and AI Definition"
+          "source_type": "ec_guideline_pdf",
+          "source_url": "https://ec.europa.eu/newsroom/dae/redirection/document/112367",
+          "fallback_urls": [
+            "https://ec.europa.eu/newsroom/dae/redirection/document/112366"
+          ],
+          "summary": "Official European Commission Guidelines (C(2025) 884) operationalizing Article 5 prohibited AI practices upon February 2, 2025 entry into application.",
+          "commit_subject": "[2025-02-04] Issue Commission Guidelines on Article 5 Prohibitions (C(2025) 884)"
         },
         {
           "stage": "gpai_code_of_practice_2025",
-          "stage_label": "General-Purpose AI Code of Practice",
+          "stage_label": "Commission Guidelines on General-Purpose AI Model Obligations & Code of Practice",
           "date": "2025-07-10",
-          "document_symbol": "AI Office GPAI-CoP-2025",
+          "document_symbol": "AI Office GPAI Guidelines & CoP (2025)",
           "celex": "AIOFFICE_GPAI_COP_2025",
+          "patch_mode": true,
           "author_name": "European Commission AI Office",
           "author_email": "ai-office@ec.europa.eu",
-          "source_type": "regulatory_supplement",
-          "source_url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
-          "summary": "Multi-stakeholder Code of Practice detailing Transparency, Copyright, and Safety & Security chapters supporting Articles 53 and 55 enforcement effective August 2, 2025.",
-          "commit_subject": "[2025-07-10] Publish General-Purpose AI Code of Practice ahead of August 2025 GPAI Enforcement"
+          "source_type": "ec_guideline_pdf",
+          "source_url": "https://ec.europa.eu/newsroom/dae/redirection/document/118340",
+          "fallback_urls": [
+            "https://ec.europa.eu/newsroom/dae/redirection/document/118343"
+          ],
+          "summary": "Official European Commission AI Office Guidelines on the scope of obligations for providers of General-Purpose AI models supporting Articles 51-56 enforcement effective August 2, 2025.",
+          "commit_subject": "[2025-07-10] Publish Commission GPAI Model Guidelines & Code of Practice"
         },
         {
           "stage": "digital_omnibus_2026_1744",
@@ -485,6 +493,7 @@
           "stage_label": "EU Formal Approval & Ratification Milestone (2026)",
           "date": "2026-06-15",
           "document_symbol": "CETS No. 225 / EU Conclusion 2026",
+          "patch_mode": true,
           "author_name": "Council of the European Union",
           "author_email": "council@consilium.europa.eu",
           "source_type": "regulatory_supplement",
@@ -577,6 +586,7 @@
           "stage_label": "Hanoi Signing Ceremony & Open-for-Signature Window (2025-2026)",
           "date": "2025-10-25",
           "document_symbol": "UNTC XVIII-16 (Hanoi)",
+          "patch_mode": true,
           "author_name": "United Nations Office on Drugs and Crime (UNODC)",
           "author_email": "unodc@un.org",
           "source_type": "regulatory_supplement",
@@ -635,6 +645,7 @@
           "stage_label": "2024-2026 GGE Mandate Conclusion & CCW Seventh Review Conference",
           "date": "2026-09-18",
           "document_symbol": "CCW/CONF.VII/2026",
+          "patch_mode": true,
           "author_name": "CCW Seventh Review Conference",
           "author_email": "ccw@un.org",
           "source_type": "regulatory_supplement",
@@ -791,6 +802,7 @@
           "stage_label": "Revocation of EO 14110 & Deregulatory Federal Pivot (2025)",
           "date": "2025-01-20",
           "document_symbol": "EO 14148 / EO 14179 (2025)",
+          "patch_mode": true,
           "author_name": "Executive Office of the President of the United States",
           "author_email": "whitehouse@gov.us",
           "source_type": "regulatory_supplement",
@@ -805,7 +817,7 @@
       "path": "national/us/state-ai-laws",
       "jurisdiction": "national",
       "domain": "ai",
-      "title": "United States Binding State AI Statutes (Texas TRAIGA, Colorado AI Act, California TFAIA & AB 2013)",
+      "title": "United States Binding State AI Statutes (Texas TRAIGA HB 149, Colorado AI Act, California TFAIA & AB 2013)",
       "short_title": "US State Binding AI Laws",
       "type": "state_statute_collection",
       "celex": "US_STATE_AI_2024_2026",
@@ -828,27 +840,27 @@
       "versions": [
         {
           "stage": "colorado_sb24_205_2024",
-          "stage_label": "Colorado AI Act Initial Enactment (SB 24-205) & California AB 2013",
+          "stage_label": "Colorado AI Act Initial Enactment (SB 24-205 -> SB 26-189) & California AB 2013 / SB 53",
           "date": "2024-05-17",
-          "document_symbol": "CO SB 24-205 / CA AB 2013",
+          "document_symbol": "CO SB 24-205 / SB 26-189 / CA AB 2013 / SB 53",
           "author_name": "Colorado General Assembly & California Legislature",
           "author_email": "state-legislatures@us.gov",
           "source_type": "regulatory_supplement",
           "source_url": "https://leg.colorado.gov/bills/sb24-205",
-          "summary": "Enactment of Colorado's pioneering high-risk algorithmic discrimination duty-of-care statute (with NIST AI RMF rebuttable presumption) and California AB 2013 generative AI training-data disclosure law.",
-          "commit_subject": "[2024-05-17] Enact Colorado AI Act (SB 24-205) and California AB 2013 Baseline"
+          "summary": "Colorado's high-risk algorithmic discrimination statute (SB 24-205, subsequently refined via SB 26-189 following xAI v. Weiser) with NIST AI RMF / ISO 42001 safe harbor, plus California AB 2013 training-data transparency and SB 53 (TFAIA) frontier safety disclosures.",
+          "commit_subject": "[2024-05-17] Enact Colorado AI Act (SB 24-205) and California AB 2013 / SB 53 Baseline"
         },
         {
           "stage": "texas_traiga_effective_2026",
-          "stage_label": "Texas TRAIGA (HB 149) Entry into Force & California Frontier Transparency (SB 53 / TFAIA)",
+          "stage_label": "Texas Responsible Artificial Intelligence Governance Act (HB 149 Enrolled Text)",
           "date": "2026-01-01",
-          "document_symbol": "TX HB 149 (TRAIGA) / CA SB 53 / CO SB 26-189",
-          "author_name": "Texas, California & Colorado State Legislatures",
-          "author_email": "state-legislatures@us.gov",
-          "source_type": "regulatory_supplement",
-          "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB149",
-          "summary": "Entry into force of Texas Responsible Artificial Intelligence Governance Act (HB 149) on January 1, 2026 prohibiting manipulative self-harm encouragement, social scoring, and unlawful biometric tracking under exclusive Texas AG enforcement, alongside California frontier AI transparency statutes (SB 53/TFAIA) and Colorado timeline/scope adjustments (SB 26-189).",
-          "commit_subject": "[2026-01-01] Enforce Texas TRAIGA (HB 149), CA Frontier AI Transparency & CO Amendments"
+          "document_symbol": "TX 89(R) HB 149 (TRAIGA)",
+          "author_name": "Texas Legislature",
+          "author_email": "legislature@texas.gov",
+          "source_type": "us_tx_html",
+          "source_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149F.htm",
+          "summary": "Verbatim enrolled statutory text of the Texas Responsible Artificial Intelligence Governance Act (HB 149 / TRAIGA) effective January 1, 2026, codifying Business & Commerce Code Ch. 551/552 prohibitions, exclusive Texas AG enforcement, 60-day cure period, and AI regulatory sandbox.",
+          "commit_subject": "[2026-01-01] Enforce Texas TRAIGA (HB 149 Verbatim Enrolled Statute)"
         }
       ]
     },
@@ -879,9 +891,9 @@
           "document_symbol": "CAC Order No. 9",
           "author_name": "Cyberspace Administration of China (CAC)",
           "author_email": "cac@cac.gov.cn",
-          "source_type": "national_web",
+          "source_type": "cn_cac_html",
           "source_url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
-          "summary": "Algorithmic Recommendation Management Provisions establishing user opt-out rights, price-discrimination bans, and the mandatory Algorithm Filing Registry.",
+          "summary": "Verbatim official Chinese text of the Algorithmic Recommendation Management Provisions (35 articles) establishing user opt-out rights, price-discrimination bans, and the mandatory Algorithm Filing Registry.",
           "commit_subject": "[2022-01-04] Promulgate CAC Algorithmic Recommendation Provisions (Order No. 9)"
         },
         {
@@ -891,9 +903,9 @@
           "document_symbol": "CAC Order No. 12",
           "author_name": "Cyberspace Administration of China (CAC)",
           "author_email": "cac@cac.gov.cn",
-          "source_type": "national_web",
+          "source_type": "cn_cac_html",
           "source_url": "https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm",
-          "summary": "Deep Synthesis Management Provisions mandating biometric editing consent, implicit metadata markers, and conspicuous synthetic media labels.",
+          "summary": "Verbatim official Chinese text of the Deep Synthesis Management Provisions (25 articles) mandating biometric editing consent, implicit metadata markers, and conspicuous synthetic media labels.",
           "commit_subject": "[2022-11-25] Expand CAC Framework with Deep Synthesis Provisions (Order No. 12)"
         },
         {
@@ -903,22 +915,575 @@
           "document_symbol": "CAC Order No. 15",
           "author_name": "Cyberspace Administration of China (CAC)",
           "author_email": "cac@cac.gov.cn",
-          "source_type": "national_web",
+          "source_type": "cn_cac_html",
           "source_url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
-          "summary": "Joint seven-ministry Interim Measures governing public-facing generative AI, training data IP/personal data legitimacy, and R&D carve-outs.",
+          "summary": "Verbatim official Chinese text of the joint seven-ministry Interim Measures (24 articles) governing public-facing generative AI, training data IP/personal data legitimacy, and R&D carve-outs.",
           "commit_subject": "[2023-07-10] Enact CAC Interim Measures for Generative AI Services (Order No. 15)"
         },
         {
           "stage": "ai_labeling_measures_2025",
-          "stage_label": "Measures for the Labeling of AI-Generated Synthetic Content (2025)",
+          "stage_label": "Measures for the Labeling of AI-Generated Synthetic Content (2025 / GB 45438-2025)",
           "date": "2025-09-01",
-          "document_symbol": "CAC-MIIT-MPS-NRTA Labeling Measures (2025)",
+          "document_symbol": "CAC-MIIT-MPS-NRTA Labeling Measures (2025 / GB 45438-2025)",
           "author_name": "Cyberspace Administration of China (CAC)",
           "author_email": "cac@cac.gov.cn",
-          "source_type": "regulatory_supplement",
+          "source_type": "cn_cac_html",
           "source_url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
-          "summary": "Binding supply-chain-wide mandatory explicit user-facing labels and implicit metadata provenance standards (paired with mandatory national standard GB 45438-2025) effective September 1, 2025.",
-          "commit_subject": "[2025-09-01] Enforce China Mandatory AI-Generated Synthetic Content Labeling Measures"
+          "summary": "Verbatim official Chinese text of the 14-article binding mandatory AI-generated synthetic content explicit & implicit labeling measures (paired with GB 45438-2025) effective September 1, 2025.",
+          "commit_subject": "[2025-09-01] Enforce China Mandatory AI-Generated Synthetic Content Labeling Measures (GB 45438-2025)"
+        }
+      ]
+    },
+    {
+      "id": "ihl-geneva-conventions-i-iii",
+      "path": "ihl/geneva-conventions-i-iii",
+      "jurisdiction": "ihl",
+      "domain": "ihl",
+      "title": "Geneva Conventions I, II, and III of 12 August 1949 (Wounded, Shipwrecked & Prisoners of War)",
+      "short_title": "Geneva Conventions I–III (1949)",
+      "type": "treaty",
+      "celex": "IHL_GC_I_II_III_1949",
+      "status": "in_force",
+      "in_force_date": "1950-10-21",
+      "cross_references": [
+        {
+          "target": "ihl/geneva-conventions",
+          "relationship": "companion_treaty",
+          "provisions": ["Common Article 1", "Common Article 2", "Common Article 3"],
+          "note": "Completes full verbatim 1949 Geneva Convention coverage alongside Geneva Convention IV and Additional Protocol I."
+        },
+        {
+          "target": "caselaw/icj/nuclear-weapons-1996",
+          "relationship": "interpreted_by",
+          "provisions": ["Common Article 1", "Grave Breaches"],
+          "note": "Affirmed by ICJ as embodying intransgressible principles of customary international humanitarian law."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "geneva_convention_i_1949",
+          "stage_label": "Geneva Convention (I) — Wounded and Sick in Armed Forces in the Field",
+          "date": "1949-08-12",
+          "document_symbol": "75 UNTS 31 (GC I)",
+          "patch_mode": true,
+          "author_name": "Diplomatic Conference of Geneva",
+          "author_email": "ihl@icrc.org",
+          "source_type": "ihl_primary",
+          "source_url": "https://avalon.law.yale.edu/20th_century/geneva05.asp",
+          "summary": "Full verbatim 64-article text of the First Geneva Convention protecting wounded and sick armed forces personnel and medical units/transports.",
+          "commit_subject": "[1949-08-12] Adopt First Geneva Convention (GC I — 75 UNTS 31)"
+        },
+        {
+          "stage": "geneva_convention_ii_1949",
+          "stage_label": "Geneva Convention (II) — Wounded, Sick and Shipwrecked at Sea",
+          "date": "1949-08-12",
+          "document_symbol": "75 UNTS 85 (GC II)",
+          "patch_mode": true,
+          "author_name": "Diplomatic Conference of Geneva",
+          "author_email": "ihl@icrc.org",
+          "source_type": "ihl_primary",
+          "source_url": "https://avalon.law.yale.edu/20th_century/geneva06.asp",
+          "summary": "Full verbatim 63-article text of the Second Geneva Convention protecting wounded, sick, and shipwrecked members of armed forces at sea.",
+          "commit_subject": "[1949-08-12] Adopt Second Geneva Convention (GC II — 75 UNTS 85)"
+        },
+        {
+          "stage": "geneva_convention_iii_1949",
+          "stage_label": "Geneva Convention (III) — Treatment of Prisoners of War",
+          "date": "1949-08-12",
+          "document_symbol": "75 UNTS 135 (GC III)",
+          "author_name": "Diplomatic Conference of Geneva",
+          "author_email": "ihl@icrc.org",
+          "source_type": "ihl_primary",
+          "source_url": "https://avalon.law.yale.edu/20th_century/geneva03.asp",
+          "summary": "Full verbatim 143-article text of the Third Geneva Convention governing Prisoner of War status, humane treatment, interrogation limits, and grave breaches.",
+          "commit_subject": "[1949-08-12] Adopt Third Geneva Convention (GC III — 75 UNTS 135)"
+        }
+      ]
+    },
+    {
+      "id": "ihl-additional-protocol-ii",
+      "path": "ihl/additional-protocol-ii",
+      "jurisdiction": "ihl",
+      "domain": "ihl",
+      "title": "Protocol Additional to the Geneva Conventions of 12 August 1949 — Non-International Armed Conflicts (Additional Protocol II, 1977)",
+      "short_title": "Additional Protocol II (1977)",
+      "type": "treaty",
+      "celex": "IHL_AP_II_1977",
+      "status": "in_force",
+      "in_force_date": "1978-12-07",
+      "cross_references": [
+        {
+          "target": "ihl/geneva-conventions",
+          "relationship": "supplements",
+          "provisions": ["Article 1", "Article 4", "Article 13"],
+          "note": "Develops and supplements Common Article 3 for Non-International Armed Conflicts (NIAC), prohibiting attacks on civilians and terrorizing civilian populations."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "additional_protocol_ii_1977",
+          "stage_label": "Additional Protocol II (1977) — NIAC Protection of Victims",
+          "date": "1977-06-08",
+          "document_symbol": "1125 UNTS 609 (AP II)",
+          "author_name": "Diplomatic Conference on the Reaffirmation and Development of IHL (CDDH)",
+          "author_email": "ihl@icrc.org",
+          "source_type": "ihl_primary",
+          "source_url": "https://hrlibrary.umn.edu/instree/y6pagc.htm",
+          "summary": "Full verbatim 28-article text of Additional Protocol II establishing fundamental guarantees and civilian protection in non-international armed conflicts.",
+          "commit_subject": "[1977-06-08] Adopt Additional Protocol II Governing Non-International Armed Conflicts (1125 UNTS 609)"
+        }
+      ]
+    },
+    {
+      "id": "national-uk-ai-governance",
+      "path": "national/uk/ai-governance",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "title": "United Kingdom AI Governance: DSIT AI White Paper, UK AI Safety Institute (AISI) & Data (Use and Access) Act 2025 (c. 18)",
+      "short_title": "UK AI Governance & DUAA 2025",
+      "type": "national_framework",
+      "celex": "UK_AI_DUAA_2025",
+      "status": "in_force",
+      "in_force_date": "2025-06-19",
+      "cross_references": [
+        {
+          "target": "eu/gdpr",
+          "relationship": "diverges_from",
+          "provisions": ["UK GDPR Article 22", "DUAA 2025"],
+          "note": "UK Data (Use and Access) Act 2025 reforms automated decision-making rules relative to EU GDPR Article 22 and CJEU SCHUFA."
+        },
+        {
+          "target": "eu/ai-act",
+          "relationship": "comparative_framework",
+          "provisions": ["5 Cross-Sectoral Principles", "UK AISI"],
+          "note": "Sectoral principles-based regulatory model contrasted with EU AI Act horizontal risk tiers."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "uk_ai_white_paper_2023",
+          "stage_label": "UK DSIT Pro-Innovation Approach to AI Regulation White Paper",
+          "date": "2023-03-29",
+          "document_symbol": "CP 815 (UK DSIT)",
+          "author_name": "UK Department for Science, Innovation and Technology (DSIT)",
+          "author_email": "ai-regulation@dsit.gov.uk",
+          "source_type": "framework_pdf",
+          "source_url": "https://assets.publishing.service.gov.uk/media/64cb71a547915a00142a91c4/a-pro-innovation-approach-to-ai-regulation-amended-web-ready.pdf",
+          "summary": "Official UK White Paper establishing the five cross-sectoral AI principles (safety/security/robustness, transparency/explainability, fairness, accountability/governance, contestability/redress).",
+          "commit_subject": "[2023-03-29] Publish UK DSIT AI Regulation White Paper (CP 815)"
+        },
+        {
+          "stage": "uk_aisi_2023",
+          "stage_label": "Introducing the UK AI Safety Institute (AISI)",
+          "date": "2023-11-02",
+          "document_symbol": "UK DSIT AISI-2023",
+          "patch_mode": true,
+          "author_name": "UK AI Safety Institute (AISI)",
+          "author_email": "aisi@dsit.gov.uk",
+          "source_type": "framework_pdf",
+          "source_url": "https://assets.publishing.service.gov.uk/media/65422d3fa6e42b00146f882a/introducing-the-ai-safety-institute.pdf",
+          "summary": "Official founding policy paper establishing the UK AI Safety Institute (now AI Security Institute) for frontier model pre-deployment safety evaluations.",
+          "commit_subject": "[2023-11-02] Establish UK AI Safety Institute Mandate (DSIT)"
+        },
+        {
+          "stage": "duaa_2025_c18",
+          "stage_label": "UK Data (Use and Access) Act 2025 (2025 c. 18)",
+          "date": "2025-06-19",
+          "document_symbol": "UKPGA 2025 c. 18",
+          "patch_mode": true,
+          "author_name": "Parliament of the United Kingdom",
+          "author_email": "legislation@parliament.uk",
+          "source_type": "regulatory_supplement",
+          "source_url": "https://www.legislation.gov.uk/ukpga/2025/18/contents",
+          "summary": "Enacted UK statute reforming UK GDPR Article 22 automated decision-making safeguards, Smart Data powers, ICO structure, and AI/copyright statutory reporting duties.",
+          "commit_subject": "[2025-06-19] Enact UK Data (Use and Access) Act 2025 (2025 c. 18)"
+        }
+      ]
+    },
+    {
+      "id": "national-sg-agentic-ai-governance",
+      "path": "national/sg/agentic-ai-governance",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "title": "Singapore IMDA Model AI Governance Framework for Agentic AI (2026)",
+      "short_title": "Singapore Agentic AI Framework",
+      "type": "national_framework",
+      "celex": "SG_IMDA_AGENTIC_2026",
+      "status": "active_voluntary",
+      "in_force_date": "2026-01-22",
+      "cross_references": [
+        {
+          "target": "national/us/nist-ai-rmf",
+          "relationship": "harmonized_with",
+          "provisions": ["Tool-Use Boundaries", "Human Approval Checkpoints", "Agent Testing"],
+          "note": "World's first dedicated national governance standard specifically targeting tool-calling autonomous AI agents."
+        },
+        {
+          "target": "standards/iso-iec-42001",
+          "relationship": "aligned_with",
+          "provisions": ["Governance", "Risk Bounding", "Human Accountability"],
+          "note": "Maps agentic permissions, least-privilege sandboxing, and kill-switch governance onto AIMS controls."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "imda_mgf_agentic_ai_2026",
+          "stage_label": "IMDA Model AI Governance Framework for Agentic AI (2026 PDF)",
+          "date": "2026-01-22",
+          "document_symbol": "SG IMDA MGF-Agentic-2026",
+          "author_name": "Infocomm Media Development Authority of Singapore (IMDA)",
+          "author_email": "ai-governance@imda.gov.sg",
+          "source_type": "framework_pdf",
+          "source_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "summary": "Verbatim official IMDA PDF establishing four core governance pillars for autonomous AI agents: assessing/bounding risks upfront, making humans meaningfully accountable, implementing technical controls & process gates, and enabling end-user responsibility.",
+          "commit_subject": "[2026-01-22] Publish Singapore IMDA Model AI Governance Framework for Agentic AI"
+        }
+      ]
+    },
+    {
+      "id": "national-kr-ai-basic-act",
+      "path": "national/kr/ai-basic-act",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "title": "Republic of Korea Framework Act on the Development of AI and Creation of a Foundation for Trust (AI Basic Act, Act No. 20676)",
+      "short_title": "South Korea AI Basic Act (2026)",
+      "type": "national_statute",
+      "celex": "KR_ACT_20676_2025",
+      "status": "in_force",
+      "in_force_date": "2026-01-22",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "comparative_framework",
+          "provisions": ["High-Impact AI", "Generative AI Labeling", "Domestic Representative"],
+          "note": "Asia's first comprehensive binding AI statute (effective Jan 22, 2026), paralleling EU AI Act high-risk and transparency regimes with extraterritorial domestic-agent requirements."
+        },
+        {
+          "target": "standards/iso-iec-42001",
+          "relationship": "aligned_with",
+          "provisions": ["High-Impact Risk Management"],
+          "note": "Risk management and impact assessment rules interoperate with ISO/IEC 42001 controls."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "ai_basic_act_enacted_2025",
+          "stage_label": "South Korea AI Basic Act (Act No. 20676 & Presidential Decree No. 36053)",
+          "date": "2026-01-22",
+          "document_symbol": "KR Act No. 20676 / Decree No. 36053",
+          "author_name": "National Assembly of the Republic of Korea & MSIT",
+          "author_email": "ai-policy@msit.go.kr",
+          "source_type": "regulatory_supplement",
+          "source_url": "https://elaw.klri.re.kr",
+          "summary": "Entry into force on January 22, 2026 of South Korea's comprehensive AI Basic Act regulating High-Impact AI, generative AI advance disclosure/watermarking, frontier safety assessments, and extraterritorial domestic representatives.",
+          "commit_subject": "[2026-01-22] Enforce South Korea AI Basic Act (Act No. 20676)"
+        }
+      ]
+    },
+    {
+      "id": "national-jp-ai-promotion-act",
+      "path": "national/jp/ai-promotion-act",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "title": "Japan Act on Promotion of Research, Development, and Utilization of AI-Related Technologies (AI Promotion Act, Act No. 53 of 2025)",
+      "short_title": "Japan AI Promotion Act (2025)",
+      "type": "national_statute",
+      "celex": "JP_ACT_53_2025",
+      "status": "in_force",
+      "in_force_date": "2025-09-01",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "contrasts_with",
+          "provisions": ["Innovation-First Promotion", "Investigation Cooperation"],
+          "note": "Rejects EU-style upfront administrative fines in favor of AI Strategy Headquarters oversight, mandatory misuse-investigation cooperation, and public naming powers."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "ai_promotion_act_2025",
+          "stage_label": "Japan AI Promotion Act (Act No. 53 of 2025 — Fully Effective Sept 1, 2025)",
+          "date": "2025-09-01",
+          "document_symbol": "JP Act No. 53 of 2025",
+          "author_name": "National Diet of Japan",
+          "author_email": "ai-strategy@cas.go.jp",
+          "source_type": "regulatory_supplement",
+          "source_url": "https://www8.cao.go.jp/cstp/ai/index.html",
+          "summary": "Full entry into force on September 1, 2025 (promulgated June 4, 2025) establishing Japan's Prime Minister-led AI Strategy Headquarters, AI Basic Plan, and mandatory corporate cooperation with misuse investigations.",
+          "commit_subject": "[2025-09-01] Fully Enforce Japan AI Promotion Act (Act No. 53 of 2025)"
+        }
+      ]
+    },
+    {
+      "id": "national-br-ai-bill-pl2338",
+      "path": "national/br/ai-bill-pl2338",
+      "jurisdiction": "national",
+      "domain": "ai",
+      "title": "Brazil Artificial Intelligence Regulatory Framework Bill (PL 2338/2023)",
+      "short_title": "Brazil AI Bill (PL 2338/2023)",
+      "type": "pending_legislation",
+      "celex": "BR_PL_2338_2023",
+      "status": "pending_chamber_of_deputies_review",
+      "in_force_date": null,
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "modeled_on",
+          "provisions": ["Excessive Risk", "High Risk", "Copyright Remuneration", "SIA/ANPD"],
+          "note": "Latin America's flagship EU-inspired AI bill; approved by Federal Senate Dec 10, 2024 and pending Chamber of Deputies Special Committee (PL233823) vote."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "senate_approved_2024",
+          "stage_label": "Federal Senate Approved Text (Pending Chamber of Deputies Review 2025-2026)",
+          "date": "2024-12-10",
+          "document_symbol": "BR PL 2338/2023 (Senate Text)",
+          "author_name": "Federal Senate of Brazil",
+          "author_email": "senado@leg.br",
+          "source_type": "regulatory_supplement",
+          "source_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+          "summary": "Senate-approved risk-based AI framework establishing excessive-risk bans, algorithmic impact assessments, copyright remuneration for AI training, and the ANPD-coordinated SIA (NOT YET ENACTED).",
+          "commit_subject": "[2024-12-10] Approve Brazil AI Bill PL 2338/2023 in Federal Senate (Pending Chamber Vote)"
+        }
+      ]
+    },
+    {
+      "id": "standards-iso-iec-42001",
+      "path": "standards/iso-iec-42001",
+      "jurisdiction": "standards",
+      "domain": "ai",
+      "title": "ISO/IEC 42001:2023 — Information Technology — Artificial Intelligence Management System (AIMS) Crosswalk",
+      "short_title": "ISO/IEC 42001:2023 (AIMS)",
+      "type": "technical_standard_crosswalk",
+      "celex": "ISO_IEC_42001_2023",
+      "status": "active_international_standard",
+      "in_force_date": "2023-12-18",
+      "cross_references": [
+        {
+          "target": "eu/ai-act",
+          "relationship": "operationalizes",
+          "provisions": ["Article 9", "Article 17", "Annex IV"],
+          "note": "Provides certifiable management-system architecture aligned with EU AI Act Article 17 QMS and Article 9 Risk Management."
+        },
+        {
+          "target": "national/us/state-ai-laws",
+          "relationship": "statutory_safe_harbor_for",
+          "provisions": ["Colorado AI Act Reasonable Care"],
+          "note": "Explicitly recognized alongside NIST AI RMF as a rebuttable presumption of reasonable care in US state AI legislation."
+        },
+        {
+          "target": "national/us/nist-ai-rmf",
+          "relationship": "crosswalked_with",
+          "provisions": ["GOVERN", "MAP", "MEASURE", "MANAGE"],
+          "note": "Direct structural crosswalk between ISO 42001 Clauses 4-10 / Annex A and NIST AI RMF 1.0."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "iso_42001_2023_crosswalk",
+          "stage_label": "ISO/IEC 42001:2023 Global Statutory Crosswalk Record",
+          "date": "2023-12-18",
+          "document_symbol": "ISO/IEC 42001:2023",
+          "author_name": "ISO/IEC JTC 1/SC 42",
+          "author_email": "sc42@iso.org",
+          "source_type": "regulatory_supplement",
+          "source_url": "https://www.iso.org/standard/81230.html",
+          "summary": "Normative legal crosswalk linking ISO/IEC 42001:2023 AI Management System controls to EU AI Act Articles 9 & 17, NIST AI RMF, US State AI safe harbors, South Korea AI Basic Act, and Singapore Agentic AI MGF.",
+          "commit_subject": "[2023-12-18] Index ISO/IEC 42001:2023 AI Management System Global Statutory Crosswalk"
+        }
+      ]
+    },
+    {
+      "id": "caselaw-cjeu-schufa",
+      "path": "caselaw/cjeu/schufa-c-634-21",
+      "jurisdiction": "caselaw",
+      "domain": "ai",
+      "title": "CJEU Judgment in OQ v Land Hessen / SCHUFA Holding (Case C-634/21) — Automated Decision-Making & AI Scoring",
+      "short_title": "CJEU SCHUFA (C-634/21)",
+      "type": "judicial_precedent",
+      "celex": "62021CJ0634",
+      "eli": "http://data.europa.eu/eli/case/2021/634/oj",
+      "status": "binding_precedent",
+      "in_force_date": "2023-12-07",
+      "cross_references": [
+        {
+          "target": "eu/gdpr",
+          "relationship": "authoritatively_interprets",
+          "provisions": ["Article 22(1)", "Article 4(4)", "Recital 71"],
+          "note": "Holds that automated probability/credit scoring strongly relied upon by a downstream lender is itself a 'decision based solely on automated processing' under GDPR Article 22(1)."
+        },
+        {
+          "target": "eu/ai-act",
+          "relationship": "informs_enforcement_of",
+          "provisions": ["Article 6(3)", "Annex III Point 5(b)"],
+          "note": "Directly governs creditworthiness AI systems classified as high-risk under EU AI Act Annex III."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "judgment_final",
+          "stage_label": "CJEU First Chamber Judgment (ECLI:EU:C:2023:957)",
+          "date": "2023-12-07",
+          "document_symbol": "Case C-634/21 (SCHUFA)",
+          "celex": "62021CJ0634",
+          "author_name": "Court of Justice of the European Union (CJEU)",
+          "author_email": "cjeu@curia.europa.eu",
+          "source_type": "cjeu_cellar",
+          "source_url": "https://publications.europa.eu/resource/celex/62021CJ0634",
+          "summary": "Landmark binding CJEU judgment interpreting GDPR Article 22(1) to cover third-party algorithmic credit scoring where downstream decision-makers draw strongly on the probability score.",
+          "commit_subject": "[2023-12-07] Deliver CJEU Landmark Judgment in SCHUFA Holding (Case C-634/21)"
+        }
+      ]
+    },
+    {
+      "id": "caselaw-cjeu-schrems-ii",
+      "path": "caselaw/cjeu/schrems-ii-c-311-18",
+      "jurisdiction": "caselaw",
+      "domain": "privacy",
+      "title": "CJEU Grand Chamber Judgment in Data Protection Commissioner v Facebook Ireland & Maximillian Schrems (Schrems II, Case C-311/18)",
+      "short_title": "CJEU Schrems II (C-311/18)",
+      "type": "judicial_precedent",
+      "celex": "62018CJ0311",
+      "status": "binding_precedent",
+      "in_force_date": "2020-07-16",
+      "cross_references": [
+        {
+          "target": "eu/gdpr",
+          "relationship": "authoritatively_interprets",
+          "provisions": ["Article 44", "Article 45", "Article 46"],
+          "note": "Invalidated EU-US Privacy Shield and mandated Transfer Impact Assessments and supplementary safeguards for international AI/cloud data transfers under SCCs."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "judgment_final",
+          "stage_label": "CJEU Grand Chamber Judgment (ECLI:EU:C:2020:559)",
+          "date": "2020-07-16",
+          "document_symbol": "Case C-311/18 (Schrems II)",
+          "celex": "62018CJ0311",
+          "author_name": "Court of Justice of the European Union (CJEU Grand Chamber)",
+          "author_email": "cjeu@curia.europa.eu",
+          "source_type": "cjeu_cellar",
+          "source_url": "https://publications.europa.eu/resource/celex/62018CJ0311",
+          "summary": "Grand Chamber ruling invalidating Decision 2016/1250 (Privacy Shield) and defining strict essential-equivalence safeguards for Standard Contractual Clauses.",
+          "commit_subject": "[2020-07-16] Deliver CJEU Grand Chamber Judgment in Schrems II (Case C-311/18)"
+        }
+      ]
+    },
+    {
+      "id": "caselaw-cjeu-meta-bundeskartellamt",
+      "path": "caselaw/cjeu/meta-bundeskartellamt-c-252-21",
+      "jurisdiction": "caselaw",
+      "domain": "ai",
+      "title": "CJEU Grand Chamber Judgment in Meta Platforms v Bundeskartellamt (Case C-252/21) — Profiling, AI Personalization & Competition",
+      "short_title": "CJEU Meta v BKA (C-252/21)",
+      "type": "judicial_precedent",
+      "celex": "62021CJ0252",
+      "status": "binding_precedent",
+      "in_force_date": "2023-07-04",
+      "cross_references": [
+        {
+          "target": "eu/gdpr",
+          "relationship": "authoritatively_interprets",
+          "provisions": ["Article 6(1)", "Article 9(1)", "Article 9(2)(e)"],
+          "note": "Restricts reliance on contractual necessity or legitimate interest for off-platform AI behavioral profiling and confirms competition authorities may examine GDPR breaches."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "judgment_final",
+          "stage_label": "CJEU Grand Chamber Judgment (ECLI:EU:C:2023:537)",
+          "date": "2023-07-04",
+          "document_symbol": "Case C-252/21 (Meta Platforms)",
+          "celex": "62021CJ0252",
+          "author_name": "Court of Justice of the European Union (CJEU Grand Chamber)",
+          "author_email": "cjeu@curia.europa.eu",
+          "source_type": "cjeu_cellar",
+          "source_url": "https://publications.europa.eu/resource/celex/62021CJ0252",
+          "summary": "Grand Chamber ruling prohibiting dominant platforms from justifying personalized AI ad-profiling via contractual necessity and defining GDPR Article 9 sensitive-data limits.",
+          "commit_subject": "[2023-07-04] Deliver CJEU Grand Chamber Judgment in Meta v Bundeskartellamt (Case C-252/21)"
+        }
+      ]
+    },
+    {
+      "id": "caselaw-cjeu-la-quadrature-du-net",
+      "path": "caselaw/cjeu/la-quadrature-du-net-c-511-18",
+      "jurisdiction": "caselaw",
+      "domain": "cyber",
+      "title": "CJEU Grand Chamber Judgment in La Quadrature du Net (Joined Cases C-511/18, C-512/18 & C-520/18) — Bulk Data Retention & Automated Traffic Analysis",
+      "short_title": "CJEU La Quadrature du Net (C-511/18)",
+      "type": "judicial_precedent",
+      "celex": "62018CJ0511",
+      "status": "binding_precedent",
+      "in_force_date": "2020-10-06",
+      "cross_references": [
+        {
+          "target": "eu/gdpr",
+          "relationship": "authoritatively_interprets",
+          "provisions": ["Article 23", "ePrivacy Article 15(1)"],
+          "note": "Defines strict EU Charter proportionality boundaries for automated real-time algorithmic analysis of electronic communications metadata and national security retention."
+        },
+        {
+          "target": "eu/cyber/nis2",
+          "relationship": "informs_boundaries_of",
+          "provisions": ["Cybersecurity Telemetry", "National Security"],
+          "note": "Constrains indiscriminate surveillance while permitting targeted cyber-threat retention subject to independent judicial review."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "judgment_final",
+          "stage_label": "CJEU Grand Chamber Judgment (ECLI:EU:C:2020:791)",
+          "date": "2020-10-06",
+          "document_symbol": "Joined Cases C-511/18, C-512/18 & C-520/18",
+          "celex": "62018CJ0511",
+          "author_name": "Court of Justice of the European Union (CJEU Grand Chamber)",
+          "author_email": "cjeu@curia.europa.eu",
+          "source_type": "cjeu_cellar",
+          "source_url": "https://publications.europa.eu/resource/celex/62018CJ0511",
+          "summary": "Grand Chamber ruling strictly bounding bulk communications retention and automated algorithmic traffic analysis under EU fundamental rights law.",
+          "commit_subject": "[2020-10-06] Deliver CJEU Grand Chamber Judgment in La Quadrature du Net (C-511/18)"
+        }
+      ]
+    },
+    {
+      "id": "caselaw-icj-nuclear-weapons",
+      "path": "caselaw/icj/nuclear-weapons-1996",
+      "jurisdiction": "caselaw",
+      "domain": "ihl",
+      "title": "ICJ Advisory Opinion on the Legality of the Threat or Use of Nuclear Weapons (8 July 1996, UN Doc. A/51/218)",
+      "short_title": "ICJ Nuclear Weapons Opinion (1996)",
+      "type": "judicial_precedent",
+      "celex": "ICJ_1996_AO_95",
+      "status": "authoritative_icj_opinion",
+      "in_force_date": "1996-07-08",
+      "cross_references": [
+        {
+          "target": "ihl/geneva-conventions",
+          "relationship": "authoritatively_interprets",
+          "provisions": ["AP I Article 35", "AP I Article 36", "AP I Article 48", "Martens Clause"],
+          "note": "Establishes that distinction and unnecessary suffering are 'intransgressible principles of international customary law' and that IHL applies to all future weapons technologies (foundational precedent for LAWS reviews)."
+        },
+        {
+          "target": "un/ccw-laws",
+          "relationship": "foundational_jurisprudence_for",
+          "provisions": ["Guiding Principle (a)", "Martens Clause"],
+          "note": "Primary ICJ authority cited in UN CCW GGE LAWS deliberations confirming IHL covers novel autonomous weapons."
+        }
+      ],
+      "versions": [
+        {
+          "stage": "advisory_opinion_1996",
+          "stage_label": "ICJ Advisory Opinion (UN Doc. A/51/218 Full Official Text)",
+          "date": "1996-07-08",
+          "document_symbol": "ICJ Reports 1996, p. 226 (UN A/51/218)",
+          "author_name": "International Court of Justice (ICJ)",
+          "author_email": "icj@icj-cij.org",
+          "source_type": "icj_pdf",
+          "source_url": "https://documents.un.org/doc/undoc/gen/n96/276/39/pdf/n9627639.pdf",
+          "summary": "Verbatim official UN ODS transmission of the 1996 ICJ Advisory Opinion affirming intransgressible IHL principles of distinction, unnecessary suffering, and Martens Clause applicability to all emerging weapons technologies.",
+          "commit_subject": "[1996-07-08] Deliver ICJ Advisory Opinion on Nuclear Weapons & Intransgressible IHL Principles (A/51/218)"
         }
       ]
     }

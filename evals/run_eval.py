@@ -165,7 +165,7 @@ def main() -> None:
 
     pass_rate = passed_total / max(1, len(cases))
     scorecard = {
-        "benchmark": "LexMachina-Eval v2.0",
+        "benchmark": "LexMachina-Eval v3.0",
         "executed_utc": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_cases": len(cases),
         "passed": passed_total,
@@ -182,7 +182,7 @@ def main() -> None:
     }
 
     md_lines = [
-        "# LexMachina-Eval v2.0 — Empirical Verification Scorecard",
+        "# LexMachina-Eval v3.0 — Empirical Verification Scorecard",
         "",
         f"- **Executed (UTC)**: `{scorecard['executed_utc']}`",
         f"- **Overall Score**: **{scorecard['passed']} / {scorecard['total_cases']} ({scorecard['pass_rate_pct']}%)**",

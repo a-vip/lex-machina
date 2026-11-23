@@ -65,11 +65,15 @@ mcp = _MCPServer(
     "lex-machina",
     instructions=(
         "Authoritative bitemporal legal-informatics and deterministic citation-verification "
-        "MCP server covering global AI regulation (EU AI Act as amended by Digital Omnibus "
-        "2026/1744, GDPR, CoE CETS 225, US NIST AI RMF, US State AI Laws, China CAC incl. "
-        "2025 Labeling Measures), Cyber Law (EU CRA, NIS2, DORA, UN Hanoi Cybercrime "
-        "Convention, Budapest Convention), and International Humanitarian Law (1949 Geneva "
-        "Conventions, 1977 Additional Protocols, UN CCW LAWS)."
+        "MCP server (v3.0) covering global AI regulation (EU AI Act as amended by Digital Omnibus "
+        "2026/1744 + EC 2025 Guidelines, GDPR, CoE CETS 225, US NIST AI RMF, US State AI Laws incl. "
+        "verbatim Texas TRAIGA HB 149, China CAC verbatim statutes incl. 2025 Labeling Measures, "
+        "UK AI/DUAA 2025, South Korea AI Basic Act 2026, Japan AI Promotion Act 2025, Brazil PL 2338, "
+        "Singapore IMDA Agentic AI Framework 2026, ISO/IEC 42001), Cyber Law (EU CRA, NIS2, DORA, "
+        "UN Hanoi Cybercrime Convention, Budapest Convention), Full International Humanitarian Law "
+        "(1949 Geneva Conventions I–IV, 1977 Additional Protocols I & II, UN CCW LAWS), and Binding "
+        "Judicial Precedent (CJEU SCHUFA C-634/21, Schrems II C-311/18, Meta C-252/21, La Quadrature "
+        "du Net C-511/18, and ICJ 1996 Nuclear Weapons Advisory Opinion)."
     ),
 )
 
@@ -167,7 +171,8 @@ def _resolve_stage(instrument: dict[str, Any], as_of: str | None) -> dict[str, A
     if not versions:
         raise ValueError(f"Instrument '{instrument['path']}' has no versions.")
     if not as_of or as_of.strip().lower() in ("latest", "head", "current"):
-        return versions[-1]
+        non_patch = [v for v in versions if not v.get("patch_mode")]
+        return non_patch[-1] if non_patch else versions[-1]
 
     query = as_of.strip().lower()
     for ver in versions:
@@ -290,6 +295,13 @@ LEGAL_QUERY_SYNONYMS: dict[str, list[str]] = {
     "dora": ["digital", "operational", "resilience"],
     "traiga": ["texas", "responsible", "governance"],
     "omnibus": ["2026", "1744", "postponed"],
+    "schufa": ["automated", "decision", "scoring", "article", "22", "634"],
+    "schrems": ["transfer", "adequacy", "surveillance", "standard", "contractual"],
+    "cjeu": ["court", "justice", "preliminary", "ruling", "operative"],
+    "icj": ["international", "court", "justice", "martens", "intransgressible"],
+    "duaa": ["data", "use", "access", "2025", "automated"],
+    "imda": ["singapore", "agentic", "governance", "framework"],
+    "iso42001": ["42001", "management", "system", "aims"],
 }
 
 
@@ -462,12 +474,24 @@ def travaux_redline(instrument_path: str, provision: str) -> str:
 
 @mcp.prompt()
 def article_36_review(weapons_system_description: str) -> str:
-    """Additional Protocol I Article 36 & UN CCW GGE LAWS legal weapons review workflow."""
+    """Additional Protocol I Article 36, ICJ Nuclear Weapons Opinion & UN CCW GGE LAWS weapons review."""
     return (
         f"Perform an Article 36 Additional Protocol I legal weapons review for:\n\n{weapons_system_description}\n\n"
-        "1. Retrieve IHL Articles 35, 36, 48, 51, 57 from `ihl/geneva-conventions` via `get_provision`.\n"
-        "2. Retrieve UN CCW GGE 11 Guiding Principles and 2023/2026 consensus norms from `un/ccw-laws`.\n"
-        "3. Verify every statutory citation via `verify_citations`."
+        "1. Retrieve IHL Articles 35, 36, 48, 51, 57 from `ihl/geneva-conventions` and NIAC protections from `ihl/additional-protocol-ii`.\n"
+        "2. Retrieve the ICJ 1996 Nuclear Weapons Advisory Opinion (`caselaw/icj/nuclear-weapons-1996`) on intransgressible principles & the Martens Clause.\n"
+        "3. Retrieve UN CCW GGE 11 Guiding Principles and 2023/2026 consensus norms from `un/ccw-laws`.\n"
+        "4. Verify every statutory citation via `verify_citations`."
+    )
+
+
+@mcp.prompt()
+def cjeu_precedent_brief(legal_issue: str) -> str:
+    """Binding CJEU AI/Privacy/Cyber jurisprudence synthesis (SCHUFA, Schrems II, Meta, La Quadrature du Net)."""
+    return (
+        f"Synthesize binding CJEU case law and statutory provisions governing:\n\n{legal_issue}\n\n"
+        "1. Search `caselaw` via `search_corpus(..., jurisdiction='caselaw')` across SCHUFA (C-634/21), Schrems II (C-311/18), Meta v Bundeskartellamt (C-252/21), and La Quadrature du Net (C-511/18).\n"
+        "2. Retrieve exact Operative Parts via `get_provision` and linked statutes via `get_citation_graph`.\n"
+        "3. Audit all citations and quotes with `verify_citations` before delivering the brief."
     )
 
 
@@ -884,6 +908,10 @@ def check_applicability(
         explanation = f"Revoked on {rule['revoked_date']}. {explanation}"
     elif rule.get("status_override") == "OPEN_FOR_SIGNATURE_PENDING_40_RATIFICATIONS":
         status = "NOT_YET_IN_FORCE_PENDING_RATIFICATIONS"
+    elif rule.get("status_override") == "PENDING_LEGISLATION_NOT_YET_ENACTED":
+        status = "PENDING_LEGISLATION_NOT_YET_ENACTED"
+    elif rule.get("status_override") in ("VOLUNTARY_GOVERNANCE_FRAMEWORK", "VOLUNTARY_CERTIFIABLE_STANDARD"):
+        status = rule["status_override"]
     elif rule.get("entry_into_application"):
         app_date = rule["entry_into_application"]
         if query_date < app_date:
@@ -945,7 +973,10 @@ def verify_citations(
         (r"NIS\s*2|Directive\s*\(EU\)\s*2022/2555", "eu/cyber/nis2"),
         (r"\bDORA\b|Regulation\s*\(EU\)\s*2022/2554", "eu/cyber/dora"),
         (r"CETS\s*(?:No\.?\s*)?225|CoE\s+AI\s+Convention", "coe/ai-convention"),
-        (r"Additional\s+Protocol\s+I|\bAP\s*I\b|Geneva\s+Conventions?", "ihl/geneva-conventions"),
+        (r"Additional\s+Protocol\s+II|\bAP\s*II\b", "ihl/additional-protocol-ii"),
+        (r"Additional\s+Protocol\s+I\b|\bAP\s*I\b|Geneva\s+Conventions?", "ihl/geneva-conventions"),
+        (r"UN\s+Cybercrime\s+Convention|Hanoi\s+Convention|A/RES/79/243", "un/cybercrime-convention"),
+        (r"Budapest\s+Convention|ETS\s*(?:No\.?\s*)?185", "coe/budapest-convention"),
     ]
 
     citation_checks: list[dict[str, Any]] = []
@@ -978,7 +1009,7 @@ def verify_citations(
             seen_cites.add((inst_path, norm_prov))
 
             inst = _find_instrument(catalog, inst_path)
-            latest_ver = inst["versions"][-1] if inst else None
+            latest_ver = _resolve_stage(inst, None) if inst else None
             text = None
             if inst and latest_ver:
                 text, _ = _fetch_provision_at_stage(inst, latest_ver, norm_prov)
@@ -993,6 +1024,7 @@ def verify_citations(
                 verdict = "REVOKED"
             elif bitemp.get("legal_status") == "IN_FORCE_NOT_YET_APPLICABLE":
                 verdict = "VERIFIED_TEXT_NOT_YET_APPLICABLE"
+                fetched_texts_for_quotes.append((f"{inst_path}/{norm_prov}", text))
             else:
                 verdict = "VERIFIED"
                 fetched_texts_for_quotes.append((f"{inst_path}/{norm_prov}", text))
@@ -1021,6 +1053,13 @@ def verify_citations(
                 "bitemporal_status": "REVOKED",
                 "effective_application_date": "2023-10-30 (REVOKED 2025-01-20)",
             })
+
+    # Explicitly flag treating pending Brazil PL 2338/2023 as already enacted law
+    if re.search(r"PL\s*2338(?:/2023)?", draft_text, re.I):
+        if re.search(r"\b(?:enacted|in\s+force|currently\s+enforceable)\b", draft_text, re.I) and not re.search(r"pending|bill|not\s+yet\s+enacted|chamber\s+of\s+deputies|review", draft_text, re.I):
+            warnings.append(
+                "BITEMPORAL STATUS WARNING: Brazil PL 2338/2023 was approved by the Senate (Dec 2024) but remains PENDING in the Chamber of Deputies Special Committee — it is NOT YET ENACTED."
+            )
 
     # Verify any long verbatim quotes ("...") against retrieved corpus provisions
     quote_checks: list[dict[str, Any]] = []
